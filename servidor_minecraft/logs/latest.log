@@ -1,0 +1,281 @@
+[22:05:56] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[22:05:56] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[22:05:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:05:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/tpa-20250220c.jar'...
+[22:05:57] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/BasicHomes-1.9.6-RELEASE-1.21.8.jar'...
+[22:05:57] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[22:05:57] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/LoginSecurity-Spigot-3.3.0 (1).jar'...
+[22:05:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/tpa-20250220c.jar' in 1424ms.
+[22:05:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Invsee_v1.0.3.jar'...
+[22:05:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Invsee_v1.0.3.jar' in 283ms.
+[22:05:58] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/LoginSecurity-Spigot-3.3.0 (1).jar' in 1173ms.
+[22:05:59] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/BasicHomes-1.9.6-RELEASE-1.21.8.jar' in 1884ms.
+[22:06:01] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3365ms.
+[22:06:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[22:06:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - BasicHomes (1.9.6-RELEASE-1.21.8), Invsee_v1.0.3 (1.0), JustTPA (20250220c), LoginSecurity (3.3.0), SkinsRestorer (15.7.9)
+[22:06:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:06:11] [ServerMain/INFO]: Loaded 1407 recipes
+[22:06:11] [ServerMain/INFO]: Loaded 1520 advancements
+[22:06:11] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[22:06:12] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 907.7ms
+[22:06:12] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:06:12] [Server thread/INFO]: Loading properties
+[22:06:12] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[22:06:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:06:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:06:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:06:14] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:06:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:06:15] [Server thread/INFO]: Default game type: SURVIVAL
+[22:06:15] [Server thread/INFO]: Generating keypair
+[22:06:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:06:15] [Server thread/INFO]: Using epoll channel type
+[22:06:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:06:15] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[22:06:15] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:06:28] [Server thread/WARN]: Legacy plugin Invsee_v1.0.3 v1.0 does not specify an api-version.
+[22:06:28] [Server thread/INFO]: [Invsee_v1.0.3] Loading server plugin Invsee_v1.0.3 v1.0
+[22:06:28] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[22:06:28] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
+[22:06:28] [Server thread/INFO]: [BasicHomes] Loading server plugin BasicHomes v1.9.6-RELEASE-1.21.8
+[22:06:28] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
+[22:06:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:06:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
+[22:06:30] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[22:06:30] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:06:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:06:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:06:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:06:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:06:30] [Server thread/INFO]: Preparing level "world"
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.9
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: eb4ae0c
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     A new version (15.7.10) is available! Downloading update...
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:06:31] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[22:06:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:06:32] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:32] [Server thread/INFO]: Preparing spawn area: 2%
+[22:06:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 1124ms
+[22:06:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[22:06:32] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[22:06:33] [Server thread/INFO]: Preparing spawn area: 2%
+[22:06:33] [Server thread/INFO]: Preparing spawn area: 18%
+[22:06:33] [Server thread/INFO]: Preparing spawn area: 18%
+[22:06:34] [Server thread/INFO]: Time elapsed: 2435 ms
+[22:06:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:06:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:34] [Server thread/INFO]: Preparing spawn area: 10%
+[22:06:34] [Server thread/INFO]: Time elapsed: 774 ms
+[22:06:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:06:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:35] [Server thread/INFO]: Time elapsed: 242 ms
+[22:06:35] [Server thread/INFO]: [Invsee_v1.0.3] Enabling Invsee_v1.0.3 v1.0*
+[22:06:35] [Server thread/INFO]: [Invsee] Invsee v1.0.3 by TehCoderHD has been enabled successfully!
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 1: Initial
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 2: Add uuid mode
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 3: Fix inventories
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 4: Add name index
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[22:06:35] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[22:06:35] [Server thread/INFO]: [BasicHomes] Enabling BasicHomes v1.9.6-RELEASE-1.21.8
+[22:06:35] [Server thread/INFO]: [BH] Running migration V1...
+[22:06:35] [Server thread/INFO]: [BH] Success!
+[22:06:35] [Server thread/INFO]: [BH] Running migration V2...
+[22:06:35] [Server thread/INFO]: [BH] Success!
+[22:06:35] [Server thread/INFO]: [BH] Running migration V3...
+[22:06:35] [Server thread/INFO]: [BH] Success!
+[22:06:35] [Server thread/INFO]: [BH] Commands loaded !
+[22:06:35] [Server thread/INFO]: [BH] Events loaded !
+[22:06:35] [Server thread/INFO]: [BH] Metrics (bStats) successfully loaded !
+[22:06:35] [Server thread/INFO]: [BH] Checking for updates...
+[22:06:36] [Server thread/INFO]: [BH] An update is available: 1.9.7. Download it at https://www.curseforge.com/minecraft/bukkit-plugins/basichomes/files
+[22:06:36] [Server thread/INFO]: [BH] Plugin successfully loaded !
+[22:06:36] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
+[22:06:36] [Server thread/INFO]: [JustTPA] JustTPA initialized
+[22:06:36] [Server thread/INFO]: [JustTPA] bStats enabled
+[22:06:36] [Server thread/INFO]: [JustTPA] Checking for updates...
+[22:06:36] [Server thread/INFO]: [spark] Starting background profiler...
+[22:06:36] [Server thread/INFO]: Done preparing level "world" (6.095s)
+[22:06:36] [Server thread/INFO]: Running delayed init tasks
+[22:06:36] [Server thread/INFO]: Done (41.442s)! For help, type "help"
+[22:06:37] [Craft Scheduler Thread - 1 - JustTPA/WARN]: [JustTPA] Failed to check for updates
+[22:07:20] [Server thread/INFO]: Added Xautral to the whitelist
+[22:08:15] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[22:08:15] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[22:08:15] [Server thread/INFO]: Xautral joined the game
+[22:08:15] [Server thread/INFO]: Xautral[/127.115.99.248:49383] logged in with entity id 20 at ([world]5.5, 118.0, 10.5)
+[22:08:59] [User Authenticator #0/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[22:08:59] [Server thread/INFO]: Disconnecting _wdegw_ (/127.153.189.115:40771): You are not whitelisted on this server!
+[22:09:00] [Server thread/INFO]: _wdegw_ (/127.153.189.115:40771) lost connection: You are not whitelisted on this server!
+[22:09:04] [Server thread/INFO]: Made Xautral a server operator
+[22:09:09] [User Authenticator #0/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[22:09:09] [Server thread/INFO]: Disconnecting _wdegw_ (/127.153.189.115:39829): You are not whitelisted on this server!
+[22:09:09] [Server thread/INFO]: _wdegw_ (/127.153.189.115:39829) lost connection: You are not whitelisted on this server!
+[22:09:13] [User Authenticator #0/INFO]: UUID of player javimessiu is 40d8cc67-d866-3d98-9f8e-530c4e2cdb8f
+[22:09:13] [Server thread/INFO]: Disconnecting javimessiu (/127.87.130.205:41991): You are not whitelisted on this server!
+[22:09:13] [Server thread/INFO]: javimessiu (/127.87.130.205:41991) lost connection: You are not whitelisted on this server!
+[22:09:22] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:09:22] [Server thread/INFO]: Disconnecting NOW_POOL123 (/127.252.63.119:60371): You are not whitelisted on this server!
+[22:09:22] [Server thread/INFO]: NOW_POOL123 (/127.252.63.119:60371) lost connection: You are not whitelisted on this server!
+[22:09:24] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[22:09:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> q
+[22:09:27] [User Authenticator #0/INFO]: UUID of player IF_willygod142 is 3655c992-c7e1-34da-8a15-67ef522bbd8d
+[22:09:28] [Server thread/INFO]: Disconnecting IF_willygod142 (/127.210.4.211:49465): You are not whitelisted on this server!
+[22:09:28] [Server thread/INFO]: IF_willygod142 (/127.210.4.211:49465) lost connection: You are not whitelisted on this server!
+[22:09:28] [Server thread/INFO]: Xautral issued server command: /plugins
+[22:09:44] [User Authenticator #0/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[22:09:44] [Server thread/INFO]: Disconnecting _wdegw_ (/127.153.189.115:56447): You are not whitelisted on this server!
+[22:09:44] [Server thread/INFO]: _wdegw_ (/127.153.189.115:56447) lost connection: You are not whitelisted on this server!
+[22:09:53] [User Authenticator #0/INFO]: UUID of player goku_4765 is 011a3f8f-d438-3832-ad9f-bcaca251b065
+[22:09:53] [Server thread/INFO]: Disconnecting goku_4765 (/127.157.177.40:47773): You are not whitelisted on this server!
+[22:09:53] [Server thread/INFO]: goku_4765 (/127.157.177.40:47773) lost connection: You are not whitelisted on this server!
+[22:09:59] [User Authenticator #0/INFO]: UUID of player goku_4765 is 011a3f8f-d438-3832-ad9f-bcaca251b065
+[22:09:59] [Server thread/INFO]: Disconnecting goku_4765 (/127.157.177.40:42539): You are not whitelisted on this server!
+[22:09:59] [Server thread/INFO]: goku_4765 (/127.157.177.40:42539) lost connection: You are not whitelisted on this server!
+[22:10:01] [User Authenticator #0/INFO]: UUID of player goku_4765 is 011a3f8f-d438-3832-ad9f-bcaca251b065
+[22:10:01] [Server thread/INFO]: Disconnecting goku_4765 (/127.157.177.40:36145): You are not whitelisted on this server!
+[22:10:01] [Server thread/INFO]: goku_4765 (/127.157.177.40:36145) lost connection: You are not whitelisted on this server!
+[22:10:09] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:10:09] [Server thread/INFO]: Disconnecting NOW_POOL123 (/127.252.63.119:37857): You are not whitelisted on this server!
+[22:10:09] [Server thread/INFO]: NOW_POOL123 (/127.252.63.119:37857) lost connection: You are not whitelisted on this server!
+[22:10:13] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:10:13] [Server thread/INFO]: Disconnecting NOW_POOL123 (/127.252.63.119:48815): You are not whitelisted on this server!
+[22:10:13] [Server thread/INFO]: NOW_POOL123 (/127.252.63.119:48815) lost connection: You are not whitelisted on this server!
+[22:10:20] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:10:20] [Server thread/INFO]: Disconnecting NOW_POOL123 (/127.252.63.119:41775): You are not whitelisted on this server!
+[22:10:20] [Server thread/INFO]: NOW_POOL123 (/127.252.63.119:41775) lost connection: You are not whitelisted on this server!
+[22:10:21] [User Authenticator #0/INFO]: UUID of player javimessiu is 40d8cc67-d866-3d98-9f8e-530c4e2cdb8f
+[22:10:21] [Server thread/INFO]: Disconnecting javimessiu (/127.87.130.205:45891): You are not whitelisted on this server!
+[22:10:21] [Server thread/INFO]: javimessiu (/127.87.130.205:45891) lost connection: You are not whitelisted on this server!
+[22:10:28] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:10:28] [Server thread/INFO]: Disconnecting NOW_POOL123 (/127.252.63.119:38037): You are not whitelisted on this server!
+[22:10:28] [Server thread/INFO]: NOW_POOL123 (/127.252.63.119:38037) lost connection: You are not whitelisted on this server!
+[22:10:32] [User Authenticator #0/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[22:10:32] [Server thread/INFO]: Disconnecting _wdegw_ (/127.153.189.115:48699): You are not whitelisted on this server!
+[22:10:32] [Server thread/INFO]: _wdegw_ (/127.153.189.115:48699) lost connection: You are not whitelisted on this server!
+[22:10:38] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:10:38] [Server thread/INFO]: Disconnecting NOW_POOL123 (/127.252.63.119:53113): You are not whitelisted on this server!
+[22:10:38] [Server thread/INFO]: NOW_POOL123 (/127.252.63.119:53113) lost connection: You are not whitelisted on this server!
+[22:10:53] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:10:53] [Server thread/INFO]: Disconnecting NOW_POOL123 (/127.252.63.119:47995): You are not whitelisted on this server!
+[22:10:53] [Server thread/INFO]: NOW_POOL123 (/127.252.63.119:47995) lost connection: You are not whitelisted on this server!
+[22:11:12] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:11:12] [Server thread/INFO]: Disconnecting NOW_POOL123 (/127.252.63.119:46677): You are not whitelisted on this server!
+[22:11:12] [Server thread/INFO]: NOW_POOL123 (/127.252.63.119:46677) lost connection: You are not whitelisted on this server!
+[22:11:17] [User Authenticator #0/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[22:11:17] [Server thread/INFO]: Disconnecting _wdegw_ (/127.153.189.115:59697): You are not whitelisted on this server!
+[22:11:17] [Server thread/INFO]: _wdegw_ (/127.153.189.115:59697) lost connection: You are not whitelisted on this server!
+[22:11:19] [Server thread/INFO]: Xautral issued server command: /whitelist add javimessiu
+[22:11:19] [Server thread/INFO]: [Xautral: Added javimessiu to the whitelist]
+[22:11:23] [Server thread/INFO]: Xautral issued server command: /whitelist off
+[22:11:23] [Server thread/INFO]: [Xautral: Whitelist is now turned off]
+[22:11:31] [Server thread/INFO]: Xautral issued server command: /whitelist add ZXxAlanJosuxXZ
+[22:11:31] [Server thread/INFO]: [Xautral: Added ZXxAlanJosuxXZ to the whitelist]
+[22:11:32] [User Authenticator #0/INFO]: UUID of player IF_willygod142 is 3655c992-c7e1-34da-8a15-67ef522bbd8d
+[22:11:33] [Server thread/INFO]: IF_willygod142 joined the game
+[22:11:33] [Server thread/INFO]: IF_willygod142[/127.210.4.211:58271] logged in with entity id 641 at ([world]-5.5, 116.0, -8.5)
+[22:11:42] [User Authenticator #0/INFO]: UUID of player goku_4765 is 011a3f8f-d438-3832-ad9f-bcaca251b065
+[22:11:43] [Server thread/INFO]: goku_4765 joined the game
+[22:11:43] [Server thread/INFO]: goku_4765[/127.157.177.40:34727] logged in with entity id 655 at ([world]-0.5, 120.0, 3.5)
+[22:11:50] [User Authenticator #0/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[22:11:51] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:11:51] [Server thread/INFO]: _wdegw_ joined the game
+[22:11:51] [Server thread/INFO]: _wdegw_[/127.153.189.115:53417] logged in with entity id 659 at ([world]3.5, 122.0, -5.5)
+[22:11:53] [Server thread/INFO]: NOW_POOL123 joined the game
+[22:11:53] [Server thread/INFO]: NOW_POOL123[/127.252.63.119:53459] logged in with entity id 661 at ([world]-6.5, 104.0, 7.5)
+[22:11:58] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> yhola
+[22:12:03] [Async Chat Thread - #2/INFO]: [Not Secure] <IF_willygod142> holaaa
+[22:12:04] [User Authenticator #0/INFO]: UUID of player javimessiu is 40d8cc67-d866-3d98-9f8e-530c4e2cdb8f
+[22:12:04] [Server thread/INFO]: javimessiu joined the game
+[22:12:04] [Server thread/INFO]: javimessiu[/127.87.130.205:55553] logged in with entity id 687 at ([world]2.5, 118.0, 3.5)
+[22:12:08] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> holaa
+[22:12:09] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[22:12:09] [Server thread/INFO]: [Xautral: Added IF_willygod142 to the whitelist]
+[22:12:09] [Server thread/INFO]: [Xautral: Added goku_4765 to the whitelist]
+[22:12:09] [Server thread/INFO]: [Xautral: Added _wdegw_ to the whitelist]
+[22:12:09] [Server thread/INFO]: [Xautral: Added NOW_POOL123 to the whitelist]
+[22:12:14] [Server thread/INFO]: goku_4765 issued server command: /ragister goku_4765
+[22:12:21] [Async Chat Thread - #2/INFO]: [Not Secure] <IF_willygod142> se unen los changos
+[22:12:22] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> recuerden
+[22:12:25] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> pvp desactivado
+[22:12:32] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> se reihicieron las demas cosas
+[22:12:33] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> q buen spawn
+[22:12:35] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> ahi pvp?
+[22:12:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> y todo es vanilla hasta el dia 2
+[22:12:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ahi pvp?
+[22:12:42] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> calmense
+[22:12:45] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> se dice "hay pvp?"
+[22:12:56] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> bueno pues hay pvp?
+[22:12:59] [Async Chat Thread - #3/INFO]: [Not Secure] <NOW_POOL123> pero no se puede roper nada
+[22:12:59] [User Authenticator #0/INFO]: UUID of player kiks2025 is 986b6bb3-9e4d-301f-89a3-f10737128e3f
+[22:12:59] [Server thread/INFO]: kiks2025 joined the game
+[22:12:59] [Server thread/INFO]: kiks2025[/127.25.245.201:43083] logged in with entity id 784 at ([world]5.5, 118.0, 9.5)
+[22:13:12] [Async Chat Thread - #3/INFO]: [Not Secure] <IF_willygod142> tiene protecion de spawn
+[22:13:12] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> wdegw
+[22:13:15] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> dime
+[22:13:16] [Async Chat Thread - #3/INFO]: [Not Secure] <IF_willygod142> hola bro
+[22:13:19] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> donde estas
+[22:13:22] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> aca
+[22:13:22] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> XD
+[22:13:23] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> hola
+[22:13:28] [Server thread/INFO]: _wdegw_ issued server command: /skin Sapnap
+[22:13:31] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> XD
+[22:13:32] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> hola
+[22:13:33] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> XD
+[22:13:35] [Async Chat Thread - #3/INFO]: [Not Secure] <kiks2025> hola
+[22:13:36] [Async Chat Thread - #3/INFO]: [Not Secure] <IF_willygod142> recien se unio+
+[22:13:37] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> SORRY
+[22:13:42] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> XD
+[22:13:46] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> CALMAT
+[22:13:58] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> SPREEDUN
+[22:14:07] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[22:14:07] [Server thread/INFO]: [Xautral: Added kiks2025 to the whitelist]
+[22:14:09] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[22:14:10] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[22:14:10] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[22:14:10] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[22:14:10] [Server thread/INFO]: NOW_POOL123 has made the advancement [Stone Age]
+[22:14:11] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[22:14:18] [Server thread/INFO]: IF_willygod142 was slain by kiks2025
+[22:14:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> diganme por priv sus teams
+[22:14:23] [Server thread/INFO]: _wdegw_ has made the advancement [Stone Age]
+[22:14:26] [Server thread/INFO]: goku_4765 was doomed to fall by IF_willygod142
+[22:14:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> osea por msg
+[22:14:36] [Async Chat Thread - #3/INFO]: [Not Secure] <goku_4765> ya dejen de matar pues
+[22:14:39] [Async Chat Thread - #2/INFO]: [Not Secure] <IF_willygod142> mi madera
+[22:14:50] [Server thread/INFO]: _wdegw_ has made the advancement [Getting an Upgrade]
+[22:14:55] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> haber todos
+[22:14:57] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> q lag
+[22:14:58] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> el que golpee es puto
+[22:15:06] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> y de lag es tuyo
+[22:15:07] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> XD
+[22:15:09] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> porque me va a mi bien
+[22:15:10] [Server thread/INFO]: _wdegw_ was slain by NOW_POOL123
+[22:15:12] [Server thread/INFO]: NOW_POOL123 has made the advancement [Getting an Upgrade]
+[22:15:14] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> E
+[22:15:17] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> eee
+[22:15:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> NOW_POOL123 es gay
+[22:15:19] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> no q no se podia
+[22:15:19] [Async Chat Thread - #2/INFO]: [Not Secure] <kiks2025> hola algien que cre su team y me puedo yo unir
+[22:15:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> lero lero
+[22:15:23] [Server thread/INFO]: IF_willygod142 has made the advancement [Stone Age]
+[22:15:34] [Async Chat Thread - #2/INFO]: [Not Secure] <IF_willygod142> alguien me deja unirme atu tem
+[22:15:41] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> q gay
+[22:15:45] [Async Chat Thread - #2/INFO]: [Not Secure] <NOW_POOL123> perdon xd
+[22:15:56] [Server thread/INFO]: kiks2025 issued server command: /msg IF_willygod142 puedo ser tu team
+[22:16:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> habe

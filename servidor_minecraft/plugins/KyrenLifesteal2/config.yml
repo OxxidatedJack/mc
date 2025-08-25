@@ -1,0 +1,102 @@
+
+# Don't edit this file!
+# /lsconfig recipe
+# Use the command above in-game to edit the recipes
+
+
+HeartRecipe:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: DIAMOND_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: GOLD_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: DIAMOND_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: GOLD_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: GOLD_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: DIAMOND_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: GOLD_BLOCK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: DIAMOND_BLOCK
+ReviveBookRecipe:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: FERMENTED_SPIDER_EYE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Heart"}],"text":""}'
+      lore:
+        - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"Right
+      Click to consume and gain +1 heart"}],"text":""}'
+      custom-model-data: 223
+      PublicBukkitValues:
+        kyrenlifestealreloaded:heart: ''
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: NETHERITE_INGOT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: FERMENTED_SPIDER_EYE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Heart"}],"text":""}'
+      lore:
+        - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"Right
+      Click to consume and gain +1 heart"}],"text":""}'
+      custom-model-data: 223
+      PublicBukkitValues:
+        kyrenlifestealreloaded:heart: ''
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: NETHERITE_INGOT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: NETHER_STAR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: NETHERITE_INGOT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: FERMENTED_SPIDER_EYE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Heart"}],"text":""}'
+      lore:
+        - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"Right
+      Click to consume and gain +1 heart"}],"text":""}'
+      custom-model-data: 223
+      PublicBukkitValues:
+        kyrenlifestealreloaded:heart: ''
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: NETHERITE_INGOT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2865
+    type: FERMENTED_SPIDER_EYE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Heart"}],"text":""}'
+      lore:
+        - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"Right
+      Click to consume and gain +1 heart"}],"text":""}'
+      custom-model-data: 223
+      PublicBukkitValues:
+        kyrenlifestealreloaded:heart: ''

@@ -464,3 +464,154 @@ Reason: Intento de unirse a serivdores dentro del server - Perma-ban
 [22:26:19] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> no se ?
 [22:26:22] [Server thread/INFO]: [Reino willyif] IF_willygod142 has made the advancement [Isn't It Iron Pick]
 [22:26:25] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> coomo que no se w
+[22:26:45] [Server thread/INFO]: Xautral issued server command: /tp goku_4765
+[22:26:45] [Server thread/INFO]: [Xautral: Teleported Xautral to goku_4765]
+[22:26:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> goku es de ahuevo elegir
+[22:26:51] [Async Chat Thread - #5/INFO]: [Not Secure] <NOW_POOL123> fundelo
+[22:26:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> goku
+[22:26:56] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> goku
+[22:26:57] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> goku
+[22:26:58] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ta bien
+[22:27:01] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> leugo voy contigo
+[22:27:03] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> NOW_POOL123
+[22:27:04] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ya sabes
+[22:27:12] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> si
+[22:27:13] [Async Chat Thread - #5/INFO]: [Not Secure] <NOW_POOL123> si?
+[22:27:14] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> quieres hacer el tuyo (contestar 3 simples pregutnas) o unirte a uno (rezar que te acepten)
+[22:27:19] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ??
+[22:27:27] [Async Chat Thread - #5/INFO]: [Not Secure] <NOW_POOL123> quiero hacer uno con goku
+[22:27:27] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[22:27:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> vale
+[22:27:32] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> goku_4765 aceptas?
+[22:27:42] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> los dos
+[22:27:45] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ._.
+[22:27:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> te vas ban por graciosito
+[22:27:54] [Server thread/INFO]: Xautral issued server command: /kick goku_4765 xddd, vuelve a entrar
+[22:27:54] [Server thread/INFO]: goku_4765 lost connection: xddd, vuelve a entrar
+[22:27:54] [Server thread/INFO]: goku_4765 left the game
+[22:27:54] [Server thread/INFO]: [Xautral: Kicked goku_4765: xddd, vuelve a entrar]
+[22:27:57] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> XDD
+[22:28:00] [User Authenticator #2/INFO]: UUID of player goku_4765 is 011a3f8f-d438-3832-ad9f-bcaca251b065
+[22:28:01] [Server thread/INFO]: goku_4765 joined the game
+[22:28:01] [Server thread/INFO]: goku_4765[/127.157.177.40:55359] logged in with entity id 4610 at ([world]67.42451437251766, 28.0, 32.92270431989005)
+[22:28:06] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> naa bromita
+[22:28:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> haber NOW_POOL123
+[22:28:11] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
+[22:28:11] [Server thread/INFO]: NOW_POOL123 left the game
+[22:28:11] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> como se llamará
+[22:28:13] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> hdp
+[22:28:19] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> bueno goku_4765
+[22:28:23] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> como se llamará tu equipo?
+[22:28:34] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> nose la berdad
+[22:28:38] [Server thread/INFO]: [Reino Berserk] _wdegw_ has made the advancement [Suit Up]
+[22:28:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> okey
+[22:28:43] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> de que color
+[22:28:49] [Async Chat Thread - #4/INFO]: [Not Secure] <goku_4765> azul
+[22:28:53] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya hay azul
+[22:29:00] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> mira el tab
+[22:29:01] [Async Chat Thread - #4/INFO]: [Not Secure] <goku_4765> negro
+[22:29:05] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no se puede
+[22:29:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> por razones visuales
+[22:29:17] [Async Chat Thread - #4/INFO]: [Not Secure] <goku_4765> rojo
+[22:29:20] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> okey
+[22:29:23] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> oscuro o claro?
+[22:29:34] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:night_vision infinite 25 true
+[22:29:34] [Server thread/INFO]: [Xautral: Applied effect Night Vision to Xautral]
+[22:29:36] [Async Chat Thread - #4/INFO]: [Not Secure] <goku_4765> y mi amigo donde esta
+[22:29:39] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> se fue
+[22:29:40] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> xd
+[22:29:43] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> a
+[22:29:53] [Server thread/INFO]: [Reino Berserk] _wdegw_ was slain by [Reino willyif] IF_willygod142
+[22:29:54] [User Authenticator #3/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:29:54] [Server thread/INFO]: NOW_POOL123 (/127.252.63.119:50983) lost connection: Disconnected
+[22:29:58] [User Authenticator #3/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:29:59] [Server thread/INFO]: NOW_POOL123 joined the game
+[22:29:59] [Server thread/INFO]: NOW_POOL123[/127.252.63.119:58617] logged in with entity id 5026 at ([world]67.59566578794269, 28.0, 33.94547595440375)
+[22:29:59] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> a
+[22:30:05] [Server thread/INFO]: [Reino willyif] IF_willygod142 has made the advancement [Suit Up]
+[22:30:05] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> será reino o republica goku_4765?
+[22:30:17] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> listo
+[22:30:24] [Async Chat Thread - #4/INFO]: [Not Secure] <NOW_POOL123> volvi xd
+[22:30:38] [Server thread/INFO]: Xautral issued server command: /team add tukulor
+[22:30:38] [Server thread/INFO]: [Xautral: Created team [tukulor]]
+[22:30:44] [Server thread/INFO]: Xautral issued server command: /team modify tukulor prefix {"text":"[Reino Tukulor] ","color":"red"}
+[22:30:44] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> ya isiste el equipo?
+[22:30:49] [Server thread/INFO]: Xautral issued server command: /team join tukulor NOW_POOL123
+[22:30:49] [Server thread/INFO]: [Xautral: Added [Reino Tukulor] NOW_POOL123 to team [tukulor]]
+[22:30:53] [Server thread/INFO]: Xautral issued server command: /team join tukulor goku_4765
+[22:30:53] [Server thread/INFO]: [Xautral: Added [Reino Tukulor] goku_4765 to team [tukulor]]
+[22:30:55] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> listo
+[22:30:58] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> ok
+[22:30:58] [Async Chat Thread - #5/INFO]: [Not Secure] <IF_willygod142> me mate a _wdegw_
+[22:31:01] [Async Chat Thread - #5/INFO]: [Not Secure] <NOW_POOL123> eee ok
+[22:31:01] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> como goku_4765 no supo que nobmre responder
+[22:31:06] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> le puse un nombre de un imperio africano
+[22:31:07] [Async Chat Thread - #5/INFO]: [Not Secure] <IF_willygod142> me quede con su pechera
+[22:31:07] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> si estaba minando w
+[22:31:08] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> XD
+[22:31:20] [Async Chat Thread - #5/INFO]: [Not Secure] <NOW_POOL123> el hierro dame
+[22:31:22] [Async Chat Thread - #5/INFO]: [Not Secure] <IF_willygod142> te deje tus cosas por ahi
+[22:31:26] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> bueno
+[22:31:28] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[22:31:29] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> gracias
+[22:31:29] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> gente
+[22:31:30] [Async Chat Thread - #4/INFO]: [Not Secure] <IF_willygod142> menos la pechera
+[22:31:30] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> ok
+[22:31:33] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> ok
+[22:31:33] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> iré a invitar gente
+[22:31:36] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ahorita vengo
+[22:31:37] [Async Chat Thread - #5/INFO]: [Not Secure] <IF_willygod142> ok
+[22:31:40] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Acquire Hardware]
+[22:31:43] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Isn't It Iron Pick]
+[22:31:57] [Server thread/INFO]: [Reino Tukulor] goku_4765 has made the advancement [Acquire Hardware]
+[22:32:04] [Async Chat Thread - #4/INFO]: [Not Secure] <IF_willygod142> reino tukulor hacemos alianza?
+[22:32:20] [Server thread/INFO]: Xautral issued server command: /pardon kiks2025
+[22:32:20] [Server thread/INFO]: [Xautral: Unbanned kiks2025]
+[22:32:26] [Server thread/INFO]: Xautral issued server command: /whitelist add kiks2025
+[22:32:26] [Server thread/INFO]: [Xautral: Added kiks2025 to the whitelist]
+[22:32:28] [Async Chat Thread - #4/INFO]: [Not Secure] <NOW_POOL123> que dices goku
+[22:32:29] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> w me dejas aunq sea un stack de la comida? xd
+[22:32:36] [Async Chat Thread - #4/INFO]: [Not Secure] <IF_willygod142> no
+[22:32:41] [Async Chat Thread - #4/INFO]: [Not Secure] <goku_4765> que cosa
+[22:32:41] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> bueno
+[22:32:46] [Async Chat Thread - #4/INFO]: [Not Secure] <IF_willygod142> te mate
+[22:32:53] [Server thread/INFO]: [Reino Tukulor] goku_4765 has made the advancement [Isn't It Iron Pick]
+[22:33:12] [Async Chat Thread - #4/INFO]: [Not Secure] <NOW_POOL123> te tpas a mi goku
+[22:33:22] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> si bueno
+[22:33:59] [Async Chat Thread - #5/INFO]: [Not Secure] <NOW_POOL123> tpa
+[22:34:03] [Server thread/INFO]: Xautral issued server command: /plugins
+[22:34:10] [Server thread/INFO]: goku_4765 issued server command: /tpa NOW_POOL123
+[22:34:11] [Server thread/INFO]: [Reino willyif] IF_willygod142 has made the advancement [Monster Hunter]
+[22:34:14] [Server thread/INFO]: NOW_POOL123 issued server command: /tpaccept
+[22:34:20] [Server thread/INFO]: Xautral issued server command: /tp id
+[22:34:20] [User Authenticator #4/INFO]: UUID of player kiks2025 is 986b6bb3-9e4d-301f-89a3-f10737128e3f
+[22:34:21] [Server thread/INFO]: kiks2025 joined the game
+[22:34:21] [Server thread/INFO]: kiks2025[/127.25.245.201:50885] logged in with entity id 6268 at ([world]-14.383804993833369, 119.0, -13.189360217358976)
+[22:34:21] [Server thread/INFO]: Xautral issued server command: /tp IF_willygod142
+[22:34:21] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino willyif] IF_willygod142]
+[22:34:24] [Server thread/INFO]: Xautral issued server command: /tp kiks2025
+[22:34:24] [Server thread/INFO]: [Xautral: Teleported Xautral to kiks2025]
+[22:34:25] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> listo
+[22:34:30] [Server thread/INFO]: Xautral issued server command: /team join williyf kiks2025
+[22:34:30] [Server thread/INFO]: [Xautral: Added [Reino willyif] kiks2025 to team [williyf]]
+[22:34:35] [Server thread/INFO]: Xautral issued server command: /tp kiks2025 IF_willygod142
+[22:34:35] [Server thread/INFO]: [Xautral: Teleported [Reino willyif] kiks2025 to [Reino willyif] IF_willygod142]
+[22:34:36] [Server thread/INFO]: Xautral issued server command: /tp IF_willygod142
+[22:34:36] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino willyif] IF_willygod142]
+[22:34:44] [Async Chat Thread - #5/INFO]: [Not Secure] <IF_willygod142> hola bro
+[22:34:52] [Async Chat Thread - #5/INFO]: [Not Secure] <kiks2025> hola
+[22:35:00] [Server thread/INFO]: [Reino Tukulor] goku_4765 has made the advancement [Diamonds!]
+[22:35:06] [Async Chat Thread - #5/INFO]: [Not Secure] <IF_willygod142> toma
+[22:35:07] [Server thread/INFO]: [Reino willyif] kiks2025 has made the advancement [Isn't It Iron Pick]
+[22:35:09] [Async Chat Thread - #5/INFO]: [Not Secure] <goku_4765> diamantes bro
+[22:35:13] [Server thread/INFO]: Xautral issued server command: /whitelist list
+[22:35:14] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Diamonds!]
+[22:35:17] [Server thread/INFO]: [Reino willyif] kiks2025 has made the advancement [Getting an Upgrade]
+[22:35:36] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Sneak 100]
+[22:35:36] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has completed the challenge [It Spreads]
+[22:35:42] [Server thread/INFO]: [Reino Tukulor] goku_4765 has made the advancement [Monster Hunter]
+[22:35:42] [Server thread/INFO]: [Reino Tukulor] goku_4765 has completed the challenge [It Spreads]
+[22:36:23] [Server thread/INFO]: kiks2025 issued server command: /msg IF_willygod142 vas a usar x ray
+[22:36:30] [Server thread/INFO]: IF_willygod142 issued server command: /tell kiks2025 ya estoy usando
+[22:36:37] [Async Chat Thread - #6/INFO]: [Not Secure] <kiks2025> a xd
+[22:36:41] [Async Chat Thread - #7/INFO]: [Not Secure] <goku_4765> me das dos diamantes bro

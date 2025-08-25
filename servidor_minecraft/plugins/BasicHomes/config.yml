@@ -20,5 +20,5 @@ warps:
 # Set the value to 0 to remove limit
 # Set op-bypass-home-limit to true if you want OP players to have no home limit
 
-op-bypass-home-limit: false
-max-homes: 1
+op-bypass-home-limit: true
+max-homes: 10

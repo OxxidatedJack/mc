@@ -1,7 +1,0 @@
-# Aside from OPed players that has access to
-# the plugin's admin commands, you can also list
-# players by their 'names' to allow them using the
-# command.
-plugin_admin_access:
-  - Player1
-  - Player2

@@ -3307,3 +3307,131 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [22:16:33] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
 [22:16:34] [Async Chat Thread - #81/INFO]: [Not Secure] <zDreamz__> a la mierda
 [22:16:37] [Async Chat Thread - #81/INFO]: [Not Secure] <saseca2610> :)
+[22:16:38] [Server thread/INFO]: sisos issued server command: /ie enchant infinity 1
+[22:16:40] [Server thread/INFO]: Xautral issued server command: /give @s minecraft:leather_boots{display:{color:15151679}}
+[22:16:45] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[22:16:49] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:17:00] [Server thread/INFO]: [Admin] Plechini44 has completed the challenge [Serious Dedication]
+[22:17:13] [Server thread/WARN]: NOW_POOL123 moved too quickly! 5.6588239669799805,-12.816398903727531,-4.747360706329344
+[22:17:16] [Server thread/INFO]: saseca2610 issued server command: /msg zDreamz__ vamos por las montañas
+[22:17:17] [Server thread/WARN]: NOW_POOL123 moved too quickly! 6.949886322021484,-18.207568645477295,-6.342748284339905
+[22:17:38] [Server thread/INFO]: Xautral issued server command: /give @s minecraft:leather_boots[minecraft:item_name={"text":"lol"
+[22:17:40] [Server thread/INFO]: Xautral issued server command: /give @s minecraft:leather_boots[minecraft:item_name={"text":"lol"}]
+[22:17:40] [Server thread/INFO]: [[Owner] Xautral: Gave 1 [lol] to [Owner] Xautral]
+[22:17:50] [Async Chat Thread - #82/INFO]: [Not Secure] <Xautral> gente
+[22:17:52] [Async Chat Thread - #82/INFO]: [Not Secure] <Xautral> miren warp trades
+[22:17:55] [Server thread/INFO]: zDreamz__ issued server command: /msg saseca2610 mi idea es buscar una cosita
+[22:18:00] [Server thread/INFO]: zDreamz__ issued server command: /warp trades
+[22:18:03] [Server thread/INFO]: saseca2610 issued server command: /msg zDreamz__ una aldea?
+[22:18:19] [Server thread/INFO]: zDreamz__ issued server command: /msg saseca2610 si
+[22:18:19] [Server thread/INFO]: saseca2610 issued server command: /warp trades
+[22:18:29] [Async Chat Thread - #81/INFO]: [Not Secure] <sisos> xd
+[22:18:30] [Server thread/INFO]: Plechini44 issued server command: /tell sisos bro hice una puerta en las cords 0 - 0 solo nececitamos una azada
+[22:18:39] [Async Chat Thread - #82/INFO]: [Not Secure] <saseca2610> EL HIERO:(((((((((((((((((((((((((((((((((
+[22:18:44] [Server thread/INFO]: Plechini44 issued server command: /tell sisos asi nadie sabra que ahi esta la entrada
+[22:18:44] [Server thread/WARN]: NOW_POOL123 moved too quickly! 7.117701530456543,-12.91538143157959,-5.664698600769043
+[22:18:50] [Server thread/INFO]: Plechini44 issued server command: /warp trades
+[22:19:00] [Async Chat Thread - #81/INFO]: [Not Secure] <NOW_POOL123> un oso pandaaaaaa
+[22:19:12] [Server thread/INFO]: saseca2610 issued server command: /spawn
+[22:19:19] [Server thread/INFO]: saseca2610 issued server command: /warp spawn
+[22:19:24] [Async Chat Thread - #81/INFO]: [Not Secure] <zDreamz__> pense q sisos era el aldeano XD
+[22:19:30] [Async Chat Thread - #81/INFO]: [Not Secure] <saseca2610> xd
+[22:19:39] [Async Chat Thread - #81/INFO]: [Not Secure] <zDreamz__> como regreso ps?
+[22:19:39] [Async Chat Thread - #81/INFO]: [Not Secure] <Xautral> plechini
+[22:19:41] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[22:19:41] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Plechini44]
+[22:19:43] [Async Chat Thread - #81/INFO]: [Not Secure] <Xautral> que haces?
+[22:19:46] [Async Chat Thread - #81/INFO]: [Not Secure] <Xautral> que haces?
+[22:19:47] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[22:19:47] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Plechini44]
+[22:19:48] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[22:19:48] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Plechini44]
+[22:19:49] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[22:19:49] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Plechini44]
+[22:19:49] [Async Chat Thread - #81/INFO]: [Not Secure] <saseca2610> pon /warp spawn
+[22:19:49] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[22:19:49] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Plechini44]
+[22:19:49] [Async Chat Thread - #81/INFO]: [Not Secure] <NOW_POOL123> tan rapido nederite
+[22:19:51] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[22:19:53] [Async Chat Thread - #81/INFO]: [Not Secure] <sisos> xd
+[22:19:55] [Async Chat Thread - #81/INFO]: [Not Secure] <Plechini44> ay we
+[22:19:56] [Async Chat Thread - #82/INFO]: [Not Secure] <zDreamz__> oka weno me tengo q ir
+[22:19:56] [Async Chat Thread - #82/INFO]: [Not Secure] <saseca2610> te digo las cords donde estabamos
+[22:19:57] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[22:19:59] [Async Chat Thread - #82/INFO]: [Not Secure] <Plechini44> me asustaste
+[22:20:01] [Async Chat Thread - #82/INFO]: [Not Secure] <zDreamz__> mañana me conecto
+[22:20:03] [Async Chat Thread - #82/INFO]: [Not Secure] <Xautral> okey
+[22:20:08] [Async Chat Thread - #82/INFO]: [Not Secure] <zDreamz__> chau
+[22:20:12] [Async Chat Thread - #82/INFO]: [Not Secure] <saseca2610> chau
+[22:20:20] [Server thread/WARN]: NOW_POOL123 moved too quickly! 7.694149017333984,-3.5331716537475586,-5.331121206283571
+[22:20:20] [Server thread/INFO]: Plechini44 issued server command: /effect clear Plechini44 minecraft:invisibility
+[22:20:20] [Server thread/INFO]: [[Admin] Plechini44: Removed effect Invisibility from [Admin] Plechini44]
+[22:20:24] [Server thread/INFO]: Xautral lost connection: Disconnected
+[22:20:24] [Server thread/INFO]: [Owner] Xautral left the game
+[22:20:34] [Server thread/WARN]: NOW_POOL123 moved too quickly! 7.775692939758301,-5.480807781219482,6.969120979309082
+[22:20:34] [Server thread/INFO]: zDreamz__ issued server command: /msg saseca2610 ve buscando sitios etc comienza y eso
+[22:20:36] [Async Chat Thread - #81/INFO]: [Not Secure] <sisos> plechini
+[22:20:40] [Async Chat Thread - #81/INFO]: [Not Secure] <sisos> me das una mano
+[22:20:42] [Async Chat Thread - #81/INFO]: [Not Secure] <Plechini44> dime?
+[22:20:45] [Async Chat Thread - #81/INFO]: [Not Secure] <Plechini44> okok
+[22:20:47] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[22:20:50] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:20:50] [Server thread/INFO]: zDreamz__ lost connection: Disconnected
+[22:20:50] [Server thread/INFO]: [Reino Majaphit] zDreamz__ left the game
+[22:20:53] [Server thread/INFO]: saseca2610 issued server command: /msg zDreamz__ ok
+[22:21:01] [Async Chat Thread - #81/INFO]: [Not Secure] <sisos> sabes los encantamientos?
+[22:21:08] [Async Chat Thread - #81/INFO]: [Not Secure] <Plechini44> sis
+[22:21:08] [Async Chat Thread - #81/INFO]: [Not Secure] <sisos> en ingles?
+[22:21:17] [Async Chat Thread - #81/INFO]: [Not Secure] <sisos> si o no?
+[22:21:23] [Async Chat Thread - #81/INFO]: [Not Secure] <Plechini44> si me los se we
+[22:21:28] [Async Chat Thread - #81/INFO]: [Not Secure] <saseca2610> quien me da comida
+[22:21:32] [Async Chat Thread - #81/INFO]: [Not Secure] <saseca2610> soy poor
+[22:21:39] [Async Chat Thread - #81/INFO]: [Not Secure] <Plechini44> que le meto?
+[22:22:07] [Server thread/INFO]: sisos issued server command: /msg Plechini44 hace 2 tridentes con el comando /ie enchant (encantamiento)
+[22:22:30] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:loyalty 5
+[22:22:32] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:loyalty 3
+[22:22:32] [Server thread/INFO]: [[Admin] Plechini44: Applied enchantment Loyalty III to [Admin] Plechini44's item]
+[22:22:33] [Server thread/INFO]: sisos issued server command: /msg Plechini44 yo ago la armor
+[22:22:48] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:channeling 7
+[22:22:50] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:channeling 1
+[22:22:50] [Server thread/INFO]: [[Admin] Plechini44: Applied enchantment Channeling to [Admin] Plechini44's item]
+[22:23:10] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa saseca2610
+[22:23:13] [Server thread/INFO]: sisos issued server command: /ie enchant protection 255
+[22:23:23] [Server thread/INFO]: sisos issued server command: /ie enchant protection 10
+[22:23:24] [Server thread/INFO]: sisos issued server command: /ie enchant protection 10
+[22:23:26] [Server thread/INFO]: sisos issued server command: /ie enchant protection 10
+[22:23:27] [Server thread/INFO]: sisos issued server command: /ie enchant protection 10
+[22:23:32] [Server thread/INFO]: saseca2610 issued server command: /tpa
+[22:23:33] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:impaling 19
+[22:23:35] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:impaling 5
+[22:23:35] [Server thread/INFO]: [[Admin] Plechini44: Applied enchantment Impaling V to [Admin] Plechini44's item]
+[22:23:39] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 10
+[22:23:40] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 10
+[22:23:43] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 10
+[22:23:45] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 10
+[22:23:47] [Server thread/INFO]: saseca2610 issued server command: /tpaccept
+[22:23:54] [Async Chat Thread - #83/INFO]: [Not Secure] <saseca2610> hola :)
+[22:23:55] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:23:56] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:23:57] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:23:57] [Server thread/INFO]: Plechini44 issued server command: /tell sisos uno con esa cosa que te manda volando en el agua?
+[22:23:59] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:24:07] [Async Chat Thread - #84/INFO]: [Not Secure] <saseca2610> muchas gracias ;)
+[22:24:18] [Async Chat Thread - #84/INFO]: [Not Secure] <NOW_POOL123> bueno bye
+[22:24:21] [Async Chat Thread - #83/INFO]: [Not Secure] <saseca2610> bye
+[22:24:42] [Server thread/INFO]: [Reino Majaphit] saseca2610 has made the advancement [Not Today, Thank You]
+[22:24:47] [Server thread/INFO]: [Reino Majaphit] saseca2610 has made the advancement [Monster Hunter]
+[22:25:06] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:riptide 10
+[22:25:09] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:riptide 3
+[22:25:31] [Async Chat Thread - #85/INFO]: [Not Secure] <NOW_POOL123> a explorar
+[22:25:35] [Async Chat Thread - #85/INFO]: [Not Secure] <saseca2610> ALDEA
+[22:25:41] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:unbreaking
+[22:25:41] [Server thread/INFO]: [[Admin] Plechini44: Applied enchantment Unbreaking I to [Admin] Plechini44's item]
+[22:25:44] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:unbreaking 3
+[22:26:17] [Async Chat Thread - #85/INFO]: [Not Secure] <sisos> los tenes?
+[22:26:24] [Async Chat Thread - #85/INFO]: [Not Secure] <saseca2610> EL Q
+[22:26:27] [Server thread/INFO]: [Clan Azteca] saul23419 has made the advancement [Ice Bucket Challenge]
+[22:26:28] [Server thread/INFO]: Plechini44 issued server command: /item modify
+[22:26:29] [Async Chat Thread - #85/INFO]: [Not Secure] <sisos> no a vos no
+[22:26:32] [Async Chat Thread - #85/INFO]: [Not Secure] <saseca2610> a
+[22:26:48] [Async Chat Thread - #85/INFO]: [Not Secure] <NOW_POOL123> ya la saquearon cre7

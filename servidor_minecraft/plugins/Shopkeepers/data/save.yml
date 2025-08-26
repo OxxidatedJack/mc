@@ -180,16 +180,18 @@ data-version: 4|2|4440
     '7':
       resultItem:
         DataVersion: 4440
-        id: minecraft:chain
+        id: minecraft:green_shulker_box
         count: 1
+        components:
+          minecraft:container: '[{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_slowness"}},count:64,id:"minecraft:tipped_arrow"},slot:0},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_harming"}},count:64,id:"minecraft:tipped_arrow"},slot:1},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_poison"}},count:64,id:"minecraft:tipped_arrow"},slot:2},{item:{count:1,id:"minecraft:arrow"},slot:3},{item:{count:1,id:"minecraft:arrow"},slot:4},{item:{count:1,id:"minecraft:arrow"},slot:5},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_poison"}},count:64,id:"minecraft:tipped_arrow"},slot:6},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_harming"}},count:64,id:"minecraft:tipped_arrow"},slot:7},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_slowness"}},count:64,id:"minecraft:tipped_arrow"},slot:8},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_slowness"}},count:64,id:"minecraft:tipped_arrow"},slot:9},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_harming"}},count:64,id:"minecraft:tipped_arrow"},slot:10},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_poison"}},count:64,id:"minecraft:tipped_arrow"},slot:11},{item:{components:{"minecraft:enchantments":{"minecraft:flame":5,"minecraft:infinity":1,"minecraft:power":7,"minecraft:unbreaking":5}},count:1,id:"minecraft:bow"},slot:12},{item:{count:1,id:"minecraft:arrow"},slot:13},{item:{components:{"minecraft:enchantments":{"minecraft:flame":3,"minecraft:infinity":1,"minecraft:power":6,"minecraft:punch":4,"minecraft:unbreaking":5}},count:1,id:"minecraft:bow"},slot:14},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_poison"}},count:64,id:"minecraft:tipped_arrow"},slot:15},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_harming"}},count:64,id:"minecraft:tipped_arrow"},slot:16},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_slowness"}},count:64,id:"minecraft:tipped_arrow"},slot:17},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_slowness"}},count:64,id:"minecraft:tipped_arrow"},slot:18},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_harming"}},count:64,id:"minecraft:tipped_arrow"},slot:19},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_poison"}},count:64,id:"minecraft:tipped_arrow"},slot:20},{item:{count:1,id:"minecraft:arrow"},slot:21},{item:{count:1,id:"minecraft:arrow"},slot:22},{item:{count:1,id:"minecraft:arrow"},slot:23},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_poison"}},count:64,id:"minecraft:tipped_arrow"},slot:24},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_harming"}},count:64,id:"minecraft:tipped_arrow"},slot:25},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_slowness"}},count:64,id:"minecraft:tipped_arrow"},slot:26}]'
       item1:
         DataVersion: 4440
-        id: minecraft:chain
-        count: 1
+        id: minecraft:netherite_ingot
+        count: 10
       item2:
         DataVersion: 4440
-        id: minecraft:chain
-        count: 1
+        id: minecraft:diamond_block
+        count: 5
   snapshots: []
 '3':
   uniqueId: 5ba9b738-948e-42f5-850c-32683db775d3

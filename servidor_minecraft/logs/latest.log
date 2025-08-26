@@ -3928,3 +3928,152 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [23:28:19] [Async Chat Thread - #111/INFO]: [Not Secure] <Xautral> miren
 [23:28:20] [Async Chat Thread - #111/INFO]: [Not Secure] <ZXxAlanJosuxXZ> saul
 [23:28:21] [Async Chat Thread - #111/INFO]: [Not Secure] <sisos> pera ahi vengo
+[23:28:26] [Async Chat Thread - #111/INFO]: [Not Secure] <sisos> quiero ver algo
+[23:28:33] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[23:28:34] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[23:28:37] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[23:28:45] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[23:28:49] [Server thread/INFO]: Xautral issued server command: /kill b0ad9b7c-68b3-4979-b972-5da2f0f47a25
+[23:28:49] [Server thread/INFO]: [[Owner] Xautral: Killed Iron Golem]
+[23:29:29] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> a?
+[23:29:33] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> comom se hacían
+[23:29:36] [Server thread/INFO]: sisos issued server command: /tp Xautral
+[23:29:36] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Owner] Xautral]
+[23:29:38] [Server thread/INFO]: [Clan Azteca] saul23419 was slain by Enderman
+[23:29:39] [Server thread/INFO]: Attempt to teleport removed player saul23419 restricted
+[23:29:44] [Async Chat Thread - #113/INFO]: [Not Secure] <sisos> xd
+[23:29:46] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> como se hacían?
+[23:29:49] [Server thread/INFO]: saul23419 issued server command: /ret
+[23:29:51] [Async Chat Thread - #113/INFO]: [Not Secure] <sisos> asi
+[23:29:55] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> y porque no se invoca
+[23:29:58] [Async Chat Thread - #113/INFO]: [Not Secure] <sisos> no c
+[23:29:59] [Server thread/INFO]: saul23419 issued server command: /return
+[23:30:00] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[23:30:06] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[23:30:08] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> bueno
+[23:30:16] [Async Chat Thread - #113/INFO]: [Not Secure] <saul23419> we
+[23:30:19] [Async Chat Thread - #113/INFO]: [Not Secure] <sisos> OMG
+[23:30:20] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[23:30:26] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:saturation infinite 25 true
+[23:30:26] [Server thread/INFO]: [[Owner] Xautral: Applied effect Saturation to [Owner] Xautral]
+[23:30:29] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> miren
+[23:30:35] [Async Chat Thread - #113/INFO]: [Not Secure] <saul23419> me haces tp a la base
+[23:30:35] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[23:30:53] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> ahhora
+[23:30:56] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> probemos con un jugador
+[23:31:01] [Server thread/INFO]: Xautral issued server command: /gamemode survival sisos
+[23:31:01] [Server thread/INFO]: [[Owner] Xautral: Set [Admin] sisos's game mode to Survival Mode]
+[23:31:03] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[23:31:07] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[23:31:07] [Async Chat Thread - #113/INFO]: [Not Secure] <sisos> xd
+[23:31:10] [Server thread/INFO]: [Admin] sisos was slain by [Owner] Xautral
+[23:31:12] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Survival Mode]
+[23:31:15] [Async Chat Thread - #113/INFO]: [Not Secure] <sisos> ta re roto
+[23:31:19] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[23:31:19] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[23:31:22] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> no del todo
+[23:31:22] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [Minecraft: Trial(s) Edition]
+[23:31:25] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> ahi el nerfeo
+[23:31:31] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> si estas en espacios cerrados no
+[23:31:32] [Async Chat Thread - #113/INFO]: [Not Secure] <saul23419> Xautral
+[23:31:35] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> qu
+[23:31:44] [Server thread/INFO]: [Admin] Plechini44 was slain by [Owner] Xautral
+[23:31:46] [Async Chat Thread - #113/INFO]: [Not Secure] <Plechini44> akv
+[23:31:47] [Async Chat Thread - #113/INFO]: [Not Secure] <Xautral> que
+[23:31:47] [Async Chat Thread - #113/INFO]: [Not Secure] <saul23419> que si me haces tp a la base
+[23:31:49] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[23:31:51] [Server thread/INFO]: Plechini44 issued server command: /tp 0 0 0
+[23:31:51] [Server thread/INFO]: [[Admin] Plechini44: Teleported [Admin] Plechini44 to 0.500000, 0.000000, 0.500000]
+[23:31:55] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[23:31:56] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[23:31:59] [Server thread/INFO]: [Clan Azteca] saul23419 fell from a high place
+[23:32:03] [Server thread/INFO]: Xautral lost connection: Disconnected
+[23:32:03] [Server thread/INFO]: [Owner] Xautral left the game
+[23:32:06] [Async Chat Thread - #113/INFO]: [Not Secure] <sisos> XD
+[23:32:09] [Async Chat Thread - #113/INFO]: [Not Secure] <Plechini44> alv
+[23:32:13] [Server thread/INFO]: [Admin] sisos was slain by Iron Golem
+[23:32:17] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[23:32:17] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[23:32:19] [Server thread/INFO]: Plechini44 was kicked due to keepalive timeout!
+[23:32:19] [Server thread/INFO]: Plechini44 lost connection: Timed out
+[23:32:19] [Server thread/INFO]: Plechini44 left the game
+[23:32:26] [User Authenticator #35/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[23:32:27] [Server thread/INFO]: [Admin] Plechini44 joined the game
+[23:32:27] [Server thread/INFO]: Plechini44[/127.162.71.96:50475] logged in with entity id 192138 at ([world]0.5, -3.919629311661885, 0.5)
+[23:32:44] [Server thread/INFO]: [Admin] sisos was slain by Iron Golem
+[23:32:49] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[23:32:49] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[23:32:55] [Server thread/INFO]: [Admin] sisos was slain by Iron Golem
+[23:32:57] [Async Chat Thread - #113/INFO]: [Not Secure] <sisos> xd
+[23:32:59] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[23:32:59] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[23:33:01] [Server thread/INFO]: Plechini44 was kicked due to keepalive timeout!
+[23:33:01] [Server thread/INFO]: Plechini44 lost connection: Timed out
+[23:33:01] [Server thread/INFO]: Plechini44 left the game
+[23:33:11] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[23:33:16] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trades
+[23:33:26] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[23:33:44] [User Authenticator #36/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[23:33:45] [Server thread/INFO]: [Admin] Plechini44 joined the game
+[23:33:45] [Server thread/INFO]: Plechini44[/127.162.71.96:57321] logged in with entity id 193062 at ([world]-0.3178722226309588, -6.0, 5.149782750279472)
+[23:33:48] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[23:33:48] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[23:34:39] [User Authenticator #36/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[23:34:39] [Server thread/INFO]: Disconnecting goku_black_20 (/127.56.91.73:60653): You are not whitelisted on this server!
+[23:34:39] [Server thread/INFO]: goku_black_20 (/127.56.91.73:60653) lost connection: You are not whitelisted on this server!
+[23:34:44] [User Authenticator #36/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[23:34:44] [Server thread/INFO]: Disconnecting goku_black_20 (/127.56.91.73:49221): You are not whitelisted on this server!
+[23:34:44] [Server thread/INFO]: goku_black_20 (/127.56.91.73:49221) lost connection: You are not whitelisted on this server!
+[23:35:40] [Async Chat Thread - #115/INFO]: [Not Secure] <sisos> Plechini
+[23:35:52] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[23:35:52] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[23:35:55] [Server thread/INFO]: sisos issued server command: /war`s
+[23:35:58] [Server thread/INFO]: sisos issued server command: /warps
+[23:36:02] [Server thread/INFO]: sisos issued server command: /warps
+[23:38:15] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /sethome chamba
+[23:38:18] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[23:39:12] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trades
+[23:39:13] [Async Chat Thread - #117/INFO]: [Not Secure] <sisos> asd
+[23:39:20] [Async Chat Thread - #117/INFO]: [Not Secure] <sisos> Alan
+[23:39:23] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[23:39:25] [Async Chat Thread - #117/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mande
+[23:39:32] [Server thread/INFO]: sisos issued server command: /tp ZXxAlanJosuxXZ
+[23:39:32] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Tukulor] ZXxAlanJosuxXZ]
+[23:39:34] [Async Chat Thread - #117/INFO]: [Not Secure] <sisos> gg
+[23:39:44] [Async Chat Thread - #117/INFO]: [Not Secure] <ZXxAlanJosuxXZ> gg
+[23:39:48] [Async Chat Thread - #117/INFO]: [Not Secure] <sisos> sos la primera persona en comprar un kit
+[23:39:55] [Async Chat Thread - #117/INFO]: [Not Secure] <ZXxAlanJosuxXZ> un premio?
+[23:40:26] [Async Chat Thread - #117/INFO]: [Not Secure] <ZXxAlanJosuxXZ> me das un huevo?
+[23:40:26] [Async Chat Thread - #117/INFO]: [Not Secure] <sisos> un lobo
+[23:40:32] [Async Chat Thread - #117/INFO]: [Not Secure] <sisos> de q?
+[23:40:36] [Async Chat Thread - #117/INFO]: [Not Secure] <ZXxAlanJosuxXZ> creper
+[23:40:41] [Async Chat Thread - #117/INFO]: [Not Secure] <sisos> np
+[23:40:52] [Async Chat Thread - #117/INFO]: [Not Secure] <Plechini44> dime sisos
+[23:40:52] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [Best Friends Forever]
+[23:41:06] [Async Chat Thread - #117/INFO]: [Not Secure] <sisos> necesitamos hacer el arco
+[23:41:07] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Disconnected
+[23:41:07] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ left the game
+[23:41:10] [Async Chat Thread - #117/INFO]: [Not Secure] <Plechini44> see
+[23:41:26] [Server thread/INFO]: [Clan Azteca] saul23419 tried to swim in lava
+[23:41:56] [Server thread/INFO]: sisos issued server command: /tp 30000000 50 30000000
+[23:42:10] [Server thread/INFO]: sisos issued server command: /tp 3000000 50 3000000
+[23:42:10] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to 3000000.500000, 50.000000, 3000000.500000]
+[23:42:13] [Async Chat Thread - #119/INFO]: [Not Secure] <sisos> xd
+[23:43:18] [Server thread/INFO]: sisos issued server command: /fill 2999968 62 2999954
+[23:43:55] [Server thread/INFO]: sisos issued server command: /fill 2999968 62 2999954 2999945 62 2999924
+[23:44:17] [Async Chat Thread - #121/INFO]: [Not Secure] <sisos> Plechini
+[23:44:50] [Async Chat Thread - #121/INFO]: [Not Secure] <sisos> como es Cesped en ingles
+[23:46:07] [Server thread/INFO]: sisos issued server command: /fill 2999968 62 2999954 2999945 62 2999924
+[23:46:49] [Server thread/INFO]: sisos issued server command: /fill 2999968 62 2999954 2999945 62 2999924 minecraft:grass_block
+[23:46:49] [Server thread/INFO]: [[Admin] sisos: Successfully filled 686 block(s)]
+[23:47:47] [Server thread/INFO]: sisos issued server command: /fill 2999968 62 2999954 2999936 62 2999915. minecraft:grass_block
+[23:48:01] [Server thread/INFO]: sisos issued server command: /fill 2999968 62 2999954 2999931 62 2999915 minecraft:grass_block
+[23:48:01] [Server thread/INFO]: [[Admin] sisos: Successfully filled 753 block(s)]
+[23:48:31] [User Authenticator #37/INFO]: UUID of player Erick_Papucho is 91cdad2b-15f0-3a6c-b5b6-8607f3ca29d8
+[23:48:33] [Server thread/INFO]: [Clan Azteca] Erick_Papucho joined the game
+[23:48:33] [Server thread/INFO]: Erick_Papucho[/127.89.77.201:42791] logged in with entity id 202569 at ([world]-694.2745299621713, -43.0, 28.937394861252027)
+[23:48:41] [Server thread/INFO]: sisos issued server command: /fill 2999968 62 2999954 2999931 62 2999915 air
+[23:48:41] [Server thread/INFO]: [[Admin] sisos: Successfully filled 1520 block(s)]
+[23:48:41] [Server thread/INFO]: Villager Villager['Villager'/198537, uuid='04789405-0a13-4d53-972a-0b51e4ddc849', l='ServerLevel[world]', x=2999893.31, y=64.56, z=2999840.49, cpos=[187493, 187490], tl=6766, v=true] died, message: 'Villager was slain by Zombie'
+[23:48:44] [Server thread/INFO]: saul23419 issued server command: /tpa
+[23:48:55] [Server thread/INFO]: saul23419 issued server command: /tpa Erick_Papucho

@@ -2764,3 +2764,111 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [21:44:02] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome end
 [21:44:04] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome end
 [21:45:37] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Remote Getaway]
+[21:46:39] [Async Chat Thread - #72/INFO]: [Not Secure] <NOW_POOL123> SA
+[21:46:45] [Async Chat Thread - #72/INFO]: [Not Secure] <Xautral> SA que
+[21:47:00] [Async Chat Thread - #72/INFO]: [Not Secure] <Erick_Papucho> Bro respeta
+[21:47:01] [Async Chat Thread - #72/INFO]: [Not Secure] <NOW_POOL123> era el internet perdon
+[21:47:12] [Async Chat Thread - #73/INFO]: [Not Secure] <Erick_Papucho> tengo sentimientos :(
+[21:47:24] [Server thread/INFO]: NOW_POOL123 issued server command: /home h3
+[21:48:05] [Server thread/INFO]: [Clan Azteca] Erick_Papucho has made the advancement [The Parrots and the Bats]
+[21:48:25] [Async Chat Thread - #74/INFO]: [Not Secure] <NOW_POOL123> que feoooo no se donde esta mi base y no hay nadie de mi reino para tparme
+[21:48:52] [Server thread/INFO]: Erick_Papucho issued server command: /tpa saul23419
+[21:49:03] [Server thread/INFO]: Xautral issued server command: /tpaccept
+[21:49:08] [Server thread/INFO]: saul23419 issued server command: /tpaccept
+[21:50:01] [Async Chat Thread - #76/INFO]: [Not Secure] <sisos> volvi
+[21:50:09] [Server thread/INFO]: sisos issued server command: /gamemode c
+[21:50:14] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[21:50:14] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[21:50:59] [Server thread/INFO]: Xautral issued server command: /whitelist add saseca2210
+[21:50:59] [Server thread/INFO]: [[Clan Azteca] Xautral: Added saseca2210 to the whitelist]
+[21:51:33] [Server thread/INFO]: Xautral issued server command: /tpa saul23419
+[21:51:51] [Server thread/INFO]: saul23419 issued server command: /tpacecept
+[21:51:54] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome h3
+[21:51:59] [Server thread/INFO]: NOW_POOL123 issued server command: /setlhome h3
+[21:52:02] [Server thread/INFO]: saul23419 issued server command: /
+[21:52:03] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome h3
+[21:52:31] [User Authenticator #18/INFO]: UUID of player saseca2610 is be5b0179-53d0-3815-b865-ee4a642e14b5
+[21:52:31] [Server thread/INFO]: Disconnecting saseca2610 (/127.2.237.30:55747): You are not whitelisted on this server!
+[21:52:31] [Server thread/INFO]: saseca2610 (/127.2.237.30:55747) lost connection: You are not whitelisted on this server!
+[21:53:03] [Server thread/INFO]: Xautral issued server command: /whitelist add saseca2610
+[21:53:03] [Server thread/INFO]: [[Clan Azteca] Xautral: Added saseca2610 to the whitelist]
+[21:53:20] [Server thread/INFO]: NOW_POOL123 issued server command: /warp trades
+[21:53:54] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:53:54] [Server thread/INFO]: Disconnecting zDreamz__ (/127.87.116.61:53243): You are not whitelisted on this server!
+[21:53:55] [Server thread/INFO]: zDreamz__ (/127.87.116.61:53243) lost connection: You are not whitelisted on this server!
+[21:53:57] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:53:57] [Server thread/INFO]: Disconnecting zDreamz__ (/127.87.116.61:59573): You are not whitelisted on this server!
+[21:53:57] [Server thread/INFO]: zDreamz__ (/127.87.116.61:59573) lost connection: You are not whitelisted on this server!
+[21:54:06] [User Authenticator #19/INFO]: UUID of player saseca2610 is be5b0179-53d0-3815-b865-ee4a642e14b5
+[21:54:07] [Server thread/INFO]: saseca2610 joined the game
+[21:54:07] [Server thread/INFO]: saseca2610[/127.2.237.30:57559] logged in with entity id 142021 at ([world]-0.5, 116.0, -8.5)
+[21:54:18] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:54:18] [Server thread/INFO]: Disconnecting zDreamz__ (/127.87.116.61:58469): You are not whitelisted on this server!
+[21:54:18] [Server thread/INFO]: zDreamz__ (/127.87.116.61:58469) lost connection: You are not whitelisted on this server!
+[21:54:29] [Server thread/INFO]: Erick_Papucho issued server command: /tpa Xautral
+[21:54:30] [Async Chat Thread - #78/INFO]: [Not Secure] <saseca2610> hola :)
+[21:54:33] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> soy nuevo
+[21:54:38] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> hola
+[21:54:40] [Server thread/INFO]: Xautral issued server command: /tpaccept
+[21:54:41] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> hola
+[21:54:41] [Async Chat Thread - #79/INFO]: [Not Secure] <Erick_Papucho> hola
+[21:54:42] [User Authenticator #19/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[21:54:45] [Server thread/INFO]: Plechini44 joined the game
+[21:54:45] [Server thread/INFO]: Plechini44[/127.162.71.96:58665] logged in with entity id 142220 at ([world]4.5, 106.0, 8.5)
+[21:54:47] [Server thread/INFO]: Xautral issued server command: /whitelist add eligaspro
+[21:54:47] [Server thread/INFO]: [[Clan Azteca] Xautral: Added eligaspro to the whitelist]
+[21:54:51] [Server thread/INFO]: Xautral issued server command: /team join admin Plechini44
+[21:54:51] [Server thread/INFO]: [[Clan Azteca] Xautral: Added [Admin] Plechini44 to team [admin]]
+[21:54:51] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:54:51] [Server thread/INFO]: Disconnecting zDreamz__ (/127.87.116.61:35995): You are not whitelisted on this server!
+[21:54:51] [Server thread/INFO]: zDreamz__ (/127.87.116.61:35995) lost connection: You are not whitelisted on this server!
+[21:54:52] [Async Chat Thread - #79/INFO]: [Not Secure] <Erick_Papucho> bienvenido
+[21:54:54] [Server thread/INFO]: Xautral issued server command: /op Plechini44
+[21:54:54] [Server thread/INFO]: [[Clan Azteca] Xautral: Made Plechini44 a server operator]
+[21:54:56] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> hola plechini
+[21:54:58] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> cuanto tiempo
+[21:55:00] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> hola saseca2610
+[21:55:02] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:55:02] [Server thread/INFO]: Disconnecting zDreamz__ (/127.87.116.61:37145): You are not whitelisted on this server!
+[21:55:02] [Server thread/INFO]: zDreamz__ (/127.87.116.61:37145) lost connection: You are not whitelisted on this server!
+[21:55:03] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:55:03] [Server thread/INFO]: Disconnecting zDreamz__ (/127.87.116.61:50007): You are not whitelisted on this server!
+[21:55:03] [Server thread/INFO]: zDreamz__ (/127.87.116.61:50007) lost connection: You are not whitelisted on this server!
+[21:55:05] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:55:05] [Server thread/INFO]: Disconnecting zDreamz__ (/127.87.116.61:37363): You are not whitelisted on this server!
+[21:55:05] [Server thread/INFO]: zDreamz__ (/127.87.116.61:37363) lost connection: You are not whitelisted on this server!
+[21:55:07] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> como habras visto en el anuncio
+[21:55:08] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:55:08] [Server thread/INFO]: Disconnecting zDreamz__ (/127.87.116.61:58635): You are not whitelisted on this server!
+[21:55:08] [Server thread/INFO]: zDreamz__ (/127.87.116.61:58635) lost connection: You are not whitelisted on this server!
+[21:55:09] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> hay equipos
+[21:55:12] [Async Chat Thread - #79/INFO]: [Not Secure] <Erick_Papucho> quieren ser de nuestro clan?
+[21:55:15] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> yo
+[21:55:17] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:55:17] [Server thread/INFO]: Disconnecting zDreamz__ (/127.87.116.61:40805): You are not whitelisted on this server!
+[21:55:17] [Server thread/INFO]: zDreamz__ (/127.87.116.61:40805) lost connection: You are not whitelisted on this server!
+[21:55:19] [Server thread/INFO]: Xautral issued server command: /whitelist add |
+[21:55:19] [Server thread/INFO]: [[Clan Azteca] Xautral: Added | to the whitelist]
+[21:55:19] [Async Chat Thread - #79/INFO]: [Not Secure] <Plechini44> hola we
+[21:55:20] [Server thread/INFO]: Xautral issued server command: /whitelist add sisos
+[21:55:20] [Server thread/INFO]: [[Clan Azteca] Xautral: Added sisos to the whitelist]
+[21:55:21] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[21:55:24] [Server thread/INFO]: Xautral issued server command: /whitelist add zDreamz__
+[21:55:24] [Server thread/INFO]: [[Clan Azteca] Xautral: Added zDreamz__ to the whitelist]
+[21:55:26] [Async Chat Thread - #79/INFO]: [Not Secure] <NOW_POOL123> hoa
+[21:55:26] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> hola
+[21:55:30] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> espera
+[21:55:31] [Async Chat Thread - #79/INFO]: [Not Secure] <NOW_POOL123> que tal
+[21:55:31] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> saseca2610
+[21:55:35] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> bien
+[21:55:36] [Server thread/INFO]: Plechini44 issued server command: /inv
+[21:55:38] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> quieres hacer tu equipo o unirte a uno?
+[21:55:42] [User Authenticator #19/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[21:55:43] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> unirme
+[21:55:45] [Server thread/INFO]: zDreamz__ joined the game
+[21:55:45] [Server thread/INFO]: zDreamz__[/127.87.116.61:45651] logged in with entity id 142515 at ([world]-3.5, 117.0, -8.5)
+[21:55:50] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> acual saseca2610?
+[21:55:52] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> hola zDreamz__
+[21:55:52] [Server thread/INFO]: Erick_Papucho issued server command: /a cual?
+[21:55:59] [Async Chat Thread - #79/INFO]: [Not Secure] <Erick_Papucho> a cual?
+[21:55:59] [Async Chat Thread - #78/INFO]: [Not Secure] <NOW_POOL123> hola gente nueva

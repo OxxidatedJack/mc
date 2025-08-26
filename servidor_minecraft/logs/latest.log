@@ -2488,3 +2488,41 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [20:43:18] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> listo
 [20:43:19] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> todos
 [20:43:25] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> son 5 kits
+[20:45:46] [Server thread/INFO]: Erick_Papucho issued server command: /tpa Xautral
+[20:45:50] [Server thread/INFO]: Xautral issued server command: /tpaccept
+[20:46:15] [Server thread/INFO]: Xautral issued server command: /tpa saul23419
+[20:46:27] [Server thread/INFO]: saul23419 issued server command: /tpaccept
+[20:47:42] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> Xautral
+[20:47:44] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> que
+[20:47:47] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> temine
+[20:48:01] [Server thread/INFO]: Xautral issued server command: /home hom
+[20:48:02] [Server thread/INFO]: Xautral issued server command: /home hom
+[20:48:04] [Server thread/INFO]: Xautral issued server command: /home home
+[20:48:07] [Server thread/INFO]: Xautral issued server command: /tp sisos
+[20:48:07] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Admin] sisos]
+[20:48:08] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> haber
+[20:48:21] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> te salieron bien chidos
+[20:48:24] [Server thread/INFO]: Xautral issued server command: /tp Erick_Papucho
+[20:48:24] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Clan Azteca] Erick_Papucho]
+[20:48:27] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> oaaa
+[20:49:08] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> ya los puse en el aldeano
+[20:49:42] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> los pongo x mineralos o despues te arreglas vos
+[20:50:01] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> ponlo por minerales
+[20:50:05] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> pero de esos dificiles e inutiles
+[20:50:12] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> como 64 bloques de cobre crudo
+[20:50:14] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> xd
+[20:50:17] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> jajaj
+[20:50:20] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> y 64 de cuarzo
+[20:50:31] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> el cobre es re easy
+[20:50:41] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> pues ponle un shulker lleno de cobre
+[20:50:50] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> eu no es mala
+[20:50:55] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> lleno de bloques de cobre
+[20:50:59] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> siiii
+[20:51:07] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> ahi si estoy de acuerdo
+[20:51:14] [Server thread/INFO]: saul23419 issued server command: /tpa Erick_Papucho
+[20:51:36] [Server thread/INFO]: Erick_Papucho issued server command: /tpa
+[20:52:15] [Server thread/INFO]: Erick_Papucho issued server command: /tpaccept
+[20:53:50] [Async Chat Thread - #38/INFO]: [Not Secure] <sisos> y si al de mazo lo ponemos x obsidiana llorosa osea una shulker de obsidiana llorosa
+[20:53:51] [Async Chat Thread - #38/INFO]: [Not Secure] <sisos> xd
+[20:54:26] [Async Chat Thread - #38/INFO]: [Not Secure] <sisos> pa q sea dificil de conseguir
+[20:54:47] [Async Chat Thread - #38/INFO]: [Not Secure] <sisos> Xautral esta?

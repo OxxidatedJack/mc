@@ -913,3 +913,181 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [18:20:52] [Server thread/INFO]: [Clan Azteca] Erick_Papucho has made the advancement [Acquire Hardware]
 [18:20:53] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> ok
 [18:20:54] [Server thread/INFO]: javimessiu issued server command: /home 2
+[18:21:08] [Server thread/INFO]: Xautral issued server command: /team add AOV {"text":"Reino Age of Virgins","color":"dark_cyan"
+[18:21:25] [User Authenticator #5/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[18:21:26] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[18:21:26] [Server thread/INFO]: NOW_POOL123[/127.79.177.66:43385] logged in with entity id 19450 at ([world_nether]187.41803602765404, 69.0, -183.32983129249922)
+[18:21:27] [Server thread/INFO]: Xautral issued server command: /team add AOV {"text":"Reino Age of Virgins","colo":dark_cyan}
+[18:21:27] [Server thread/INFO]: [[Clan Azteca] Xautral: Created team [Reino Age of Virgins]]
+[18:21:46] [Server thread/INFO]: Blah_Blah_Demo lost connection: Disconnected
+[18:21:46] [Server thread/INFO]: Blah_Blah_Demo left the game
+[18:21:48] [User Authenticator #5/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[18:21:49] [Server thread/INFO]: Blah_Blah_Demo joined the game
+[18:21:49] [Server thread/INFO]: Blah_Blah_Demo[/127.157.169.63:47065] logged in with entity id 19692 at ([world]-20.172396200235614, 117.0, -3.326481580783343)
+[18:21:59] [Async Chat Thread - #2/INFO]: [Not Secure] <NOW_POOL123> XAUTRAL van a entrar 2 amigos los unes a mi reino
+[18:22:19] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[18:22:23] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[18:22:39] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> encontraron algo?
+[18:22:48] [Async Chat Thread - #2/INFO]: [Not Secure] <NOW_POOL123> pera
+[18:22:54] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> no
+[18:22:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> xautral crea mi reino ;v
+[18:22:58] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> q nonames
+[18:23:01] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> vine por food
+[18:23:07] [Server thread/INFO]: Xautral issued server command: /team modify AOV prefix {"text":"[Reino Age of Virgins] ","color":"dark_aqua"}
+[18:23:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> si
+[18:23:15] [Server thread/INFO]: Xautral issued server command: /team join AOV Blah_Blah_Demo
+[18:23:15] [Server thread/INFO]: [[Clan Azteca] Xautral: Added [Reino Age of Virgins] Blah_Blah_Demo to team [Reino Age of Virgins]]
+[18:23:27] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> oe
+[18:23:31] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> dije Sirvientes de Teemo
+[18:23:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> XD
+[18:23:39] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /sethome endermans
+[18:23:40] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tpate
+[18:23:44] [Server thread/INFO]: NOW_POOL123 issued server command: /ok
+[18:23:44] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[18:23:46] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> oye consiguieron plantilla?
+[18:23:47] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[18:23:52] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[18:23:53] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> HUUY
+[18:23:54] [User Authenticator #6/INFO]: UUID of player civercrakpr is 415e40a7-f0bf-3d6a-a3ff-5309534c22cf
+[18:23:54] [Server thread/INFO]: Disconnecting civercrakpr (/127.71.11.84:50507): You are not whitelisted on this server!
+[18:23:54] [Server thread/INFO]: civercrakpr (/127.71.11.84:50507) lost connection: You are not whitelisted on this server!
+[18:24:03] [User Authenticator #6/INFO]: UUID of player civercrakpr is 415e40a7-f0bf-3d6a-a3ff-5309534c22cf
+[18:24:03] [Server thread/INFO]: Disconnecting civercrakpr (/127.71.11.84:46539): You are not whitelisted on this server!
+[18:24:03] [Server thread/INFO]: civercrakpr (/127.71.11.84:46539) lost connection: You are not whitelisted on this server!
+[18:24:12] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> encontre
+[18:24:14] [Server thread/INFO]: NOW_POOL123 issued server command: /msg esto es lejos serca del spawn?
+[18:24:15] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> nuestra base
+[18:24:15] [Server thread/INFO]: [Clan Azteca] Xautral has made the advancement [Acquire Hardware]
+[18:24:16] [Server thread/INFO]: zIkzw issued server command: /tpa _wdegw_
+[18:24:20] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> que?
+[18:24:21] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[18:24:33] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> javi
+[18:24:34] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> la fortaleza
+[18:24:34] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> coje lo que quieras del cofre
+[18:24:36] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> qdegw que encontraste ?
+[18:24:38] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> usted tenia oro no?
+[18:24:39] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ahi hay hierro
+[18:24:40] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> siuuu
+[18:24:40] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> fortaleza
+[18:24:41] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ esto es lejos serca del spawn?
+[18:24:42] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> no yo
+[18:24:43] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> xd
+[18:24:46] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> dame
+[18:24:47] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> bien ahi
+[18:24:48] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> tradearemos
+[18:24:51] [User Authenticator #6/INFO]: UUID of player IF_willygod142 is 3655c992-c7e1-34da-8a15-67ef522bbd8d
+[18:24:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@701069d9[id=3655c992-c7e1-34da-8a15-67ef522bbd8d,name=IF_willygod142,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1NjIzMjY5MTcwNSwKICAicHJvZmlsZUlkIiA6ICI2ZDI0Y2VhNTA1ZDI0YWU5YWMyMWFiY2QxMTA1NTJkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJRl93aWxseWdvZDE0MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85Yzc5MWFmY2E1YjI5NDJjOWVhOTAyODZhMjViNjlmNTNkYzc5YmQyNjU1ZjMwYzAzYzIyZGJiOWNjNGY4MjQ1IgogICAgfQogIH0KfQ==, signature=btd9uqLdaG91GybzHeBxRF2Tpe/fldViv4GPz1ReFEyHaO/i5V0ZL3Hr/idGCtz6GdpNQ8x4Q/XJ0YqMxH/c4wb+JV7ptDOQS1dlnuyVNFbUMi/r6ualI5TX67vDpimfkZ3Y1Qxle4Jfe3YWnGu58fLqTinC+mLLSLE86tHLNNLozJe1CZrRU6zqRprYu8/7RoNQ+d+/zOMFv1jgkKEe7L6jXTsBk2tspPStt4bvXbfg46Vipz/5xfu+X4LY8l0m6nawyDSMysN4eqN+jbRQYhWPziZ+XJTWqFil0T9B289Tg/QELQOtOZ3HJ2JzNSkTO6fEz4jzt9f6XZbkH4MURW2wCmGTWuOOkuRctWqLnI/CBXPsZNBjSHOxjSu3KYTTkDnWfKvm0NJ+sRdP0737asQlWwaCbRqXsSu0kMsDe1rtGTfXde6Qvw40iX2hDeVkMskG/Byn0m/AeCHyAmFe+6EAuZfDkfI8l/PwzcIlnJ3ibJS3dS2HPfNp+hBHaSENR1O/Tath2/WqwtwuzFWfXDC9R5vOugjq/mY7SdYFsPYM4zIaWmgVvWpicI+JzIdwSwecwkeV6Fzpg39NvSgS0n15fNxhc0xX0zTYTKCW+Y3P8IO/+h3mmwttr6UQl/7buIngKzmR3g6i+LFmrGieRVghxaPOnuWwWLPY1RgESP0=]]}] lost connection: Disconnected
+[18:24:56] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 7000 bloques
+[18:24:57] [Server thread/INFO]: [Reino Age of Virgins] Blah_Blah_Demo has made the advancement [Stone Age]
+[18:24:58] [Server thread/INFO]: javimessiu issued server command: /tpa _wdegw_
+[18:25:04] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[18:25:09] [Server thread/INFO]: [Reino Age of Virgins] Blah_Blah_Demo has made the advancement [Getting an Upgrade]
+[18:25:09] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home endermans
+[18:25:10] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> busca piglins
+[18:25:12] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> donde?
+[18:25:16] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> tpeate
+[18:25:21] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> la fortress
+[18:25:24] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> bro quien tiene el oro
+[18:25:28] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> aca
+[18:25:29] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> XD
+[18:25:33] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 equipate vamos por el huevo del dragon
+[18:25:34] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> wdegw
+[18:25:35] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> necesitamos tradear con piglins para potis de resistencia al fuego
+[18:25:36] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> xd
+[18:25:40] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> denme el oro
+[18:26:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> xautral cambiame el nombre del reino xd
+[18:26:12] [Async Chat Thread - #2/INFO]: [Not Secure] <NOW_POOL123> civercrakpr esa es la de mi compañero agregale porfa a la whiltelist
+[18:26:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> al que te dije
+[18:26:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> a cual Blah_Blah_Demo
+[18:26:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> Sirvientes De Teemo
+[18:26:24] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> pero no le pongas reino
+[18:26:25] [Server thread/INFO]: Xautral issued server command: /whitelist add civercrakpr
+[18:26:25] [Server thread/INFO]: [[Clan Azteca] Xautral: Added civercrakpr to the whitelist]
+[18:26:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> ;V
+[18:26:38] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> pues lo mas parecido sería "Dominio de Teemo"
+[18:26:50] [Server thread/INFO]: [Reino Berserk] _wdegw_ has made the advancement [A Terrible Fortress]
+[18:26:50] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [A Terrible Fortress]
+[18:26:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> Sirviente de Temo ponele uwu
+[18:26:55] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> porfa ;V
+[18:26:56] [Server thread/INFO]: NOW_POOL123 issued server command: /msg Xautral agregale a mi copañero
+[18:26:58] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> bueno
+[18:26:59] [Server thread/INFO]: zIkzw issued server command: /tpa _wdegw_
+[18:27:02] [Server thread/INFO]: NOW_POOL123 issued server command: /msg Xautral agregale a mi copañero porfaa
+[18:27:04] [Server thread/INFO]: Xautral issued server command: /tell NOW_POOL123 si, pero agregalo al server de dc
+[18:27:04] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> lo de tradear con piglins os la suda
+[18:27:04] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [Into Fire]
+[18:27:04] [Async Chat Thread - #3/INFO]: [Not Secure] <Blah_Blah_Demo> Sirvientes de Teemo
+[18:27:04] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Surge Protector]
+[18:27:06] [Async Chat Thread - #3/INFO]: [Not Secure] <Blah_Blah_Demo> en plural
+[18:27:06] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[18:27:07] [Server thread/INFO]: [Reino Berserk] zIkzw has made the advancement [A Terrible Fortress]
+[18:27:07] [Async Chat Thread - #3/INFO]: [Not Secure] <Blah_Blah_Demo> uuw
+[18:27:15] [Async Chat Thread - #3/INFO]: [Not Secure] <Blah_Blah_Demo> Sirvientes de Teemo xd
+[18:27:15] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> lo de tradear con piglins?
+[18:27:16] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> berrugas
+[18:27:19] [Async Chat Thread - #3/INFO]: [Not Secure] <NOW_POOL123> civercrakpr esa es la de mi compañero agregale porfa a la whiltelist
+[18:27:20] [Server thread/INFO]: Xautral issued server command: /team modify AOV prefix {"text":"[Dominio de Teemo] ","color":"dark_aqua"}
+[18:27:25] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo has made the advancement [Acquire Hardware]
+[18:27:30] [Async Chat Thread - #3/INFO]: [Not Secure] <Blah_Blah_Demo> pero
+[18:27:32] [Async Chat Thread - #3/INFO]: [Not Secure] <Blah_Blah_Demo> dominio no XD
+[18:27:36] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> aca hay mas
+[18:27:41] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[18:27:43] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ hit the ground too hard
+[18:27:43] [User Authenticator #7/INFO]: UUID of player civercrakpr is 415e40a7-f0bf-3d6a-a3ff-5309534c22cf
+[18:27:47] [Server thread/INFO]: civercrakpr joined the game
+[18:27:47] [Server thread/INFO]: civercrakpr[/127.71.11.84:53561] logged in with entity id 23713 at ([world]8.5, 121.0, 5.5)
+[18:28:02] [Async Chat Thread - #3/INFO]: [Not Secure] <NOW_POOL123> tpa civercrakpr
+[18:28:08] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
+[18:28:08] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
+[18:28:14] [User Authenticator #7/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[18:28:15] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[18:28:15] [Server thread/INFO]: NOW_POOL123[/127.79.177.66:51257] logged in with entity id 24004 at ([world]7371.53725353304, 69.0, -1517.699999988079)
+[18:28:16] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo has made the advancement [Isn't It Iron Pick]
+[18:28:16] [Server thread/INFO]: Xautral issued server command: /team join tukulor civercrakpr
+[18:28:16] [Server thread/INFO]: [[Clan Azteca] Xautral: Added [Reino Tukulor] civercrakpr to team [tukulor]]
+[18:28:18] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> spawn
+[18:28:21] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> PEGALE
+[18:28:22] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> volvi
+[18:28:23] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> q paso
+[18:28:23] [Server thread/INFO]: civercrakpr issued server command: /tpa NOW_POOL123
+[18:28:25] [Server thread/INFO]: NOW_POOL123 issued server command: /tpaccept
+[18:28:30] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> w
+[18:28:30] [Server thread/INFO]: zIkzw issued server command: /tpa _
+[18:28:35] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> spawner
+[18:28:35] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> que
+[18:28:37] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[18:28:38] [Server thread/INFO]: [Reino Tukulor] civercrakpr has made the advancement [Acquire Hardware]
+[18:28:39] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> si
+[18:28:41] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> manbda tp
+[18:28:47] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> truco
+[18:29:24] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> os cuesta hacer una puta jaula
+[18:29:26] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> una varita
+[18:29:30] [Server thread/INFO]: Xautral issued server command: /tp saul23419
+[18:29:30] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Clan Azteca] saul23419]
+[18:29:40] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> 2
+[18:29:40] [Async Chat Thread - #2/INFO]: [Not Secure] <NOW_POOL123> voy a ir a minar luego vengo
+[18:29:59] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> 3
+[18:30:10] [Server thread/INFO]: [Reino Tukulor] civercrakpr has made the advancement [Monster Hunter]
+[18:30:13] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo has made the advancement [Suit Up]
+[18:30:16] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> w
+[18:30:19] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> por q me atacas a mi
+[18:30:20] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> XD
+[18:30:24] [Server thread/INFO]: [Reino Berserk] zIkzw has made the advancement [Not Today, Thank You]
+[18:30:25] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> xd
+[18:30:28] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> 4
+[18:30:34] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> xd
+[18:30:35] [Server thread/INFO]: NOW_POOL123 issued server command: /msg civercrakpr vamos a ir por el dragon equipate bien
+[18:30:36] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:30:36] [Server thread/INFO]: [Clan Azteca] saul23419 was slain by Zombie
+[18:30:39] [Server thread/INFO]: [Clan Azteca] Erick_Papucho has completed the challenge [It Spreads]
+[18:30:44] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> dejen alguna varita
+[18:30:46] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> cuantas tienes
+[18:30:47] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> pal logro
+[18:30:53] [Server thread/INFO]: [Reino Berserk] zIkzw has made the advancement [Into Fire]
+[18:30:59] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ven
+[18:31:03] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> cuantas tienen?
+[18:31:06] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> 1
+[18:31:07] [Async Chat Thread - #3/INFO]: [Not Secure] <_wdegw_> yo 0
+[18:31:10] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> xd
+[18:31:12] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> yo m3
+[18:31:17] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [Spooky Scary Skeleton]

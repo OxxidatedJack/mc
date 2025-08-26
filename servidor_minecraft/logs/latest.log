@@ -837,3 +837,114 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [03:07:40] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> xd
 [03:07:50] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xd
 [03:08:02] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [Hot Stuff]
+[03:08:16] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> w
+[03:08:16] [Server thread/INFO]: Xautral issued server command: /ie attribute add safe_fall_distance 3
+[03:08:18] [Server thread/INFO]: sisos has made the advancement [Suit Up]
+[03:08:21] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> eso es para los hornos
+[03:08:30] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:08:34] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:09:03] [Server thread/INFO]: sisos issued server command: /msg Xautral mano
+[03:09:18] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xautral bro
+[03:09:22] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> que
+[03:09:26] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> regala un efi 1
+[03:09:26] [Server thread/INFO]: Xautral issued server command: /tell sisos que
+[03:09:30] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> no
+[03:09:30] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> no sea malito
+[03:09:35] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> :(
+[03:09:41] [Server thread/INFO]: sisos issued server command: /msg Xautral queres q valla haciendo algunos warps?
+[03:09:43] [Server thread/INFO]: Xautral issued server command: /shopkeeper
+[03:09:52] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[03:09:55] [Server thread/INFO]: Xautral issued server command: /tell sisos sabes programar?
+[03:10:05] [Server thread/INFO]: sisos issued server command: /msg Xautral yo te los construyo
+[03:10:17] [Server thread/INFO]: Xautral issued server command: /tell sisos no, es una pregunta aparte: ¿Sabes programar?
+[03:10:32] [Server thread/INFO]: sisos issued server command: /msg Xautral depende q cosa
+[03:10:41] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> w
+[03:10:50] [Server thread/INFO]: Xautral issued server command: /tell sisos sabes programar que un objeto al dar click derecho ejecute invocar una bala de shulker?
+[03:11:02] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> w
+[03:11:05] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> que
+[03:11:06] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> die
+[03:11:07] [Server thread/INFO]: sisos issued server command: /msg Xautral noup :v
+[03:11:08] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> a
+[03:11:09] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> xdd
+[03:11:14] [Server thread/INFO]: Xautral issued server command: /tell sisos que es lo mas grande que has programado?
+[03:11:14] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> wdegw
+[03:11:16] [Server thread/INFO]: sisos issued server command: /msg Xautral pero aprendo rapido
+[03:11:16] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> bro
+[03:11:17] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> ?
+[03:11:19] [Server thread/INFO]: Xautral issued server command: /tell sisos que es lo mas grande que has programado?
+[03:11:19] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> porque
+[03:11:21] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> solo
+[03:11:23] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> hay
+[03:11:25] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> 1
+[03:11:29] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> aldeano?
+[03:11:34] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> ya traigo XD
+[03:11:37] [Server thread/INFO]: sisos issued server command: /msg Xautral lo de poner los aldeanos y poner las cosas q venda
+[03:11:38] [Server thread/INFO]: Xautral issued server command: /tell sisos ??
+[03:11:52] [Server thread/INFO]: sisos issued server command: /msg Xautral era un sv con amigos
+[03:11:54] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> que trees xd
+[03:12:05] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> traes*
+[03:12:36] [Server thread/INFO]: Xautral issued server command: /tell sisos shopkeeper... vale, haber para hacer algo muy complejo pon: /execute (ejecuta) at (como) player (pon en player cualqueir jugador) run (hace que corra un comando en el jugador) summon (puedes poner cualqueir comand) villager (aldeano
+[03:12:50] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> Xautral
+[03:12:53] [Server thread/INFO]: Xautral issued server command: /tell sisos el comando quedaría así /execute at @a run summon villager
+[03:12:55] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> que
+[03:13:05] [Server thread/INFO]: Xautral issued server command: /tell sisos el comando quedaría así /execute at Player run summon villager
+[03:13:12] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> iré al baño
+[03:13:13] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> dice q el javimessiu te hace 1 vs 1 tu nederite y el cuero por efi 5
+[03:13:15] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> ahorita vengo
+[03:13:18] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> no
+[03:13:20] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:13:20] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> que
+[03:13:28] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> ijueputa
+[03:13:42] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> aunque si me da netherite prote cuatroo y el cuero obvio
+[03:13:47] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:13:56] [Server thread/INFO]: sisos issued server command: /execute at Xautral run kill villager
+[03:13:56] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xddd
+[03:14:02] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> es buen trato
+[03:14:06] [Server thread/INFO]: sisos issued server command: /msg Xautral listo
+[03:14:14] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> aprovechalo xautralk
+[03:14:17] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xd
+[03:14:21] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> xdd
+[03:14:45] [Server thread/INFO]: sisos issued server command: /execute at Xautral run summon villager
+[03:14:45] [Server thread/INFO]: [sisos: Summoned new Villager]
+[03:14:52] [Server thread/INFO]: sisos issued server command: /msg Xautral listo
+[03:15:12] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> ya traje 3 aldeanos
+[03:15:19] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> ien
+[03:15:23] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:15:35] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:15:36] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> ahora trabaja esclazSarkexo
+[03:15:43] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> a eso no era
+[03:15:45] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:15:46] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xd
+[03:15:52] [Server thread/INFO]: sisos issued server command: /execute at sisos run summon villager
+[03:15:52] [Server thread/INFO]: [sisos: Summoned new Villager]
+[03:15:53] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> pt control + v
+[03:15:54] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:16:00] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> bueno aplana
+[03:16:05] [Server thread/INFO]: Villager Villager['Villager'/43218, uuid='6d563b09-5bdb-4d08-8ff0-d7203f560186', l='ServerLevel[world]', x=-225.34, y=63.00, z=-3475.55, cpos=[-15, -218], tl=255, v=true] died, message: 'Villager was slain by sisos'
+[03:16:08] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> se volvera un pelado sarkexo mañana
+[03:16:10] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:16:14] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> si
+[03:16:15] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> aplanae esta
+[03:16:16] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xddd
+[03:16:19] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> xddd
+[03:16:38] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> a zSarkex le voy hacer q se le caigan las manos de tanto click
+[03:16:51] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xddd
+[03:16:53] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:17:10] [Server thread/INFO]: sisos has made the advancement [Hot Stuff]
+[03:17:11] [Server thread/INFO]: [Reino Berserk] _wdegw_ was slain by [Reino Berserk] javimessiu
+[03:17:23] [Server thread/INFO]: [Reino Berserk] javimessiu was slain by [Reino Berserk] _wdegw_
+[03:17:23] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> volvi
+[03:17:27] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> calmate
+[03:17:29] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:17:30] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xd
+[03:17:45] [Server thread/INFO]: Xautral issued server command: /tell sisos que comando pusiste?
+[03:17:56] [Server thread/INFO]: sisos issued server command: /msg Xautral el q me dijiste
+[03:18:04] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> w
+[03:18:08] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> pasa mis pantalones
+[03:18:09] [Server thread/INFO]: Xautral issued server command: /tell sisos bien, si entendiste algo?
+[03:18:15] [Server thread/INFO]: sisos issued server command: /msg Xautral si
+[03:18:28] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> pasa mi pechera y casco
+[03:18:32] [Server thread/INFO]: Xautral issued server command: /tell sisos haber, ahora haz que me invoque una bola de fuego (summon fireball)
+[03:18:33] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:18:34] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[03:18:34] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> grax

@@ -16,5 +16,62 @@ data-version: 4|2|4440
     profession: minecraft:none
     villagerType: minecraft:plains
     villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:fermented_spider_eye
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"Right
+            Click to consume and gain +1 heart",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:1b,color:"red",italic:0b,obfuscated:0b,strikethrough:0b,text:"Heart",underlined:0b}],text:""}'
+          minecraft:custom_model_data: '{floats:[223.0f]}'
+          minecraft:custom_data: '{PublicBukkitValues:{"kyrenlifesteal2:heart":""}}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:chorus_fruit
+        count: 64
+      item2:
+        DataVersion: 4440
+        id: minecraft:golden_apple
+        count: 19
+    '2':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:book
+        count: 1
+        components:
+          minecraft:lore: '[{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Rename
+            this to the player you want to revive",underlined:0b}],text:""},{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Right
+            click to revive the player",underlined:0b}],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:1b,color:"light_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"Revive
+            Book",underlined:0b}],text:""}'
+          minecraft:custom_model_data: '{floats:[223.0f]}'
+          minecraft:custom_data: '{PublicBukkitValues:{"kyrenlifesteal2:revive_book":""}}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:popped_chorus_fruit
+        count: 64
+      item2:
+        DataVersion: 4440
+        id: minecraft:resin_clump
+        count: 64
+  snapshots: []
+'2':
+  uniqueId: b79084b5-2611-4681-b02c-69ed44029d51
+  world: world
+  x: -170
+  y: 131
+  z: 5
+  yaw: 140.83542
+  type: admin
+  name: PVP Villager
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
   recipes: {}
   snapshots: []

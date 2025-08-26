@@ -66,14 +66,32 @@ data-version: 4|2|4440
   z: 5
   yaw: 140.83542
   type: admin
-  name: PVP Villager
+  name: KIT PVP
   object:
     type: villager
     baby: false
     profession: minecraft:none
     villagerType: minecraft:plains
     villagerLevel: 1
-  recipes: {}
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:light_gray_shulker_box
+        count: 1
+      item1:
+        DataVersion: 4440
+        id: minecraft:bedrock
+        count: 1
+    '2':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:blue_shulker_box
+        count: 1
+      item1:
+        DataVersion: 4440
+        id: minecraft:bedrock
+        count: 1
   snapshots: []
 '3':
   uniqueId: 5ba9b738-948e-42f5-850c-32683db775d3

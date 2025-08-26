@@ -2387,3 +2387,33 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [20:24:30] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> y tambien de end crysatls
 [20:24:32] [Server thread/INFO]: saul23419 issued server command: /home aztecas
 [20:24:34] [Async Chat Thread - #27/INFO]: [Not Secure] <sisos> sisi
+[20:24:39] [Server thread/INFO]: sisos issued server command: /home preparacion
+[20:26:53] [Server thread/INFO]: Erick_Papucho issued server command: /tpa saul23419
+[20:27:01] [Server thread/INFO]: saul23419 issued server command: /tpaccept
+[20:28:08] [Server thread/INFO]: [Clan Azteca] Erick_Papucho has made the advancement [A Seedy Place]
+[20:30:58] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> Xautral
+[20:31:02] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> que
+[20:31:12] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> al kit pot lo ago de netherita o de diamante
+[20:31:23] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> diamante
+[20:31:26] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> oki
+[20:31:28] [Server thread/INFO]: [Admin] sisos has made the advancement [Cover Me with Diamonds]
+[20:31:52] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:31:52] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:31:53] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:31:53] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:31:54] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:31:54] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:31:55] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:31:55] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:31:57] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> que haces
+[20:32:02] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> el kit pot es de pot pvp
+[20:32:10] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> aaaaa
+[20:32:17] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> osea solo pot
+[20:32:18] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> el de crystals es de blast protection
+[20:32:30] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> al pot pvp solo ponle protección así sola
+[20:32:37] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> y al de crystal y nexus el de blast protection
+[20:32:39] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> prote cuanto?
+[20:34:16] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> lito
+[20:34:34] [Server thread/INFO]: Xautral issued server command: /warp spawn
+[20:34:41] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> prote para PotPVP es prote 5
+[20:34:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> y de crystal y nexus blast prote 5

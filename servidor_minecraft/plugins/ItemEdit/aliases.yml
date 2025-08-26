@@ -34,7 +34,7 @@ enchant:
   power: power
   infinity: infinity
   glowing_enchant: glowing_enchant
-  piercing: piercing
+  piercing: piercing11
   multishot: multishot
   quick_charge: quick_charge
   soul_speed: soul_speed
@@ -44,6 +44,78 @@ enchant:
   breach: breach
   wind_burst: wind_burst
   ae_glow: ae_glow
+  lightweight: lightweight
+  decapitation: decapitation
+  flippers: flippers
+  updraft: updraft
+  detonate: detonate
+  vanish: vanish
+  skullcrusher: skullcrusher
+  ascend: ascend
+  farmer: farmer
+  withering: withering
+  dodge: dodge
+  slaughter: slaughter
+  xpboost: xpboost
+  spotlight: spotlight
+  predator: predator
+  multishoot: multishoot
+  feast: feast
+  confusion: confusion
+  explosive: explosive
+  consume: consume
+  frostbite: frostbite
+  arrowstorm: arrowstorm
+  teleport: teleport
+  angler: angler
+  backstabber: backstabber
+  leap: leap
+  hellhunter: hellhunter
+  dismantle: dismantle
+  heavy: heavy
+  lavawalker: lavawalker
+  disarm: disarm
+  autosmelt: autosmelt
+  excavator: excavator
+  shockwave: shockwave
+  inflame: inflame
+  thanos: thanos
+  veinminer: veinminer
+  magnet: magnet
+  enderaura: enderaura
+  growth: growth
+  lightning: lightning
+  speed: speed
+  missile: missile
+  gravity: gravity
+  blastoff: blastoff
+  headshot: headshot
+  adrenaline: adrenaline
+  dash: dash
+  deflecting: deflecting
+  weaken: weaken
+  harvester: harvester
+  famine: famine
+  enlightened: enlightened
+  resilience: resilience
+  dragonhunter: dragonhunter
+  timber: timber
+  blindness: blindness
+  critical: critical
+  nightowl: nightowl
+  bloodlust: bloodlust
+  archer: archer
+  coward: coward
+  abiding: abiding
+  hook: hook
+  cubism: cubism
+  doublestrike: doublestrike
+  freeze: freeze
+  bait: bait
+  jetpack: jetpack
+  ninja: ninja
+  bleed: bleed
+  healthsteal: healthsteal
 banner_pattern:
   square_bottom_left: bottom_left_corner
   square_bottom_right: bottom_right_corner

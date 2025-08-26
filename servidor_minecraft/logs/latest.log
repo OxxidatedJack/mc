@@ -2218,3 +2218,109 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [20:02:32] [Async Chat Thread - #21/INFO]: [Not Secure] <sisos> xd
 [20:03:34] [Server thread/INFO]: Villager Villager['Farmer'/102356, uuid='476bfe8d-16d2-4dd5-9137-c5e4fde38fc3', l='ServerLevel[world]', x=-482.70, y=62.57, z=-4049.43, cpos=[-31, -254], tl=4687, v=true] died, message: 'Farmer was slain by Zombie'
 [20:03:47] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> duerma 1 mas
+[20:04:02] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> zIkzw
+[20:04:26] [Server thread/INFO]: sisos issued server command: /tpa Xautral
+[20:04:31] [Server thread/INFO]: Xautral issued server command: /tpaccept
+[20:04:40] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> no tengo coras
+[20:04:50] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:saturation 20 20 true
+[20:04:50] [Server thread/INFO]: [[Clan Azteca] Xautral: Applied effect Saturation to 5 targets]
+[20:04:58] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:saturation 20 20 true
+[20:04:58] [Server thread/INFO]: [[Clan Azteca] Xautral: Applied effect Saturation to 5 targets]
+[20:05:14] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> ayudo en algo?
+[20:05:16] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> si
+[20:05:19] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> en q
+[20:05:22] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> a replantar y a traer tierra
+[20:05:23] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> oye
+[20:05:30] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> q
+[20:05:31] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> el saul23419 me dice por lalmada que si eres hombre o mujer?
+[20:05:38] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> hombre
+[20:05:49] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> xq?
+[20:05:52] [Server thread/INFO]: Xautral issued server command: /seed
+[20:05:54] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> 8237067225730901071
+[20:05:56] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> por tu skin
+[20:06:01] [Server thread/INFO]: Xautral issued server command: /msg Erick_Papucho esa es la seed: 8237067225730901071
+[20:06:04] [Async Chat Thread - #23/INFO]: [Not Secure] <sisos> a es alex?
+[20:06:07] [Async Chat Thread - #23/INFO]: [Not Secure] <Xautral> si
+[20:06:09] [Async Chat Thread - #23/INFO]: [Not Secure] <sisos> aaa
+[20:06:13] [Async Chat Thread - #23/INFO]: [Not Secure] <sisos> ahorita la cambio
+[20:06:16] [Server thread/INFO]: sisos issued server command: /skins
+[20:06:32] [Async Chat Thread - #23/INFO]: [Not Secure] <sisos> lito
+[20:06:34] [Server thread/INFO]: Xautral issued server command: /msg Erick_Papucho 8237067225730901071
+[20:06:50] [Async Chat Thread - #22/INFO]: [Not Secure] <zIkzw> volvi
+[20:07:03] [Async Chat Thread - #22/INFO]: [Not Secure] <zIkzw> sisos alfinal eres de nuestro team si o no?
+[20:07:04] [Server thread/INFO]: sisos issued server command: /warps
+[20:07:10] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> n
+[20:07:11] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> o
+[20:07:14] [Async Chat Thread - #22/INFO]: [Not Secure] <zIkzw> xd
+[20:07:15] [Async Chat Thread - #23/INFO]: [Not Secure] <Xautral> xed
+[20:07:16] [Async Chat Thread - #23/INFO]: [Not Secure] <Xautral> xd
+[20:07:18] [Async Chat Thread - #23/INFO]: [Not Secure] <Xautral> cfff
+[20:07:19] [Async Chat Thread - #23/INFO]: [Not Secure] <sisos> xd
+[20:07:19] [Async Chat Thread - #23/INFO]: [Not Secure] <saul23419> se unio al nuestro
+[20:07:27] [Async Chat Thread - #23/INFO]: [Not Secure] <zIkzw> a cual?
+[20:07:31] [Async Chat Thread - #23/INFO]: [Not Secure] <zIkzw> quien?
+[20:07:39] [Async Chat Thread - #23/INFO]: [Not Secure] <saul23419> al azteca
+[20:07:42] [Async Chat Thread - #23/INFO]: [Not Secure] <zIkzw> quien se unio?
+[20:07:46] [Async Chat Thread - #23/INFO]: [Not Secure] <zIkzw> quien?
+[20:07:49] [Server thread/INFO]: sisos issued server command: /msg Xautral mano
+[20:07:51] [Async Chat Thread - #22/INFO]: [Not Secure] <saul23419> sisos
+[20:07:56] [Async Chat Thread - #22/INFO]: [Not Secure] <zIkzw> quien te pregunto bld
+[20:07:57] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> diga
+[20:08:12] [Async Chat Thread - #22/INFO]: [Not Secure] <saul23419> tu estupido
+[20:08:16] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> cual hay con saul
+[20:08:19] [Async Chat Thread - #22/INFO]: [Not Secure] <zIkzw> callate perra
+[20:08:20] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> wachin
+[20:08:29] [Server thread/INFO]: Xautral issued server command: /tell sisos que
+[20:08:34] [Async Chat Thread - #23/INFO]: [Not Secure] <saul23419> perra tu madre
+[20:08:39] [Async Chat Thread - #23/INFO]: [Not Secure] <sisos> xd
+[20:08:41] [Async Chat Thread - #23/INFO]: [Not Secure] <zIkzw> a ok
+[20:08:52] [Server thread/INFO]: sisos issued server command: /msg Xautral ago el aldeano de kits
+[20:08:56] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[20:08:59] [Server thread/INFO]: sisos issued server command: /msg Xautral ok+
+[20:09:25] [Server thread/INFO]: sisos issued server command: /gamemode 1
+[20:09:25] [Server thread/INFO]: Xautral issued server command: /home salida2
+[20:09:30] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[20:09:30] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[20:09:54] [Async Chat Thread - #22/INFO]: [Not Secure] <zIkzw> mierda
+[20:09:59] [Server thread/INFO]: Xautral issued server command: /home home
+[20:10:02] [Server thread/INFO]: Xautral issued server command: /inv zIkzw
+[20:10:02] [Server thread/INFO]: sisos issued server command: /msg Xautral mira, te voy a decir todos los kits q hay osea q voy a poner
+[20:10:34] [Server thread/INFO]: sisos issued server command: /msg Xautral 1) kit encantador (osea de encantar)
+[20:10:39] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[20:10:48] [Server thread/INFO]: Xautral issued server command: /tell sisos tambien de end crystal y PotPVP
+[20:10:53] [Server thread/INFO]: sisos issued server command: /msg Xautral 2) pvp crystal
+[20:10:57] [Server thread/INFO]: sisos issued server command: /msg Xautral si
+[20:11:05] [Server thread/INFO]: sisos issued server command: /msg Xautral kit mazo
+[20:11:15] [Server thread/INFO]: sisos issued server command: /msg Xautral y despues a pensar
+[20:11:29] [Async Chat Thread - #22/INFO]: [Not Secure] <zIkzw> ads
+[20:11:37] [Async Chat Thread - #22/INFO]: [Not Secure] <zIkzw> adio
+[20:11:43] [Server thread/INFO]: zIkzw lost connection: Disconnected
+[20:11:43] [Server thread/INFO]: [Reino Berserk] zIkzw left the game
+[20:11:46] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> ok
+[20:11:56] [Async Chat Thread - #22/INFO]: [Not Secure] <sisos> paz
+[20:12:24] [Server thread/INFO]: sisos issued server command: /msg Xautral tranca si ves q consigo el logro de armor de netherita, es pa los kit
+[20:12:30] [Server thread/INFO]: [Admin] sisos has completed the challenge [Cover Me in Debris]
+[20:12:58] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:protection 4
+[20:12:58] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Protection IV to [Admin] sisos's item]
+[20:12:59] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:protection 4
+[20:12:59] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Protection IV to [Admin] sisos's item]
+[20:13:00] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:protection 4
+[20:13:00] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Protection IV to [Admin] sisos's item]
+[20:13:01] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:protection 4
+[20:13:01] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Protection IV to [Admin] sisos's item]
+[20:13:09] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:unbreaking 3
+[20:13:09] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Unbreaking III to [Admin] sisos's item]
+[20:13:11] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:unbreaking 3
+[20:13:11] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Unbreaking III to [Admin] sisos's item]
+[20:13:12] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:unbreaking 3
+[20:13:12] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Unbreaking III to [Admin] sisos's item]
+[20:13:15] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:unbreaking 3
+[20:13:15] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Unbreaking III to [Admin] sisos's item]
+[20:13:24] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:mending 1
+[20:13:24] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Mending to [Admin] sisos's item]
+[20:13:26] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:mending 1
+[20:13:26] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Mending to [Admin] sisos's item]
+[20:13:26] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:mending 1
+[20:13:26] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Mending to [Admin] sisos's item]
+[20:13:28] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:mending 1
+[20:13:28] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Mending to [Admin] sisos's item]

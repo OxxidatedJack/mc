@@ -2526,3 +2526,64 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [20:53:51] [Async Chat Thread - #38/INFO]: [Not Secure] <sisos> xd
 [20:54:26] [Async Chat Thread - #38/INFO]: [Not Secure] <sisos> pa q sea dificil de conseguir
 [20:54:47] [Async Chat Thread - #38/INFO]: [Not Secure] <sisos> Xautral esta?
+[20:55:56] [Server thread/INFO]: sisos issued server command: /ie enchant protection 6
+[20:55:57] [Server thread/INFO]: sisos issued server command: /ie enchant protection 6
+[20:55:58] [Server thread/INFO]: sisos issued server command: /ie enchant protection 6
+[20:55:59] [Server thread/INFO]: sisos issued server command: /ie enchant protection 6
+[20:56:12] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 7
+[20:56:13] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 7
+[20:56:13] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 7
+[20:56:14] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 7
+[20:56:21] [Server thread/INFO]: Xautral lost connection: Disconnected
+[20:56:21] [Server thread/INFO]: [Clan Azteca] Xautral left the game
+[20:56:26] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[20:56:26] [User Authenticator #15/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[20:56:27] [Server thread/INFO]: [Clan Azteca] Xautral joined the game
+[20:56:27] [Server thread/INFO]: Xautral[/127.115.99.248:49923] logged in with entity id 124736 at ([world]-695.987897546463, -49.0, 41.95589083890488)
+[20:56:27] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[20:56:28] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[20:56:30] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[20:56:45] [Async Chat Thread - #40/INFO]: [Not Secure] <sisos> Xautral
+[20:56:55] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> que
+[20:57:00] [Async Chat Thread - #40/INFO]: [Not Secure] <sisos> creo KIT OP?
+[20:57:04] [Async Chat Thread - #40/INFO]: [Not Secure] <Xautral> no
+[20:57:09] [Async Chat Thread - #40/INFO]: [Not Secure] <sisos> ok
+[20:59:59] [Async Chat Thread - #42/INFO]: [Not Secure] <sisos> Xautral
+[21:00:02] [Async Chat Thread - #42/INFO]: [Not Secure] <Xautral> que
+[21:00:08] [Async Chat Thread - #42/INFO]: [Not Secure] <sisos> ven a trades
+[21:00:19] [Async Chat Thread - #42/INFO]: [Not Secure] <sisos> el KIT PVP
+[21:00:29] [Async Chat Thread - #43/INFO]: [Not Secure] <Xautral> bro
+[21:00:33] [Async Chat Thread - #43/INFO]: [Not Secure] <sisos> q
+[21:00:34] [Async Chat Thread - #43/INFO]: [Not Secure] <Xautral> todos los kits son pvp
+[21:00:38] [Async Chat Thread - #43/INFO]: [Not Secure] <sisos> si
+[21:00:52] [Async Chat Thread - #43/INFO]: [Not Secure] <sisos> pero al aldeano q se llama asi
+[21:00:56] [Async Chat Thread - #43/INFO]: [Not Secure] <Xautral> aaa si
+[21:00:59] [Async Chat Thread - #43/INFO]: [Not Secure] <sisos> xd
+[21:01:10] [Async Chat Thread - #43/INFO]: [Not Secure] <sisos> estan bien los precios?
+[21:02:25] [Server thread/INFO]: sisos issued server command: /ie color yelow
+[21:02:43] [Server thread/INFO]: Xautral issued server command: /whitelist add Plechini44
+[21:02:43] [Server thread/INFO]: [[Clan Azteca] Xautral: Added Plechini44 to the whitelist]
+[21:02:51] [Async Chat Thread - #44/INFO]: [Not Secure] <sisos> xd
+[21:02:59] [User Authenticator #16/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[21:03:02] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[21:03:02] [Server thread/INFO]: NOW_POOL123[/127.79.177.66:34803] logged in with entity id 125923 at ([world_the_end]1344.8990060290475, 57.0, -717.3715326381409)
+[21:03:06] [Async Chat Thread - #44/INFO]: [Not Secure] <Xautral> hola
+[21:03:07] [Server thread/INFO]: sisos issued server command: /ie rename &e hola
+[21:03:09] [Async Chat Thread - #44/INFO]: [Not Secure] <saul23419> por que se sielenciaron
+[21:03:13] [Async Chat Thread - #44/INFO]: [Not Secure] <Xautral> ?
+[21:03:20] [Server thread/INFO]: sisos issued server command: /ie rename &y EXTRAÑO
+[21:03:22] [Async Chat Thread - #44/INFO]: [Not Secure] <NOW_POOL123> holla
+[21:03:26] [Server thread/INFO]: sisos issued server command: /ie rename &a EXTRAÑO
+[21:03:35] [Server thread/INFO]: sisos issued server command: /ie rename &u EXTRAÑO
+[21:03:39] [Server thread/INFO]: sisos issued server command: /ie rename &1 EXTRAÑO
+[21:03:43] [Server thread/INFO]: sisos issued server command: /ie rename &2 EXTRAÑO
+[21:03:47] [Server thread/INFO]: sisos issued server command: /ie rename &3 EXTRAÑO
+[21:03:51] [Server thread/INFO]: sisos issued server command: /ie rename &4 EXTRAÑO
+[21:03:57] [Server thread/INFO]: sisos issued server command: /ie rename &5 EXTRAÑO
+[21:04:00] [Server thread/INFO]: sisos issued server command: /ie rename &6 EXTRAÑO
+[21:04:05] [Server thread/INFO]: sisos issued server command: /ie rename &7 a
+[21:04:08] [Server thread/INFO]: sisos issued server command: /ie rename &8 a
+[21:04:12] [Server thread/INFO]: sisos issued server command: /ie rename &9 a
+[21:04:19] [Server thread/INFO]: sisos issued server command: /ie rename &10 asd
+[21:04:30] [Async Chat Thread - #46/INFO]: [Not Secure] <sisos> hola
+[21:05:06] [Async Chat Thread - #46/INFO]: [Not Secure] <saul23419> erick por que estas silenciado

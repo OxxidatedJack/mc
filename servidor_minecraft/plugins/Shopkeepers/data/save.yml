@@ -301,14 +301,129 @@ data-version: 4|2|4440
 '7':
   uniqueId: b46f044d-c010-44ea-866c-87f932e44abd
   world: world
-  x: -169
+  x: -162
   y: 131
-  z: 11
-  yaw: 210.0201
+  z: 12
+  yaw: 187.60722
   type: admin
-  name: ''
+  name: Sea Trader
   object:
     type: drowned
+    equipment:
+      HAND:
+        DataVersion: 4440
+        id: minecraft:nautilus_shell
+        count: 1
+        components:
+          minecraft:repair_cost: '1'
+          minecraft:enchantments: '{"minecraft:aqua_affinity":1}'
+      OFF_HAND:
+        DataVersion: 4440
+        id: minecraft:trident
+        count: 1
+      FEET:
+        DataVersion: 4440
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:dyed_color: '1481884'
+      LEGS:
+        DataVersion: 4440
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:dyed_color: '1481884'
+      CHEST:
+        DataVersion: 4440
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:dyed_color: '1481884'
+      HEAD:
+        DataVersion: 4440
+        id: minecraft:turtle_helmet
+        count: 1
     baby: false
-  recipes: {}
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:diamond
+        count: 10
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_blue",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRO",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:diamond
+        count: 64
+    '2':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:diamond
+        count: 10
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_green",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRAL",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:diamond
+        count: 64
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_blue",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRO",underlined:0b}],text:""}'
+    '3':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:prismarine_crystals
+        count: 10
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_aqua",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            FRAGMENTO ROTO",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:diamond
+        count: 64
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_green",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRAL",underlined:0b}],text:""}'
+    '4':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:prismarine_shard
+        count: 10
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            FRAGMENTO",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:prismarine_crystals
+        count: 64
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_aqua",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            FRAGMENTO ROTO",underlined:0b}],text:""}'
+    '5':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:heart_of_the_sea
+        count: 10
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRO",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:prismarine_shard
+        count: 64
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            FRAGMENTO",underlined:0b}],text:""}'
   snapshots: []

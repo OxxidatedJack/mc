@@ -488,3 +488,90 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [01:55:44] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Disconnected
 [01:55:44] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ left the game
 [01:55:45] [Async Chat Thread - #4/INFO]: [Not Secure] <javimessiu> xd
+[01:56:15] [Async Chat Thread - #4/INFO]: [Not Secure] <javimessiu> estamos solitos wdegw
+[01:56:22] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> xddd
+[01:56:24] [Async Chat Thread - #4/INFO]: [Not Secure] <javimessiu> xddd
+[01:57:14] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [Enchanter]
+[01:58:00] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> lag?
+[01:58:02] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> no
+[01:58:06] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> a ya
+[01:58:08] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> xd
+[01:58:46] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> w
+[01:58:50] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> va a tocar aplanar todo
+[01:58:51] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> XD
+[01:58:51] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> que es w?
+[01:58:55] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> xd
+[01:58:59] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> es we
+[01:59:00] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> XD
+[01:59:04] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> ahhhh
+[01:59:12] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> eso sono muy m´l
+[01:59:14] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> xd
+[01:59:18] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> XD
+[01:59:25] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> okey mas bien se escribio muy mal xdd
+[01:59:39] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> bueno va a tocar aplanar
+[01:59:48] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> lo aplanas tu safo
+[01:59:51] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[01:59:52] [Server thread/INFO]: Xautral joined the game
+[01:59:52] [Server thread/INFO]: Xautral[/127.115.99.248:41721] logged in with entity id 6663 at ([world]-169.07360085267013, 131.0, 2.300000011920929)
+[01:59:52] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> XD
+[01:59:53] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 6785a922-5c6f-40fd-9111-1344a78362eb, mapped to EnderMan['Enderman'/6684, uuid='6785a922-5c6f-40fd-9111-1344a78362eb', l='ServerLevel[world]', x=-169.50, y=67.00, z=95.50, cpos=[-11, 5], tl=0, v=true], can't add EnderMan['Enderman'/6720, uuid='6785a922-5c6f-40fd-9111-1344a78362eb', l='ServerLevel[world]', x=-168.83, y=67.00, z=96.48, cpos=[-11, 6], tl=0, v=false]
+[02:00:01] [User Authenticator #1/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[02:00:02] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ joined the game
+[02:00:02] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.95.225.242:46135] logged in with entity id 6891 at ([world]5623.44259711616, 62.110764312744145, -1137.6297412802892)
+[02:00:05] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> chupala wdegw
+[02:00:08] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> digo
+[02:00:09] [Server thread/INFO]: Xautral issued server command: /fill -171 134 12
+[02:00:10] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> XDDDDDDDDDDD
+[02:00:11] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> no osea
+[02:00:15] [Server thread/INFO]: Xautral issued server command: /fill -171 134 12 -171 134 12 deepslate
+[02:00:15] [Server thread/INFO]: [Xautral: Successfully filled 1 block(s)]
+[02:00:15] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> malentendido
+[02:00:20] [Async Chat Thread - #7/INFO]: [Not Secure] <ZXxAlanJosuxXZ> que hacian?
+[02:00:20] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> xdddddd
+[02:00:22] [Server thread/INFO]: Xautral issued server command: /fill -171 134 12 -161 134 2 deepslate
+[02:00:22] [Server thread/INFO]: [Xautral: Successfully filled 120 block(s)]
+[02:00:24] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> nada
+[02:00:26] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> nada
+[02:00:29] [Server thread/INFO]: Xautral issued server command: /fill -171 134 12 -161 134 2 minecraft:deepslate_tile_wall
+[02:00:29] [Server thread/INFO]: [Xautral: Successfully filled 121 block(s)]
+[02:00:39] [Async Chat Thread - #6/INFO]: [Not Secure] <ZXxAlanJosuxXZ> es server no peli +18
+[02:00:43] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> no lo puedo decir o me metaran de por a la carcel xddd
+[02:00:44] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> XD
+[02:00:47] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> xdddddd
+[02:00:55] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> javimessiu
+[02:00:58] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> dame diamantes w
+[02:00:59] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> mande?
+[02:01:09] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> I DONT HAVE W
+[02:01:59] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> XDD
+[02:02:01] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> pasa
+[02:02:06] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> estas a medio cora
+[02:02:08] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> MEDIO CORA
+[02:02:14] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> SI
+[02:02:20] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> dame diamantes
+[02:02:21] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> X
+[02:02:25] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> ESTA BIENW
+[02:02:28] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> XDD
+[02:02:32] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> yaya xddd
+[02:02:39] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> NO CONFIO
+[02:02:54] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> XD
+[02:03:06] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> w pasa
+[02:03:45] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> W pasa
+[02:03:46] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> DEJAME
+[02:03:49] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> para aplanar
+[02:03:50] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> XD
+[02:04:08] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> ya vez Xautral despue de matar a medio svr
+[02:04:09] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> XD
+[02:04:11] [Async Chat Thread - #8/INFO]: [Not Secure] <javimessiu> IENES MANZABNAS
+[02:04:17] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> no
+[02:04:18] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> xd
+[02:05:22] [Server thread/INFO]: [Reino Berserk] _wdegw_ has made the advancement [Take Aim]
+[02:05:26] [Async Chat Thread - #10/INFO]: [Not Secure] <_wdegw_> XD
+[02:05:29] [Async Chat Thread - #10/INFO]: [Not Secure] <javimessiu> PERA
+[02:05:48] [Async Chat Thread - #10/INFO]: [Not Secure] <javimessiu> EL QUE ME MATE LE GUSTA ZINKZ
+[02:05:56] [Async Chat Thread - #9/INFO]: [Not Secure] <_wdegw_> XDDDDD
+[02:05:59] [Async Chat Thread - #9/INFO]: [Not Secure] <javimessiu> XDDDDDDD
+[02:06:22] [Async Chat Thread - #9/INFO]: [Not Secure] <ZXxAlanJosuxXZ> EL ULTIMO EN DORMIN FAN DE KUNO
+[02:06:25] [Async Chat Thread - #9/INFO]: [Not Secure] <_wdegw_> XD
+[02:06:28] [Async Chat Thread - #9/INFO]: [Not Secure] <javimessiu> EL XAUTRAL ME MATARIA INSTANTANEAMENTE XDDD
+[02:06:33] [Async Chat Thread - #9/INFO]: [Not Secure] <_wdegw_> XDDD
+[02:06:39] [Async Chat Thread - #10/INFO]: [Not Secure] <javimessiu> XD

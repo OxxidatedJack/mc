@@ -1607,3 +1607,270 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [19:02:22] [Async Chat Thread - #3/INFO]: [Not Secure] <NOW_POOL123> si
 [19:02:22] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tienes bloques?
 [19:02:24] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> encontraron algo?
+[19:02:26] [Async Chat Thread - #3/INFO]: [Not Secure] <NOW_POOL123> muchisimos
+[19:02:30] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ven
+[19:02:32] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ocupo eso
+[19:02:34] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[19:02:37] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[19:02:43] [Async Chat Thread - #3/INFO]: [Not Secure] <NOW_POOL123> toma
+[19:02:44] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> las damas primero xd
+[19:02:45] [Server thread/INFO]: Blah_Blah_Demo lost connection: Disconnected
+[19:02:45] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo left the game
+[19:02:49] [Server thread/INFO]: civercrakpr issued server command: /tpa ZXxAlanJosuxXZ
+[19:02:51] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> xD
+[19:02:54] [User Authenticator #12/INFO]: UUID of player saul23419 is 72e5a4dc-d032-3065-b7fb-c3e8c4469409
+[19:02:54] [Async Chat Thread - #2/INFO]: [Not Secure] <zIkzw> ok XD
+[19:02:55] [Server thread/INFO]: [Clan Azteca] saul23419 joined the game
+[19:02:55] [Server thread/INFO]: saul23419[/127.85.129.171:33927] logged in with entity id 52641 at ([world]-693.541395639463, -43.0, 28.307809029775317)
+[19:02:55] [Async Chat Thread - #3/INFO]: [Not Secure] <javimessiu> xd
+[19:02:59] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[19:02:59] [Server thread/INFO]: [Reino Tukulor] civercrakpr has made the advancement [The End?]
+[19:03:08] [Async Chat Thread - #3/INFO]: [Not Secure] <zIkzw> CUIDAO
+[19:04:20] [Async Chat Thread - #4/INFO]: [Not Secure] <javimessiu> mejor el que la encuenntre se las queda
+[19:04:24] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> no
+[19:04:36] [Async Chat Thread - #4/INFO]: [Not Secure] <javimessiu> si o envidia
+[19:04:40] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> envidiame est
+[19:04:53] [Server thread/INFO]: javimessiu issued server command: /tpa zIkzw
+[19:04:58] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> por tu camino bro
+[19:05:00] [Async Chat Thread - #4/INFO]: [Not Secure] <javimessiu> acepta puto
+[19:05:06] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> tanto que hablas perra
+[19:05:12] [Server thread/INFO]: zIkzw issued server command: /tpaccept
+[19:05:39] [Server thread/INFO]: civercrakpr issued server command: /tpa InternetPremium
+[19:05:52] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ tpa encontre
+[19:05:57] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpa NOW_POOL123
+[19:05:58] [Async Chat Thread - #5/INFO]: [Not Secure] <zIkzw> creo q tengo end city
+[19:06:02] [Server thread/INFO]: NOW_POOL123 issued server command: /tpaccept
+[19:06:19] [Async Chat Thread - #5/INFO]: [Not Secure] <civercrakpr> encontre
+[19:06:37] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> afk un momento
+[19:06:40] [Async Chat Thread - #4/INFO]: [Not Secure] <javimessiu> que cosa?
+[19:06:47] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> civer
+[19:06:53] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> nd
+[19:07:00] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> se equivoco
+[19:07:02] [Async Chat Thread - #5/INFO]: [Not Secure] <civercrakpr> ya la encontraron tmb
+[19:07:06] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> un portal nomas es
+[19:07:09] [Server thread/INFO]: [Reino Tukulor] civercrakpr has made the advancement [The City at the End of the Game]
+[19:07:31] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [The City at the End of the Game]
+[19:07:31] [Server thread/INFO]: InternetPremium issued server command: /home post pilaller
+[19:07:33] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> la rata de zikzw es puuta no nos va a dar nada
+[19:07:46] [Server thread/INFO]: InternetPremium issued server command: /sethome postpilaller
+[19:07:46] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> XD
+[19:07:49] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> xd
+[19:07:52] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has reached the goal [Sky's the Limit]
+[19:07:53] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ tu ve me voy a matar yooo pero me das la armor que encuentres
+[19:08:04] [Server thread/INFO]: InternetPremium issued server command: /tpa NOW_POOL123
+[19:08:07] [Async Chat Thread - #4/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tpa
+[19:08:08] [Server thread/INFO]: NOW_POOL123 issued server command: /tpaccept
+[19:08:08] [Server thread/INFO]: [Reino Tukulor] InternetPremium has made the advancement [The End?]
+[19:08:13] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [The City at the End of the Game]
+[19:08:18] [Server thread/INFO]: [Reino Tukulor] InternetPremium has made the advancement [The City at the End of the Game]
+[19:08:23] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 tpa
+[19:08:33] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa _wdegw_
+[19:08:40] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[19:08:45] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[19:08:49] [Server thread/INFO]: [Reino Tukulor] civercrakpr fell from a high place
+[19:08:56] [Async Chat Thread - #5/INFO]: [Not Secure] <NOW_POOL123> pera
+[19:09:01] [Server thread/INFO]: civercrakpr issued server command: /tpa NOW_POOL123
+[19:09:10] [Server thread/INFO]: NOW_POOL123 issued server command: /tpaccept
+[19:09:14] [Server thread/INFO]: InternetPremium issued server command: /tpaccept
+[19:09:45] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[19:09:52] [Async Chat Thread - #5/INFO]: [Not Secure] <NOW_POOL123> acepra
+[19:10:01] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[19:10:12] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> toma
+[19:11:00] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> coje el pico
+[19:11:12] [Server thread/INFO]: [Reino Tukulor] InternetPremium has made the advancement [Stone Age]
+[19:11:38] [Server thread/INFO]: [Reino Tukulor] InternetPremium has made the advancement [Suit Up]
+[19:11:57] [Server thread/INFO]: [Reino Tukulor] InternetPremium has made the advancement [Cover Me with Diamonds]
+[19:11:57] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> javimessiu q tal vas?
+[19:12:00] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> madera tienes?
+[19:12:01] [Async Chat Thread - #5/INFO]: [Not Secure] <InternetPremium> gracias
+[19:12:02] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> mal xd
+[19:12:04] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> xd
+[19:12:07] [Async Chat Thread - #5/INFO]: [Not Secure] <InternetPremium> es toda la q tengo
+[19:12:10] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> tu?
+[19:12:10] [Server thread/INFO]: NOW_POOL123 issued server command: /home h2
+[19:12:10] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has completed the challenge [Great View From Up Here]
+[19:12:28] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa InternetPremium
+[19:12:34] [Server thread/INFO]: [Reino Tukulor] InternetPremium has made the advancement [Isn't It Iron Pick]
+[19:12:40] [Server thread/INFO]: InternetPremium issued server command: /tpaccept
+[19:12:51] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya le equipe
+[19:13:03] [Server thread/INFO]: [Reino Tukulor] InternetPremium has made the advancement [Not Today, Thank You]
+[19:13:29] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> comida me dan?
+[19:13:33] [Server thread/INFO]: [Reino Tukulor] InternetPremium has made the advancement [Monster Hunter]
+[19:13:36] [Async Chat Thread - #5/INFO]: [Not Secure] <zIkzw> encontraron algo?
+[19:13:42] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> nop
+[19:13:42] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> si elitras jsj
+[19:13:59] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> comida
+[19:14:08] [Server thread/INFO]: _wdegw_ issued server command: /home end
+[19:14:30] [Async Chat Thread - #5/INFO]: [Not Secure] <ZXxAlanJosuxXZ> internet ahi no hay nd tpa
+[19:14:33] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [The City at the End of the Game]
+[19:14:51] [Server thread/INFO]: [Reino Tukulor] civercrakpr has made the advancement [Cover Me with Diamonds]
+[19:15:18] [Async Chat Thread - #5/INFO]: [Not Secure] <zIkzw> volvi
+[19:15:29] [Async Chat Thread - #5/INFO]: [Not Secure] <zIkzw> _wdegw_
+[19:15:29] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> que mal
+[19:15:31] [Async Chat Thread - #5/INFO]: [Not Secure] <javimessiu> xd
+[19:15:33] [Async Chat Thread - #5/INFO]: [Not Secure] <_wdegw_> dimew
+[19:15:39] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> encontraron elitras?
+[19:15:42] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> no
+[19:15:47] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> vaya incompetentes
+[19:16:04] [Server thread/INFO]: Xautral issued server command: /home home
+[19:16:07] [Server thread/INFO]: [Clan Azteca] saul23419 has made the advancement [Sneak 100]
+[19:16:35] [Server thread/INFO]: zIkzw issued server command: /tpa _wdegw_
+[19:16:42] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[19:16:46] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> te ayudo
+[19:17:10] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[19:17:11] [Server thread/INFO]: InternetPremium issued server command: /sethome end
+[19:17:22] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> javimessiu tu tienes elitras?
+[19:17:25] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[19:17:48] [Async Chat Thread - #4/INFO]: [Not Secure] <zIkzw> buena respuesta
+[19:17:53] [Server thread/INFO]: [Clan Azteca] Xautral has made the advancement [Not Today, Thank You]
+[19:17:56] [Server thread/INFO]: InternetPremium issued server command: /home postpilaller
+[19:17:56] [Server thread/INFO]: [Reino Tukulor] InternetPremium has completed the challenge [Great View From Up Here]
+[19:18:09] [Server thread/INFO]: javimessiu issued server command: /sethome 3
+[19:18:17] [Server thread/INFO]: javimessiu issued server command: /sethome 5
+[19:18:30] [Server thread/INFO]: civercrakpr issued server command: /tpa InternetPremium
+[19:18:37] [Server thread/INFO]: InternetPremium issued server command: /tpaccept
+[19:18:55] [Server thread/INFO]: [Clan Azteca] Erick_Papucho was blown up by Creeper
+[19:19:01] [Server thread/INFO]: Xautral issued server command: /tp Erick_Papucho ~ ~ ~
+[19:19:01] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Erick_Papucho to -722.773030, -22.000000, -11.410321]
+[19:19:06] [Async Chat Thread - #6/INFO]: [Not Secure] <NOW_POOL123> acepra
+[19:19:08] [Server thread/INFO]: NOW_POOL123 issued server command: /home h2
+[19:19:09] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 fell from a high place
+[19:19:12] [Server thread/INFO]: NOW_POOL123 issued server command: /home h2
+[19:19:34] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Disconnected
+[19:19:34] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ left the game
+[19:19:34] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[19:19:38] [Server thread/INFO]: [Reino Tukulor] civercrakpr has made the advancement [Voluntary Exile]
+[19:19:38] [Server thread/INFO]: zIkzw issued server command: /tpa javimessiu
+[19:19:52] [Server thread/INFO]: [Reino Berserk] javimessiu has reached the goal [Sky's the Limit]
+[19:19:56] [Async Chat Thread - #6/INFO]: [Not Secure] <zIkzw> ja
+[19:19:57] [Async Chat Thread - #6/INFO]: [Not Secure] <zIkzw> javimessiu
+[19:20:00] [Async Chat Thread - #6/INFO]: [Not Secure] <zIkzw> que dijimos del orden
+[19:20:01] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> que
+[19:20:02] [Async Chat Thread - #6/INFO]: [Not Secure] <saul23419> se me acabo la pila del telefono
+[19:20:06] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa InternetPremium
+[19:20:16] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> pobre saul
+[19:20:27] [Server thread/INFO]: NOW_POOL123 issued server command: /msg _wdegw_ me aceptan tp??
+[19:20:28] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> habla por msg
+[19:20:29] [Server thread/INFO]: saul23419 issued server command: /ya lo puse a cargar
+[19:20:30] [Server thread/INFO]: Xautral issued server command: /tpa Erick_Papucho
+[19:20:40] [Server thread/INFO]: _wdegw_ issued server command: /msg NOW_POOL123 para q
+[19:20:41] [Server thread/INFO]: Xautral issued server command: /tp Erick_Papucho
+[19:20:41] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Clan Azteca] Erick_Papucho]
+[19:20:51] [Server thread/INFO]: javimessiu issued server command: /tpa zIkzw
+[19:20:55] [Server thread/INFO]: zIkzw issued server command: /tpaccept
+[19:21:00] [Async Chat Thread - #6/INFO]: [Not Secure] <zIkzw> bro
+[19:21:04] [Async Chat Thread - #6/INFO]: [Not Secure] <zIkzw> busca
+[19:21:04] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> que
+[19:21:07] [Async Chat Thread - #6/INFO]: [Not Secure] <zIkzw> tienes elitras
+[19:21:08] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> vouy
+[19:21:10] [Server thread/INFO]: NOW_POOL123 issued server command: /tell _wdegw_ esque asi muero y mi unico equipo que esta en el end se fue
+[19:21:25] [Server thread/INFO]: zIkzw issued server command: /tpa _wdegw_
+[19:21:33] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> tienes madera
+[19:21:35] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> ???
+[19:21:38] [Async Chat Thread - #7/INFO]: [Not Secure] <zIkzw> os cuesta hablar niggas
+[19:21:39] [Async Chat Thread - #7/INFO]: [Not Secure] <zIkzw> si
+[19:21:43] [Async Chat Thread - #7/INFO]: [Not Secure] <javimessiu> me das
+[19:21:44] [Server thread/INFO]: _wdegw_ issued server command: /msg NOW_POOL123 yo tmb estoy en el end
+[19:21:59] [Server thread/INFO]: [Clan Azteca] saul23419 has made the advancement [Not Today, Thank You]
+[19:22:04] [Async Chat Thread - #6/INFO]: [Not Secure] <zIkzw> xd
+[19:22:05] [Server thread/INFO]: NOW_POOL123 issued server command: /msg _wdegw_ por eso estoy en el overwold y quiero ir al end
+[19:22:09] [Async Chat Thread - #7/INFO]: [Not Secure] <_wdegw_> a ok
+[19:22:10] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> saul
+[19:22:10] [Async Chat Thread - #7/INFO]: [Not Secure] <zIkzw> bueno ya venga busca demientras q yo tamibne
+[19:22:14] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[19:22:15] [Async Chat Thread - #7/INFO]: [Not Secure] <zIkzw> _wdegw_ donde tas
+[19:22:18] [Async Chat Thread - #7/INFO]: [Not Secure] <zIkzw> a xd
+[19:22:23] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[19:22:27] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa _wdegw_}
+[19:22:30] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa _wdegw_
+[19:22:34] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[19:22:41] [Server thread/INFO]: Xautral issued server command: /sethome salida
+[19:23:12] [Server thread/INFO]: Xautral issued server command: /home home
+[19:23:16] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> saul
+[19:23:18] [User Authenticator #13/INFO]: UUID of player sisos is 441a76e4-37ed-3a01-bfef-22aca4010e6e
+[19:23:18] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> ya tengo agua
+[19:23:19] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> tpa
+[19:23:23] [Server thread/INFO]: [Admin] sisos joined the game
+[19:23:23] [Server thread/INFO]: sisos[/127.5.193.164:48301] logged in with entity id 69997 at ([world]-187.0647461268585, 200.98584026113915, 115.43427473154408)
+[19:23:28] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> hola sisos
+[19:23:33] [Server thread/INFO]: saul23419 issued server command: /tpa Xautral
+[19:23:35] [Server thread/INFO]: [Reino Tukulor] civercrakpr has made the advancement [Hot Stuff]
+[19:23:35] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> me fui a jugar con unos amigos
+[19:23:36] [Server thread/INFO]: Xautral issued server command: /tpaccept
+[19:23:47] [Async Chat Thread - #7/INFO]: [Not Secure] <sisos> holaaa
+[19:24:14] [Server thread/INFO]: sisos issued server command: /msg Xautral mano
+[19:24:17] [Server thread/INFO]: Xautral issued server command: /tell sisos que
+[19:24:31] [Server thread/INFO]: sisos issued server command: /msg Xautral como asi q sos de un clan xd
+[19:24:42] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[19:24:48] [Server thread/INFO]: sisos issued server command: /home casa
+[19:24:52] [Server thread/INFO]: Xautral issued server command: /tell sisos con mis amigos de la escuela
+[19:25:32] [Server thread/INFO]: sisos issued server command: /msg Xautral igual no era eso, te queria preguntar si me podrias dejar hacer mi hogar pero rodeado de obsidiana
+[19:25:39] [Server thread/INFO]: Xautral issued server command: /inv sa
+[19:25:45] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[19:25:48] [Server thread/INFO]: Xautral issued server command: /inv Erick_Papucho
+[19:25:59] [Server thread/INFO]: sisos issued server command: /msg Xautral gracias <3
+[19:25:59] [Async Chat Thread - #6/INFO]: [Not Secure] <javimessiu> encontre pero sin barco
+[19:26:35] [Server thread/INFO]: Xautral issued server command: /home salida
+[19:26:50] [Server thread/INFO]: [Reino Tukulor] InternetPremium has made the advancement [Diamonds!]
+[19:26:58] [Server thread/INFO]: _wdegw_ issued server command: /home end
+[19:27:00] [Async Chat Thread - #8/INFO]: [Not Secure] <javimessiu> wdegw tp para ver si tienens cerca una end city mas rapido xd
+[19:27:04] [Server thread/INFO]: javimessiu issued server command: /tpa _wdegw_
+[19:27:04] [Server thread/INFO]: sisos issued server command: /fill -223 61 -3996
+[19:27:09] [Server thread/INFO]: [Clan Azteca] Erick_Papucho has made the advancement [Isn't It Iron Pick]
+[19:27:11] [Server thread/INFO]: sisos issued server command: /fill -223 61 -3996 -224 62 -3997 air
+[19:27:11] [Server thread/INFO]: [[Admin] sisos: Successfully filled 8 block(s)]
+[19:27:19] [Server thread/INFO]: NOW_POOL123 issued server command: /home endd
+[19:27:21] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> ?
+[19:27:24] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> casi me muero
+[19:27:25] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> xd
+[19:27:29] [Async Chat Thread - #8/INFO]: [Not Secure] <javimessiu> xd
+[19:27:37] [Async Chat Thread - #9/INFO]: [Not Secure] <_wdegw_> bueno me cai al vacio
+[19:27:42] [Async Chat Thread - #9/INFO]: [Not Secure] <javimessiu> no
+[19:27:44] [Async Chat Thread - #9/INFO]: [Not Secure] <javimessiu> xd
+[19:27:45] [Async Chat Thread - #9/INFO]: [Not Secure] <_wdegw_> si
+[19:27:50] [Async Chat Thread - #9/INFO]: [Not Secure] <_wdegw_> pero use el /home
+[19:27:54] [Async Chat Thread - #9/INFO]: [Not Secure] <javimessiu> uffffffff
+[19:28:18] [Server thread/INFO]: InternetPremium issued server command: /warp trades
+[19:28:43] [Server thread/INFO]: sisos issued server command: /msg Xautral puedo sacar la obsidiana del creativo?
+[19:28:47] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[19:29:24] [Server thread/INFO]: InternetPremium issued server command: /home postpilaller
+[19:29:43] [Server thread/INFO]: javimessiu issued server command: /sethome 6
+[19:29:45] [Server thread/INFO]: Xautral issued server command: /home home
+[19:29:46] [Server thread/INFO]: javimessiu issued server command: /home 2
+[19:29:53] [Server thread/INFO]: [Clan Azteca] Xautral has made the advancement [A Seedy Place]
+[19:30:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> oigan
+[19:30:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> alguien tiene zanahorias
+[19:30:32] [Server thread/INFO]: sisos issued server command: /msg Xautral me dejas aplanar cpm fill?
+[19:30:35] [Server thread/INFO]: javimessiu issued server command: /tell sisos bro dame cohetes pls
+[19:30:36] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[19:30:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> que me venda?
+[19:30:46] [Server thread/INFO]: sisos issued server command: /fill -442 65 -3951
+[19:30:47] [Server thread/INFO]: javimessiu issued server command: /tell sisos asi de chill
+[19:30:49] [Server thread/INFO]: saul23419 issued server command: /tpa Erick_Papucho
+[19:30:52] [Server thread/INFO]: InternetPremium lost connection: Disconnected
+[19:30:52] [Server thread/INFO]: [Reino Tukulor] InternetPremium left the game
+[19:30:55] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
+[19:30:55] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
+[19:30:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> a que pinches amables pinches puñetones
+[19:30:58] [Server thread/INFO]: sisos issued server command: /fill -442 65 -3951 -401 68 -3917 air
+[19:30:58] [Server thread/INFO]: [[Admin] sisos: Successfully filled 776 block(s)]
+[19:31:07] [Server thread/INFO]: sisos issued server command: /msg javimessiu no
+[19:31:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Erick_Papucho> tpaacept
+[19:31:20] [Server thread/INFO]: civercrakpr lost connection: Disconnected
+[19:31:20] [Server thread/INFO]: [Reino Tukulor] civercrakpr left the game
+[19:31:22] [Server thread/INFO]: javimessiu issued server command: /tell sisos que quieres que te de acambio
+[19:31:23] [Server thread/INFO]: Erick_Papucho issued server command: /tpaccept
+[19:31:25] [Server thread/INFO]: [Reino Berserk] _wdegw_ has made the advancement [The City at the End of the Game]
+[19:31:28] [Server thread/INFO]: sisos issued server command: /msg javimessiu nda
+[19:31:46] [Server thread/INFO]: javimessiu issued server command: /tell sisos pls me dda flojera buscar creepers te lo ruego
+[19:32:02] [Server thread/INFO]: sisos issued server command: /msg javimessiu no tengo permisos
+[19:32:14] [Server thread/INFO]: [Clan Azteca] Xautral fell off a ladder
+[19:32:17] [Async Chat Thread - #11/INFO]: [Not Secure] <sisos> xd
+[19:32:17] [Server thread/INFO]: Xautral issued server command: /home home
+[19:32:17] [Server thread/INFO]: javimessiu issued server command: /tell sisos bueno
+[19:32:27] [Server thread/INFO]: sisos issued server command: /fill -443 65 -3952
+[19:32:38] [Server thread/INFO]: sisos issued server command: /fill -443 65 -3952 -443 69 -3917 minecraft:obsidian
+[19:32:38] [Server thread/INFO]: [[Admin] sisos: Successfully filled 167 block(s)]
+[19:32:44] [Server thread/INFO]: sisos issued server command: /fill -443 69 -3917
+[19:32:56] [Server thread/INFO]: sisos issued server command: /fill -443 69 -3917 -401 65 -3917 minecraft:obsidian
+[19:32:56] [Server thread/INFO]: [[Admin] sisos: Successfully filled 209 block(s)]

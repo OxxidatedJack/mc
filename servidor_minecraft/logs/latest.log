@@ -1874,3 +1874,129 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [19:32:44] [Server thread/INFO]: sisos issued server command: /fill -443 69 -3917
 [19:32:56] [Server thread/INFO]: sisos issued server command: /fill -443 69 -3917 -401 65 -3917 minecraft:obsidian
 [19:32:56] [Server thread/INFO]: [[Admin] sisos: Successfully filled 209 block(s)]
+[19:33:04] [Server thread/INFO]: sisos issued server command: /fill -401 65 -3917
+[19:33:16] [Server thread/INFO]: sisos issued server command: /fill -401 69 -3917
+[19:33:24] [Server thread/INFO]: Xautral issued server command: /home salida
+[19:33:27] [Server thread/INFO]: sisos issued server command: /fill -401 69 -3917 -401 65 -3952 minecraft:obsidian
+[19:33:27] [Server thread/INFO]: [[Admin] sisos: Successfully filled 174 block(s)]
+[19:33:41] [Server thread/INFO]: sisos issued server command: /fill -401 69 -3952
+[19:33:52] [Server thread/INFO]: sisos issued server command: /fill -401 69 -3952 -442 65 -3952 minecraft:obsidian
+[19:33:52] [Server thread/INFO]: [[Admin] sisos: Successfully filled 189 block(s)]
+[19:33:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> sisos
+[19:34:00] [Async Chat Thread - #12/INFO]: [Not Secure] <sisos> q
+[19:34:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> checa porfas de que nadie use hacks
+[19:34:09] [Server thread/INFO]: Xautral issued server command: /tell sisos y porfas invita gene
+[19:34:09] [Async Chat Thread - #13/INFO]: [Not Secure] <sisos> ok
+[19:34:12] [Server thread/INFO]: Xautral issued server command: /tell sisos y porfas invita gente
+[19:34:15] [Server thread/INFO]: [Clan Azteca] saul23419 has made the advancement [A Seedy Place]
+[19:34:18] [Server thread/INFO]: sisos issued server command: /msg Xautral si
+[19:34:21] [Async Chat Thread - #13/INFO]: [Not Secure] <zIkzw> volvi
+[19:34:25] [Server thread/INFO]: sisos issued server command: /gamemode spectator
+[19:34:25] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Spectator Mode]
+[19:34:28] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> no encontre
+[19:34:31] [Async Chat Thread - #13/INFO]: [Not Secure] <zIkzw> ni yo
+[19:34:33] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> no tengo cohetes
+[19:34:41] [Server thread/INFO]: sisos issued server command: /tp saul23419
+[19:34:41] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Clan Azteca] saul23419]
+[19:34:52] [Server thread/INFO]: Xautral issued server command: /sethome salida2
+[19:35:04] [Server thread/INFO]: sisos issued server command: /tp javimessiu
+[19:35:04] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Berserk] javimessiu]
+[19:35:16] [Server thread/INFO]: Villager Villager['Farmer'/81781, uuid='3c04b927-e78a-409b-b5c6-e4dd5b89561e', l='ServerLevel[world]', x=324.49, y=80.00, z=-1474.65, cpos=[20, -93], tl=6559, v=true] died, message: 'Farmer hit the ground too hard'
+[19:35:26] [Server thread/INFO]: sisos issued server command: /tp _wdegw_
+[19:35:26] [Server thread/INFO]: [Admin] sisos has made the advancement [The End?]
+[19:35:26] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Berserk] _wdegw_]
+[19:35:42] [Server thread/INFO]: sisos issued server command: /tp Xautral
+[19:35:42] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Clan Azteca] Xautral]
+[19:36:15] [Server thread/INFO]: sisos issued server command: /msg Xautral vos estas usando hecks de ecceso de malo
+[19:36:21] [Server thread/INFO]: sisos issued server command: /msg Xautral xd
+[19:36:22] [Server thread/INFO]: Xautral issued server command: /tell sisos ??
+[19:36:25] [Server thread/INFO]: Xautral issued server command: /tell sisos de que hablas
+[19:36:26] [Server thread/INFO]: sisos issued server command: /tp Erick_Papucho
+[19:36:26] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Clan Azteca] Erick_Papucho]
+[19:36:32] [Server thread/INFO]: Xautral issued server command: /tell sisos estoy jugando normal y platicando
+[19:36:33] [Server thread/INFO]: sisos issued server command: /msg Xautral no nda
+[19:36:57] [Server thread/INFO]: Xautral issued server command: /home home
+[19:37:05] [Server thread/INFO]: sisos issued server command: /msg Xautral eo
+[19:37:10] [Server thread/INFO]: sisos issued server command: /msg Xautral tengan cuidado
+[19:37:15] [Server thread/INFO]: sisos issued server command: /tp _wdegw_
+[19:37:15] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Berserk] _wdegw_]
+[19:37:24] [Server thread/INFO]: sisos issued server command: /tp zIkzw
+[19:37:24] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Berserk] zIkzw]
+[19:37:25] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> todos tienen elitras menos yo?
+[19:37:26] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> tp te doy
+[19:37:36] [Async Chat Thread - #14/INFO]: [Not Secure] <_wdegw_> yo no tengo xd
+[19:37:43] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> a
+[19:37:53] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> pero si tienes el logro de la ciudad al final del juego
+[19:37:53] [Server thread/INFO]: sisos issued server command: /msg Xautral no ndie esta usando nda
+[19:37:59] [Server thread/INFO]: sisos issued server command: /home casa
+[19:38:03] [Async Chat Thread - #15/INFO]: [Not Secure] <_wdegw_> pero estaba explorada xd
+[19:38:11] [Async Chat Thread - #15/INFO]: [Not Secure] <zIkzw> a xd
+[19:38:36] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[19:38:36] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[19:39:04] [Server thread/INFO]: javimessiu issued server command: /tpa _wdegw_
+[19:39:07] [Async Chat Thread - #15/INFO]: [Not Secure] <zIkzw> javimessiu
+[19:39:11] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[19:39:11] [Async Chat Thread - #15/INFO]: [Not Secure] <zIkzw> te doy cohetes?
+[19:39:19] [Async Chat Thread - #15/INFO]: [Not Secure] <javimessiu> si
+[19:39:21] [Async Chat Thread - #15/INFO]: [Not Secure] <zIkzw> tp
+[19:39:25] [Server thread/INFO]: javimessiu issued server command: /tpa zIkzw
+[19:39:40] [Server thread/INFO]: javimessiu issued server command: /tpa zIkzw
+[19:39:50] [Async Chat Thread - #15/INFO]: [Not Secure] <javimessiu> espera
+[19:39:51] [Server thread/INFO]: sisos issued server command: /fill -402 64 -3951
+[19:40:33] [Server thread/INFO]: sisos issued server command: /fill -402 64 -3951 -442 64 -3918 minecraft:cobblestone_slab
+[19:40:33] [Server thread/INFO]: [[Admin] sisos: Successfully filled 1394 block(s)]
+[19:40:44] [Async Chat Thread - #15/INFO]: [Not Secure] <javimessiu> saben donde quedas la base del team que es rojo
+[19:40:49] [Server thread/INFO]: javimessiu issued server command: /tpa zIkzw
+[19:40:50] [Server thread/INFO]: sisos issued server command: /fill -402 64 -3951 -442 64 -3918 air
+[19:40:50] [Server thread/INFO]: [[Admin] sisos: Successfully filled 1394 block(s)]
+[19:40:51] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> oigan
+[19:40:52] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> q rojo?
+[19:40:53] [Async Chat Thread - #14/INFO]: [Not Secure] <sisos> q
+[19:40:55] [Server thread/INFO]: zIkzw issued server command: /tpaccept
+[19:40:55] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> q
+[19:41:00] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pero saben que es ilegal ir a bases de equipso no conectados?
+[19:41:01] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> vebi
+[19:41:01] [Server thread/INFO]: [Clan Azteca] Erick_Papucho has made the advancement [Ice Bucket Challenge]
+[19:41:03] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> ve
+[19:41:05] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> veni
+[19:41:07] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> solo pueden raidearlas si estan coenctados
+[19:41:10] [Server thread/INFO]: sisos issued server command: /fill -402 64 -3951
+[19:41:15] [Async Chat Thread - #14/INFO]: [Not Secure] <javimessiu> el teamde los que mtienen el nombre del team rojo
+[19:41:17] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> pues vaya mierda de anarquico xd
+[19:41:22] [Server thread/INFO]: sisos issued server command: /fill -402 64 -3951 -442 64 -3918 minecraft:cobblestone_slab
+[19:41:22] [Server thread/INFO]: [[Admin] sisos: Successfully filled 1394 block(s)]
+[19:41:23] [Async Chat Thread - #14/INFO]: [Not Secure] <javimessiu> lit
+[19:41:23] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> cual anarquico?
+[19:41:24] [Async Chat Thread - #14/INFO]: [Not Secure] <javimessiu> xd
+[19:41:27] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> como se llama el team rojo?
+[19:41:28] [Server thread/INFO]: sisos issued server command: /fill -402 64 -3951 -442 64 -3918 air
+[19:41:28] [Server thread/INFO]: [[Admin] sisos: Successfully filled 1394 block(s)]
+[19:41:34] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> haber pendejo cuando dije que era anárquico?
+[19:41:40] [Async Chat Thread - #14/INFO]: [Not Secure] <javimessiu> tu habias dicho que era anarquico
+[19:41:44] [Async Chat Thread - #14/INFO]: [Not Secure] <zIkzw> lit
+[19:41:45] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> cuando puñetas
+[19:41:48] [Server thread/INFO]: sisos issued server command: /msg Xautral no queda como quiero xd
+[19:41:53] [Async Chat Thread - #15/INFO]: [Not Secure] <zIkzw> que hicieramos lo que nos saliera de la polla
+[19:41:57] [Async Chat Thread - #15/INFO]: [Not Secure] <javimessiu> en ek server anterior dijiste que sera anarquico
+[19:42:00] [Async Chat Thread - #15/INFO]: [Not Secure] <javimessiu> lit
+[19:42:01] [Async Chat Thread - #15/INFO]: [Not Secure] <javimessiu> xd
+[19:42:07] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> checate el puto cerebro we no vaya a ser que de tantas pendejadas que dices se te borren las neuronas
+[19:42:16] [Async Chat Thread - #15/INFO]: [Not Secure] <javimessiu> xdddddddd
+[19:42:35] [Async Chat Thread - #15/INFO]: [Not Secure] <zIkzw> neuronas no tenes tu que cambias las reglas a ultima hora
+[19:42:38] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> aparte tu que zIkzw si tu no estuviste ahi wey
+[19:42:52] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> pa que te metes
+[19:42:54] [Async Chat Thread - #15/INFO]: [Not Secure] <zIkzw> no, pero sabia que era anarquico porque lo decian
+[19:42:56] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> bro respect
+[19:42:58] [Server thread/INFO]: javimessiu issued server command: /tpa _wdegw_
+[19:43:04] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[19:43:05] [Async Chat Thread - #15/INFO]: [Not Secure] <_wdegw_> w
+[19:43:05] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> a chnga quien ecía que era anárquico
+[19:43:07] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> ??
+[19:43:12] [Async Chat Thread - #15/INFO]: [Not Secure] <_wdegw_> revisa si alla hay
+[19:43:17] [Async Chat Thread - #15/INFO]: [Not Secure] <javimessiu> me das cohetes pls
+[19:43:18] [Async Chat Thread - #15/INFO]: [Not Secure] <zIkzw> como q respect
+[19:43:20] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> respeta
+[19:43:27] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> en inglés
+[19:43:29] [Async Chat Thread - #15/INFO]: [Not Secure] <zIkzw> literalmente le acabas de decir a mi compañero pendejo, sin neuronas
+[19:43:33] [Server thread/INFO]: [Reino Berserk] javimessiu was slain by Enderman
+[19:43:33] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> pus si w :v

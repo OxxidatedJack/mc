@@ -519,6 +519,21 @@ data-version: 4|2|4440
     '1':
       resultItem:
         DataVersion: 4440
+        id: minecraft:lime_dye
+        count: 1
+        components:
+          minecraft:repair_cost: '1'
+          minecraft:lore: '[{extra:["tiralo o Canjealo en /warp trades"],text:""}]'
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:["chicle masticado"],text:""}'
+          minecraft:rarity: '"rare"'
+      item1:
+        DataVersion: 4440
+        id: minecraft:emerald
+        count: 10
+    '2':
+      resultItem:
+        DataVersion: 4440
         id: minecraft:slime_ball
         count: 1
         components:
@@ -530,6 +545,12 @@ data-version: 4|2|4440
           minecraft:custom_name: '{extra:["Chicle"],text:""}'
       item1:
         DataVersion: 4440
-        id: minecraft:emerald
+        id: minecraft:lime_dye
         count: 10
+        components:
+          minecraft:repair_cost: '1'
+          minecraft:lore: '[{extra:["tiralo o Canjealo en /warp trades"],text:""}]'
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:["chicle masticado"],text:""}'
+          minecraft:rarity: '"rare"'
   snapshots: []

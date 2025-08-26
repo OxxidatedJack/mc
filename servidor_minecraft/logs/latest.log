@@ -3614,3 +3614,170 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [22:57:08] [Async Chat Thread - #99/INFO]: [Not Secure] <Plechini44> iralo bn escondido
 [22:57:19] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> xd
 [22:57:27] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> pasa
+[22:57:47] [Server thread/INFO]: sisos issued server command: /msg Plechini44 pasa chicle
+[22:58:05] [Server thread/INFO]: saseca2610 issued server command: /spawn
+[22:58:12] [Server thread/INFO]: saseca2610 issued server command: /warp spawn
+[22:58:26] [Server thread/INFO]: sisos issued server command: /msg Plechini44 x q lo tradeamos?
+[22:59:18] [Server thread/INFO]: Plechini44 issued server command: /tell sisos chicleteira launcher? osea un arco
+[22:59:44] [Server thread/INFO]: sisos issued server command: /msg Plechini44 arco q te de efectos cuando te tira la flecha
+[22:59:53] [Server thread/INFO]: sisos issued server command: /msg Plechini44 osea lentitud
+[23:00:00] [Server thread/INFO]: Plechini44 issued server command: /tell sisos sisi
+[23:00:06] [Async Chat Thread - #100/INFO]: [Not Secure] <NOW_POOL123> alguien sabe donde esta la anciend city
+[23:00:14] [Server thread/WARN]: NOW_POOL123 moved too quickly! 3.825704574584961,6.023962020874023,7.197294235229492
+[23:00:17] [Server thread/WARN]: NOW_POOL123 moved too quickly! 7.957059860229492,5.32758903503418,4.150965690612793
+[23:00:18] [Server thread/INFO]: sisos issued server command: /ie enchant power 8
+[23:00:27] [Async Chat Thread - #99/INFO]: [Not Secure] <saseca2610> nose
+[23:00:33] [Async Chat Thread - #100/INFO]: [Not Secure] <sisos> no yo tampoco
+[23:00:39] [Server thread/INFO]: saseca2610 lost connection: Disconnected
+[23:00:39] [Server thread/INFO]: [Reino Majaphit] saseca2610 left the game
+[23:01:06] [Server thread/INFO]: sisos issued server command: /inv Plechini44
+[23:01:55] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Best Friends Forever]
+[23:02:43] [Server thread/INFO]: sisos issued server command: /inv Plechini44
+[23:02:45] [Server thread/INFO]: Plechini44 issued server command: /ie rename chicle masticado
+[23:02:46] [User Authenticator #28/INFO]: UUID of player saul23419 is 72e5a4dc-d032-3065-b7fb-c3e8c4469409
+[23:02:47] [Server thread/INFO]: [Clan Azteca] saul23419 joined the game
+[23:02:47] [Server thread/INFO]: saul23419[/127.85.129.171:41725] logged in with entity id 175945 at ([world]676.024586831435, 71.0, 738.8262561537146)
+[23:02:53] [Async Chat Thread - #101/INFO]: [Not Secure] <sisos> saul
+[23:02:55] [Server thread/INFO]: Plechini44 issued server command: /ie rarity epic
+[23:02:58] [Server thread/INFO]: Plechini44 issued server command: /ie rarity rare
+[23:03:05] [Server thread/INFO]: sisos issued server command: /inv Plechini44
+[23:03:42] [Server thread/INFO]: Plechini44 issued server command: /ie lore add tiralo o Canjealo en /warp trades
+[23:03:43] [Server thread/INFO]: sisos issued server command: /inv Plechini44
+[23:04:01] [Server thread/INFO]: sisos issued server command: /inv Plechini44
+[23:04:58] [Async Chat Thread - #103/INFO]: [Not Secure] <sisos> saul23419
+[23:05:06] [Async Chat Thread - #103/INFO]: [Not Secure] <saul23419> dime
+[23:05:16] [Async Chat Thread - #103/INFO]: [Not Secure] <sisos> sabes algo de Xautral
+[23:05:38] [Server thread/INFO]: saul23419 lost connection: Disconnected
+[23:05:38] [Server thread/INFO]: [Clan Azteca] saul23419 left the game
+[23:05:41] [Async Chat Thread - #103/INFO]: [Not Secure] <sisos> xd
+[23:05:49] [Async Chat Thread - #103/INFO]: [Not Secure] <Plechini44> XDD
+[23:06:32] [Async Chat Thread - #103/INFO]: [Not Secure] <sisos> Plechini44
+[23:06:36] [User Authenticator #29/INFO]: UUID of player saul23419 is 72e5a4dc-d032-3065-b7fb-c3e8c4469409
+[23:06:36] [Server thread/INFO]: [Clan Azteca] saul23419 joined the game
+[23:06:36] [Server thread/INFO]: saul23419[/127.85.129.171:55133] logged in with entity id 178193 at ([world]965.5647251552875, 61.11216300984024, 604.8383404210925)
+[23:06:56] [Server thread/INFO]: sisos issued server command: /gamemode spectator
+[23:06:56] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Spectator Mode]
+[23:07:04] [Server thread/INFO]: sisos issued server command: /tp saul23419
+[23:07:04] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Clan Azteca] saul23419]
+[23:07:34] [Async Chat Thread - #106/INFO]: [Not Secure] <saul23419> me dijo que se conectaba como en una hora
+[23:07:40] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> :v
+[23:07:44] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> gracias
+[23:07:49] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[23:07:49] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[23:07:51] [Async Chat Thread - #106/INFO]: [Not Secure] <Plechini44> no se van a asustar
+[23:07:58] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[23:07:58] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[23:07:58] [Async Chat Thread - #106/INFO]: [Not Secure] <Plechini44> ah bn no paso nada
+[23:08:54] [Async Chat Thread - #106/INFO]: [Not Secure] <Plechini44> ah no wait
+[23:08:57] [Server thread/INFO]: Plechini44 issued server command: /tellraw @a {"text":"Recuerda Visitar /Warp Trades Para Mejorar Tus Cosas :3","color":"aqua"}
+[23:09:09] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> xd
+[23:09:25] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> y el chicle?
+[23:10:23] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> &a asde
+[23:10:28] [Async Chat Thread - #106/INFO]: [Not Secure] <saul23419> sisos sabes donde era la base de mi clan?
+[23:10:43] [Server thread/INFO]: Plechini44 issued server command: /title @a title {"text":"Recuerda Visitar /Warp Trades Para Mejorar Tus Cosas :3","color":"green"}
+[23:10:43] [Server thread/INFO]: [[Admin] Plechini44: Showing new title for 4 players]
+[23:10:45] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> noup
+[23:10:58] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> perdona
+[23:11:06] [Server thread/INFO]: sisos issued server command: /tp Xautral
+[23:11:09] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome MINA
+[23:11:10] [Async Chat Thread - #106/INFO]: [Not Secure] <saul23419> ntp
+[23:11:19] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome m
+[23:11:26] [Server thread/INFO]: NOW_POOL123 issued server command: /home h1
+[23:11:28] [Server thread/INFO]: Plechini44 issued server command: /title @a subtitle {"text":"2 nuevos traders :o"}
+[23:11:28] [Server thread/INFO]: [[Admin] Plechini44: Showing new subtitle for 4 players]
+[23:11:29] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> eo
+[23:11:34] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> pvp?
+[23:11:38] [Async Chat Thread - #106/INFO]: [Not Secure] <Plechini44> yaya
+[23:11:40] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[23:11:40] [Async Chat Thread - #106/INFO]: [Not Secure] <sisos> con cualquier kit
+[23:11:45] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[23:11:56] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome MINA
+[23:11:59] [Server thread/INFO]: sisos issued server command: /warps
+[23:12:00] [Server thread/INFO]: NOW_POOL123 issued server command: /home m
+[23:12:49] [Server thread/INFO]: Plechini44 issued server command: /tellraw @a {"text":"Recuerda Visitar /Warp Trades Para Mejorar Tus Cosas :3","color":"aqua"}
+[23:12:57] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> Plechini
+[23:13:02] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> agarrate un kit
+[23:13:09] [Server thread/INFO]: sisos issued server command: /gamemode survival
+[23:13:09] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Survival Mode]
+[23:13:10] [Server thread/INFO]: saul23419 issued server command: /Warp Trades
+[23:13:22] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[23:13:23] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[23:13:23] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[23:13:24] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[23:13:33] [Async Chat Thread - #107/INFO]: [Not Secure] <Plechini44> ya ta
+[23:13:36] [Server thread/INFO]: sisos issued server command: /ie enchant sharpness 5
+[23:13:38] [Server thread/INFO]: Plechini44 issued server command: /tp sisos
+[23:13:38] [Server thread/INFO]: [[Admin] Plechini44: Teleported [Admin] Plechini44 to [Admin] sisos]
+[23:13:44] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> pvp aca
+[23:13:51] [Server thread/INFO]: sisos issued server command: /gamemode survival
+[23:13:51] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Survival Mode]
+[23:13:56] [User Authenticator #30/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[23:13:58] [Server thread/INFO]: [Owner] Xautral joined the game
+[23:13:58] [Server thread/INFO]: Xautral[/127.115.99.248:44431] logged in with entity id 182658 at ([world]-168.99846837992914, 131.0, 6.866726065146136)
+[23:14:05] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> hola
+[23:14:07] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> eo
+[23:14:11] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> Xautraaal
+[23:14:11] [Server thread/INFO]: [Admin] Plechini44 has reached the goal [Sky's the Limit]
+[23:14:12] [Server thread/INFO]: Xautral issued server command: /tp saul23419
+[23:14:12] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Clan Azteca] saul23419]
+[23:14:18] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Survival Mode]
+[23:14:27] [Server thread/INFO]: Xautral issued server command: /home home
+[23:14:40] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> Xautral
+[23:14:40] [Server thread/INFO]: saul23419 issued server command: /tpa Xautral
+[23:14:42] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> ahi me dicen quien esta tonto
+[23:14:43] [Server thread/INFO]: Xautral issued server command: /tpaccept
+[23:14:51] [Server thread/INFO]: [Admin] sisos fell from a high place
+[23:14:52] [Async Chat Thread - #107/INFO]: [Not Secure] <Plechini44> xdd
+[23:14:53] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> vine a hacer algo rapido
+[23:14:55] [Async Chat Thread - #108/INFO]: [Not Secure] <sisos> xd
+[23:14:56] [Async Chat Thread - #108/INFO]: [Not Secure] <Xautral> al rato regreso
+[23:14:59] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> tu que haces Plechini44
+[23:15:00] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> pera
+[23:15:03] [Server thread/INFO]: sisos issued server command: /warps
+[23:15:10] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> ven a trades
+[23:15:11] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[23:15:11] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Plechini44]
+[23:15:14] [Async Chat Thread - #107/INFO]: [Not Secure] <Plechini44> ando haciendo cositas en el trades
+[23:15:18] [Server thread/INFO]: Xautral issued server command: /warp trades
+[23:15:20] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[23:15:20] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[23:15:23] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> mira
+[23:15:26] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> este
+[23:15:39] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> tranca no esta tan OP
+[23:15:45] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> bro
+[23:15:46] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> pareciera
+[23:15:47] [Server thread/INFO]: [Admin] Plechini44 has reached the goal [Postmortal]
+[23:15:47] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> q
+[23:15:51] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> esto no es un survival custom
+[23:15:54] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> es semi-vanilla
+[23:15:59] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> y si vamos a agregar cosas op
+[23:16:00] [Server thread/INFO]: [Admin] Plechini44 fell from a high place
+[23:16:00] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> y bueno
+[23:16:04] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> hay que ahcer que sean flexibles
+[23:16:06] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[23:16:09] [Server thread/INFO]: Xautral issued server command: /ie enchant wind_burst 3
+[23:16:10] [Server thread/INFO]: Plechini44 issued server command: /warp trades
+[23:16:12] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[23:16:12] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Plechini44]
+[23:16:13] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> mira
+[23:16:18] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> no es tan OP
+[23:16:20] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> encerio
+[23:16:27] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> ya lo comprovamos
+[23:16:33] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 fell from a high place
+[23:16:33] [Async Chat Thread - #107/INFO]: [Not Secure] <Plechini44> mira al de chicles aun no acabamos
+[23:16:36] [Server thread/INFO]: NOW_POOL123 issued server command: /home m
+[23:16:37] [Async Chat Thread - #107/INFO]: [Not Secure] <Xautral> como que no
+[23:16:43] [Server thread/INFO]: Plechini44 issued server command: /tellraw @a {"text":"Recuerda Visitar /Warp Trades Para Mejorar Tus Cosas :3","color":"aqua"}
+[23:16:45] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> encerio
+[23:16:52] [Server thread/INFO]: Xautral was kicked due to keepalive timeout!
+[23:16:52] [Server thread/INFO]: Xautral lost connection: Timed out
+[23:16:52] [Server thread/INFO]: Xautral left the game
+[23:16:57] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> xd
+[23:17:04] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> otro
+[23:17:05] [Async Chat Thread - #107/INFO]: [Not Secure] <Plechini44> se enojo el w
+[23:17:07] [Async Chat Thread - #107/INFO]: [Not Secure] <sisos> me mori
+[23:17:18] [Async Chat Thread - #107/INFO]: [Not Secure] <Plechini44> vamos
+[23:17:24] [Server thread/INFO]: Plechini44 issued server command: /warp
+[23:17:24] [Server thread/INFO]: sisos issued server command: /warps
+[23:17:30] [Server thread/INFO]: Plechini44 issued server command: /tp sisos
+[23:17:30] [Server thread/INFO]: [[Admin] Plechini44: Teleported [Admin] Plechini44 to [Admin] sisos]

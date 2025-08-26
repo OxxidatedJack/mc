@@ -701,3 +701,20 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [02:36:36] [Async Chat Thread - #17/INFO]: [Not Secure] <_wdegw_> w estaba re lag
 [02:36:38] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpareturn
 [02:36:54] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home fortres
+[02:37:51] [Async Chat Thread - #20/INFO]: [Not Secure] <ZXxAlanJosuxXZ> me mori por lag
+[02:38:06] [Async Chat Thread - #20/INFO]: [Not Secure] <_wdegw_> xd
+[02:38:24] [Async Chat Thread - #20/INFO]: [Not Secure] <ZXxAlanJosuxXZ> adivina cuantas barras ya tengo?
+[02:38:27] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[02:38:29] [Async Chat Thread - #20/INFO]: [Not Secure] <_wdegw_> 8?
+[02:38:59] [Server thread/INFO]: ZXxAlanJosuxXZ was kicked due to keepalive timeout!
+[02:38:59] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Timed out
+[02:38:59] [Server thread/INFO]: ZXxAlanJosuxXZ left the game
+[02:40:33] [User Authenticator #5/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[02:40:35] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ joined the game
+[02:40:35] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.95.225.242:43035] logged in with entity id 25755 at ([world]7386.287845261079, 64.0, -1505.7594425649213)
+[02:40:54] [Async Chat Thread - #22/INFO]: [Not Secure] <ZXxAlanJosuxXZ> pq tanto lag?
+[02:40:58] [Async Chat Thread - #22/INFO]: [Not Secure] <_wdegw_> nose
+[02:40:58] [Async Chat Thread - #21/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tengo 9
+[02:41:22] [Server thread/WARN]: ZXxAlanJosuxXZ moved too quickly! 6.136838805964544,1.6643051839867553,9.996358815846179
+[02:43:06] [Server thread/INFO]: ZXxAlanJosuxXZ lost connection: Disconnected
+[02:43:06] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ left the game

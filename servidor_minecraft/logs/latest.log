@@ -3435,3 +3435,63 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [22:26:29] [Async Chat Thread - #85/INFO]: [Not Secure] <sisos> no a vos no
 [22:26:32] [Async Chat Thread - #85/INFO]: [Not Secure] <saseca2610> a
 [22:26:48] [Async Chat Thread - #85/INFO]: [Not Secure] <NOW_POOL123> ya la saquearon cre7
+[22:28:30] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:protection 4
+[22:28:30] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Protection IV to [Admin] sisos's item]
+[22:28:31] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:protection 4
+[22:28:31] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Protection IV to [Admin] sisos's item]
+[22:28:32] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:protection 4
+[22:28:32] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Protection IV to [Admin] sisos's item]
+[22:28:33] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:protection 4
+[22:28:33] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Protection IV to [Admin] sisos's item]
+[22:28:38] [Server thread/INFO]: saul23419 lost connection: Disconnected
+[22:28:38] [Server thread/INFO]: [Clan Azteca] saul23419 left the game
+[22:28:50] [Server thread/INFO]: NOW_POOL123 issued server command: /home h1
+[22:29:41] [Async Chat Thread - #87/INFO]: [Not Secure] <sisos> Plechini44
+[22:29:42] [Server thread/INFO]: [Reino Majaphit] saseca2610 has made the advancement [Sweet Dreams]
+[22:29:52] [Async Chat Thread - #87/INFO]: [Not Secure] <sisos> me dejas hacer una prueba
+[22:30:04] [Async Chat Thread - #87/INFO]: [Not Secure] <sisos> ten
+[22:30:09] [Server thread/INFO]: [Admin] Plechini44 has completed the challenge [Cover Me in Debris]
+[22:30:15] [Async Chat Thread - #87/INFO]: [Not Secure] <sisos> ponte en sv
+[22:30:24] [Async Chat Thread - #87/INFO]: [Not Secure] <Plechini44> espera w
+[22:30:29] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Survival Mode]
+[22:30:36] [Async Chat Thread - #87/INFO]: [Not Secure] <sisos> pa ver cuanto saca
+[22:30:42] [Async Chat Thread - #87/INFO]: [Not Secure] <Plechini44> 2 coras
+[22:30:42] [Async Chat Thread - #87/INFO]: [Not Secure] <sisos> a bien
+[22:30:44] [User Authenticator #25/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[22:30:44] [Server thread/INFO]: Disconnecting goku_black_20 (/127.56.91.73:47447): You are not whitelisted on this server!
+[22:30:44] [Server thread/INFO]: goku_black_20 (/127.56.91.73:47447) lost connection: You are not whitelisted on this server!
+[22:30:51] [Async Chat Thread - #87/INFO]: [Not Secure] <sisos> era
+[22:30:53] [Async Chat Thread - #87/INFO]: [Not Secure] <sisos> eso
+[22:30:59] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:31:01] [Server thread/INFO]: sisos issued server command: /inv Plechini44
+[22:31:18] [User Authenticator #25/INFO]: UUID of player saul23419 is 72e5a4dc-d032-3065-b7fb-c3e8c4469409
+[22:31:19] [Server thread/INFO]: [Clan Azteca] saul23419 joined the game
+[22:31:19] [Server thread/INFO]: saul23419[/127.85.129.171:35145] logged in with entity id 163244 at ([world]670.161621487651, 61.50575594566609, 782.858189978505)
+[22:31:26] [Async Chat Thread - #87/INFO]: [Not Secure] <sisos> hola saul
+[22:31:32] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:riptide 6
+[22:31:35] [Server thread/INFO]: Plechini44 issued server command: /enchant Plechini44 minecraft:riptide 3
+[22:31:35] [Server thread/INFO]: [[Admin] Plechini44: Applied enchantment Riptide III to [Admin] Plechini44's item]
+[22:31:40] [Async Chat Thread - #87/INFO]: [Not Secure] <saseca2610> ola saul
+[22:31:57] [Server thread/INFO]: sisos issued server command: /vanish
+[22:32:20] [Server thread/INFO]: saul23419 lost connection: Disconnected
+[22:32:20] [Server thread/INFO]: [Clan Azteca] saul23419 left the game
+[22:32:53] [User Authenticator #26/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[22:32:53] [Server thread/INFO]: Disconnecting goku_black_20 (/127.56.91.73:49745): You are not whitelisted on this server!
+[22:32:53] [Server thread/INFO]: goku_black_20 (/127.56.91.73:49745) lost connection: You are not whitelisted on this server!
+[22:33:11] [Server thread/INFO]: NOW_POOL123 issued server command: /home h1
+[22:34:11] [Server thread/INFO]: [Reino Majaphit] saseca2610 has made the advancement [Sneak 100]
+[22:34:13] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:34:14] [Async Chat Thread - #89/INFO]: [Not Secure] <saseca2610> oh no
+[22:35:08] [Server thread/INFO]: Plechini44 issued server command: /shopkeeper
+[22:35:21] [Async Chat Thread - #91/INFO]: [Not Secure] <sisos> man
+[22:35:34] [Async Chat Thread - #91/INFO]: [Not Secure] <Plechini44> dime
+[22:35:51] [Async Chat Thread - #91/INFO]: [Not Secure] <sisos> como lo hiciste
+[22:36:00] [Async Chat Thread - #91/INFO]: [Not Secure] <Plechini44> en el yunque
+[22:36:07] [Async Chat Thread - #91/INFO]: [Not Secure] <sisos> como?
+[22:36:11] [Async Chat Thread - #91/INFO]: [Not Secure] <saseca2610> el yunque
+[22:36:12] [Async Chat Thread - #91/INFO]: [Not Secure] <sisos> aaaaa
+[22:36:18] [Async Chat Thread - #91/INFO]: [Not Secure] <sisos> ya vi
+[22:36:38] [Server thread/INFO]: NOW_POOL123 issued server command: /home h2
+[22:36:43] [Server thread/INFO]: Plechini44 issued server command: /shopkeepers
+[22:37:07] [Server thread/INFO]: Plechini44 issued server command: /shopkeepers drowned
+[22:37:11] [Server thread/INFO]: sisos issued server command: /msg Plechini44 algun kit?

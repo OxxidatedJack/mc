@@ -192,6 +192,23 @@ data-version: 4|2|4440
         DataVersion: 4440
         id: minecraft:diamond_block
         count: 5
+    '8':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:cyan_shulker_box
+        count: 1
+        components:
+          minecraft:container: '[{item:{count:1,id:"minecraft:water_bucket"},slot:0},{item:{count:64,id:"minecraft:cooked_beef"},slot:1},{item:{count:1,id:"minecraft:water_bucket"},slot:2},{item:{components:{"minecraft:enchantments":{"minecraft:mending":1,"minecraft:protection":10,"minecraft:unbreaking":10}},count:1,id:"minecraft:iron_helmet"},slot:3},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_water_breathing"}},count:1,id:"minecraft:potion"},slot:4},{item:{components:{"minecraft:enchantments":{"minecraft:mending":1,"minecraft:protection":10,"minecraft:unbreaking":10}},count:1,id:"minecraft:iron_leggings"},slot:5},{item:{count:64,id:"minecraft:cooked_beef"},slot:6},{item:{count:1,id:"minecraft:water_bucket"},slot:7},{item:{count:64,id:"minecraft:cooked_beef"},slot:8},{item:{count:64,id:"minecraft:cooked_beef"},slot:9},{item:{components:{"minecraft:enchantments":{"minecraft:aqua_affinity":1},"minecraft:repair_cost":1},count:1,id:"minecraft:nautilus_shell"},slot:10},{item:{count:64,id:"minecraft:cooked_beef"},slot:11},{item:{components:{"minecraft:custom_name":"Tridentini
+            Trinanta","minecraft:enchantments":{"minecraft:mending":1,"minecraft:riptide":3,"minecraft:unbreaking":3},"minecraft:repair_cost":1},count:1,id:"minecraft:trident"},slot:12},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_water_breathing"}},count:1,id:"minecraft:potion"},slot:13},{item:{components:{"minecraft:custom_name":"Poseidon
+            Trident","minecraft:enchantments":{"minecraft:channeling":1,"minecraft:impaling":5,"minecraft:loyalty":3,"minecraft:unbreaking":3},"minecraft:repair_cost":1},count:1,id:"minecraft:trident"},slot:14},{item:{count:1,id:"minecraft:water_bucket"},slot:15},{item:{components:{"minecraft:enchantments":{"minecraft:aqua_affinity":1},"minecraft:repair_cost":1},count:1,id:"minecraft:nautilus_shell"},slot:16},{item:{count:1,id:"minecraft:water_bucket"},slot:17},{item:{count:1,id:"minecraft:water_bucket"},slot:18},{item:{count:64,id:"minecraft:cooked_beef"},slot:19},{item:{count:1,id:"minecraft:water_bucket"},slot:20},{item:{components:{"minecraft:enchantments":{"minecraft:mending":1,"minecraft:protection":10,"minecraft:unbreaking":10}},count:1,id:"minecraft:iron_chestplate"},slot:21},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:long_water_breathing"}},count:1,id:"minecraft:potion"},slot:22},{item:{components:{"minecraft:enchantments":{"minecraft:feather_falling":4,"minecraft:mending":1,"minecraft:protection":10,"minecraft:unbreaking":10},"minecraft:repair_cost":1},count:1,id:"minecraft:iron_boots"},slot:23},{item:{count:64,id:"minecraft:cooked_beef"},slot:24},{item:{count:1,id:"minecraft:water_bucket"},slot:25},{item:{count:64,id:"minecraft:cooked_beef"},slot:26}]'
+      item1:
+        DataVersion: 4440
+        id: minecraft:emerald
+        count: 64
+      item2:
+        DataVersion: 4440
+        id: minecraft:emerald
+        count: 64
   snapshots: []
 '3':
   uniqueId: 5ba9b738-948e-42f5-850c-32683db775d3
@@ -280,4 +297,18 @@ data-version: 4|2|4440
         DataVersion: 4440
         id: minecraft:chain
         count: 1
+  snapshots: []
+'7':
+  uniqueId: b46f044d-c010-44ea-866c-87f932e44abd
+  world: world
+  x: -169
+  y: 131
+  z: 11
+  yaw: 210.0201
+  type: admin
+  name: ''
+  object:
+    type: drowned
+    baby: false
+  recipes: {}
   snapshots: []

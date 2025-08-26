@@ -3084,3 +3084,226 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [22:06:15] [Server thread/INFO]: NOW_POOL123[/127.79.177.66:36939] logged in with entity id 148280 at ([world]-167.89718511908697, 131.0, 2.764054553072057)
 [22:06:16] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> y en el nuestro no te queremos :v
 [22:06:21] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> a
+[22:06:23] [Server thread/INFO]: sisos issued server command: /msg Plechini44 hay una trial, ancien city y una main shaf
+[22:06:24] [User Authenticator #23/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[22:06:24] [Server thread/INFO]: Disconnecting goku_black_20 (/127.56.91.73:32985): You are not whitelisted on this server!
+[22:06:24] [Server thread/INFO]: goku_black_20 (/127.56.91.73:32985) lost connection: You are not whitelisted on this server!
+[22:06:28] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> zDreamz__ lo aceptas?
+[22:06:31] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Getting an Upgrade]
+[22:06:33] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> si
+[22:06:35] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> zDreamz__ lo aceptas?
+[22:06:36] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> zDreamz__ lo aceptas?
+[22:06:36] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> zDreamz__ lo aceptas?
+[22:06:38] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> si
+[22:06:38] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> si
+[22:06:39] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> si
+[22:06:39] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> si
+[22:06:43] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> si
+[22:06:43] [Async Chat Thread - #80/INFO]: [Not Secure] <sisos> xd
+[22:06:44] [Server thread/INFO]: Plechini44 issued server command: /tell sisos tons q hacemos
+[22:06:46] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> dije zDreamz__ no sasmierda
+[22:06:49] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> con todo respeto
+[22:06:50] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[22:06:52] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> es que aveces es castroso
+[22:06:56] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[22:06:56] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[22:06:56] [Server thread/WARN]: Plechini44 moved too quickly! 9.509298338254274,0.0,3.374324520617625
+[22:07:05] [Server thread/INFO]: sisos issued server command: /msg Plechini44 q queres hacer?
+[22:07:05] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> e de q
+[22:07:06] [Server thread/INFO]: Xautral issued server command: /tp saseca2610 zDreamz__
+[22:07:06] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported saseca2610 to [Reino Majaphit] zDreamz__]
+[22:07:13] [Server thread/INFO]: Xautral issued server command: /team join majaphit saseca2610
+[22:07:13] [Server thread/INFO]: [[Clan Azteca] Xautral: Added [Reino Majaphit] saseca2610 to team [majaphit]]
+[22:07:17] [Server thread/WARN]: Plechini44 moved too quickly! 16.98498689403426,-7.869077029807961,40.07139785937197
+[22:07:22] [Server thread/INFO]: NOW_POOL123 issued server command: /warps
+[22:07:27] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> vale
+[22:07:29] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> priemro
+[22:07:30] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> zDreamz__
+[22:07:30] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> mi hierro :(
+[22:07:31] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> tu eres el lider
+[22:07:35] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:07:37] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[22:07:43] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> oka
+[22:07:53] [Server thread/INFO]: sisos issued server command: /warps
+[22:07:54] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> que cordenadas es el spawn
+[22:07:55] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> ?
+[22:08:04] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> tienes que enconrtar un territorio para tu reino antes de que te declaren guerra: Para hacerlo, necesitas rodear una zona (cualquier zona) de una muralla de cualquier materrial
+[22:08:06] [Server thread/INFO]: sisos issued server command: /msg Plechini44 pera q tengo q hacer mas kits
+[22:08:07] [Server thread/INFO]: Plechini44 issued server command: /tell sisos le decimos al xautral?
+[22:08:11] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> saseca2610 usa /warp spawn
+[22:08:14] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[22:08:14] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[22:08:16] [Async Chat Thread - #80/INFO]: [Not Secure] <NOW_POOL123> le quitaron el hierro a sasesa2610!!!
+[22:08:20] [Server thread/INFO]: Xautral issued server command: /sethome aldea
+[22:08:20] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:08:20] [Server thread/INFO]: sisos issued server command: /msg Plechini44 si
+[22:08:21] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> grax
+[22:08:24] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> tienes que enconrtar un territorio para tu reino antes de que te declaren guerra: Para hacerlo, necesitas rodear una zona (cualquier zona) de una muralla de cualquier materrial
+[22:08:26] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> oka pera busco
+[22:08:26] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> zDreamz__
+[22:08:26] [Server thread/INFO]: saseca2610 issued server command: /warp spawn
+[22:08:29] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> okey
+[22:08:31] [Server thread/INFO]: Xautral issued server command: /home home
+[22:08:32] [Server thread/INFO]: NOW_POOL123 issued server command: /warp spawn
+[22:08:32] [Async Chat Thread - #79/INFO]: [Not Secure] <Plechini44> xautral
+[22:08:34] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> dime
+[22:08:34] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> hay guerras y cosas así
+[22:08:37] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> cualqueir duda me avisas
+[22:08:40] [Server thread/WARN]: NOW_POOL123 moved too quickly! 2.5317611694335938,-9.632493138313293,-1.1602420806884766
+[22:08:48] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> ok
+[22:08:52] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> que paso Plechini44
+[22:09:03] [Server thread/INFO]: Plechini44 issued server command: /tell sisos osea le decimos que cree un equipo?
+[22:09:09] [Server thread/INFO]: sisos issued server command: /msg Plechini44 si
+[22:09:12] [Async Chat Thread - #79/INFO]: [Not Secure] <Plechini44> voy a vivir con sisos
+[22:09:19] [Async Chat Thread - #79/INFO]: [Not Secure] <Plechini44> y queremos un equipo
+[22:09:26] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> Plechini44
+[22:09:39] [Async Chat Thread - #79/INFO]: [Not Secure] <Plechini44> dime dreamz
+[22:09:39] [Server thread/INFO]: [Reino Majaphit] zDreamz__ was blown up by Creeper
+[22:09:43] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> o
+[22:10:00] [Server thread/INFO]: NOW_POOL123 issued server command: /home h2
+[22:10:19] [Server thread/INFO]: sisos issued server command: /msg Xautral
+[22:10:22] [Server thread/INFO]: saseca2610 issued server command: /msg zDreamz__ en que cords estas?
+[22:10:28] [Server thread/INFO]: saseca2610 issued server command: /msg zDreamz__ para ir
+[22:10:30] [Server thread/INFO]: sisos issued server command: /msg Xautral hola, tengo una propuesta
+[22:10:30] [Server thread/INFO]: Plechini44 issued server command: /tell sisos y como se va a llamar el equipo we
+[22:10:31] [Server thread/INFO]: zDreamz__ issued server command: /r para?
+[22:10:33] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[22:10:37] [Server thread/INFO]: Xautral issued server command: /tell sisos cua
+[22:10:37] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:10:38] [Server thread/INFO]: sisos issued server command: /msg Plechini44 como vos quieras
+[22:10:39] [Server thread/INFO]: Xautral issued server command: /tell sisos cual
+[22:10:44] [Server thread/INFO]: zDreamz__ issued server command: /msg saseca2610 para q ;3
+[22:10:47] [Server thread/INFO]: sisos issued server command: /msg Xautral armadura con efectos
+[22:10:48] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> pongan /warps para mas info
+[22:10:50] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[22:10:53] [Server thread/INFO]: saseca2610 issued server command: /warps
+[22:10:57] [Server thread/INFO]: Xautral issued server command: /tell sisos pero es dificil programar
+[22:11:00] [Server thread/INFO]: NOW_POOL123 issued server command: /msg sisos me puedes tpar lo mas lejos posible quiero hacer una granja que me de polvora y otras cosas
+[22:11:03] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Monster Hunter]
+[22:11:13] [Server thread/INFO]: Plechini44 issued server command: /tell sisos Plesos esta bn?
+[22:11:14] [Server thread/INFO]: saseca2610 issued server command: /msg zDreamz__ para buscar un lugar para hacer nuestra base
+[22:11:14] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> no POOL
+[22:11:20] [Async Chat Thread - #79/INFO]: [Not Secure] <NOW_POOL123> va a ser granja comunitaria
+[22:11:32] [Server thread/INFO]: sisos issued server command: /msg Plechini44 Plesos o presos?
+[22:11:38] [Server thread/INFO]: [[Clan Azteca] Xautral: Set own game mode to Creative Mode]
+[22:11:38] [Server thread/INFO]: saseca2610 issued server command: /msg zDreamz__ ya te vi
+[22:11:39] [Server thread/INFO]: zDreamz__ issued server command: /msg saseca2610 a q eres de mi clan
+[22:11:41] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> iré a programar
+[22:11:43] [User Authenticator #24/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[22:11:43] [Server thread/INFO]: Disconnecting goku_black_20 (/127.56.91.73:60931): You are not whitelisted on this server!
+[22:11:43] [Server thread/INFO]: goku_black_20 (/127.56.91.73:60931) lost connection: You are not whitelisted on this server!
+[22:11:45] [Server thread/INFO]: saseca2610 issued server command: /msg zDreamz__ si
+[22:11:48] [Server thread/INFO]: Xautral issued server command: /gamerule spawnRadius 0
+[22:11:48] [Server thread/INFO]: [[Clan Azteca] Xautral: Gamerule spawnRadius is now set to: 0]
+[22:11:49] [Server thread/INFO]: Xautral issued server command: /kill
+[22:11:49] [Server thread/INFO]: [Clan Azteca] Xautral was killed
+[22:11:49] [Server thread/INFO]: [[Clan Azteca] Xautral: Killed [Clan Azteca] Xautral]
+[22:11:50] [Server thread/INFO]: [[Clan Azteca] Xautral: Set own game mode to Survival Mode]
+[22:11:52] [Server thread/INFO]: sisos issued server command: /ie enchant power 7
+[22:11:52] [Server thread/INFO]: [[Clan Azteca] Xautral: Set own game mode to Creative Mode]
+[22:11:56] [Server thread/INFO]: Xautral issued server command: /warp spawn
+[22:11:58] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> a
+[22:11:59] [Server thread/INFO]: Plechini44 issued server command: /tell sisos cual dices we? presos esta mejor que el que dije xdd
+[22:12:00] [Server thread/INFO]: Xautral issued server command: /weather clear
+[22:12:00] [Server thread/INFO]: [[Clan Azteca] Xautral: Set the weather to clear]
+[22:12:01] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> rroz
+[22:12:02] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[22:12:02] [Server thread/INFO]: [[Clan Azteca] Xautral: Set the time to 0]
+[22:12:04] [Async Chat Thread - #80/INFO]: [Not Secure] <sisos> Xautral
+[22:12:06] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> que
+[22:12:09] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> siqueme
+[22:12:15] [Server thread/INFO]: sisos issued server command: /msg Plechini44 el q vos quieras
+[22:12:15] [Server thread/INFO]: Xautral issued server command: /tp ~ ~100 ~
+[22:12:15] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to 5.500000, 252.145896, -4.500000]
+[22:12:16] [Server thread/INFO]: Xautral issued server command: /tp ~ ~100 ~
+[22:12:16] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to 5.500000, 352.145896, -4.500000]
+[22:12:16] [Server thread/INFO]: Xautral issued server command: /tp ~ ~100 ~
+[22:12:16] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to 5.500000, 452.145896, -4.500000]
+[22:12:23] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> Xautral
+[22:12:28] [Server thread/INFO]: Xautral issued server command: /setblock ~ ~ ~ bedrock
+[22:12:28] [Server thread/INFO]: [[Clan Azteca] Xautral: Changed the block at 5, 315, -5]
+[22:12:29] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> que
+[22:12:30] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> me dejas hacer una prueba
+[22:12:30] [Server thread/WARN]: NOW_POOL123 moved too quickly! 0.7300796508789062,-13.89699649810791,4.204117774963379
+[22:12:32] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> xfa
+[22:12:35] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> ajá
+[22:12:35] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> ok
+[22:12:37] [Server thread/INFO]: sisos issued server command: /tp Xautral
+[22:12:37] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Clan Azteca] Xautral]
+[22:12:39] [Server thread/INFO]: Xautral issued server command: /home home
+[22:12:44] [Server thread/WARN]: NOW_POOL123 moved too quickly! 7.646618843078613,-7.151178359985352,4.503711700439453
+[22:12:45] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> toma
+[22:12:48] [Server thread/INFO]: Plechini44 issued server command: /warps
+[22:12:49] [Server thread/INFO]: Xautral issued server command: /kill
+[22:12:49] [Server thread/INFO]: [Clan Azteca] Xautral was killed
+[22:12:49] [Server thread/INFO]: [[Clan Azteca] Xautral: Killed [Clan Azteca] Xautral]
+[22:12:51] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> ola
+[22:12:55] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> ola
+[22:12:56] [Server thread/INFO]: Xautral issued server command: /tp ~ ~100 ~
+[22:12:56] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to 0.500000, 237.282601, 0.500000]
+[22:12:57] [Server thread/INFO]: Xautral issued server command: /tp ~ ~100 ~
+[22:12:57] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to 0.500000, 337.282601, 0.500000]
+[22:12:59] [Async Chat Thread - #79/INFO]: [Not Secure] <NOW_POOL123> hola
+[22:13:09] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> ponte aca
+[22:13:09] [Server thread/INFO]: Xautral issued server command: /setblock ~ ~ ~ bedrock
+[22:13:09] [Server thread/INFO]: [[Clan Azteca] Xautral: Changed the block at -1, 315, 0]
+[22:13:11] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> gracias
+[22:13:11] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> grax
+[22:13:19] [Server thread/INFO]: [Clan Azteca] Xautral has completed the challenge [Cover Me in Debris]
+[22:13:20] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> ponete
+[22:13:24] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> y en surv
+[22:13:25] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> mieda
+[22:13:26] [Async Chat Thread - #79/INFO]: [Not Secure] <NOW_POOL123> de nada
+[22:13:27] [Server thread/INFO]: [[Clan Azteca] Xautral: Set own game mode to Survival Mode]
+[22:13:30] [Server thread/INFO]: [Admin] sisos has made the advancement [Take Aim]
+[22:13:41] [Server thread/INFO]: [[Clan Azteca] Xautral: Set own game mode to Creative Mode]
+[22:13:48] [Server thread/INFO]: Xautral issued server command: /gamemode survival sisos
+[22:13:48] [Server thread/INFO]: [[Clan Azteca] Xautral: Set [Admin] sisos's game mode to Survival Mode]
+[22:13:49] [Server thread/INFO]: [Clan Azteca] Xautral has made the advancement [Take Aim]
+[22:13:51] [Server thread/INFO]: [Admin] sisos was shot by [Clan Azteca] Xautral
+[22:14:01] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> me voy a quedar sin coras xd
+[22:14:03] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> esta chido
+[22:14:07] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> no lo quites
+[22:14:08] [Async Chat Thread - #79/INFO]: [Not Secure] <NOW_POOL123> asu
+[22:14:11] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[22:14:13] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[22:14:13] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[22:14:17] [Server thread/INFO]: sisos issued server command: /tp Xautral
+[22:14:17] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Clan Azteca] Xautral]
+[22:14:25] [Async Chat Thread - #79/INFO]: [Not Secure] <NOW_POOL123> Xautral tas abusando con los corazones
+[22:14:26] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:14:28] [Server thread/INFO]: Xautral issued server command: /team join owner Xautral
+[22:14:28] [Server thread/INFO]: [[Clan Azteca] Xautral: Added [Owner] Xautral to team [owner]]
+[22:14:31] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> que haces dawn
+[22:14:32] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> veda
+[22:14:37] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> estoy haciendo algo
+[22:14:43] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> ok
+[22:14:44] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[22:14:50] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> deja ago mi labor
+[22:14:51] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:14:54] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> okey
+[22:14:55] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> Plechini44
+[22:14:57] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> que haces
+[22:14:59] [Server thread/INFO]: NOW_POOL123 issued server command: /home h3
+[22:15:00] [Server thread/INFO]: sisos issued server command: /home preparacion
+[22:15:03] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> una cosa
+[22:15:13] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> qn domina el srver
+[22:15:14] [Server thread/INFO]: sisos issued server command: /ie enchant power 7
+[22:15:18] [Server thread/INFO]: NOW_POOL123 issued server command: /home h2
+[22:15:21] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 1000
+[22:15:27] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> el owner
+[22:15:28] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[22:15:30] [Server thread/INFO]: NOW_POOL123 issued server command: /warp spawn
+[22:15:30] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> no?
+[22:15:37] [Server thread/INFO]: sisos issued server command: /ie enchant flame 2
+[22:15:42] [Server thread/INFO]: sisos issued server command: /ie enchant flame 5
+[22:15:56] [Server thread/INFO]: zDreamz__ issued server command: /clan chat
+[22:15:56] [Server thread/INFO]: sisos issued server command: /ie enchant infinity 1
+[22:16:13] [Server thread/INFO]: sisos issued server command: /ie enchant power 6
+[22:16:16] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[22:16:23] [Server thread/INFO]: sisos issued server command: /ie enchant flame 3
+[22:16:29] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[22:16:31] [Server thread/INFO]: sisos issued server command: /ie enchant punch 4
+[22:16:33] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:16:34] [Async Chat Thread - #81/INFO]: [Not Secure] <zDreamz__> a la mierda
+[22:16:37] [Async Chat Thread - #81/INFO]: [Not Secure] <saseca2610> :)

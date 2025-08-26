@@ -111,3 +111,29 @@ data-version: 4|2|4440
         id: minecraft:gold_ingot
         count: 64
   snapshots: []
+'4':
+  uniqueId: 0377c671-ae73-4972-99cf-6b109285415a
+  world: world
+  x: -171
+  y: 131
+  z: 12
+  yaw: 230.59406
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:emerald
+        count: 1
+      item1:
+        DataVersion: 4440
+        id: minecraft:dirt
+        count: 64
+  snapshots: []

@@ -1549,3 +1549,113 @@ Reason: Uso de hacks II, Intentar hacer un trafico de servidores - Perma-ban
 [03:49:06] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] javimessiu]
 [03:49:07] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
 [03:49:14] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> good
+[03:49:17] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> gracias
+[03:49:21] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> q
+[03:49:31] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> lo ayudo a aplanar
+[03:49:36] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:saturation infinite 25 truwe
+[03:49:37] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:saturation infinite 25 true
+[03:49:37] [Server thread/INFO]: [Xautral: Applied effect Saturation to Xautral]
+[03:50:08] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> deja de pegarem porfavor
+[03:50:11] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> ?
+[03:50:17] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> no me pegaste tu?
+[03:50:20] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> no
+[03:50:24] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> wtf
+[03:50:44] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> aplano tambien eso?
+[03:50:50] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> si pls
+[03:51:25] [Server thread/INFO]: Xautral issued server command: /ie attribute add attack_damage 2
+[03:53:36] [Async Chat Thread - #30/INFO]: [Not Secure] <javimessiu> w dame pescado pls
+[03:53:42] [Async Chat Thread - #30/INFO]: [Not Secure] <javimessiu> hay un gato
+[03:53:44] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> ok
+[03:53:48] [Async Chat Thread - #30/INFO]: [Not Secure] <javimessiu> lo quiero adoptar
+[03:53:57] [Server thread/INFO]: Xautral issued server command: /give javimessiu cooked_salmon 128
+[03:53:57] [Server thread/INFO]: [Xautral: Gave 128 [Cooked Salmon] to [Reino Berserk] javimessiu]
+[03:54:01] [Async Chat Thread - #30/INFO]: [Not Secure] <javimessiu> graxç
+[03:54:08] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> xd
+[03:54:18] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[03:54:20] [Server thread/INFO]: Xautral issued server command: /warp trades
+[03:54:27] [Server thread/INFO]: Xautral issued server command: /shopkeeper
+[03:54:28] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> Xautral
+[03:54:29] [Async Chat Thread - #30/INFO]: [Not Secure] <javimessiu> lo necesito crudo pls este no se lo come
+[03:54:42] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[03:54:42] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] javimessiu]
+[03:54:48] [Server thread/INFO]: Xautral issued server command: /give javimessiu salmon 128
+[03:54:48] [Server thread/INFO]: [Xautral: Gave 128 [Raw Salmon] to [Reino Berserk] javimessiu]
+[03:54:51] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> mira javie
+[03:54:59] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> en warp trades cambian tierrra por esmerald
+[03:55:00] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[03:55:09] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> ;:O
+[03:55:09] [Server thread/INFO]: Xautral issued server command: /give Xautral chest 2
+[03:55:09] [Server thread/INFO]: [Xautral: Gave 2 [Chest] to Xautral]
+[03:55:13] [Server thread/INFO]: sisos issued server command: /warps
+[03:55:16] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [Best Friends Forever]
+[03:55:21] [Async Chat Thread - #30/INFO]: [Not Secure] <javimessiu> siuuu
+[03:55:25] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> siiii
+[03:55:32] [Server thread/INFO]: sisos issued server command: /warps
+[03:56:17] [Server thread/INFO]: javimessiu issued server command: /warps
+[03:56:34] [Server thread/INFO]: Xautral issued server command: /give javimessiu salmon 128
+[03:56:34] [Server thread/INFO]: [Xautral: Gave 128 [Raw Salmon] to [Reino Berserk] javimessiu]
+[03:56:37] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[03:56:37] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] javimessiu]
+[03:56:39] [Server thread/INFO]: sisos issued server command: /fill -4 249 265
+[03:56:41] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> es este
+[03:56:53] [Server thread/INFO]: sisos issued server command: /fill -4 249 265 18 259 291 air
+[03:56:53] [Server thread/INFO]: [sisos: Successfully filled 121 block(s)]
+[03:56:55] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> good
+[03:57:00] [Server thread/INFO]: Xautral issued server command: /say 64+64
+[03:57:00] [Async Chat Thread - #32/INFO]: [Not Secure] [Xautral] 64+64
+[03:57:07] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> 128
+[03:57:14] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> 64x64?
+[03:57:19] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> :v
+[03:57:20] [Server thread/INFO]: Xautral issued server command: /tp sisos
+[03:57:20] [Server thread/INFO]: [Xautral: Teleported Xautral to sisos]
+[03:57:31] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> 15225
+[03:57:34] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> :D
+[03:57:35] [Server thread/INFO]: sisos issued server command: /msg Xautral no ahi no va a ser
+[03:57:38] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> esta bien?
+[03:57:38] [Server thread/INFO]: Xautral issued server command: /tp sisos
+[03:57:38] [Server thread/INFO]: [Xautral: Teleported Xautral to sisos]
+[03:57:40] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[03:57:40] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> full calculadora
+[03:57:41] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> no se
+[03:57:44] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[03:57:44] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] javimessiu]
+[03:57:46] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[03:57:52] [Server thread/INFO]: javimessiu issued server command: /homes
+[03:57:56] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[03:57:56] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] javimessiu]
+[03:58:02] [Server thread/INFO]: sisos issued server command: /msg Xautral tp
+[03:58:03] [Server thread/INFO]: javimessiu issued server command: /home 1
+[03:58:06] [Server thread/INFO]: Xautral issued server command: /tp sisos
+[03:58:06] [Server thread/INFO]: [Xautral: Teleported Xautral to sisos]
+[03:58:07] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[03:58:08] [Server thread/INFO]: javimessiu issued server command: /home 4
+[03:58:11] [Server thread/INFO]: sisos issued server command: /msg Xautral va a ser aca
+[03:58:16] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> bro donde esta mi base
+[03:58:20] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> no c
+[03:58:21] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> no guarde home
+[03:58:23] [Server thread/INFO]: sisos issued server command: /koth
+[03:58:23] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> ._.
+[03:58:26] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> xd
+[03:58:27] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> lpt
+[03:58:28] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[03:58:28] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] javimessiu]
+[03:58:35] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:village_plains
+[03:58:36] [Server thread/INFO]: Locating element minecraft:village_plains took 482 ms
+[03:58:36] [Server thread/INFO]: sisos issued server command: /tp javimessiu
+[03:58:36] [Server thread/INFO]: [sisos: Teleported sisos to [Reino Berserk] javimessiu]
+[03:58:37] [Server thread/INFO]: Xautral issued server command: /tp @s -3072 ~ 3056
+[03:58:37] [Server thread/INFO]: [Xautral: Teleported Xautral to -3071.500000, 64.743953, 3056.500000]
+[03:58:47] [Server thread/INFO]: sisos issued server command: /warps
+[03:58:51] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> hacker
+[03:58:54] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> que
+[03:58:56] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[03:58:56] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] javimessiu]
+[03:58:57] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> sisos
+[03:59:01] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> volo
+[03:59:03] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> wtf
+[03:59:06] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> es admi
+[03:59:07] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> es admin
+[03:59:09] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> a
+[03:59:13] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> xd
+[03:59:15] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> xd
+[03:59:31] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> lpt mi casaaaaa

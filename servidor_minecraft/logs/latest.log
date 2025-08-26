@@ -1,189 +1,189 @@
-[17:16:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[17:16:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[17:16:09] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:16:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[17:16:10] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[17:50:35] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[17:50:35] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[17:50:35] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:50:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[17:50:36] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - SuperEnchants (3.2.0.1)
-[17:16:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[17:50:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - AxGraves (1.22.4), BasicHomes (1.9.6-RELEASE-1.21.8), ItemEdit (3.7.4), JustTPA (20250220c), KyrenLifesteal2 (v1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), Shopkeepers (2.23.10), SkinsRestorer (15.7.10)
-[17:16:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blindness' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HealthSteal' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bleed' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightning' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Teleport' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Jetpack' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Explosive' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Excavator' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Autosmelt' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Freeze' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Confusion' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Multishoot' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dash' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bloodlust' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Shockwave' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Veinminer' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'XPBoost' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enlightened' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enderaura' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Frostbite' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Leap' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Speed' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Magnet' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Growth' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Detonate' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Backstabber' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Piercing' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Deflecting' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bait' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Angler' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Abiding' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Disarm' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Archer' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Farmer' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Decapitation' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dismantle' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Famine' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Spotlight' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Feast' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Updraft' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lavawalker' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Doublestrike' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Timber' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Missile' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Critical' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Inflame' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Nightowl' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Headshot' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Arrowstorm' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Hook' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Gravity' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Adrenaline' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Resilience' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Coward' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Weaken' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Withering' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Heavy' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightweight' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blastoff' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Flippers' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Harvester' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'DragonHunter' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ascend' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HellHunter' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Cubism' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Vanish' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dodge' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Predator' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Slaughter' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'SkullCrusher' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ninja' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Thanos' registered successfully.
-[17:16:16] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Consume' registered successfully.
-[17:16:17] [ServerMain/INFO]: Loaded 1407 recipes
-[17:16:17] [ServerMain/INFO]: Loaded 1520 advancements
-[17:16:17] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[17:16:17] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 395.8ms
-[17:16:18] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:16:18] [Server thread/INFO]: Loading properties
-[17:16:18] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[17:16:18] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:16:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:16:18] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:16:18] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[17:16:18] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[17:16:19] [Server thread/INFO]: Default game type: SURVIVAL
-[17:16:19] [Server thread/INFO]: Generating keypair
-[17:16:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:16:19] [Server thread/INFO]: Using epoll channel type
-[17:16:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:16:19] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
-[17:16:20] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
-[17:16:20] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
-[17:16:20] [Server thread/INFO]: [KyrenLifesteal2] Loading server plugin KyrenLifesteal2 vv1.0
-[17:16:20] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.4
-[17:16:20] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[17:16:20] [Server thread/INFO]: [SuperEnchants] Loading server plugin SuperEnchants v3.2.0.1
-[17:16:20] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
-[17:16:20] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.10
-[17:16:21] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (656 ms).
-[17:16:21] [Server thread/INFO]: [Shopkeepers] Compatibility provider loaded: 1_21_R7_paper
-[17:16:21] [Server thread/INFO]: [Shopkeepers] Loading config.
-[17:16:21] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[17:16:21] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[17:16:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
-[17:16:21] [Server thread/INFO]: [BasicHomes] Loading server plugin BasicHomes v1.9.6-RELEASE-1.21.8
-[17:16:21] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
-[17:16:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:16:21] [Server thread/INFO]: [SuperEnchants] Enabling SuperEnchants v3.2.0.1
-[17:16:21] [Server thread/INFO]: [SuperEnchants] Loading SuperEnchants v3.2.0.1 by Aznos
-[17:16:21] [Server thread/INFO]: [SuperEnchants] -------------------------------------
-[17:16:21] [Server thread/INFO]: [SuperEnchants] If you'd like to support SuperEnchants and you find it useful, please consider donating at: https://buymeacoffee.com/aznos
-[17:16:21] [Server thread/INFO]: [SuperEnchants] -------------------------------------
-[17:16:21] [Server thread/WARN]: [SuperEnchants] Could not save lang_en.yml to plugins/SuperEnchants/lang_en.yml because lang_en.yml already exists.
-[17:16:21] [Server thread/WARN]: [SuperEnchants] Could not save lang_de.yml to plugins/SuperEnchants/lang_de.yml because lang_de.yml already exists.
-[17:16:21] [Server thread/WARN]: [SuperEnchants] Could not save lang_pt.yml to plugins/SuperEnchants/lang_pt.yml because lang_pt.yml already exists.
-[17:16:21] [Server thread/WARN]: [SuperEnchants] Could not save lang_es.yml to plugins/SuperEnchants/lang_es.yml because lang_es.yml already exists.
-[17:16:21] [Server thread/WARN]: [SuperEnchants] Could not save lang_fr.yml to plugins/SuperEnchants/lang_fr.yml because lang_fr.yml already exists.
-[17:16:21] [Server thread/WARN]: [SuperEnchants] Could not save lang_nl.yml to plugins/SuperEnchants/lang_nl.yml because lang_nl.yml already exists.
-[17:16:21] [Server thread/WARN]: [SuperEnchants] Could not save lang_ru.yml to plugins/SuperEnchants/lang_ru.yml because lang_ru.yml already exists.
-[17:16:21] [Server thread/WARN]: [SuperEnchants] Could not save lang_pirate.yml to plugins/SuperEnchants/lang_pirate.yml because lang_pirate.yml already exists.
-[17:16:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
-[17:16:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[17:16:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:16:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:16:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:16:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:16:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:16:23] [Server thread/INFO]: Preparing level "world"
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:16:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:16:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:16:24] [Server thread/INFO]: Preparing spawn area: 0%
-[17:16:24] [Server thread/INFO]: Preparing spawn area: 2%
-[17:16:25] [Server thread/INFO]: Preparing spawn area: 18%
-[17:16:25] [Server thread/INFO]: Time elapsed: 1342 ms
-[17:16:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:16:25] [Server thread/INFO]: Preparing spawn area: 0%
-[17:16:25] [Server thread/INFO]: Time elapsed: 251 ms
-[17:16:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:16:25] [Server thread/INFO]: Preparing spawn area: 0%
-[17:16:25] [Server thread/INFO]: Time elapsed: 152 ms
-[17:16:25] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
-[17:16:25] [Server thread/INFO]: [KyrenLifesteal2] Enabling KyrenLifesteal2 vv1.0
-[17:16:26] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[17:50:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blindness' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HealthSteal' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bleed' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightning' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Teleport' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Jetpack' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Explosive' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Excavator' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Autosmelt' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Freeze' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Confusion' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Multishoot' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dash' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bloodlust' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Shockwave' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Veinminer' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'XPBoost' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enlightened' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enderaura' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Frostbite' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Leap' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Speed' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Magnet' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Growth' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Detonate' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Backstabber' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Piercing' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Deflecting' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bait' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Angler' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Abiding' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Disarm' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Archer' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Farmer' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Decapitation' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dismantle' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Famine' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Spotlight' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Feast' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Updraft' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lavawalker' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Doublestrike' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Timber' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Missile' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Critical' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Inflame' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Nightowl' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Headshot' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Arrowstorm' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Hook' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Gravity' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Adrenaline' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Resilience' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Coward' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Weaken' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Withering' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Heavy' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightweight' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blastoff' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Flippers' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Harvester' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'DragonHunter' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ascend' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HellHunter' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Cubism' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Vanish' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dodge' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Predator' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Slaughter' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'SkullCrusher' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Ninja' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Thanos' registered successfully.
+[17:50:41] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Consume' registered successfully.
+[17:50:42] [ServerMain/INFO]: Loaded 1407 recipes
+[17:50:42] [ServerMain/INFO]: Loaded 1520 advancements
+[17:50:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[17:50:43] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 452.8ms
+[17:50:43] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[17:50:43] [Server thread/INFO]: Loading properties
+[17:50:43] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[17:50:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:50:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:50:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:50:43] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[17:50:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[17:50:44] [Server thread/INFO]: Default game type: SURVIVAL
+[17:50:44] [Server thread/INFO]: Generating keypair
+[17:50:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:50:44] [Server thread/INFO]: Using epoll channel type
+[17:50:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:50:44] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[17:50:44] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[17:50:45] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
+[17:50:45] [Server thread/INFO]: [KyrenLifesteal2] Loading server plugin KyrenLifesteal2 vv1.0
+[17:50:45] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.4
+[17:50:45] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[17:50:45] [Server thread/INFO]: [SuperEnchants] Loading server plugin SuperEnchants v3.2.0.1
+[17:50:45] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
+[17:50:45] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.10
+[17:50:45] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (516 ms).
+[17:50:45] [Server thread/INFO]: [Shopkeepers] Compatibility provider loaded: 1_21_R7_paper
+[17:50:45] [Server thread/INFO]: [Shopkeepers] Loading config.
+[17:50:45] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[17:50:45] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[17:50:45] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[17:50:45] [Server thread/INFO]: [BasicHomes] Loading server plugin BasicHomes v1.9.6-RELEASE-1.21.8
+[17:50:45] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
+[17:50:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:50:45] [Server thread/INFO]: [SuperEnchants] Enabling SuperEnchants v3.2.0.1
+[17:50:45] [Server thread/INFO]: [SuperEnchants] Loading SuperEnchants v3.2.0.1 by Aznos
+[17:50:45] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[17:50:45] [Server thread/INFO]: [SuperEnchants] If you'd like to support SuperEnchants and you find it useful, please consider donating at: https://buymeacoffee.com/aznos
+[17:50:45] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[17:50:45] [Server thread/WARN]: [SuperEnchants] Could not save lang_en.yml to plugins/SuperEnchants/lang_en.yml because lang_en.yml already exists.
+[17:50:45] [Server thread/WARN]: [SuperEnchants] Could not save lang_de.yml to plugins/SuperEnchants/lang_de.yml because lang_de.yml already exists.
+[17:50:45] [Server thread/WARN]: [SuperEnchants] Could not save lang_pt.yml to plugins/SuperEnchants/lang_pt.yml because lang_pt.yml already exists.
+[17:50:45] [Server thread/WARN]: [SuperEnchants] Could not save lang_es.yml to plugins/SuperEnchants/lang_es.yml because lang_es.yml already exists.
+[17:50:45] [Server thread/WARN]: [SuperEnchants] Could not save lang_fr.yml to plugins/SuperEnchants/lang_fr.yml because lang_fr.yml already exists.
+[17:50:45] [Server thread/WARN]: [SuperEnchants] Could not save lang_nl.yml to plugins/SuperEnchants/lang_nl.yml because lang_nl.yml already exists.
+[17:50:45] [Server thread/WARN]: [SuperEnchants] Could not save lang_ru.yml to plugins/SuperEnchants/lang_ru.yml because lang_ru.yml already exists.
+[17:50:45] [Server thread/WARN]: [SuperEnchants] Could not save lang_pirate.yml to plugins/SuperEnchants/lang_pirate.yml because lang_pirate.yml already exists.
+[17:50:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[17:50:46] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[17:50:46] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:50:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:50:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:50:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:50:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:50:46] [Server thread/INFO]: Preparing level "world"
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:50:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:50:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:50:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:50:47] [Server thread/INFO]: Preparing spawn area: 2%
+[17:50:48] [Server thread/INFO]: Preparing spawn area: 2%
+[17:50:48] [Server thread/INFO]: Time elapsed: 1098 ms
+[17:50:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:50:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:50:48] [Server thread/INFO]: Time elapsed: 217 ms
+[17:50:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:50:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:50:48] [Server thread/INFO]: Time elapsed: 125 ms
+[17:50:48] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
+[17:50:48] [Server thread/INFO]: [KyrenLifesteal2] Enabling KyrenLifesteal2 vv1.0
+[17:50:49] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -234,7 +234,7 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[17:16:26] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[17:50:49] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -285,7 +285,7 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[17:16:26] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[17:50:49] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -336,7 +336,7 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[17:16:26] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[17:50:49] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -387,146 +387,180 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[17:16:26] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] MENU MANAGER HAS BEEN SETUP
-[17:16:26] [Server thread/WARN]: Nag author(s): '[Kyren223]' of 'KyrenLifesteal2 vv1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[17:16:26] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] ContainerListener
-[17:16:26] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] UIListener
-[17:16:26] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] InventoryListener
-[17:16:26] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.4
-[17:16:26] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[17:16:26] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[17:16:26] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[17:16:27] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[17:16:27] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[17:16:27] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[17:16:27] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
-[17:16:27] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
-[17:16:27] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
-[17:16:27] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
-[17:16:27] [Server thread/INFO]: [ItemEdit] # Enabled (took 324 ms)
-[17:16:27] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.10
-[17:16:27] [Server thread/INFO]: [Shopkeepers] Loading the data of 4 shopkeepers ...
-[17:16:27] [Server thread/INFO]: [BasicHomes] Enabling BasicHomes v1.9.6-RELEASE-1.21.8
-[17:16:27] [Server thread/INFO]: [BH] Commands loaded !
-[17:16:27] [Server thread/INFO]: [BH] Events loaded !
-[17:16:27] [Server thread/INFO]: [BH] Metrics (bStats) successfully loaded !
-[17:16:27] [Server thread/INFO]: [BH] Checking for updates...
-[17:16:27] [Server thread/INFO]: [BH] An update is available: 1.9.7. Download it at https://www.curseforge.com/minecraft/bukkit-plugins/basichomes/files
-[17:16:27] [Server thread/INFO]: [BH] Plugin successfully loaded !
-[17:16:27] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
-[17:16:27] [Server thread/INFO]: [JustTPA] JustTPA initialized
-[17:16:27] [Server thread/INFO]: [JustTPA] bStats enabled
-[17:16:27] [Server thread/INFO]: [JustTPA] Checking for updates...
-[17:16:28] [Server thread/INFO]: [spark] Starting background profiler...
-[17:16:28] [Server thread/INFO]: Done preparing level "world" (5.246s)
-[17:16:28] [Server thread/INFO]: Running delayed init tasks
-[17:16:28] [Server thread/INFO]: Done (20.496s)! For help, type "help"
-[17:16:28] [User Authenticator #0/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
-[17:16:28] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[17:16:28] [Craft Scheduler Thread - 4 - JustTPA/WARN]: [JustTPA] Failed to check for updates
-[17:16:30] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
-[17:16:30] [Server thread/INFO]: _wdegw_[/127.153.189.115:36687] logged in with entity id 40 at ([world]210.19413984244426, 64.0, -1494.0312977679148)
-[17:16:31] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
-[17:16:32] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
-[17:16:32] [Server thread/INFO]: NOW_POOL123[/127.79.177.66:60951] logged in with entity id 107 at ([world]-116.91533988195336, 99.0, -35.30000001192093)
-[17:16:44] [Server thread/INFO]: NOW_POOL123 issued server command: /home h1
-[17:16:55] [Server thread/INFO]: _wdegw_ issued server command: /home xp
-[17:16:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 69200262-6160-4e78-8282-48b1d4ecd50a, mapped to Bat['Bat'/770, uuid='69200262-6160-4e78-8282-48b1d4ecd50a', l='ServerLevel[world]', x=390.96, y=-28.41, z=-1137.27, cpos=[24, -72], tl=0, v=true], can't add Bat['Bat'/771, uuid='69200262-6160-4e78-8282-48b1d4ecd50a', l='ServerLevel[world]', x=376.58, y=-20.82, z=-1127.15, cpos=[23, -71], tl=0, v=false]
-[17:16:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 27d96f57-3a27-41ba-b327-25d1355daea0, mapped to Bat['Bat'/769, uuid='27d96f57-3a27-41ba-b327-25d1355daea0', l='ServerLevel[world]', x=417.31, y=-28.28, z=-1169.79, cpos=[26, -74], tl=0, v=true], can't add Bat['Bat'/781, uuid='27d96f57-3a27-41ba-b327-25d1355daea0', l='ServerLevel[world]', x=421.11, y=-23.99, z=-1162.15, cpos=[26, -73], tl=0, v=false]
-[17:16:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ef32e679-b0ac-4eb6-a9bc-8156e080e09b, mapped to Zombie['Zombie'/844, uuid='ef32e679-b0ac-4eb6-a9bc-8156e080e09b', l='ServerLevel[world]', x=500.50, y=30.00, z=-1200.50, cpos=[31, -76], tl=0, v=true], can't add Zombie['Zombie'/850, uuid='ef32e679-b0ac-4eb6-a9bc-8156e080e09b', l='ServerLevel[world]', x=496.75, y=29.00, z=-1194.80, cpos=[31, -75], tl=0, v=false]
-[17:17:27] [Server thread/INFO]: _wdegw_ issued server command: /sethome granja
-[17:17:30] [Server thread/INFO]: _wdegw_ issued server command: /home xp
-[17:17:42] [Server thread/INFO]: _wdegw_ issued server command: /home xp
-[17:18:10] [Server thread/INFO]: _wdegw_ issued server command: /home granja
-[17:18:16] [Server thread/INFO]: NOW_POOL123 issued server command: /home h1
-[17:18:38] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
-[17:18:38] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
-[17:20:06] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[17:20:08] [Server thread/INFO]: [Owner] Xautral joined the game
-[17:20:08] [Server thread/INFO]: Xautral[/127.115.99.248:48221] logged in with entity id 1440 at ([world]-187.35996674320612, 198.12606652647682, 67.99886841386969)
-[17:20:17] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> hola
-[17:20:24] [User Authenticator #1/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
-[17:20:29] [Server thread/INFO]: blime2009 joined the game
-[17:20:29] [Server thread/INFO]: blime2009[/127.20.187.84:50895] logged in with entity id 1592 at ([world]13.300000011920929, 92.0, 35.30000001192093)
-[17:20:40] [User Authenticator #1/INFO]: UUID of player Erick_Papucho is 91cdad2b-15f0-3a6c-b5b6-8607f3ca29d8
-[17:20:40] [Server thread/INFO]: Disconnecting Erick_Papucho (/127.89.77.201:51757): You are not whitelisted on this server!
-[17:20:40] [Server thread/INFO]: Erick_Papucho (/127.89.77.201:51757) lost connection: You are not whitelisted on this server!
-[17:20:48] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> xautral
-[17:20:52] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> m das op :3?
-[17:21:06] [User Authenticator #1/INFO]: UUID of player Erick_Papucho is 91cdad2b-15f0-3a6c-b5b6-8607f3ca29d8
-[17:21:06] [Server thread/INFO]: Disconnecting Erick_Papucho (/127.89.77.201:46701): You are not whitelisted on this server!
-[17:21:06] [Server thread/INFO]: Erick_Papucho (/127.89.77.201:46701) lost connection: You are not whitelisted on this server!
-[17:21:27] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> uwu
-[17:21:39] [User Authenticator #1/INFO]: UUID of player Erick_Papucho is 91cdad2b-15f0-3a6c-b5b6-8607f3ca29d8
-[17:21:39] [Server thread/INFO]: Disconnecting Erick_Papucho (/127.89.77.201:45379): You are not whitelisted on this server!
-[17:21:39] [Server thread/INFO]: Erick_Papucho (/127.89.77.201:45379) lost connection: You are not whitelisted on this server!
-[17:22:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> si
-[17:22:10] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> ty
-[17:22:16] [Server thread/INFO]: Xautral issued server command: /op blime2009
-[17:22:16] [Server thread/INFO]: [[Owner] Xautral: Made blime2009 a server operator]
-[17:22:18] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[17:22:18] [Server thread/INFO]: [blime2009: Set own game mode to Creative Mode]
-[17:22:20] [Server thread/INFO]: Xautral issued server command: /team join admin blime2009
-[17:22:20] [Server thread/INFO]: [[Owner] Xautral: Added [Admin] blime2009 to team [admin]]
-[17:22:22] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[17:22:22] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Owner] Xautral]
-[17:22:45] [User Authenticator #2/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
-[17:22:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@5074b841[id=a03636ea-370a-3198-a7d8-1b29c9dfdff6,name=NOW_POOL123,properties={}] lost connection: Disconnected
-[17:22:47] [User Authenticator #2/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
-[17:22:48] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
-[17:22:48] [Server thread/INFO]: NOW_POOL123[/127.79.177.66:48787] logged in with entity id 2270 at ([world]27.30000001192093, 156.0, -144.30000001192093)
-[17:22:50] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> y esta formacion de terreno
-[17:22:56] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[17:22:56] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] blime2009]
-[17:22:58] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> blime
-[17:23:02] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ahorita se van a conectar unos amigos
-[17:23:02] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> ?
-[17:23:05] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> de mi escuela
-[17:23:06] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> ok
-[17:23:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> comportate porfavor
-[17:23:14] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> igual me voy en 2 mins
-[17:23:15] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> :v
-[17:23:15] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> voy a jugar con ellos en surv
-[17:23:28] [Server thread/INFO]: Xautral issued server command: /whitelist add Erick_Papucho
-[17:23:28] [Server thread/INFO]: [[Owner] Xautral: Added Erick_Papucho to the whitelist]
-[17:23:30] [Server thread/INFO]: blime2009 issued server command: /warp spawn
-[17:23:35] [Server thread/INFO]: Xautral issued server command: /kill
-[17:23:36] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:23:36] [Server thread/INFO]: [Owner] Xautral was killed
-[17:23:36] [Server thread/INFO]: [[Owner] Xautral: Killed [Owner] Xautral]
-[17:23:38] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
-[17:23:39] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> ese es el spawn?
-[17:24:01] [Server thread/INFO]: Xautral issued server command: /attribute Xautral minecraft:max_health base reset
-[17:24:03] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[17:24:03] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Owner] Xautral]
-[17:24:11] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
-[17:24:11] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
-[17:24:13] [User Authenticator #3/INFO]: UUID of player Erick_Papucho is 91cdad2b-15f0-3a6c-b5b6-8607f3ca29d8
-[17:24:14] [Server thread/INFO]: Erick_Papucho joined the game
-[17:24:14] [Server thread/INFO]: Erick_Papucho[/127.89.77.201:50745] logged in with entity id 2854 at ([world]-5.5, 110.0, -3.5)
-[17:24:18] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> XD
-[17:24:28] [Server thread/INFO]: blime2009 issued server command: /gamemode spectator
-[17:24:28] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Spectator Mode]
-[17:24:35] [Server thread/INFO]: blime2009 issued server command: /tp NOW_POOL123
-[17:24:35] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Tukulor] NOW_POOL123]
-[17:24:44] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[17:24:44] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Owner] Xautral]
-[17:24:52] [Server thread/INFO]: blime2009 issued server command: /tp NOW_POOL123
-[17:24:52] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Tukulor] NOW_POOL123]
-[17:24:55] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
-[17:24:55] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
-[17:24:58] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[17:24:58] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
-[17:25:09] [Server thread/INFO]: NOW_POOL123 issued server command: /msg blime2009 me regalas corazones me los quitaron injustamente xd
-[17:25:19] [Server thread/INFO]: blime2009 issued server command: /msg NOW_POOL123 no
-[17:25:23] [Server thread/INFO]: blime2009 issued server command: /msg NOW_POOL123 pasa clip
-[17:25:35] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> XDD
-[17:25:40] [Server thread/INFO]: NOW_POOL123 issued server command: /tell blime2009 aya el video
-[17:25:40] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> que paso
-[17:25:40] [Server thread/INFO]: Erick_Papucho issued server command: /skin
-[17:25:45] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> nada
-[17:25:49] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> q me falta una hay
-[17:26:04] [Server thread/INFO]: NOW_POOL123 issued server command: /tell blime2009 nada ya me quedo con mis 8 coras
-[17:26:05] [User Authenticator #4/INFO]: UUID of player javimessiu is 40d8cc67-d866-3d98-9f8e-530c4e2cdb8f
-[17:26:06] [Server thread/INFO]: [Reino Berserk] javimessiu joined the game
-[17:26:06] [Server thread/INFO]: javimessiu[/127.87.130.205:34871] logged in with entity id 3330 at ([world]-1954.4343336344502, 60.0, 2295.5332266929718)
+[17:50:49] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] MENU MANAGER HAS BEEN SETUP
+[17:50:49] [Server thread/WARN]: Nag author(s): '[Kyren223]' of 'KyrenLifesteal2 vv1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[17:50:49] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] ContainerListener
+[17:50:49] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] UIListener
+[17:50:49] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] InventoryListener
+[17:50:49] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.4
+[17:50:50] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[17:50:50] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[17:50:50] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[17:50:50] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[17:50:50] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[17:50:50] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[17:50:50] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
+[17:50:50] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[17:50:50] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[17:50:50] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[17:50:50] [Server thread/INFO]: [ItemEdit] # Enabled (took 202 ms)
+[17:50:50] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.10
+[17:50:50] [Server thread/INFO]: [Shopkeepers] Loading the data of 4 shopkeepers ...
+[17:50:50] [Server thread/INFO]: [BasicHomes] Enabling BasicHomes v1.9.6-RELEASE-1.21.8
+[17:50:50] [Server thread/INFO]: [BH] Commands loaded !
+[17:50:50] [Server thread/INFO]: [BH] Events loaded !
+[17:50:50] [Server thread/INFO]: [BH] Metrics (bStats) successfully loaded !
+[17:50:50] [Server thread/INFO]: [BH] Checking for updates...
+[17:50:51] [Server thread/INFO]: [BH] An update is available: 1.9.7. Download it at https://www.curseforge.com/minecraft/bukkit-plugins/basichomes/files
+[17:50:51] [Server thread/INFO]: [BH] Plugin successfully loaded !
+[17:50:51] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
+[17:50:51] [Server thread/INFO]: [JustTPA] JustTPA initialized
+[17:50:51] [Server thread/INFO]: [JustTPA] bStats enabled
+[17:50:51] [Server thread/INFO]: [JustTPA] Checking for updates...
+[17:50:51] [Server thread/INFO]: [spark] Starting background profiler...
+[17:50:51] [Server thread/INFO]: Done preparing level "world" (4.687s)
+[17:50:51] [Server thread/INFO]: Running delayed init tasks
+[17:50:51] [Server thread/INFO]: Done (17.404s)! For help, type "help"
+[17:50:51] [Craft Scheduler Thread - 4 - JustTPA/WARN]: [JustTPA] Failed to check for updates
+[17:50:52] [User Authenticator #0/INFO]: UUID of player IF_willygod142 is 3655c992-c7e1-34da-8a15-67ef522bbd8d
+[17:50:52] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[17:50:53] [Server thread/INFO]: [Reino willyif] IF_willygod142 joined the game
+[17:50:53] [Server thread/INFO]: IF_willygod142[/127.210.4.211:54145] logged in with entity id 51 at ([world]9.699999988079071, 172.0, -56.69999998807907)
+[17:51:00] [User Authenticator #0/INFO]: UUID of player zIkzw is a242f927-5c64-30d8-abbf-781fc25e3cc4
+[17:51:01] [User Authenticator #0/INFO]: UUID of player Erick_Papucho is 91cdad2b-15f0-3a6c-b5b6-8607f3ca29d8
+[17:51:01] [Server thread/INFO]: Erick_Papucho joined the game
+[17:51:01] [Server thread/INFO]: Erick_Papucho[/127.89.77.201:55847] logged in with entity id 319 at ([world]-30.861182089452377, 96.0, 22.69999998807907)
+[17:51:01] [Server thread/INFO]: [Reino Berserk] zIkzw joined the game
+[17:51:01] [Server thread/INFO]: zIkzw[/127.79.179.100:40663] logged in with entity id 318 at ([world_nether]51.44925763402982, 60.024424088213685, -185.12775040423148)
+[17:51:03] [User Authenticator #0/INFO]: UUID of player saul23419 is 72e5a4dc-d032-3065-b7fb-c3e8c4469409
+[17:51:04] [Server thread/INFO]: saul23419 joined the game
+[17:51:04] [Server thread/INFO]: saul23419[/127.85.129.171:49585] logged in with entity id 443 at ([world]-32.67155188260367, 96.0, 84.8321724140866)
+[17:51:10] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[17:51:11] [Server thread/INFO]: [Owner] Xautral joined the game
+[17:51:11] [Server thread/INFO]: Xautral[/127.115.99.248:39891] logged in with entity id 592 at ([world]-32.35935125854049, 94.7531999805212, 86.438016491459)
+[17:51:19] [User Authenticator #0/INFO]: UUID of player javimessiu is 40d8cc67-d866-3d98-9f8e-530c4e2cdb8f
+[17:51:19] [Server thread/INFO]: [Reino Berserk] javimessiu joined the game
+[17:51:19] [Server thread/INFO]: javimessiu[/127.87.130.205:39841] logged in with entity id 610 at ([world]216.85645087361368, 65.0, -1481.1002931641797)
+[17:51:23] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> javi
+[17:51:24] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 405de10a-ed56-494a-9bad-7865bac87041, mapped to Bat['Bat'/770, uuid='405de10a-ed56-494a-9bad-7865bac87041', l='ServerLevel[world]', x=279.65, y=-7.13, z=-1312.53, cpos=[17, -83], tl=0, v=true], can't add Bat['Bat'/775, uuid='405de10a-ed56-494a-9bad-7865bac87041', l='ServerLevel[world]', x=281.40, y=-8.00, z=-1309.32, cpos=[17, -82], tl=0, v=false]
+[17:51:28] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> al parecer no se guardo como te violaban
+[17:51:29] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> bien
+[17:51:29] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> que
+[17:51:30] [Server thread/INFO]: saul23419 issued server command: /hola23
+[17:51:31] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> tpeate
+[17:51:32] [Server thread/INFO]: Xautral issued server command: /lsitem heart 2
+[17:51:32] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> xd
+[17:51:35] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> SXDD
+[17:51:37] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> que bueno
+[17:51:39] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> xddd
+[17:51:42] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> traete barca
+[17:51:45] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> bote
+[17:51:45] [User Authenticator #0/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[17:51:46] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
+[17:51:46] [Server thread/INFO]: _wdegw_[/127.153.189.115:59605] logged in with entity id 910 at ([world]366.2917850375406, -16.0, -1300.2639876000756)
+[17:52:00] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> Patata
+[17:52:03] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> tpeate ya ostias
+[17:52:04] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> patata xd
+[17:52:07] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> la ptmr
+[17:52:14] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> UN PIGLIN
+[17:52:17] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> otra vez retrocedimos en el tiempo
+[17:52:19] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> Xd
+[17:52:27] [Server thread/INFO]: [Reino Berserk] zIkzw has made the advancement [Oh Shiny]
+[17:52:33] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> me quitaron mis niveles ptmr
+[17:52:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> xd
+[17:52:44] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> tradeando con piglins povres
+[17:52:45] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> xd
+[17:52:50] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> tpeate ya javimessiu
+[17:52:51] [Server thread/INFO]: javimessiu issued server command: /tpa zIkzw
+[17:52:56] [Server thread/INFO]: zIkzw issued server command: /tpaccept
+[17:52:57] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [We Need to Go Deeper]
+[17:52:58] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> regalo
+[17:53:00] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> XD
+[17:53:03] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> XDDDDDDDDDDDD
+[17:53:13] [Async Chat Thread - #1/INFO]: [Not Secure] <IF_willygod142> los piglins tienen sentimientos zIkzw
+[17:53:21] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> y el dragon tambien
+[17:53:24] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> aguante el dragon
+[17:53:47] [Async Chat Thread - #0/INFO]: [Not Secure] <IF_willygod142> duerman loco
+[17:53:50] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> no
+[17:53:51] [Server thread/INFO]: Erick_Papucho has made the advancement [Monster Hunter]
+[17:53:52] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> tamos en el nether
+[17:53:53] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> no
+[17:53:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a531070d-0531-4b16-b70e-7d81d9ebbd1c, mapped to Parrot['Parrot'/1952, uuid='a531070d-0531-4b16-b70e-7d81d9ebbd1c', l='ServerLevel[world]', x=-199.65, y=131.00, z=303.60, cpos=[-13, 18], tl=0, v=true], can't add Parrot['Parrot'/2106, uuid='a531070d-0531-4b16-b70e-7d81d9ebbd1c', l='ServerLevel[world]', x=-201.54, y=134.00, z=306.47, cpos=[-13, 19], tl=0, v=false]
+[17:53:55] [Async Chat Thread - #1/INFO]: [Not Secure] <IF_willygod142> quiero que se haga de dia
+[17:53:55] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> como queres que durmamos
+[17:54:03] [Async Chat Thread - #1/INFO]: [Not Secure] <IF_willygod142> EXPLOTANDO NOSE
+[17:54:30] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> cuidao
+[17:54:36] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> IF_willygod142 vete a crear nfts
+[17:54:44] [Async Chat Thread - #1/INFO]: [Not Secure] <IF_willygod142> XD
+[17:54:44] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> ostia
+[17:55:17] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> xd
+[17:55:24] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> cuantas enderpearls tienes
+[17:55:31] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> patata
+[17:55:33] [Server thread/INFO]: Erick_Papucho has made the advancement [Stone Age]
+[17:55:35] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> CUIDADO QUE TE VIOLAN
+[17:55:39] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> CUBRETEEE
+[17:55:45] [Server thread/INFO]: saul23419 has made the advancement [Monster Hunter]
+[17:55:47] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[17:55:53] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> xd
+[17:55:58] [Server thread/INFO]: Xautral issued server command: /advancement revoke Xautral everything
+[17:55:58] [Server thread/INFO]: [[Owner] Xautral: Revoked 1520 advancements from [Owner] Xautral]
+[17:55:59] [Server thread/INFO]: [Owner] Xautral has made the advancement [Isn't It Iron Pick]
+[17:55:59] [Server thread/INFO]: [Owner] Xautral has made the advancement [Stone Age]
+[17:56:19] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> parecen los de coppel
+[17:56:33] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> xd
+[17:56:42] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> easyt
+[17:56:48] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> cuantas enderpearls tieness
+[17:56:51] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> 2
+[17:56:59] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> tan pocas
+[17:57:00] [Server thread/INFO]: _wdegw_ issued server command: /tpa zIkzw
+[17:57:02] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> si
+[17:57:03] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> yo 4 xd
+[17:57:05] [Server thread/INFO]: zIkzw issued server command: /tpaccept
+[17:57:07] [Server thread/INFO]: [Owner] Xautral has made the advancement [Suit Up]
+[17:57:08] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> toma
+[17:57:09] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> w
+[17:57:14] [Server thread/INFO]: [Owner] Xautral has made the advancement [Monster Hunter]
+[17:57:18] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> me hice filo 3
+[17:57:20] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> XD
+[17:57:29] [Server thread/INFO]: [Owner] Xautral has made the advancement [Getting an Upgrade]
+[17:57:30] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> xd
+[17:57:31] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> CON LA BARCA
+[17:57:32] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> BOBO
+[17:57:41] [Server thread/INFO]: Xautral issued server command: /sethome casa
+[17:57:45] [Server thread/INFO]: Xautral issued server command: /warp trades
+[17:57:50] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> no,pelemos
+[17:57:52] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> xd
+[17:58:00] [Server thread/INFO]: Xautral issued server command: /home casa
+[17:58:01] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> me violas con esa espada
+[17:58:02] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> xd
+[17:58:04] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> cuantas ender tienen?
+[17:58:06] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> XD
+[17:58:09] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> yo 3
+[17:58:10] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> xd
+[17:58:11] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> 4
+[17:58:11] [Server thread/INFO]: Erick_Papucho has made the advancement [Getting an Upgrade]
+[17:58:14] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> ok
+[17:58:17] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> necesitamos al menos 16
+[17:58:19] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> pa asegurar
+[17:58:20] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> se
+[17:58:42] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> uh el basalto esta guapo pa decorar
+[17:58:48] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> sii xd
+[17:58:54] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> despues farmeamos
+[17:59:03] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> patata
+[17:59:12] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> tengo 3
+[17:59:20] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> cuantas tienes zizkw?
+[17:59:26] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> q viene
+[17:59:29] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> asustenlos
+[17:59:38] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> POR NEGROS
+[17:59:39] [Async Chat Thread - #1/INFO]: [Not Secure] <javimessiu> 7
+[17:59:42] [Async Chat Thread - #1/INFO]: [Not Secure] <IF_willygod142> las montañas son re efectivas para el carbon y el hierro
+[17:59:43] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> yo 4
+[17:59:45] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> el barco xd
+[17:59:52] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> el barco
+[18:00:04] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> gracias
+[18:00:05] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> wdegw cuantas tienes
+[18:00:09] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> pa cuando crean el smp
+[18:00:12] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> 3 me quitaste las demas
+[18:00:13] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> XD
+[18:00:16] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> xd
+[18:00:24] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> tenemos 14

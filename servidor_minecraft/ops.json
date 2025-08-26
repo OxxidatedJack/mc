@@ -10,5 +10,11 @@
     "name": "sisos",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a0907bd1-adc5-301f-b27a-04b24dd54050",
+    "name": "WebMojave",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

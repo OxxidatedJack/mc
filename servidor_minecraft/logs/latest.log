@@ -498,3 +498,74 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [15:30:02] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> baneenlo
 [15:30:15] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> nah broma no me violes pls
 [15:30:17] [Async Chat Thread - #1/INFO]: [Not Secure] <WebMojave> voy a prender y apagar el servidor rapido tmará 15 egundos) para agregar lo de las tumbas
+[15:30:24] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> a
+[15:30:26] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> bueno va
+[15:30:35] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> si eres xautral tirame una bola de fuego asi de chill
+[15:30:44] [Server thread/INFO]: [Not Secure] [Server] no
+[15:30:46] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> diavlo
+[15:30:50] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> XD
+[15:30:56] [Server thread/INFO]: Made WebMojave a server operator
+[15:30:58] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> fui yo el q te pegue el putaso por si acaso
+[15:31:04] [Server thread/INFO]: Added zIkzw to the whitelist
+[15:31:04] [Server thread/INFO]: Added WebMojave to the whitelist
+[15:31:10] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> alguien se paso el juego ya?
+[15:31:11] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> w hay ta bien el muro?
+[15:31:14] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> nose
+[15:31:14] [Server thread/INFO]: Whitelist is now turned on
+[15:31:18] [Server thread/INFO]: Whitelist is already turned on
+[15:31:20] [Server thread/INFO]: Whitelist is already turned on
+[15:31:21] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> desde q me desconecte no
+[15:31:22] [Server thread/INFO]: Stopping the server
+[15:31:22] [Server thread/INFO]: Stopping server
+[15:31:22] [Server thread/INFO]: [JustTPA] Disabling JustTPA v20250220c
+[15:31:22] [Server thread/INFO]: [JustTPA] JustTPA disabled
+[15:31:22] [Server thread/INFO]: [BasicHomes] Disabling BasicHomes v1.9.6-RELEASE-1.21.8
+[15:31:22] [Server thread/INFO]: [BH] Plugin successfully stopped !
+[15:31:22] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[15:31:22] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.10
+[15:31:22] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
+[15:31:22] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v3.2.0.1
+[15:31:22] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[15:31:22] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[15:31:22] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[15:31:22] [Server thread/INFO]: [KyrenLifesteal2] Disabling KyrenLifesteal2 vv1.0
+[15:31:22] [Server thread/WARN]: Saved Config Data
+[15:31:22] [Server thread/WARN]: Saved Lifesteal Players Data
+[15:31:22] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
+[15:31:22] [Server thread/INFO]: Saving players
+[15:31:22] [Server thread/INFO]: zIkzw lost connection: Server closed
+[15:31:22] [Server thread/INFO]: zIkzw left the game
+[15:31:22] [Server thread/INFO]: _wdegw_ lost connection: Server closed
+[15:31:22] [Server thread/INFO]: _wdegw_ left the game
+[15:31:22] [Server thread/INFO]: WebMojave lost connection: Server closed
+[15:31:22] [Server thread/INFO]: WebMojave left the game
+[15:31:23] [Server thread/INFO]: Saving worlds
+[15:31:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:31:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:31:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:31:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Saved 1775 block chunks, 945 entity chunks, 6 poi chunks in world 'world' in 2.47s
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:31:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:31:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:31:25] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:31:25] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:31:25] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[15:31:25] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:31:25] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

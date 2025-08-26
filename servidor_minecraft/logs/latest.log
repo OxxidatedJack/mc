@@ -2417,3 +2417,74 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [20:34:34] [Server thread/INFO]: Xautral issued server command: /warp spawn
 [20:34:41] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> prote para PotPVP es prote 5
 [20:34:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> y de crystal y nexus blast prote 5
+[20:35:15] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> pero prote 5 no es muy roto pa Kit pots?
+[20:35:16] [Server thread/INFO]: Xautral issued server command: /home home
+[20:35:21] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> tons ponle 4
+[20:35:32] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> a todos los que te dije
+[20:35:34] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> le puse una espada con filo 2
+[20:35:37] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> aviso
+[20:35:52] [Server thread/INFO]: saul23419 issued server command: /tpa Erick_Papucho
+[20:36:09] [Server thread/INFO]: Erick_Papucho issued server command: /tpaccept
+[20:36:19] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> y el de cristal? diamante o netherite?
+[20:36:38] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> netherite
+[20:36:42] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> y tambien el de nexo
+[20:36:42] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> okey
+[20:36:47] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> okey
+[20:37:07] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:37:07] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:37:08] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:37:08] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:37:08] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:37:08] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:37:10] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:37:10] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:37:22] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:unbreaking 3
+[20:37:22] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Unbreaking III to [Admin] sisos's item]
+[20:37:23] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:unbreaking 3
+[20:37:23] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Unbreaking III to [Admin] sisos's item]
+[20:37:24] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:unbreaking 3
+[20:37:24] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Unbreaking III to [Admin] sisos's item]
+[20:37:25] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:unbreaking 3
+[20:37:25] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Unbreaking III to [Admin] sisos's item]
+[20:37:26] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> lito
+[20:37:37] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> no le voy a poner repa
+[20:37:46] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> a cual
+[20:37:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> al de nexu si ponle
+[20:37:53] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> si
+[20:37:56] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> y al de cristal ponle unbreaking 5
+[20:38:00] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> con /ie enchant unbreaking 5
+[20:38:15] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[20:38:16] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[20:38:17] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[20:38:18] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[20:38:24] [Async Chat Thread - #30/INFO]: [Not Secure] <sisos> listo
+[20:40:33] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> tambien blas protection?
+[20:40:42] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> al de Nexo
+[20:40:57] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:40:57] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:40:58] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:40:58] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:40:59] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:40:59] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:41:00] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:blast_protection 4
+[20:41:00] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Blast Protection IV to [Admin] sisos's item]
+[20:41:01] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> si
+[20:41:12] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[20:41:13] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[20:41:13] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[20:41:15] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 5
+[20:41:24] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:mending
+[20:41:24] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Mending to [Admin] sisos's item]
+[20:41:25] [Server thread/INFO]: Xautral issued server command: /home salida2
+[20:41:25] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:mending
+[20:41:25] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Mending to [Admin] sisos's item]
+[20:41:26] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:mending
+[20:41:26] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Mending to [Admin] sisos's item]
+[20:41:28] [Server thread/INFO]: sisos issued server command: /enchant sisos minecraft:mending
+[20:41:28] [Server thread/INFO]: [[Admin] sisos: Applied enchantment Mending to [Admin] sisos's item]
+[20:42:36] [Server thread/INFO]: Xautral issued server command: /home hom
+[20:42:37] [Server thread/INFO]: Xautral issued server command: /home hom
+[20:42:38] [Server thread/INFO]: Xautral issued server command: /home home
+[20:43:18] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> listo
+[20:43:19] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> todos
+[20:43:25] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> son 5 kits

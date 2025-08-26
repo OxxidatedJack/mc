@@ -948,3 +948,366 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [03:18:33] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
 [03:18:34] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
 [03:18:34] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> grax
+[03:18:37] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[03:18:37] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:18:37] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xd
+[03:18:42] [Server thread/INFO]: Villager Villager['Villager'/42415, uuid='2ca3c5b4-164d-457a-9ffe-c55287eadb1f', l='ServerLevel[world]', x=-166.31, y=131.00, z=12.50, cpos=[-11, 0], tl=4730, v=true] died, message: 'Villager was slain by Xautral'
+[03:18:45] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> solo por q no tube escudo
+[03:18:50] [Server thread/INFO]: sisos issued server command: /execute at Xautral run summon fireball
+[03:18:50] [Server thread/INFO]: [sisos: Summoned new Fireball]
+[03:18:54] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> mi pico
+[03:18:56] [Server thread/INFO]: Xautral issued server command: /ie amount 127
+[03:18:57] [Server thread/INFO]: Xautral lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:set_creative_mode_slot'
+[03:18:57] [Server thread/WARN]: [net.minecraft.world.level.storage.PlayerDataStorage] Serialization errors:
+ServerPlayer['Xautral'/6663, uuid='86f4fd4a-173d-3e06-a1bf-669194d778d7', l='ServerLevel[world]', x=-167.93, y=131.00, z=3.66, cpos=[-11, 0], tl=94917, v=true](Xautral at -167.92808482981306,131.0,3.657129193459957): Failed to append value 'ItemStackWithSlot[slot=0, stack=127 minecraft:netherite_axe]' to list 'Inventory': Value must be within range [1;99]: 127
+[03:18:57] [Server thread/INFO]: Xautral left the game
+[03:19:05] [User Authenticator #8/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[03:19:06] [Server thread/INFO]: Xautral joined the game
+[03:19:06] [Server thread/INFO]: Xautral[/127.115.99.248:36723] logged in with entity id 44876 at ([world]-167.92808482981306, 131.0, 3.657129193459957)
+[03:19:11] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> que onda me crasheó el mc
+[03:19:13] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> mi manzana dorada
+[03:19:14] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:19:14] [Server thread/INFO]: Xautral issued server command: /ie amount 127
+[03:19:18] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> ya
+[03:19:18] [Server thread/INFO]: sisos has made the advancement [Monster Hunter]
+[03:19:20] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> wow
+[03:19:20] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:19:25] [Server thread/INFO]: Xautral lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:set_creative_mode_slot'
+[03:19:25] [Server thread/WARN]: [net.minecraft.world.level.storage.PlayerDataStorage] Serialization errors:
+ServerPlayer['Xautral'/44876, uuid='86f4fd4a-173d-3e06-a1bf-669194d778d7', l='ServerLevel[world]', x=-162.79, y=131.00, z=8.44, cpos=[-11, 0], tl=393, v=true](Xautral at -162.79425148979894,131.0,8.441765499648355): Failed to append value 'ItemStackWithSlot[slot=0, stack=127 minecraft:netherite_axe]' to list 'Inventory': Value must be within range [1;99]: 127
+[03:19:25] [Server thread/INFO]: Xautral left the game
+[03:19:29] [Async Chat Thread - #29/INFO]: [Not Secure] <sisos> xd
+[03:19:30] [User Authenticator #8/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[03:19:31] [Server thread/INFO]: Xautral joined the game
+[03:19:31] [Server thread/INFO]: Xautral[/127.115.99.248:41821] logged in with entity id 45066 at ([world]-162.79425148979894, 131.0, 8.441765499648355)
+[03:19:37] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:19:37] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> y ahora?
+[03:19:40] [Server thread/INFO]: Xautral issued server command: /minecraft:set_creative_mode_slot
+[03:19:42] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> a si w
+[03:19:46] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> end
+[03:19:48] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> me sigue crasheando, me aparece: minecraft:set_creative_mode_slot
+[03:20:01] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> el portal esta aldado del bioma de endermans
+[03:20:06] [Server thread/INFO]: Xautral issued server command: /ie equipment equiponinteract true
+[03:20:11] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> busca fortress
+[03:20:14] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> ok
+[03:20:23] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> Xautral
+[03:20:31] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> trabaja rapido sirviente xddd
+[03:20:36] [Server thread/INFO]: sisos issued server command: /sethome casa
+[03:20:36] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XDD
+[03:20:37] [Server thread/INFO]: Xautral issued server command: /ie firework
+[03:20:43] [Server thread/INFO]: Xautral issued server command: /ie firework
+[03:20:50] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> con ese muro ya no nos pueden raidear?
+[03:20:51] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:20:57] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> segun yo si
+[03:21:01] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:21:02] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> a
+[03:21:10] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> bueno q nos confirmen
+[03:21:12] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> a
+[03:21:15] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:21:27] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xautal
+[03:21:31] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xautral
+[03:21:33] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> broo
+[03:21:35] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> bro
+[03:21:39] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> bro
+[03:21:41] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> bbro
+[03:21:45] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> una duda
+[03:21:48] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> una duda
+[03:21:55] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> una dua
+[03:22:04] [Server thread/INFO]: javimessiu lost connection: Disconnected
+[03:22:04] [Server thread/INFO]: [Reino Berserk] javimessiu left the game
+[03:22:04] [Server thread/INFO]: Xautral lost connection: Disconnected
+[03:22:04] [Server thread/INFO]: Xautral left the game
+[03:22:04] [Server thread/INFO]: _wdegw_ lost connection: Disconnected
+[03:22:04] [Server thread/INFO]: [Reino Berserk] _wdegw_ left the game
+[03:22:07] [Server thread/INFO]: sisos lost connection: Disconnected
+[03:22:07] [Server thread/INFO]: sisos left the game
+[03:22:09] [User Authenticator #9/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[03:22:10] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
+[03:22:10] [Server thread/INFO]: _wdegw_[/127.153.189.115:42489] logged in with entity id 46208 at ([world_nether]69.64551569962039, 58.0, -188.0345101479654)
+[03:22:10] [User Authenticator #9/INFO]: UUID of player javimessiu is 40d8cc67-d866-3d98-9f8e-530c4e2cdb8f
+[03:22:11] [Server thread/INFO]: [Reino Berserk] javimessiu joined the game
+[03:22:11] [Server thread/INFO]: javimessiu[/127.87.130.205:58957] logged in with entity id 46209 at ([world]232.83178137000408, 71.0, -1480.2980367722705)
+[03:22:11] [User Authenticator #9/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[03:22:12] [Server thread/INFO]: Xautral joined the game
+[03:22:12] [Server thread/INFO]: Xautral[/127.115.99.248:41717] logged in with entity id 46272 at ([world]-165.30210324414205, 131.8312985930328, 5.130181151448597)
+[03:22:13] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> lagaso XD
+[03:22:16] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> que
+[03:22:18] [User Authenticator #9/INFO]: UUID of player sisos is 441a76e4-37ed-3a01-bfef-22aca4010e6e
+[03:22:18] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:22:19] [Server thread/INFO]: sisos joined the game
+[03:22:19] [Server thread/INFO]: sisos[/127.5.193.164:56279] logged in with entity id 46410 at ([world]-275.30000001192093, 62.0, -3609.5987709646274)
+[03:22:32] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> pregunta wdegw el tiene una duda
+[03:22:48] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> si con nuestro muro ya no nos pueden raidear si no estamos
+[03:22:49] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> si, gracias novio de _wdegw_ por decirmela tu y no el
+[03:22:53] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XDD
+[03:22:56] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> si _wdegw_
+[03:22:59] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> ya son protegidos
+[03:23:01] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> ok
+[03:23:02] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:23:15] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> guar cap de los cofres porsia un cgistosito biene
+[03:23:19] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> viene*
+[03:23:20] [Server thread/INFO]: Xautral issued server command: /superenchantgui
+[03:23:21] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> o no se
+[03:23:22] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:23:31] [Server thread/INFO]: Xautral issued server command: /superenchantgui
+[03:23:31] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> wtf
+[03:23:52] [Server thread/INFO]: sisos has made the advancement [Not Today, Thank You]
+[03:23:54] [Server thread/INFO]: _wdegw_ issued server command: /seed
+[03:23:59] [Server thread/INFO]: Xautral issued server command: /ie enchant quick_charge 5
+[03:24:01] [Server thread/INFO]: Xautral issued server command: /tp sisos
+[03:24:01] [Server thread/INFO]: [Xautral: Teleported Xautral to sisos]
+[03:24:03] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> mira sisos
+[03:24:05] [Async Chat Thread - #29/INFO]: [Not Secure] <sisos> q
+[03:24:07] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> Xautral no me das la seed asi de chill?
+[03:24:08] [Async Chat Thread - #29/INFO]: [Not Secure] <sisos> xd
+[03:24:12] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> paraa
+[03:24:13] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> no _wdegw_
+[03:24:14] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> es trampa
+[03:24:15] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:24:18] [Server thread/INFO]: sisos blew up
+[03:24:20] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> que
+[03:24:22] [Server thread/INFO]: javimessiu issued server command: /seed
+[03:24:23] [Server thread/INFO]: Xautral issued server command: /tp sisos ~ ~ ~
+[03:24:23] [Server thread/INFO]: [Xautral: Teleported sisos to -282.542800, 66.000000, -3611.522313]
+[03:24:25] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> zSarkex
+[03:24:36] [Server thread/INFO]: Xautral issued server command: /tp _wdegw_
+[03:24:36] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] _wdegw_]
+[03:24:38] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> mira _wdegw_
+[03:24:38] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[03:24:40] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> mira _wdegw_
+[03:24:41] [Server thread/INFO]: Xautral issued server command: /tp _wdegw_
+[03:24:41] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] _wdegw_]
+[03:24:45] [Server thread/INFO]: [Reino Berserk] _wdegw_ burned to death
+[03:24:48] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:24:51] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> xd
+[03:24:59] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> q wea
+[03:25:01] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> explotan
+[03:25:02] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> xdd
+[03:25:09] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> justo copie el nombre de alguien pero pense q tenia el home
+[03:25:10] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:25:15] [User Authenticator #10/INFO]: Disconnecting sisos (/127.5.193.164:47591): [LoginSecurity] This player is already online!
+[03:25:15] [User Authenticator #10/INFO]: UUID of player sisos is 441a76e4-37ed-3a01-bfef-22aca4010e6e
+[03:25:15] [Server thread/INFO]: sisos (/127.5.193.164:47591) lost connection: [LoginSecurity] This player is already online!
+[03:25:19] [Server thread/INFO]: _wdegw_ lost connection: Disconnected
+[03:25:19] [Server thread/INFO]: [Reino Berserk] _wdegw_ left the game
+[03:25:20] [Server thread/INFO]: Xautral lost connection: Disconnected
+[03:25:20] [Server thread/INFO]: Xautral left the game
+[03:25:20] [Server thread/INFO]: javimessiu lost connection: Disconnected
+[03:25:20] [Server thread/INFO]: [Reino Berserk] javimessiu left the game
+[03:25:24] [Server thread/INFO]: sisos lost connection: Disconnected
+[03:25:24] [User Authenticator #10/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[03:25:24] [Server thread/INFO]: sisos left the game
+[03:25:25] [User Authenticator #10/INFO]: UUID of player javimessiu is 40d8cc67-d866-3d98-9f8e-530c4e2cdb8f
+[03:25:25] [Server thread/INFO]: Xautral joined the game
+[03:25:25] [Server thread/INFO]: Xautral[/127.115.99.248:43131] logged in with entity id 48019 at ([world]243.97908615259692, 67.28271854438606, -1486.9760908912647)
+[03:25:25] [Server thread/INFO]: [Reino Berserk] javimessiu joined the game
+[03:25:25] [Server thread/INFO]: javimessiu[/127.87.130.205:53255] logged in with entity id 48033 at ([world]241.4371339874374, 65.0, -1476.1729427431194)
+[03:25:26] [User Authenticator #10/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[03:25:27] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> saben que
+[03:25:27] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
+[03:25:27] [Server thread/INFO]: _wdegw_[/127.153.189.115:35297] logged in with entity id 48122 at ([world]226.2737079915561, 64.0, -1477.8034671199207)
+[03:25:28] [User Authenticator #10/INFO]: UUID of player sisos is 441a76e4-37ed-3a01-bfef-22aca4010e6e
+[03:25:30] [Server thread/INFO]: sisos joined the game
+[03:25:30] [Server thread/INFO]: sisos[/127.5.193.164:44103] logged in with entity id 48125 at ([world]-268.2066489088009, 66.0, -3612.430480842463)
+[03:25:33] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> le voy a aumentar RAM al server
+[03:25:33] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> q buen svr
+[03:25:34] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:25:34] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> que
+[03:25:35] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> le voy a aumentar RAM al server
+[03:25:38] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> ok
+[03:25:42] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> ok
+[03:25:43] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:25:45] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> callate _wdegw_
+[03:25:54] [Server thread/INFO]: sisos has made the advancement [Isn't It Iron Pick]
+[03:25:54] [Server thread/INFO]: Xautral issued server command: /ie enchant multishoot
+[03:25:55] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:26:00] [Server thread/INFO]: Xautral issued server command: /ie enchant multishot
+[03:26:03] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:26:04] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> no das ni con 3
+[03:26:09] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> q mala punteria
+[03:26:10] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xdddd
+[03:26:10] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> envidien
+[03:26:15] [Server thread/INFO]: sisos has made the advancement [We Need to Go Deeper]
+[03:26:18] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> estoy proband
+[03:26:20] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:26:23] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> si queires que si te de ahorita te doy
+[03:26:23] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:26:26] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> eso sonó mal
+[03:26:28] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XDD
+[03:26:38] [Server thread/INFO]: Xautral issued server command: /ie enchant multishoot 0
+[03:26:41] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> dame ami que rico ahh
+[03:26:43] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xdddd
+[03:26:44] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XDDDD
+[03:26:44] [Server thread/INFO]: Xautral issued server command: /setable
+[03:26:51] [Server thread/INFO]: Xautral issued server command: /superenchantgui
+[03:26:57] [Server thread/INFO]: Xautral issued server command: /superenchantgui
+[03:27:02] [Server thread/INFO]: Xautral issued server command: /tp _wdegw_
+[03:27:02] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] _wdegw_]
+[03:27:09] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> W
+[03:27:14] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> que
+[03:27:15] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> q hacen los pt aldeanos aca
+[03:27:15] [Server thread/INFO]: Villager Villager['Villager'/35785, uuid='57db3de3-40dd-4f3a-b983-636add6fe42c', l='ServerLevel[world_nether]', x=42.55, y=75.00, z=-196.51, cpos=[2, -13], tl=5376, v=true] died, message: 'Villager was blown up by Xautral'
+[03:27:15] [Server thread/INFO]: Villager Villager['Villager'/34167, uuid='09809843-6033-4807-a3af-11ae8ff4513a', l='ServerLevel[world_nether]', x=43.75, y=74.25, z=-196.26, cpos=[2, -13], tl=5674, v=true] died, message: 'Villager was blown up by Xautral'
+[03:27:19] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> otra?
+[03:27:20] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> BRO
+[03:27:21] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> los aldea
+[03:27:28] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> ahora me pones 2 en la base
+[03:27:32] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> no se segu tu los metiste
+[03:27:36] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> no ffijate como ves
+[03:27:36] [Server thread/INFO]: sisos issued server command: /msg Xautral man
+[03:27:38] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:27:40] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> tu no me das ordenes _wdegw_
+[03:27:41] [Server thread/INFO]: sisos has made the advancement [Stay Hydrated!]
+[03:27:50] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> PERO XDD
+[03:27:53] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> que no
+[03:27:57] [Server thread/INFO]: Xautral issued server command: /ie enchant missile 0
+[03:27:57] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xddd
+[03:28:03] [Server thread/INFO]: Xautral issued server command: /tell sisos que
+[03:28:13] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> quiero una recompensa por ser el sujeto de pruebas
+[03:28:19] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xd
+[03:28:19] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> que la verga
+[03:28:20] [Server thread/INFO]: sisos issued server command: /msg Xautral como se hace la montura de ghast?
+[03:28:21] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:28:25] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> no entiendes que tu no das ordenes
+[03:28:26] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> yo tambien
+[03:28:29] [Server thread/INFO]: Xautral issued server command: /tell sisos nose
+[03:28:29] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:28:34] [Server thread/INFO]: sisos issued server command: /msg Xautral xd
+[03:28:41] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> siguen sin decir porfavor y les doy una chinga
+[03:28:46] [Async Chat Thread - #29/INFO]: [Not Secure] <sisos> alguien sabe como se hace la montura del hapy ghast?
+[03:28:51] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> yaya
+[03:28:52] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> porfa
+[03:28:53] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:28:58] [Server thread/INFO]: Xautral issued server command: /superenchantgui
+[03:28:59] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> doy esmes
+[03:29:05] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:29:06] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> listo
+[03:29:13] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> no porfavor y chinguele rapidito xdddddddddd
+[03:29:15] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> no pongas
+[03:29:20] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> igual vamos a planar
+[03:29:25] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> eso sonó muy mal javimessiu
+[03:29:29] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> en especial en mi pais
+[03:29:34] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> sorrty
+[03:29:34] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:29:40] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:29:43] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> q pais eres w?
+[03:29:44] [Async Chat Thread - #29/INFO]: [Not Secure] <sisos> de donde sos Xautral
+[03:29:47] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> mexico
+[03:29:49] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> exacto
+[03:29:50] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> a
+[03:29:52] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:29:52] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> y chignar significa tener sexo
+[03:29:55] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> bro yo tambien
+[03:29:57] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> pero se usa como joder
+[03:29:59] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xddd
+[03:30:07] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> lit
+[03:30:10] [Async Chat Thread - #29/INFO]: [Not Secure] <sisos> xd
+[03:30:18] [Server thread/INFO]: [Reino Berserk] javimessiu was slain by [Reino Berserk] _wdegw_
+[03:30:21] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> eh
+[03:30:21] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> aguante arg
+[03:30:25] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> que te pasa
+[03:30:35] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> bueno otro cora
+[03:30:43] [Server thread/INFO]: sisos issued server command: /warps
+[03:31:05] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> bombardean aaaa
+[03:31:10] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> when eres arabe:
+[03:31:13] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> parece japon
+[03:31:13] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xdddd
+[03:31:15] [Server thread/INFO]: Xautral issued server command: /warp trades
+[03:31:17] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xddd
+[03:31:21] [Server thread/INFO]: sisos has made the advancement [Ice Bucket Challenge]
+[03:31:23] [Server thread/INFO]: Xautral issued server command: /warp trades
+[03:31:25] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xautral
+[03:31:27] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> w Xautral
+[03:31:27] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> bto
+[03:31:28] [Server thread/INFO]: Xautral issued server command: /shopkeeper
+[03:31:35] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> bombardea aca
+[03:31:36] [User Authenticator #11/INFO]: UUID of player kiks2025 is 986b6bb3-9e4d-301f-89a3-f10737128e3f
+[03:31:36] [Server thread/INFO]: Disconnecting kiks2025 (/127.25.245.201:41517): Your IP address is banned from this server.
+Reason: Uso de hacks II, Intentar hacer un trafico de servidores - Perma-ban
+[03:31:36] [Server thread/INFO]: kiks2025 (/127.25.245.201:41517) lost connection: Your IP address is banned from this server.
+Reason: Uso de hacks II, Intentar hacer un trafico de servidores - Perma-ban
+[03:31:42] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> dame 1 cora que el gay de wdegw me quito uno
+[03:31:48] [Server thread/INFO]: Xautral issued server command: /ie rename &6Etiqueta de nombre custom
+[03:31:52] [Server thread/INFO]: sisos has made the advancement [Who is Cutting Onions?]
+[03:31:55] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> tro que no sabe decir porfavor
+[03:31:58] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> ahorita te quito uno yo
+[03:31:59] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[03:31:59] [Server thread/INFO]: [Xautral: Teleported Xautral to [Reino Berserk] javimessiu]
+[03:32:01] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> bueno te faltan 2
+[03:32:02] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> porfavcor
+[03:32:12] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> por q Xautral te quito uno de un infarto
+[03:32:14] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> porfavor
+[03:32:16] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> pls
+[03:32:23] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> se lo pido mi señor
+[03:32:26] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> me caga que me den ordenes
+[03:32:26] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:32:31] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xd
+[03:32:41] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> lo tomas como chiste hijodetuputamadre?
+[03:32:42] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> porfavor :D
+[03:32:46] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> no
+[03:32:51] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> bueno :D
+[03:32:54] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XDDE
+[03:32:54] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> calmese porfavor
+[03:32:57] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> iré a programar
+[03:33:08] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> si le quito otro xddd
+[03:33:10] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> programe esta xddddddddd
+[03:33:12] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XDDD
+[03:33:29] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> BRO MI MURO
+[03:33:49] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> eo
+[03:33:58] [Async Chat Thread - #28/INFO]: [Not Secure] <sisos> alguien tiene para la montura de ghast?
+[03:34:00] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> Xautral me arreglas mi muro porfa? xd
+[03:34:07] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> chill
+[03:34:11] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> era bromita
+[03:34:14] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> ya
+[03:34:18] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> porfavor
+[03:34:20] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:34:31] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> incendio forestal
+[03:34:32] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xd
+[03:34:42] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [Take Aim]
+[03:35:00] [Async Chat Thread - #29/INFO]: [Not Secure] <sisos> javi
+[03:35:03] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> que
+[03:35:21] [Server thread/INFO]: sisos was burned to a crisp while fighting Ghast
+[03:35:23] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> XD
+[03:35:27] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> xddd
+[03:35:28] [Async Chat Thread - #29/INFO]: [Not Secure] <sisos> :v
+[03:35:44] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> chill
+[03:35:46] [Server thread/INFO]: Xautral issued server command: /ie lore add Canjea esto con un admin
+[03:35:48] [Server thread/INFO]: sisos issued server command: /msg Xautral bueno me voy a construir los warps
+[03:35:51] [Server thread/INFO]: sisos issued server command: /warps
+[03:36:03] [Server thread/INFO]: Xautral issued server command: /ie lore add y elije que arma vas a cambiar de nombre a un nombre
+[03:36:09] [Server thread/INFO]: Xautral issued server command: /ie lore con colores, bold, etc
+[03:36:14] [Server thread/INFO]: Xautral issued server command: /ie lore add con colores, bold, etc,
+[03:36:25] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> Xautral es legal exclavisar a uno y sin paga?
+[03:36:29] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> si
+[03:36:32] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> good
+[03:36:32] [Server thread/INFO]: sisos issued server command: /msg Xautral q warps ago?
+[03:36:35] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> y en mc?
+[03:36:36] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> cualqueir tipo de metodo usado en la historia es legal
+[03:36:40] [Async Chat Thread - #29/INFO]: [Not Secure] <javimessiu> buenos admins porfin
+[03:36:40] [Server thread/INFO]: Xautral issued server command: /tell sisos no c xdd
+[03:36:45] [Server thread/INFO]: sisos issued server command: /msg Xautral pvp?
+[03:36:53] [Server thread/INFO]: Xautral issued server command: /tell sisos pues nose xdd
+[03:36:59] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> osean y en el servidor?
+[03:37:03] [Server thread/INFO]: sisos issued server command: /msg Xautral pregunta q warp quieren
+[03:37:05] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> or ejemplo
+[03:37:15] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> la guerra de los aztecas de atrapar esclavos
+[03:37:18] [Async Chat Thread - #28/INFO]: [Not Secure] <_wdegw_> XD
+[03:37:30] [Server thread/INFO]: sisos issued server command: /msg Xautral xq si pregunto yo no c
+[03:37:30] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> de que te ries
+[03:37:32] [Async Chat Thread - #29/INFO]: [Not Secure] <Xautral> si es real
+[03:37:39] [Async Chat Thread - #29/INFO]: [Not Secure] <sisos> si
+[03:37:46] [Async Chat Thread - #29/INFO]: [Not Secure] <_wdegw_> ya vez nos enseña y nos mata q mas quiero de un admin
+[03:37:46] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> espernme
+[03:37:58] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> que dejen de joder
+[03:38:04] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> listo
+[03:38:04] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> esrenme pls
+[03:38:05] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> ahora si
+[03:38:07] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> es enserio
+[03:38:12] [Server thread/INFO]: sisos issued server command: /msg Xautral pregunta q warp quieren asi lo ago
+[03:38:17] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[03:38:20] [Server thread/INFO]: Xautral issued server command: /warp trades
+[03:38:29] [Server thread/INFO]: sisos issued server command: /msg Xautral pregunta vos we
+[03:38:42] [Server thread/INFO]: Xautral issued server command: /tell sisos a chinga yo porque
+[03:38:54] [Server thread/INFO]: sisos issued server command: /msg Xautral xq no saben q soy staff
+[03:38:54] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> ya
+[03:38:56] [Async Chat Thread - #28/INFO]: [Not Secure] <javimessiu> xd

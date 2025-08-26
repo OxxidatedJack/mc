@@ -75,3 +75,39 @@ data-version: 4|2|4440
     villagerLevel: 1
   recipes: {}
   snapshots: []
+'3':
+  uniqueId: 5ba9b738-948e-42f5-850c-32683db775d3
+  world: world
+  x: -166
+  y: 131
+  z: 12
+  yaw: 182.18861
+  type: admin
+  name: Custom Villager
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:paper
+        count: 1
+        components:
+          minecraft:lore: '[{extra:["Canjea esto con un admin"],text:""},{extra:["y
+            elije que arma vas a cambiar de nombre a un nombre"],text:""},{extra:["con
+            colores, bold, etc,"],text:""}]'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"gold",italic:0b,obfuscated:0b,strikethrough:0b,text:"Etiqueta
+            de nombre custom",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:diamond
+        count: 64
+      item2:
+        DataVersion: 4440
+        id: minecraft:gold_ingot
+        count: 64
+  snapshots: []

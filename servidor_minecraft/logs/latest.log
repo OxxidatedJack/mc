@@ -2872,3 +2872,215 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [21:55:52] [Server thread/INFO]: Erick_Papucho issued server command: /a cual?
 [21:55:59] [Async Chat Thread - #79/INFO]: [Not Secure] <Erick_Papucho> a cual?
 [21:55:59] [Async Chat Thread - #78/INFO]: [Not Secure] <NOW_POOL123> hola gente nueva
+[21:56:06] [Async Chat Thread - #78/INFO]: [Not Secure] <saseca2610> al q sea
+[21:56:07] [Server thread/INFO]: Xautral issued server command: /tpa zDreamz__
+[21:56:11] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> bueno esperame tantito saseca2610
+[21:56:28] [Async Chat Thread - #78/INFO]: [Not Secure] <NOW_POOL123> poruqe tiene solo una vida
+[21:56:30] [Async Chat Thread - #78/INFO]: [Not Secure] <zDreamz__> por aqui paso un nigga
+[21:56:36] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> hola zDreamz__
+[21:56:38] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> como habras visto
+[21:56:41] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> hay equipos
+[21:56:41] [Server thread/INFO]: NOW_POOL123 issued server command: /warp spawn
+[21:56:44] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> quieres hacer uno o unirte a uno?
+[21:56:50] [Server thread/INFO]: saseca2610 was shot by Skeleton
+[21:56:57] [Server thread/INFO]: Plechini44 issued server command: /tp Xautral
+[21:56:57] [Server thread/INFO]: [[Admin] Plechini44: Teleported [Admin] Plechini44 to [Clan Azteca] Xautral]
+[21:56:58] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> el de hacer solo necesitas responder 3 pregutnas
+[21:57:03] [Server thread/INFO]: Erick_Papucho lost connection: Disconnected
+[21:57:03] [Server thread/INFO]: [Clan Azteca] Erick_Papucho left the game
+[21:57:03] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> y apra unirte tienes que rezar
+[21:57:08] [Async Chat Thread - #78/INFO]: [Not Secure] <zDreamz__> no me deja romper :3
+[21:57:13] [Server thread/INFO]: Xautral issued server command: /tpa zDreamz__
+[21:57:15] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> pon atencion wey
+[21:57:20] [Server thread/INFO]: Plechini44 issued server command: /effect give Plechini44 minecraft:invisibility infinite
+[21:57:20] [Server thread/INFO]: [[Admin] Plechini44: Applied effect Invisibility to [Admin] Plechini44]
+[21:57:26] [Server thread/INFO]: zDreamz__ issued server command: /tpaccept
+[21:57:28] [Async Chat Thread - #78/INFO]: [Not Secure] <NOW_POOL123> tienen que alejarse del spawn
+[21:57:34] [Server thread/INFO]: Plechini44 lost connection: Disconnected
+[21:57:34] [Server thread/INFO]: [Admin] Plechini44 left the game
+[21:57:34] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> NOW_POOL123
+[21:57:35] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> dejalo
+[21:57:37] [Async Chat Thread - #78/INFO]: [Not Secure] <saseca2610> NO MUCHO
+[21:57:39] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> vete a chignar a tu madre
+[21:57:41] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[21:57:41] [Server thread/INFO]: [[Clan Azteca] Xautral: Set the time to 0]
+[21:57:43] [User Authenticator #20/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[21:57:44] [Server thread/INFO]: [Admin] Plechini44 joined the game
+[21:57:44] [Server thread/INFO]: Plechini44[/127.162.71.96:36791] logged in with entity id 143654 at ([world]-692.4983293567608, -50.0, 32.37228803537436)
+[21:57:45] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> orale
+[21:57:45] [Async Chat Thread - #78/INFO]: [Not Secure] <NOW_POOL123> no le asia nada solo le explicaba
+[21:57:45] [Async Chat Thread - #78/INFO]: [Not Secure] <zDreamz__> pqe no me deja romper ps
+[21:57:48] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> habe
+[21:57:51] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> zDreamz__
+[21:57:54] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> zDreamz__
+[21:57:54] [Async Chat Thread - #78/INFO]: [Not Secure] <zDreamz__> dime
+[21:58:02] [User Authenticator #20/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[21:58:02] [Server thread/INFO]: Disconnecting goku_black_20 (/127.56.91.73:40195): You are not whitelisted on this server!
+[21:58:02] [Server thread/INFO]: goku_black_20 (/127.56.91.73:40195) lost connection: You are not whitelisted on this server!
+[21:58:07] [Async Chat Thread - #78/INFO]: [Not Secure] <Xautral> queires hacer tu equipo (contestar 3 preguntas) o unirte a uno? (rezar que te acepten)
+[21:58:09] [Async Chat Thread - #80/INFO]: [Not Secure] <NOW_POOL123> tienes que alejarte del spawn
+[21:58:15] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> queires hacer tu equipo (contestar 3 preguntas) o unirte a uno? (rezar que te acepten)
+[21:58:24] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> unirme a uno
+[21:58:26] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> a cual
+[21:58:32] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> estas seguro?
+[21:58:34] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> no se no conozco
+[21:58:34] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> soy bueno en varias cosas
+[21:58:36] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> si
+[21:58:36] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> como pvp
+[21:58:38] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> de que quieres unirte a uno?
+[21:58:41] [Server thread/INFO]: Plechini44 issued server command: /tp 0 0 0
+[21:58:41] [Server thread/INFO]: [[Admin] Plechini44: Teleported [Admin] Plechini44 to 0.500000, 0.000000, 0.500000]
+[21:58:44] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> zDreamz__
+[21:58:46] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> estas seguro?
+[21:58:47] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> de que quieres unirte a uno?
+[21:58:48] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> pivipi
+[21:58:50] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[21:58:50] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> si
+[21:58:55] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> porque no quieres hacer uno?
+[21:59:02] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> eeeee
+[21:59:06] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> ps
+[21:59:13] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> da paja
+[21:59:14] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> yo digo por la crisis de equipos
+[21:59:16] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> me da cosa y no quiero ser el peor
+[21:59:18] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> solo contesta 3 preguntas
+[21:59:19] [Server thread/INFO]: NOW_POOL123 issued server command: /warp spawn
+[21:59:21] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> en primera
+[21:59:22] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[21:59:25] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> como se llamará tu equipo?
+[21:59:35] [Server thread/INFO]: saseca2610 has made the advancement [Stone Age]
+[21:59:36] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> no se ps
+[21:59:43] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> okey
+[21:59:44] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> polnhub
+[21:59:47] [Async Chat Thread - #80/INFO]: [Not Secure] <NOW_POOL123> tranqui bro no les voy a hacer nadaaaa
+[21:59:48] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> ese men
+[21:59:49] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> xd
+[21:59:56] [Async Chat Thread - #80/INFO]: [Not Secure] <NOW_POOL123> que piensas que soy
+[22:00:00] [Server thread/INFO]: saseca2610 issued server command: /msg Xautral que sea arroz con leche
+[22:00:08] [Server thread/INFO]: Xautral issued server command: /tell saseca2610 uno mas decente
+[22:00:09] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> esq me qro unir a uno
+[22:00:12] [Server thread/INFO]: saseca2610 has made the advancement [Getting an Upgrade]
+[22:00:16] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> pero ps
+[22:00:21] [Server thread/INFO]: saseca2610 issued server command: /msg Xautral los papus
+[22:00:25] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> ndie me acepta
+[22:00:27] [Server thread/INFO]: Xautral issued server command: /tell saseca2610 mas decente
+[22:00:40] [Async Chat Thread - #80/INFO]: [Not Secure] <sisos> Xautral
+[22:00:52] [Server thread/INFO]: Xautral issued server command: /tell saseca2610 si quieres puedes elegir el nobmre de una civilizacion antigua
+[22:00:52] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> oigan
+[22:00:54] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> que
+[22:00:56] [Async Chat Thread - #79/INFO]: [Not Secure] <sisos> tp
+[22:00:58] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> pqe no me deja romper
+[22:01:00] [Server thread/INFO]: Xautral issued server command: /tp sisos
+[22:01:00] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Admin] sisos]
+[22:01:07] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> por el spawn protection
+[22:01:09] [User Authenticator #21/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[22:01:09] [Server thread/INFO]: Disconnecting goku_black_20 (/127.56.91.73:54171): You are not whitelisted on this server!
+[22:01:09] [Server thread/INFO]: goku_black_20 (/127.56.91.73:54171) lost connection: You are not whitelisted on this server!
+[22:01:14] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> esta bien sisos
+[22:01:15] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> aaa
+[22:01:29] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> no pue qn me qre en su clan
+[22:01:40] [Server thread/INFO]: Xautral issued server command: /tell saseca2610 majaphit, java, tlaxcaltecas, mictlán,
+[22:01:46] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> acabare antes
+[22:01:47] [Server thread/INFO]: Xautral issued server command: /tp saseca2610
+[22:01:47] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to saseca2610]
+[22:01:58] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> qn no me qre en su clan
+[22:01:59] [Server thread/INFO]: Plechini44 issued server command: /fill -8 -1 -8
+[22:02:03] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> todos
+[22:02:03] [Server thread/INFO]: sisos issued server command: /gamemode spectator
+[22:02:03] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Spectator Mode]
+[22:02:03] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> xdd
+[22:02:06] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> solo te queda hacer uno
+[22:02:10] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[22:02:10] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[22:02:13] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> oka
+[22:02:17] [Server thread/INFO]: zDreamz__ issued server command: /clan create
+[22:02:22] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> como se crea?
+[22:02:29] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> contestando 3 pregutnas simples
+[22:02:31] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> primero
+[22:02:33] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> como se va a llamar
+[22:02:37] [Server thread/INFO]: sisos issued server command: /msg Xautral man
+[22:02:39] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> eee
+[22:02:41] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> ps
+[22:02:41] [Server thread/INFO]: Xautral issued server command: /tell sisos que
+[22:02:45] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> un nombre decente
+[22:02:50] [Server thread/INFO]: sisos issued server command: /msg Xautral el plechini esta usando x ray
+[22:02:57] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> zDreamzs
+[22:02:57] [Server thread/INFO]: sisos issued server command: /msg Xautral creo
+[22:02:58] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> si tienes problemas elije el nombre de una civilizacion antigua
+[22:03:04] [Server thread/INFO]: Xautral issued server command: /tell sisos el es admin
+[22:03:08] [Server thread/INFO]: NOW_POOL123 issued server command: /warp trades
+[22:03:16] [Server thread/INFO]: sisos issued server command: /msg Xautral y, pero es ventaja
+[22:03:18] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> bueno
+[22:03:21] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> entonces zDreamz__
+[22:03:23] [Server thread/INFO]: Plechini44 issued server command: /fill -8 -1 -8 8 -1 8 air
+[22:03:23] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 288 block(s)]
+[22:03:26] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> que color representará tu equipo?
+[22:03:30] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> naranja
+[22:03:33] [Server thread/INFO]: Plechini44 issued server command: /fill -8 -1 -8 8 1 8 air
+[22:03:33] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 292 block(s)]
+[22:03:33] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> okey
+[22:03:37] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> regrese
+[22:03:41] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> reino o república (puedes elejir otros)
+[22:03:43] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> me perdi de algo?
+[22:03:44] [Server thread/INFO]: sisos issued server command: /msg Plechini44 men
+[22:03:45] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> si
+[22:03:48] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> de mucho saseca2610
+[22:03:48] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> españa
+[22:03:52] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
+[22:03:52] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
+[22:03:56] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> españa que mamada w
+[22:03:56] [User Authenticator #22/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:03:56] [Server thread/INFO]: sisos issued server command: /msg Plechini44 vivimos juntos?
+[22:03:57] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[22:03:57] [Server thread/INFO]: NOW_POOL123[/127.79.177.66:60169] logged in with entity id 147604 at ([world]-167.89718511908697, 131.0, 2.764054553072057)
+[22:04:00] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
+[22:04:00] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
+[22:04:01] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> reino, republica, clan, etc
+[22:04:08] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> cual de esos eliges
+[22:04:14] [Server thread/INFO]: Xautral issued server command: /tpa saul23419
+[22:04:19] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> reino
+[22:04:22] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> okey
+[22:04:27] [Server thread/INFO]: saul23419 issued server command: /tpaccept
+[22:04:27] [Server thread/INFO]: Xautral issued server command: /team add majaphit
+[22:04:27] [Server thread/INFO]: [[Clan Azteca] Xautral: Created team [majaphit]]
+[22:04:43] [Server thread/INFO]: Plechini44 issued server command: /susurrar sisos si bro
+[22:04:46] [Server thread/INFO]: Xautral issued server command: /team modify majaphit prefix {"text":"[Reino Majaphit] ","color":"gold"}
+[22:04:52] [Server thread/INFO]: Xautral issued server command: /team join majaphit zDreamz__
+[22:04:52] [Server thread/INFO]: [[Clan Azteca] Xautral: Added [Reino Majaphit] zDreamz__ to team [majaphit]]
+[22:04:52] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> listo
+[22:04:52] [Server thread/INFO]: [Admin] sisos has made the advancement [Minecraft: Trial(s) Edition]
+[22:04:54] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Stone Age]
+[22:04:54] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> listo
+[22:04:56] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> vale
+[22:04:57] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> gg
+[22:04:59] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> ahora saseca2610
+[22:05:00] [Server thread/INFO]: saseca2610 has made the advancement [Acquire Hardware]
+[22:05:03] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> oka grax
+[22:05:05] [Async Chat Thread - #80/INFO]: [Not Secure] <sisos> man Xautral
+[22:05:05] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> elije un nombre mas decente par tu nación
+[22:05:11] [Async Chat Thread - #80/INFO]: [Not Secure] <sisos> la mejor seed
+[22:05:15] [Server thread/INFO]: saseca2610 has made the advancement [Isn't It Iron Pick]
+[22:05:16] [Async Chat Thread - #80/INFO]: [Not Secure] <sisos> lit
+[22:05:24] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> pqe majaphit?
+[22:05:30] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> elije un nombre mas decente para tu nación saseca2610
+[22:05:34] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> porque no elejiste un nombre zDreamz__
+[22:05:37] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> no quiero
+[22:05:40] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> okey
+[22:05:43] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[22:05:43] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[22:05:43] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> entocnes a cual te unes
+[22:05:44] [Async Chat Thread - #80/INFO]: [Not Secure] <zDreamz__> si eleji
+[22:05:44] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> quiero que me acepten
+[22:05:51] [Server thread/INFO]: saseca2610 has made the advancement [Suit Up]
+[22:05:54] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> pues el unico que te peude aceptar es zDreamz__
+[22:05:56] [Server thread/INFO]: Plechini44 issued server command: /tell sisos ok bro
+[22:05:59] [Async Chat Thread - #79/INFO]: [Not Secure] <zDreamz__> zDreamzss_-
+[22:05:59] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> pq?
+[22:06:05] [Server thread/INFO]: sisos issued server command: /msg Plechini44 man
+[22:06:07] [Async Chat Thread - #80/INFO]: [Not Secure] <saseca2610> esta bien
+[22:06:11] [Async Chat Thread - #80/INFO]: [Not Secure] <Xautral> porque en el otro clan no hay lideres conectados
+[22:06:13] [Server thread/INFO]: Plechini44 issued server command: /tell sisos si?
+[22:06:14] [User Authenticator #23/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[22:06:15] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[22:06:15] [Server thread/INFO]: NOW_POOL123[/127.79.177.66:36939] logged in with entity id 148280 at ([world]-167.89718511908697, 131.0, 2.764054553072057)
+[22:06:16] [Async Chat Thread - #79/INFO]: [Not Secure] <Xautral> y en el nuestro no te queremos :v
+[22:06:21] [Async Chat Thread - #79/INFO]: [Not Secure] <saseca2610> a

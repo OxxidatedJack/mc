@@ -2636,3 +2636,48 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [21:14:15] [Server thread/INFO]: Xautral issued server command: /tell sisos no, nadamas cuando alguien lo compre, yo lo cambio ntp
 [21:14:46] [Server thread/INFO]: sisos issued server command: /msg Xautral ok, los objetos encantados o sin encantamientos
 [21:15:02] [Server thread/INFO]: Xautral issued server command: /tell sisos encantados
+[21:15:57] [Server thread/INFO]: sisos issued server command: /msg Xautral aviso, van a ser encantamientos aleatorios
+[21:16:05] [Server thread/INFO]: Xautral issued server command: /tell sisos si
+[21:16:06] [Server thread/INFO]: sisos issued server command: /msg Xautral lo q toca toca
+[21:16:32] [Server thread/INFO]: Xautral issued server command: /tell sisos pero que sea muy op el unico enchant que teng
+[21:16:32] [Server thread/INFO]: sisos issued server command: /ie enchant
+[21:16:41] [Server thread/INFO]: sisos issued server command: /ie enchant disarm 1
+[21:16:46] [Server thread/INFO]: sisos issued server command: /ie enchant disarm 3
+[21:17:15] [Server thread/INFO]: sisos issued server command: /ie enchant depth_strider 3
+[21:17:24] [Server thread/INFO]: sisos issued server command: /ie enchant deflecting 3
+[21:17:34] [Server thread/INFO]: sisos issued server command: /ie enchant dash 3
+[21:17:38] [Server thread/INFO]: Xautral issued server command: /superenchantgui
+[21:17:46] [Server thread/INFO]: sisos issued server command: /ie enchant confusion 5
+[21:17:49] [Server thread/INFO]: Xautral issued server command: /superenchantgui}
+[21:17:50] [Server thread/INFO]: Xautral issued server command: /superenchantgui
+[21:18:03] [Server thread/INFO]: sisos issued server command: /tp Xautral
+[21:18:03] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Clan Azteca] Xautral]
+[21:18:06] [Async Chat Thread - #54/INFO]: [Not Secure] <sisos> eo
+[21:18:11] [Async Chat Thread - #54/INFO]: [Not Secure] <sisos> pegame
+[21:18:16] [Server thread/INFO]: sisos issued server command: /gamemode survival
+[21:18:16] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Survival Mode]
+[21:18:32] [Async Chat Thread - #54/INFO]: [Not Secure] <sisos> no te paso nda?
+[21:18:35] [Server thread/INFO]: Xautral issued server command: /inv saul23419
+[21:18:52] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[21:18:52] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[21:18:58] [Server thread/INFO]: sisos issued server command: /home preparacion
+[21:19:03] [Async Chat Thread - #54/INFO]: [Not Secure] <Xautral> no
+[21:19:12] [Server thread/INFO]: Xautral issued server command: /clear Xautral iron_hoe
+[21:19:12] [Server thread/INFO]: [[Clan Azteca] Xautral: Removed 1 item(s) from player [Clan Azteca] Xautral]
+[21:19:40] [Server thread/INFO]: Xautral issued server command: /msg sisos sisos, sin encantamientos custom, ya que a los miembros sin op no les dej
+[21:19:41] [Server thread/INFO]: Xautral issued server command: /msg sisos sisos, sin encantamientos custom, ya que a los miembros sin op no les deja
+[21:19:53] [Server thread/INFO]: sisos issued server command: /msg Xautral aaaaaa
+[21:19:56] [Server thread/INFO]: sisos issued server command: /msg Xautral ok
+[21:21:38] [Server thread/INFO]: sisos issued server command: /msg Xautral lo pongo completo?
+[21:21:43] [Server thread/INFO]: sisos issued server command: /msg Xautral np
+[21:21:44] [Server thread/INFO]: Xautral issued server command: /tell sisos pus si
+[21:21:52] [Server thread/INFO]: sisos issued server command: /msg Xautral ok
+[21:22:55] [Server thread/INFO]: Xautral issued server command: /inv NOW_POOL123
+[21:23:39] [Server thread/INFO]: sisos issued server command: /msg Xautral nana, re OP un estofado de remolacha con fisura 2
+[21:23:54] [Server thread/INFO]: Xautral issued server command: /tell sisos ?
+[21:24:04] [Server thread/INFO]: sisos issued server command: /msg Xautral lo q toco toco
+[21:25:09] [Server thread/INFO]: Xautral lost connection: Disconnected
+[21:25:09] [Server thread/INFO]: [Clan Azteca] Xautral left the game
+[21:25:16] [User Authenticator #17/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[21:25:17] [Server thread/INFO]: [Clan Azteca] Xautral joined the game
+[21:25:17] [Server thread/INFO]: Xautral[/127.115.99.248:51803] logged in with entity id 133352 at ([world]-692.4030333200244, -49.0, 24.60095040650502)

@@ -2587,3 +2587,52 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [21:04:19] [Server thread/INFO]: sisos issued server command: /ie rename &10 asd
 [21:04:30] [Async Chat Thread - #46/INFO]: [Not Secure] <sisos> hola
 [21:05:06] [Async Chat Thread - #46/INFO]: [Not Secure] <saul23419> erick por que estas silenciado
+[21:05:58] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome endd
+[21:06:04] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome end
+[21:06:14] [Server thread/INFO]: NOW_POOL123 issued server command: /home end
+[21:06:20] [Server thread/INFO]: sisos issued server command: /gamemode spectator
+[21:06:20] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Spectator Mode]
+[21:06:23] [Server thread/INFO]: sisos issued server command: /tp NOW_POOL123
+[21:06:23] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Tukulor] NOW_POOL123]
+[21:06:57] [Server thread/INFO]: sisos issued server command: /tp Erick_Papucho
+[21:06:57] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Clan Azteca] Erick_Papucho]
+[21:07:07] [Async Chat Thread - #48/INFO]: [Not Secure] <sisos> estan full farm
+[21:07:54] [Server thread/INFO]: sisos issued server command: /warps trade
+[21:08:04] [Server thread/INFO]: Xautral issued server command: /warp trades
+[21:08:14] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[21:08:14] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[21:08:23] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> oye sisos
+[21:08:25] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> tengo una idea
+[21:08:28] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> hacer un kit secreto
+[21:08:29] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> de color negro
+[21:08:30] [Async Chat Thread - #50/INFO]: [Not Secure] <sisos> quep
+[21:08:35] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> que cada vez que alguien lo compre
+[21:08:36] [Async Chat Thread - #50/INFO]: [Not Secure] <sisos> ea
+[21:08:37] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> su loot cambia
+[21:08:59] [Async Chat Thread - #50/INFO]: [Not Secure] <sisos> osea loot secreto
+[21:09:05] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> si
+[21:09:09] [Async Chat Thread - #50/INFO]: [Not Secure] <sisos> cualquiero objeto del juego?
+[21:09:15] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> cualqueir objeto de combate del juego
+[21:09:21] [Async Chat Thread - #50/INFO]: [Not Secure] <sisos> aaa
+[21:09:27] [Async Chat Thread - #50/INFO]: [Not Secure] <sisos> KIT ARQUERO
+[21:09:29] [Async Chat Thread - #50/INFO]: [Not Secure] <sisos> tmb
+[21:09:46] [Server thread/INFO]: NOW_POOL123 issued server command: /k|s
+[21:09:49] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> yo se quitarle que diga lo que tiene adentro la shulker
+[21:09:53] [Async Chat Thread - #50/INFO]: [Not Secure] <Xautral> y no digas que kits hacer
+[21:10:01] [Async Chat Thread - #50/INFO]: [Not Secure] <sisos> xd
+[21:10:06] [Server thread/INFO]: Xautral issued server command: /msg sisos el priemro que sea kit arquero y el segundo el kit trident
+[21:10:08] [Server thread/INFO]: Xautral issued server command: /home home
+[21:10:46] [Server thread/INFO]: sisos issued server command: /msg Xautral pero viste en modalidades que los kits te den efectos
+[21:10:56] [Server thread/INFO]: sisos issued server command: /msg Xautral eso podemos acer
+[21:11:00] [Server thread/INFO]: sisos issued server command: /msg Xautral eso podemos hacer
+[21:11:59] [Server thread/INFO]: sisos issued server command: /enchant effect
+[21:12:21] [Server thread/INFO]: Xautral issued server command: /msg sisos oye, haz que el precio de los kits secretos sea una azada de netherite y uno de diamante
+[21:12:36] [Server thread/INFO]: sisos issued server command: /msg Xautral ese precio full xd
+[21:12:43] [Server thread/INFO]: Xautral issued server command: /tell sisos andale w
+[21:12:47] [Server thread/INFO]: [Admin] sisos has completed the challenge [Serious Dedication]
+[21:13:30] [Server thread/INFO]: sisos issued server command: /msg Xautral vos sabes como configurar para q cambie?
+[21:13:38] [Server thread/INFO]: Xautral issued server command: /tell sisos lo cambiamos manualmente
+[21:14:05] [Server thread/INFO]: sisos issued server command: /msg Xautral o si no para no hacenos tanto lio lo cambiamos 1 ves al dia
+[21:14:15] [Server thread/INFO]: Xautral issued server command: /tell sisos no, nadamas cuando alguien lo compre, yo lo cambio ntp
+[21:14:46] [Server thread/INFO]: sisos issued server command: /msg Xautral ok, los objetos encantados o sin encantamientos
+[21:15:02] [Server thread/INFO]: Xautral issued server command: /tell sisos encantados

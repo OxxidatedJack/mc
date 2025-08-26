@@ -57,6 +57,19 @@ data-version: 4|2|4440
         DataVersion: 4440
         id: minecraft:resin_clump
         count: 64
+    '3':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:chain
+        count: 1
+      item1:
+        DataVersion: 4440
+        id: minecraft:chain
+        count: 1
+      item2:
+        DataVersion: 4440
+        id: minecraft:chain
+        count: 1
   snapshots: []
 '2':
   uniqueId: b79084b5-2611-4681-b02c-69ed44029d51
@@ -152,6 +165,15 @@ data-version: 4|2|4440
     '6':
       resultItem:
         DataVersion: 4440
+        id: minecraft:diamond_hoe
+        count: 1
+      item1:
+        DataVersion: 4440
+        id: minecraft:netherite_hoe
+        count: 1
+    '7':
+      resultItem:
+        DataVersion: 4440
         id: minecraft:chain
         count: 1
       item1:
@@ -198,6 +220,19 @@ data-version: 4|2|4440
         DataVersion: 4440
         id: minecraft:gold_ingot
         count: 64
+    '2':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:chain
+        count: 1
+      item1:
+        DataVersion: 4440
+        id: minecraft:chain
+        count: 1
+      item2:
+        DataVersion: 4440
+        id: minecraft:chain
+        count: 1
   snapshots: []
 '4':
   uniqueId: 0377c671-ae73-4972-99cf-6b109285415a
@@ -224,4 +259,17 @@ data-version: 4|2|4440
         DataVersion: 4440
         id: minecraft:dirt
         count: 64
+    '2':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:chain
+        count: 1
+      item1:
+        DataVersion: 4440
+        id: minecraft:chain
+        count: 1
+      item2:
+        DataVersion: 4440
+        id: minecraft:chain
+        count: 1
   snapshots: []

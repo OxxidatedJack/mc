@@ -1659,3 +1659,104 @@ Reason: Uso de hacks II, Intentar hacer un trafico de servidores - Perma-ban
 [03:59:13] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> xd
 [03:59:15] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> xd
 [03:59:31] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> lpt mi casaaaaa
+[03:59:40] [Server thread/INFO]: Xautral issued server command: /team add admin
+[03:59:40] [Server thread/INFO]: [Xautral: Created team [admin]]
+[03:59:43] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> xd
+[03:59:49] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> me volvi vagabundo :(
+[03:59:55] [Server thread/INFO]: Xautral issued server command: /team modify admin prefix {"text":"[Admin] ","bold":true,"italic":true,"color":"red"}
+[03:59:56] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> Nómada
+[04:00:05] [Server thread/INFO]: Xautral issued server command: /team join admin sisos
+[04:00:05] [Server thread/INFO]: [Xautral: Added [Admin] sisos to team [admin]]
+[04:00:06] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> hdpt
+[04:00:11] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> espera a que venga alguien de tu Reino
+[04:00:23] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> ya see fue el wdegw a mimir
+[04:00:27] [Server thread/INFO]: Xautral issued server command: /team add owner
+[04:00:27] [Server thread/INFO]: [Xautral: Created team [owner]]
+[04:00:27] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> lpt x3
+[04:00:28] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> xd
+[04:00:33] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> jajaja
+[04:00:35] [Server thread/INFO]: Xautral issued server command: /team modify owner prefix {"text":"[Owner] ","bold":true,"italic":true,"underlined":true,"color":"gold"}
+[04:00:51] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> tu xautrel ayudame pls
+[04:00:54] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> me perdi
+[04:01:00] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> no se como ayudarte
+[04:01:00] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> :( no sea malito
+[04:01:03] [Server thread/INFO]: sisos issued server command: /give sisos light[minecraft:block_entity_data=
+[04:01:10] [Server thread/INFO]: sisos issued server command: /give sisos light[minecraft:block_entity_data="
+[04:01:19] [Server thread/INFO]: Xautral issued server command: /team modify owner prefix ["",{"text":"[Owner]","bold":true,"italic":true,"underlined":true,"color":"gold"},{"text":" ","color":"gold"}]
+[04:01:19] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> y yo que pense que estos admins eran servibles xd
+[04:01:25] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> xd
+[04:01:27] [Server thread/INFO]: Xautral issued server command: /team join owner Xautral
+[04:01:27] [Server thread/INFO]: [Xautral: Added [Owner] Xautral to team [owner]]
+[04:01:33] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> Xautral
+[04:01:33] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> otra cosa es ser servible y otra cosa es ser dios
+[04:01:38] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> no se doned está tu aldea xdd
+[04:01:44] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> a
+[04:01:46] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> pone x poder de rango
+[04:01:58] [Async Chat Thread - #33/INFO]: [Not Secure] <javimessiu> es rango dios xd
+[04:02:01] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> xd
+[04:02:04] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[04:02:04] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Berserk] javimessiu]
+[04:02:06] [Server thread/INFO]: Xautral issued server command: /weather clear
+[04:02:06] [Server thread/INFO]: [[Owner] Xautral: Set the weather to clear]
+[04:02:15] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:village_plains
+[04:02:15] [Server thread/INFO]: Locating element minecraft:village_plains took 0 ms
+[04:02:17] [Server thread/INFO]: Xautral issued server command: /tp @s -3072 ~ 3056
+[04:02:17] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to -3071.500000, 76.268504, 3056.500000]
+[04:02:23] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[04:02:23] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Berserk] javimessiu]
+[04:02:26] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> rango con 15 por ciento de descuento xd
+[04:02:33] [Async Chat Thread - #33/INFO]: [Not Secure] <sisos> xd
+[04:02:33] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> ?
+[04:02:36] [Server thread/INFO]: Xautral issued server command: /tp sisos
+[04:02:36] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] sisos]
+[04:02:39] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> nada
+[04:02:55] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> Xautral
+[04:03:08] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> me das una mano en hacer una mini proteccion atraves del koth
+[04:03:11] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> xfa
+[04:03:19] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> que es el koth
+[04:03:22] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> ???
+[04:04:07] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> bro xautrel
+[04:04:07] [Server thread/INFO]: Xautral issued server command: /give @p minecraft:potion{CustomPotionEffects:[{Id:6,Amplifier:14,Duration:-1},{Id:21,Amplifier:2,Duration:12000}],CustomPotionColor:6038364,display:{Name:"\"Poción personalizada\""}}
+[04:04:16] [Async Chat Thread - #32/INFO]: [Not Secure] <javimessiu> sos puto xd
+[04:04:18] [Server thread/INFO]: javimessiu lost connection: Disconnected
+[04:04:18] [Server thread/INFO]: [Reino Berserk] javimessiu left the game
+[04:04:19] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> es como un especie de zona en la que tienes que ocupar por 25 minutos
+[04:04:22] [Async Chat Thread - #32/INFO]: [Not Secure] <Xautral> hijo deputa
+[04:04:40] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> xd
+[04:04:48] [Server thread/INFO]: Xautral issued server command: /give @p minecraft:potion[minecraft:max_damage=20]
+[04:04:48] [Server thread/INFO]: [[Owner] Xautral: Gave 1 [Uncraftable Potion] to [Owner] Xautral]
+[04:04:50] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> te dijo eso y se fue
+[04:04:54] [Async Chat Thread - #32/INFO]: [Not Secure] <sisos> q
+[04:05:58] [Server thread/INFO]: sisos issued server command: /createkoth
+[04:06:14] [Server thread/INFO]: sisos issued server command: /function
+[04:06:28] [Server thread/INFO]: sisos issued server command: /function with entity Xautral abeja
+[04:07:17] [Netty Epoll Server IO #2/INFO]: Disconnecting sisos for sending keepalive response (8626944) out-of-order!
+[04:07:17] [Server thread/INFO]: sisos lost connection: Timed out
+[04:07:17] [Server thread/INFO]: sisos left the game
+[04:07:33] [User Authenticator #12/INFO]: UUID of player sisos is 441a76e4-37ed-3a01-bfef-22aca4010e6e
+[04:07:35] [Server thread/INFO]: [Admin] sisos joined the game
+[04:07:35] [Server thread/INFO]: sisos[/127.5.193.164:59989] logged in with entity id 65227 at ([world]-180.06195160475244, 198.74317126936856, 112.31133538627061)
+[04:08:51] [Server thread/INFO]: Xautral issued server command: /summon zombie ~ ~ ~ {CustomName:'{"text":"Juanito","color":"green"}'}
+[04:08:51] [Server thread/INFO]: [[Owner] Xautral: Summoned new {"text":"Juanito","color":"green"}]
+[04:08:58] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> xd
+[04:09:17] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> esta bien asi?
+[04:09:42] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> mano
+[04:09:48] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> Xautral
+[04:10:30] [Async Chat Thread - #34/INFO]: [Not Secure] <Xautral> que
+[04:10:33] [Async Chat Thread - #34/INFO]: [Not Secure] <Xautral> si
+[04:10:35] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> cucha
+[04:10:37] [Async Chat Thread - #35/INFO]: [Not Secure] <Xautral> está muy bueno
+[04:10:55] [Async Chat Thread - #35/INFO]: [Not Secure] <sisos> mañana llego del cole y me pongo a hacer una dungeon
+[04:11:00] [Async Chat Thread - #35/INFO]: [Not Secure] <Xautral> xd
+[04:11:00] [Server thread/INFO]: sisos issued server command: /invsee
+[04:11:01] [Async Chat Thread - #35/INFO]: [Not Secure] <Xautral> ok
+[04:11:08] [Server thread/INFO]: Xautral issued server command: /sethome koth
+[04:11:55] [Async Chat Thread - #35/INFO]: [Not Secure] <sisos> me voy a mirar un tuto para hacer un mundo aparte para hacer las dungeons (el mundo va a ser mas chiquio
+[04:12:05] [Async Chat Thread - #35/INFO]: [Not Secure] <sisos> )
+[04:12:11] [Async Chat Thread - #34/INFO]: [Not Secure] <sisos> me olvide el parentesis
+[04:14:13] [Async Chat Thread - #36/INFO]: [Not Secure] <sisos> bueno chau
+[04:14:15] [Async Chat Thread - #36/INFO]: [Not Secure] <Xautral> cchau
+[04:14:18] [Server thread/INFO]: sisos lost connection: Disconnected
+[04:14:18] [Server thread/INFO]: [Admin] sisos left the game
+[04:15:42] [Server thread/INFO]: Xautral lost connection: Disconnected
+[04:15:42] [Server thread/INFO]: [Owner] Xautral left the game

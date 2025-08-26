@@ -3550,3 +3550,67 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [22:46:49] [Server thread/INFO]: sisos issued server command: /msg Plechini44 ya es re caro xd
 [22:47:08] [Server thread/INFO]: Plechini44 issued server command: /tell sisos eso si
 [22:47:19] [Server thread/INFO]: Plechini44 issued server command: /tell sisos ya la armadura debe de ser op
+[22:47:34] [Server thread/INFO]: sisos issued server command: /msg Plechini44 re op, pero no pasarse tanto
+[22:47:40] [Async Chat Thread - #95/INFO]: [Not Secure] <Plechini44> see
+[22:47:59] [Server thread/INFO]: sisos issued server command: /ie enchant protection 70
+[22:48:00] [Server thread/INFO]: sisos issued server command: /ie enchant protection 70
+[22:48:00] [Server thread/INFO]: Plechini44 issued server command: /tell sisos ay we se me olvido el /tell
+[22:48:01] [Server thread/INFO]: sisos issued server command: /ie enchant protection 70
+[22:48:03] [Server thread/INFO]: sisos issued server command: /ie enchant protection 70
+[22:48:16] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 50
+[22:48:17] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 50
+[22:48:18] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 50
+[22:48:19] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 50
+[22:48:28] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:48:29] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:48:30] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:48:32] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:48:34] [Server thread/INFO]: sisos issued server command: /ie enchant mending 1
+[22:49:08] [Server thread/INFO]: Villager Villager['Villager'/160658, uuid='e131d9a3-d724-490f-ba8c-8c467c9a61ea', l='ServerLevel[world]', x=55.90, y=90.25, z=-512.34, cpos=[3, -33], tl=28625, v=true] died, message: 'Villager was slain by Zombie'
+[22:49:19] [Server thread/INFO]: NOW_POOL123 issued server command: /home h1
+[22:49:24] [Server thread/INFO]: sisos issued server command: /msg Plechini44 mira
+[22:49:36] [Server thread/INFO]: sisos issued server command: /msg Plechini44 me pase?
+[22:49:42] [Server thread/INFO]: sisos issued server command: /msg Plechini44 creo q demasiado
+[22:49:46] [Server thread/INFO]: Plechini44 issued server command: /tell sisos avr deja me la pongo
+[22:49:49] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Survival Mode]
+[22:49:55] [Async Chat Thread - #97/INFO]: [Not Secure] <sisos> pera
+[22:50:13] [Async Chat Thread - #97/INFO]: [Not Secure] <Plechini44> neee esta bn
+[22:50:25] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:50:28] [Server thread/INFO]: NOW_POOL123 issued server command: /home spawn
+[22:50:33] [Server thread/INFO]: NOW_POOL123 issued server command: /home end
+[22:50:33] [Server thread/INFO]: sisos issued server command: /ie enchant protection 100
+[22:50:35] [Server thread/INFO]: sisos issued server command: /ie enchant protection 100
+[22:50:36] [Server thread/INFO]: sisos issued server command: /ie enchant protection 100
+[22:50:37] [Server thread/INFO]: sisos issued server command: /ie enchant protection 100
+[22:51:29] [Server thread/INFO]: Plechini44 issued server command: /ie enchant mending 0
+[22:51:35] [Server thread/INFO]: [Reino Majaphit] saseca2610 has made the advancement [We Need to Go Deeper]
+[22:51:40] [Server thread/INFO]: Plechini44 issued server command: /ie enchant mending 0
+[22:51:48] [Server thread/INFO]: NOW_POOL123 issued server command: /home h3
+[22:52:09] [Server thread/INFO]: sisos issued server command: /ie enchant sharpness 50
+[22:52:13] [Server thread/INFO]: sisos issued server command: /ie enchant unbreaking 50
+[22:52:45] [Server thread/INFO]: Plechini44 issued server command: /ie rename Chicle
+[22:52:53] [Server thread/INFO]: Plechini44 issued server command: /ie lore add
+[22:53:06] [Server thread/INFO]: NOW_POOL123 issued server command: /home h3
+[22:53:29] [Server thread/INFO]: Plechini44 issued server command: /ie lore add Es solo chicle o te lo comes o lo canjeas en /warp
+[22:53:37] [Server thread/INFO]: Plechini44 issued server command: /ie lore add Es solo chicle o te lo comes o lo canjeas en /warp trades
+[22:53:54] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> toma
+[22:53:56] [Server thread/INFO]: Plechini44 issued server command: /ie lore reset
+[22:53:59] [Server thread/INFO]: NOW_POOL123 issued server command: /warp spawn
+[22:54:03] [Server thread/INFO]: Plechini44 issued server command: /ie lore add Es solo chicle o te lo comes o lo canjeas en /warp trades
+[22:54:07] [Async Chat Thread - #99/INFO]: [Not Secure] <Plechini44> mira esto
+[22:54:09] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> para provar
+[22:54:12] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Survival Mode]
+[22:54:16] [Server thread/WARN]: NOW_POOL123 moved too quickly! 7.784292221069336,-6.767840385437012,-1.2942767143249512
+[22:54:22] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> regenra
+[22:54:27] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> regenera
+[22:54:42] [Async Chat Thread - #99/INFO]: [Not Secure] <Plechini44> 2.5
+[22:54:46] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> si esta bien
+[22:55:32] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> sacate la armor
+[22:55:36] [Server thread/INFO]: sisos issued server command: /inv Plechini44
+[22:55:41] [Server thread/INFO]: Plechini44 issued server command: /tell sisos sale el chicle trader?
+[22:55:45] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Creative Mode]
+[22:55:57] [Server thread/INFO]: sisos issued server command: /msg Plechini44 si fue
+[22:56:10] [Server thread/INFO]: Plechini44 issued server command: /shopkeeper axolotl
+[22:57:08] [Async Chat Thread - #99/INFO]: [Not Secure] <Plechini44> iralo bn escondido
+[22:57:19] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> xd
+[22:57:27] [Async Chat Thread - #99/INFO]: [Not Secure] <sisos> pasa

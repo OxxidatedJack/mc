@@ -14,7 +14,7 @@ data-version: 4|2|4440
     type: villager
     baby: false
     profession: minecraft:none
-    villagerType: minecraft:plains
+    villagerType: minecraft:swamp
     villagerLevel: 1
   recipes:
     '1':
@@ -84,7 +84,7 @@ data-version: 4|2|4440
     type: villager
     baby: false
     profession: minecraft:none
-    villagerType: minecraft:plains
+    villagerType: minecraft:swamp
     villagerLevel: 1
   recipes:
     '1':
@@ -223,7 +223,7 @@ data-version: 4|2|4440
     type: villager
     baby: false
     profession: minecraft:none
-    villagerType: minecraft:plains
+    villagerType: minecraft:swamp
     villagerLevel: 1
   recipes:
     '1':
@@ -272,7 +272,7 @@ data-version: 4|2|4440
     type: villager
     baby: false
     profession: minecraft:none
-    villagerType: minecraft:plains
+    villagerType: minecraft:swamp
     villagerLevel: 1
   recipes:
     '1':
@@ -426,4 +426,110 @@ data-version: 4|2|4440
           minecraft:enchantments: '{"minecraft:mending":1}'
           minecraft:custom_name: '{extra:[{bold:0b,color:"dark_red",italic:0b,obfuscated:0b,strikethrough:0b,text:"
             FRAGMENTO",underlined:0b}],text:""}'
+    '6':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:leather_helmet
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1,"minecraft:protection":100,"minecraft:unbreaking":50}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:heart_of_the_sea
+        count: 32
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRO",underlined:0b}],text:""}'
+    '7':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:leather_chestplate
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1,"minecraft:protection":100,"minecraft:unbreaking":50}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:heart_of_the_sea
+        count: 48
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRO",underlined:0b}],text:""}'
+    '8':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:leather_leggings
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1,"minecraft:protection":100,"minecraft:unbreaking":50}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:heart_of_the_sea
+        count: 48
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRO",underlined:0b}],text:""}'
+    '9':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:leather_boots
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1,"minecraft:protection":100,"minecraft:unbreaking":50}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:heart_of_the_sea
+        count: 32
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRO",underlined:0b}],text:""}'
+    '10':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:stone_sword
+        count: 1
+        components:
+          minecraft:enchantments: '{"minecraft:sharpness":50,"minecraft:unbreaking":50}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:heart_of_the_sea
+        count: 48
+        components:
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"dark_purple",italic:0b,obfuscated:0b,strikethrough:0b,text:"
+            ANSESTRO",underlined:0b}],text:""}'
+  snapshots: []
+'8':
+  uniqueId: 8e5dbb83-2fb4-490f-b0a5-ddacb527e2a7
+  world: world
+  x: -161
+  y: 132
+  z: 2
+  yaw: 36.349293
+  type: admin
+  name: Chicle Trader
+  object:
+    type: axolotl
+    baby: true
+    axolotlVariant: BLUE
+  recipes:
+    '1':
+      resultItem:
+        DataVersion: 4440
+        id: minecraft:slime_ball
+        count: 1
+        components:
+          minecraft:repair_cost: '1'
+          minecraft:lore: '["",{extra:["Es solo chicle o te lo comes o lo canjeas
+            en /warp"],text:""},{extra:["Es solo chicle o te lo comes o lo canjeas
+            en /warp trades"],text:""}]'
+          minecraft:enchantments: '{"minecraft:mending":1}'
+          minecraft:custom_name: '{extra:["Chicle"],text:""}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:emerald
+        count: 10
   snapshots: []

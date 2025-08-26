@@ -667,3 +667,37 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [02:21:23] [Server thread/WARN]: ZXxAlanJosuxXZ moved too quickly! 10.407775992018287,-1.0,3.990570655735837
 [02:22:28] [Server thread/INFO]: Villager Villager['Villager'/14588, uuid='6da1149f-081c-4a20-8c7a-e1b183e78af9', l='ServerLevel[world]', x=7382.65, y=60.00, z=-1548.62, cpos=[461, -97], tl=11260, v=true] died, message: 'Villager was slain by Zombie'
 [02:24:17] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[02:27:35] [Async Chat Thread - #13/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tienes iron?
+[02:27:43] [Async Chat Thread - #14/INFO]: [Not Secure] <_wdegw_> si
+[02:27:53] [Async Chat Thread - #13/INFO]: [Not Secure] <ZXxAlanJosuxXZ> e das?
+[02:28:04] [Async Chat Thread - #14/INFO]: [Not Secure] <_wdegw_> cuanto necesitas?
+[02:28:17] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 6
+[02:28:22] [Async Chat Thread - #14/INFO]: [Not Secure] <_wdegw_> ok
+[02:28:26] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya encontr
+[02:28:27] [Server thread/INFO]: _wdegw_ issued server command: /tpa ZXxAlanJosuxXZ
+[02:28:29] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> pero gracias
+[02:28:31] [Async Chat Thread - #14/INFO]: [Not Secure] <_wdegw_> ok
+[02:30:45] [Async Chat Thread - #15/INFO]: [Not Secure] <ZXxAlanJosuxXZ> busco la strongol?
+[02:30:51] [Async Chat Thread - #15/INFO]: [Not Secure] <_wdegw_> si quieres
+[02:31:05] [Async Chat Thread - #15/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya mismo que consiga grava
+[02:31:08] [Async Chat Thread - #15/INFO]: [Not Secure] <_wdegw_> ok
+[02:31:12] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[02:31:16] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home fortres
+[02:31:39] [Server thread/WARN]: ZXxAlanJosuxXZ moved too quickly! 0.3011563595140103,-0.04450921478037628,-11.750074460395822
+[02:33:52] [Server thread/INFO]: _wdegw_ was kicked due to keepalive timeout!
+[02:33:52] [Server thread/INFO]: _wdegw_ lost connection: Timed out
+[02:33:52] [Server thread/INFO]: _wdegw_ left the game
+[02:34:42] [User Authenticator #3/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[02:34:46] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
+[02:34:46] [Server thread/INFO]: _wdegw_[/127.153.189.115:47635] logged in with entity id 23327 at ([world]248.0868847192118, 67.0, -1495.985272645552)
+[02:35:17] [Server thread/INFO]: _wdegw_ was kicked due to keepalive timeout!
+[02:35:17] [Server thread/INFO]: _wdegw_ lost connection: Timed out
+[02:35:17] [Server thread/INFO]: _wdegw_ left the game
+[02:36:14] [User Authenticator #4/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[02:36:15] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
+[02:36:15] [Server thread/INFO]: _wdegw_[/127.153.189.115:59905] logged in with entity id 23867 at ([world]248.0868847192118, 67.0, -1495.985272645552)
+[02:36:26] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ was burned to a crisp while fighting Blaze
+[02:36:32] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpareturn
+[02:36:36] [Async Chat Thread - #17/INFO]: [Not Secure] <_wdegw_> w estaba re lag
+[02:36:38] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpareturn
+[02:36:54] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home fortres

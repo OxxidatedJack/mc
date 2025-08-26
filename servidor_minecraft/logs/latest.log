@@ -4077,3 +4077,163 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [23:48:41] [Server thread/INFO]: Villager Villager['Villager'/198537, uuid='04789405-0a13-4d53-972a-0b51e4ddc849', l='ServerLevel[world]', x=2999893.31, y=64.56, z=2999840.49, cpos=[187493, 187490], tl=6766, v=true] died, message: 'Villager was slain by Zombie'
 [23:48:44] [Server thread/INFO]: saul23419 issued server command: /tpa
 [23:48:55] [Server thread/INFO]: saul23419 issued server command: /tpa Erick_Papucho
+[23:49:04] [Async Chat Thread - #123/INFO]: [Not Secure] <Plechini44> grass
+[23:49:20] [Server thread/INFO]: sisos issued server command: /tp Plechini44
+[23:49:20] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Admin] Plechini44]
+[23:49:21] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> erick acepta el tp
+[23:49:22] [Server thread/INFO]: [Clan Azteca] saul23419 was slain by Zombie
+[23:49:24] [Server thread/INFO]: Erick_Papucho issued server command: /tpaccept
+[23:49:25] [Async Chat Thread - #123/INFO]: [Not Secure] <Plechini44> pero we esta muy dificil hacerel arco we
+[23:49:32] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> si
+[23:49:36] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> ese es el tema
+[23:49:41] [Async Chat Thread - #123/INFO]: [Not Secure] <Plechini44> esta mejor uno de rayos o explosivo
+[23:49:52] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> de rayos
+[23:50:37] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> y como se dice rayo en ingles?
+[23:51:12] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> y como se dice rayo en ingles?
+[23:51:20] [Async Chat Thread - #123/INFO]: [Not Secure] <Plechini44> lightning
+[23:51:29] [Server thread/INFO]: [Admin] Plechini44 has made the advancement [Ice Bucket Challenge]
+[23:51:37] [Server thread/INFO]: Plechini44 issued server command: /fill 8 -2 -8
+[23:51:47] [Server thread/INFO]: Plechini44 issued server command: /fill 8 -2 -8 5 -2 8 minecraft:obsidian
+[23:51:47] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 66 block(s)]
+[23:52:03] [Server thread/INFO]: Plechini44 issued server command: /fill 4 -2 -5
+[23:52:08] [Server thread/INFO]: Plechini44 issued server command: /fill 4 -2 -5 -8 -2 -8 minecraft:obsidian
+[23:52:08] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 50 block(s)]
+[23:52:14] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> xd
+[23:52:23] [Server thread/INFO]: Plechini44 issued server command: /fill 4 -2 8
+[23:52:26] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> bro, salu, que haces aqui?
+[23:52:35] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> saul"
+[23:52:37] [Server thread/INFO]: Plechini44 issued server command: /fill 4 -2 8 -6 -2 7 minecraft:obsidian
+[23:52:37] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 20 block(s)]
+[23:52:39] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> estoy jugando
+[23:52:42] [Server thread/INFO]: Plechini44 issued server command: /fill -8 -2 8
+[23:52:51] [Server thread/INFO]: Plechini44 issued server command: /fill -8 -2 8 -7 -2 -4 minecraft:obsidian
+[23:52:51] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 24 block(s)]
+[23:52:53] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> y tu
+[23:52:59] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> y que haces en el juego?
+[23:53:04] [Server thread/INFO]: Plechini44 issued server command: /fill -7 -6 6
+[23:53:12] [Server thread/INFO]: Plechini44 issued server command: /fill -7 -6 6 -7 -3 -4 minecraft:obsidian
+[23:53:12] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 42 block(s)]
+[23:53:19] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> consiguiendo ender pearls
+[23:53:24] [Server thread/INFO]: Plechini44 issued server command: /fill -6 -7 6
+[23:53:31] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> uy
+[23:53:35] [Server thread/INFO]: Plechini44 issued server command: /fill -6 -7 6 4 -7 -4 minecraft:obsidian
+[23:53:35] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 119 block(s)]
+[23:53:43] [Server thread/INFO]: Plechini44 issued server command: /fill -6 -3 -5
+[23:53:44] [User Authenticator #38/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[23:53:45] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ joined the game
+[23:53:45] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.95.225.242:54309] logged in with entity id 204615 at ([world]7377.2887666815905, 65.5, -1506.758479633748)
+[23:53:46] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> y eso es todo lo que has hecho?
+[23:53:50] [Server thread/INFO]: Plechini44 issued server command: /fill -6 -3 -5 4 -6 -5 minecraft:obsidian
+[23:53:50] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 42 block(s)]
+[23:53:55] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> si
+[23:53:58] [Server thread/INFO]: Erick_Papucho issued server command: /y nery cuando se fue?
+[23:54:00] [Server thread/INFO]: sisos issued server command: /tp Erick_Papucho
+[23:54:00] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Clan Azteca] Erick_Papucho]
+[23:54:04] [Server thread/INFO]: Plechini44 issued server command: /fill 5 -3 6
+[23:54:07] [Server thread/INFO]: Erick_Papucho issued server command: /y nery donde fue?
+[23:54:11] [Server thread/INFO]: Plechini44 issued server command: /fill 5 -3 6 5 -6 -4 minecraft:obsidian
+[23:54:11] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 42 block(s)]
+[23:54:14] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> linda base
+[23:54:14] [User Authenticator #38/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[23:54:15] [Server thread/INFO]: [Owner] Xautral joined the game
+[23:54:15] [Server thread/INFO]: Xautral[/127.115.99.248:52207] logged in with entity id 205020 at ([world]0.20290378423187516, -1.0, 7.040567897390141)
+[23:54:16] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> y donde fue nery?
+[23:54:22] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> no se
+[23:54:27] [Server thread/INFO]: sisos issued server command: /tp Xautral
+[23:54:27] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Owner] Xautral]
+[23:54:28] [Async Chat Thread - #123/INFO]: [Not Secure] <Xautral> ahorita vengo
+[23:54:28] [Server thread/INFO]: Plechini44 issued server command: /fill 4 -6 7
+[23:54:33] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> pero
+[23:54:36] [Server thread/INFO]: Xautral issued server command: /whitelist add goku_black_20
+[23:54:36] [Server thread/INFO]: [[Owner] Xautral: Added goku_black_20 to the whitelist]
+[23:54:36] [Server thread/INFO]: Plechini44 issued server command: /fill 4 -6 7 -6 -3 7 minecraft:obsidian
+[23:54:36] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 42 block(s)]
+[23:54:37] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> hablando del rey de roma
+[23:54:43] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> consulta
+[23:54:45] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> Xautral
+[23:54:46] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[23:54:48] [Async Chat Thread - #123/INFO]: [Not Secure] <Xautral> que
+[23:54:49] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> nery, tu que has hecho?
+[23:54:50] [Server thread/INFO]: Plechini44 issued server command: /fill 4 5 6
+[23:54:58] [Server thread/INFO]: Plechini44 issued server command: /fill 4 5 6 -6 5 -4 minecraft:obsidian
+[23:54:58] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 119 block(s)]
+[23:54:59] [Async Chat Thread - #123/INFO]: [Not Secure] <Xautral> gracias erick por decir mi nombre real
+[23:54:59] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> en q herramienta va el explosio
+[23:55:08] [Server thread/INFO]: Xautral lost connection: Disconnected
+[23:55:08] [Server thread/INFO]: [Owner] Xautral left the game
+[23:55:18] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> nery o lleva algo mas
+[23:55:23] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> bro, no te estaba hablando a ti
+[23:55:29] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> si ya c
+[23:55:37] [Async Chat Thread - #123/INFO]: [Not Secure] <Plechini44> pero si lo dijistes en el audio de world 15 nery
+[23:55:39] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> erick puedes en llamada?
+[23:55:40] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> pero quiero saber el nombre
+[23:55:48] [Server thread/INFO]: Plechini44 issued server command: /fill -9 -1 8
+[23:55:51] [Server thread/INFO]: Erick_Papucho issued server command: /pues llamenme
+[23:55:55] [Server thread/INFO]: Plechini44 issued server command: /fill -9 -1 8 -9 1 -8 minecraft:obsidian
+[23:55:55] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 49 block(s)]
+[23:56:04] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> creo que si
+[23:56:05] [Server thread/INFO]: sisos issued server command: /fill -8 -1 -9
+[23:56:06] [Server thread/INFO]: Plechini44 issued server command: /fill 8 -1 9
+[23:56:13] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> marquenme
+[23:56:13] [Server thread/INFO]: sisos issued server command: /fill -8 -1 -9 8 1 -9 minecraft:obsidian
+[23:56:13] [Server thread/INFO]: [[Admin] sisos: Successfully filled 50 block(s)]
+[23:56:15] [Server thread/INFO]: Plechini44 issued server command: /fill 8 -1 9 -8 1 9 minecraft:obsidian
+[23:56:15] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 49 block(s)]
+[23:56:17] [Async Chat Thread - #123/INFO]: [Not Secure] <ZXxAlanJosuxXZ> erick que armor tienes?
+[23:56:18] [Server thread/INFO]: sisos issued server command: /fill 9 1 -8
+[23:56:26] [Server thread/INFO]: sisos issued server command: /fill 9 1 -8 9 -1 8 minecraft:obsidian
+[23:56:26] [Server thread/INFO]: [[Admin] sisos: Successfully filled 51 block(s)]
+[23:56:29] [Server thread/INFO]: Erick_Papucho issued server command: /armor?
+[23:56:32] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> ya
+[23:56:33] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> listo
+[23:56:35] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> armor?
+[23:56:41] [Async Chat Thread - #123/INFO]: [Not Secure] <ZXxAlanJosuxXZ> si
+[23:56:42] [User Authenticator #39/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[23:56:43] [Server thread/INFO]: [Owner] Xautral joined the game
+[23:56:43] [Server thread/INFO]: Xautral[/127.115.99.248:48647] logged in with entity id 206845 at ([world]-1.1547307800208642, -0.5144804957815389, 1.5189109190208776)
+[23:56:47] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> Xautral
+[23:56:47] [Async Chat Thread - #123/INFO]: [Not Secure] <ZXxAlanJosuxXZ> diamante iron ?
+[23:56:50] [Server thread/INFO]: Plechini44 issued server command: /fill -8 2 8
+[23:56:51] [Server thread/INFO]: Xautral issued server command: /home home
+[23:56:54] [User Authenticator #39/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[23:56:54] [Server thread/INFO]: goku_black_20 joined the game
+[23:56:54] [Server thread/INFO]: goku_black_20[/127.56.91.73:41897] logged in with entity id 206904 at ([world]0.5, 121.0, 0.5)
+[23:56:56] [Server thread/INFO]: Xautral issued server command: /tp saul23419 ~ ~ ~
+[23:56:57] [Server thread/INFO]: [[Owner] Xautral: Teleported [Clan Azteca] saul23419 to -696.269608, -48.000000, 33.177550]
+[23:56:58] [Server thread/INFO]: Plechini44 issued server command: /fill -8 2 8 4 4 7 minecraft:obsidian
+[23:56:58] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 78 block(s)]
+[23:56:59] [Server thread/INFO]: Xautral issued server command: /op goku_black_20
+[23:56:59] [Server thread/INFO]: [[Owner] Xautral: Made goku_black_20 a server operator]
+[23:57:03] [Async Chat Thread - #123/INFO]: [Not Secure] <ZXxAlanJosuxXZ> goku tpa
+[23:57:04] [Server thread/INFO]: Xautral issued server command: /team join admin goku_black_20
+[23:57:04] [Server thread/INFO]: [[Owner] Xautral: Added [Admin] goku_black_20 to team [admin]]
+[23:57:05] [Async Chat Thread - #123/INFO]: [Not Secure] <Xautral> gente
+[23:57:08] [Async Chat Thread - #123/INFO]: [Not Secure] <sisos> q
+[23:57:09] [Server thread/INFO]: Plechini44 issued server command: /fill -8 2 -8
+[23:57:15] [Async Chat Thread - #123/INFO]: [Not Secure] <Xautral> revisen que gokuv black no haga nada malo
+[23:57:16] [Server thread/INFO]: Plechini44 issued server command: /fill -8 2 -8 4 4 -5 minecraft:obsidian
+[23:57:16] [Server thread/INFO]: [[Admin] Plechini44: Successfully filled 156 block(s)]
+[23:57:19] [Async Chat Thread - #123/INFO]: [Not Secure] <Xautral> si lo hace: baneenlo
+[23:57:20] [Server thread/INFO]: Xautral lost connection: Disconnected
+[23:57:20] [Server thread/INFO]: [Owner] Xautral left the game
+[23:57:39] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> quien me tepeo a mi base
+[23:57:44] [Async Chat Thread - #123/INFO]: [Not Secure] <Erick_Papucho> iron
+[23:57:50] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg goku_black_20 una pregunta bro
+[23:58:07] [Server thread/INFO]: goku_black_20 issued server command: /tell ZXxAlanJosuxXZ dimeç
+[23:58:18] [Server thread/INFO]: [[Admin] goku_black_20: Set own game mode to Adventure Mode]
+[23:58:19] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg goku_black_20 me regalas netherita?
+[23:58:20] [Server thread/INFO]: [[Admin] goku_black_20: Set own game mode to Spectator Mode]
+[23:58:34] [Server thread/INFO]: goku_black_20 issued server command: /tell ZXxAlanJosuxXZ no puedo hacer eso
+[23:58:43] [Async Chat Thread - #123/INFO]: [Not Secure] <saul23419> erick contesta la llamada
+[23:58:45] [Server thread/WARN]: Plechini44 moved too quickly! 6.410882803711107,0.0,13.086762434882651
+[23:58:45] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg goku_black_20 un huevo de creper>
+[23:58:49] [Server thread/INFO]: goku_black_20 issued server command: /tell ZXxAlanJosuxXZ ¯\_(ツ)_/¯
+[23:58:51] [Server thread/INFO]: [[Admin] Plechini44: Set own game mode to Spectator Mode]
+[23:58:57] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [Enchanter]
+[23:59:05] [Server thread/INFO]: goku_black_20 issued server command: /tell ZXxAlanJosuxXZ dile a Xautral
+[23:59:06] [Async Chat Thread - #124/INFO]: [Not Secure] <Erick_Papucho> mi madre lo tiene
+[23:59:14] [Async Chat Thread - #124/INFO]: [Not Secure] <Erick_Papucho> yo creo que mañana
+[23:59:14] [Server thread/INFO]: goku_black_20 issued server command: /tp sisos
+[23:59:14] [Server thread/INFO]: [[Admin] goku_black_20: Teleported [Admin] goku_black_20 to [Admin] sisos]
+[23:59:18] [Async Chat Thread - #124/INFO]: [Not Secure] <saul23419> oh
+[23:59:22] [Server thread/INFO]: Plechini44 issued server command: /tellraw @a {"text":"Recuerda Visitar /Warp Trades Para Mejorar Tus Cosas :3","color":"aqua"}

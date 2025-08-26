@@ -2681,3 +2681,86 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [21:25:16] [User Authenticator #17/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
 [21:25:17] [Server thread/INFO]: [Clan Azteca] Xautral joined the game
 [21:25:17] [Server thread/INFO]: Xautral[/127.115.99.248:51803] logged in with entity id 133352 at ([world]-692.4030333200244, -49.0, 24.60095040650502)
+[21:25:47] [Server thread/INFO]: sisos issued server command: /msg Xautral eo
+[21:26:00] [Server thread/INFO]: sisos issued server command: /msg Xautral tengo ruleta con todos los objetos de minecraft
+[21:26:14] [Server thread/INFO]: sisos issued server command: /msg Xautral los objetos los saco de ahi
+[21:26:30] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome end
+[21:26:38] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome end
+[21:26:56] [Server thread/INFO]: Xautral issued server command: /team modify Azteca friendlyFire true
+[21:26:56] [Server thread/INFO]: [[Clan Azteca] Xautral: Enabled friendly fire for team [Azteca]]
+[21:27:19] [Server thread/INFO]: [Clan Azteca] Erick_Papucho was slain by [Clan Azteca] Xautral
+[21:27:30] [Async Chat Thread - #62/INFO]: [Not Secure] <NOW_POOL123> asuuu
+[21:27:47] [Server thread/INFO]: Erick_Papucho issued server command: /tpa saul23419
+[21:27:52] [Server thread/INFO]: Xautral issued server command: /tp Erick_Papucho ~ ~ ~
+[21:27:52] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Erick_Papucho to -696.577668, -49.000000, 18.445286]
+[21:27:55] [Server thread/INFO]: saul23419 issued server command: /tpaccept
+[21:28:09] [Server thread/INFO]: Xautral issued server command: /team modify Azteca friendlyFire false
+[21:28:09] [Server thread/INFO]: [[Clan Azteca] Xautral: Disabled friendly fire for team [Azteca]]
+[21:28:46] [Server thread/INFO]: Xautral issued server command: /lsitem heart 1
+[21:31:57] [Async Chat Thread - #64/INFO]: [Not Secure] <sisos> Xautral
+[21:32:35] [Async Chat Thread - #64/INFO]: [Not Secure] <saul23419> creo que esta afk
+[21:32:52] [Async Chat Thread - #64/INFO]: [Not Secure] <sisos> gracias
+[21:33:02] [Async Chat Thread - #64/INFO]: [Not Secure] <saul23419> ya volvio
+[21:33:06] [Async Chat Thread - #64/INFO]: [Not Secure] <NOW_POOL123> sisos me regalas enderpels?
+[21:33:08] [Async Chat Thread - #64/INFO]: [Not Secure] <sisos> eo Xautral
+[21:33:11] [Async Chat Thread - #64/INFO]: [Not Secure] <Xautral> qe
+[21:33:18] [Async Chat Thread - #64/INFO]: [Not Secure] <sisos> no POOL
+[21:33:20] [Async Chat Thread - #64/INFO]: [Not Secure] <sisos> tp
+[21:33:24] [Server thread/INFO]: Xautral issued server command: /tp sisos
+[21:33:24] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Admin] sisos]
+[21:33:29] [Async Chat Thread - #64/INFO]: [Not Secure] <sisos> tp
+[21:33:55] [Async Chat Thread - #64/INFO]: [Not Secure] <sisos> mira
+[21:33:55] [Server thread/INFO]: Xautral issued server command: /msg sisos sisos, digo que para una azada de netherite y otra de diamante, se intercambie un kit secreto
+[21:33:56] [Server thread/INFO]: [[Clan Azteca] Xautral: Set own game mode to Creative Mode]
+[21:34:14] [Server thread/INFO]: [[Clan Azteca] Xautral: Set own game mode to Survival Mode]
+[21:34:19] [Server thread/INFO]: Xautral issued server command: /tp saul23419
+[21:34:19] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Clan Azteca] saul23419]
+[21:34:22] [Async Chat Thread - #65/INFO]: [Not Secure] <sisos> x
+[21:34:23] [Async Chat Thread - #65/INFO]: [Not Secure] <sisos> d
+[21:34:23] [Server thread/INFO]: Xautral issued server command: /tp NOW_POOL123
+[21:34:23] [Server thread/INFO]: [Clan Azteca] Xautral has made the advancement [The End?]
+[21:34:23] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Reino Tukulor] NOW_POOL123]
+[21:34:26] [Server thread/INFO]: Xautral issued server command: /tp saul23419
+[21:34:26] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Clan Azteca] saul23419]
+[21:34:27] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> disculpa
+[21:34:30] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> me tepie a otro que no er
+[21:34:33] [Async Chat Thread - #65/INFO]: [Not Secure] <sisos> te iva a mostrar el kit
+[21:34:36] [Server thread/INFO]: Xautral issued server command: /tp sisos
+[21:34:36] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Admin] sisos]
+[21:34:38] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> haber
+[21:34:38] [Server thread/INFO]: [[Clan Azteca] Xautral: Set own game mode to Creative Mode]
+[21:34:50] [Async Chat Thread - #65/INFO]: [Not Secure] <sisos> todo aleatorio
+[21:34:51] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> si
+[21:34:53] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> esta chido
+[21:34:56] [Async Chat Thread - #65/INFO]: [Not Secure] <sisos> oaaa
+[21:34:58] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome end
+[21:34:58] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> pero me referia a un kit aleatorio
+[21:35:04] [Server thread/INFO]: [[Clan Azteca] Xautral: Set own game mode to Survival Mode]
+[21:35:05] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome end
+[21:35:06] [Server thread/INFO]: Xautral issued server command: /tp saul23419
+[21:35:06] [Server thread/INFO]: [[Clan Azteca] Xautral: Teleported [Clan Azteca] Xautral to [Clan Azteca] saul23419]
+[21:35:14] [Server thread/INFO]: sisos issued server command: /msg Xautral cualquier item?
+[21:35:21] [Server thread/INFO]: Xautral issued server command: /tell sisos si, un kit de cualqueir item
+[21:35:46] [Server thread/WARN]: NOW_POOL123 moved too quickly! 7.703239440917969,-0.07298564910888672,-7.81249837577343
+[21:36:00] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> se me apagó el telefono
+[21:36:03] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> todo dawn
+[21:36:03] [Async Chat Thread - #65/INFO]: [Not Secure] <Xautral> xdd
+[21:36:12] [Async Chat Thread - #65/INFO]: [Not Secure] <sisos> yo tengo 12%
+[21:36:13] [Async Chat Thread - #65/INFO]: [Not Secure] <NOW_POOL123> alfinnn
+[21:36:22] [Async Chat Thread - #65/INFO]: [Not Secure] <saul23419> xd
+[21:36:32] [Async Chat Thread - #65/INFO]: [Not Secure] <NOW_POOL123> graicas diosito
+[21:36:50] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome end
+[21:36:52] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome end
+[21:37:38] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has reached the goal [Sky's the Limit]
+[21:37:43] [Async Chat Thread - #66/INFO]: [Not Secure] <sisos> voy a comprar
+[21:37:56] [Server thread/INFO]: sisos issued server command: /gamemode spectator
+[21:37:56] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Spectator Mode]
+[21:37:59] [Async Chat Thread - #66/INFO]: [Not Secure] <sisos> ahora vengo
+[21:38:50] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Ice Bucket Challenge]
+[21:39:04] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Local Brewery]
+[21:40:16] [Async Chat Thread - #68/INFO]: [Not Secure] <NOW_POOL123> alguien esta en el end??
+[21:40:26] [Async Chat Thread - #68/INFO]: [Not Secure] <saul23419> no
+[21:43:10] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> ya volvi
+[21:44:02] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome end
+[21:44:04] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome end
+[21:45:37] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Remote Getaway]

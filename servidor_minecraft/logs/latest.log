@@ -1,100 +1,103 @@
-[02:37:24] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[02:37:24] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[02:37:24] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:37:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[02:37:25] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[15:21:54] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[15:21:54] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[15:21:54] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:21:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[15:21:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - AxGraves (1.22.4), BasicHomes (1.9.6-RELEASE-1.21.8), ItemEdit (3.7.4), JustTPA (20250220c), KyrenLifesteal2 (v1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), Shopkeepers (2.23.10), SkinsRestorer (15.7.10)
-[02:37:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:37:33] [ServerMain/INFO]: Loaded 1407 recipes
-[02:37:33] [ServerMain/INFO]: Loaded 1520 advancements
-[02:37:33] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[02:37:33] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 593.1ms
-[02:37:33] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:37:33] [Server thread/INFO]: Loading properties
-[02:37:33] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[02:37:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:37:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:37:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:37:34] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[02:37:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[02:37:35] [Server thread/INFO]: Default game type: SURVIVAL
-[02:37:35] [Server thread/INFO]: Generating keypair
-[02:37:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:37:35] [Server thread/INFO]: Using epoll channel type
-[02:37:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:37:35] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
-[02:37:35] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
-[02:37:36] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
-[02:37:36] [Server thread/INFO]: [KyrenLifesteal2] Loading server plugin KyrenLifesteal2 vv1.0
-[02:37:36] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.4
-[02:37:36] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[02:37:36] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
-[02:37:36] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.10
-[02:37:37] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (546 ms).
-[02:37:37] [Server thread/INFO]: [Shopkeepers] Compatibility provider loaded: 1_21_R7_paper
-[02:37:37] [Server thread/INFO]: [Shopkeepers] Loading config.
-[02:37:37] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[02:37:37] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[02:37:37] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
-[02:37:37] [Server thread/INFO]: [BasicHomes] Loading server plugin BasicHomes v1.9.6-RELEASE-1.21.8
-[02:37:37] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
-[02:37:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:37:37] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
-[02:37:37] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[02:37:38] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:37:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:37:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:37:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:37:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:37:38] [Server thread/INFO]: Preparing level "world"
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:37:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:37:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:37:39] [Server thread/INFO]: Preparing spawn area: 0%
-[02:37:39] [Server thread/INFO]: Preparing spawn area: 2%
-[02:37:39] [Server thread/INFO]: Preparing spawn area: 2%
-[02:37:39] [Server thread/INFO]: Time elapsed: 1030 ms
-[02:37:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:37:39] [Server thread/INFO]: Preparing spawn area: 0%
-[02:37:40] [Server thread/INFO]: Time elapsed: 298 ms
-[02:37:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:37:40] [Server thread/INFO]: Preparing spawn area: 0%
-[02:37:40] [Server thread/INFO]: Time elapsed: 142 ms
-[02:37:40] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
-[02:37:40] [Server thread/INFO]: [KyrenLifesteal2] Enabling KyrenLifesteal2 vv1.0
-[02:37:40] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[15:22:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:22:07] [ServerMain/INFO]: Loaded 1407 recipes
+[15:22:07] [ServerMain/INFO]: Loaded 1520 advancements
+[15:22:07] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:22:07] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 575.4ms
+[15:22:08] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[15:22:08] [Server thread/INFO]: Loading properties
+[15:22:08] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[15:22:08] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:22:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:22:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:22:09] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[15:22:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[15:22:09] [Server thread/INFO]: Default game type: SURVIVAL
+[15:22:09] [Server thread/INFO]: Generating keypair
+[15:22:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:22:10] [Server thread/INFO]: Using epoll channel type
+[15:22:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:22:10] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[15:22:11] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[15:22:12] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
+[15:22:12] [Server thread/INFO]: [KyrenLifesteal2] Loading server plugin KyrenLifesteal2 vv1.0
+[15:22:12] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.4
+[15:22:12] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[15:22:12] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
+[15:22:12] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.10
+[15:22:13] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (844 ms).
+[15:22:13] [Server thread/INFO]: [Shopkeepers] Compatibility provider loaded: 1_21_R7_paper
+[15:22:13] [Server thread/INFO]: [Shopkeepers] Loading config.
+[15:22:13] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[15:22:13] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[15:22:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[15:22:13] [Server thread/INFO]: [BasicHomes] Loading server plugin BasicHomes v1.9.6-RELEASE-1.21.8
+[15:22:13] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
+[15:22:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:22:13] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[15:22:14] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[15:22:15] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[15:22:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:22:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:22:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:22:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:22:15] [Server thread/INFO]: Preparing level "world"
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[15:22:15] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[15:22:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:22:17] [Server thread/INFO]: Preparing spawn area: 0%
+[15:22:17] [Server thread/INFO]: Preparing spawn area: 2%
+[15:22:18] [Server thread/INFO]: Preparing spawn area: 14%
+[15:22:19] [Server thread/INFO]: Preparing spawn area: 14%
+[15:22:19] [Server thread/INFO]: Preparing spawn area: 14%
+[15:22:19] [Server thread/INFO]: Time elapsed: 2245 ms
+[15:22:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:22:19] [Server thread/INFO]: Preparing spawn area: 0%
+[15:22:19] [Server thread/INFO]: Preparing spawn area: 38%
+[15:22:20] [Server thread/INFO]: Time elapsed: 667 ms
+[15:22:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:22:20] [Server thread/INFO]: Preparing spawn area: 0%
+[15:22:20] [Server thread/INFO]: Time elapsed: 179 ms
+[15:22:20] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
+[15:22:20] [Server thread/INFO]: [KyrenLifesteal2] Enabling KyrenLifesteal2 vv1.0
+[15:22:21] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -145,7 +148,7 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[02:37:40] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[15:22:21] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -196,7 +199,7 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[02:37:40] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[15:22:21] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -247,7 +250,7 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[02:37:40] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[15:22:21] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -298,518 +301,100 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[02:37:40] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] MENU MANAGER HAS BEEN SETUP
-[02:37:40] [Server thread/WARN]: Nag author(s): '[Kyren223]' of 'KyrenLifesteal2 vv1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[02:37:40] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] ContainerListener
-[02:37:40] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] InventoryListener
-[02:37:40] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.4
-[02:37:41] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[02:37:41] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[02:37:41] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[02:37:42] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[02:37:42] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[02:37:42] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[02:37:42] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
-[02:37:42] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
-[02:37:42] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
-[02:37:42] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
-[02:37:42] [Server thread/INFO]: [ItemEdit] # Enabled (took 295 ms)
-[02:37:42] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.10
-[02:37:42] [Server thread/INFO]: [Shopkeepers] Loading the data of 6 shopkeepers ...
-[02:37:42] [Server thread/INFO]: [BasicHomes] Enabling BasicHomes v1.9.6-RELEASE-1.21.8
-[02:37:42] [Server thread/INFO]: [BH] Commands loaded !
-[02:37:42] [Server thread/INFO]: [BH] Events loaded !
-[02:37:42] [Server thread/INFO]: [BH] Metrics (bStats) successfully loaded !
-[02:37:42] [Server thread/INFO]: [BH] Checking for updates...
-[02:37:43] [Server thread/INFO]: [BH] An update is available: 1.9.7. Download it at https://www.curseforge.com/minecraft/bukkit-plugins/basichomes/files
-[02:37:43] [Server thread/INFO]: [BH] Plugin successfully loaded !
-[02:37:43] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
-[02:37:43] [Server thread/INFO]: [JustTPA] JustTPA initialized
-[02:37:43] [Server thread/INFO]: [JustTPA] bStats enabled
-[02:37:43] [Server thread/INFO]: [JustTPA] Checking for updates...
-[02:37:43] [Server thread/INFO]: [spark] Starting background profiler...
-[02:37:43] [Server thread/INFO]: Done preparing level "world" (5.191s)
-[02:37:43] [Server thread/INFO]: Running delayed init tasks
-[02:37:43] [Server thread/INFO]: Done (20.024s)! For help, type "help"
-[02:37:44] [Craft Scheduler Thread - 4 - JustTPA/WARN]: [JustTPA] Failed to check for updates
-[02:37:45] [User Authenticator #0/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
-[02:37:45] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[02:37:48] [Server thread/INFO]: [Admin] blime2009 joined the game
-[02:37:48] [Server thread/INFO]: blime2009[/127.20.187.84:40541] logged in with entity id 110 at ([world_nether]894.3000000119209, 14.671825294511223, -252.37323352795963)
-[02:37:53] [User Authenticator #0/INFO]: UUID of player sisos is 441a76e4-37ed-3a01-bfef-22aca4010e6e
-[02:37:57] [Server thread/INFO]: [Admin] sisos joined the game
-[02:37:57] [Server thread/INFO]: sisos[/127.5.193.164:53571] logged in with entity id 387 at ([world_nether]875.3024641285278, 12.0, -58.56337555943212)
-[02:37:58] [User Authenticator #0/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
-[02:38:00] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ joined the game
-[02:38:00] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.95.225.242:37099] logged in with entity id 417 at ([world_nether]895.6872183255371, 9.0, -213.30000001192093)
-[02:38:05] [User Authenticator #0/INFO]: UUID of player saul23419 is 72e5a4dc-d032-3065-b7fb-c3e8c4469409
-[02:38:06] [Server thread/INFO]: [Clan Azteca] saul23419 joined the game
-[02:38:06] [Server thread/INFO]: saul23419[/127.85.129.171:33161] logged in with entity id 452 at ([world_the_end]282.6475735428868, 1.0, 34.460402420360005)
-[02:38:27] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
-[02:38:27] [Server thread/INFO]: [[Admin] blime2009: Removed 706 item(s) from player [Admin] blime2009]
-[02:38:33] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
-[02:38:33] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
-[02:38:33] [Server thread/INFO]: sisos issued server command: /home base
-[02:38:33] [Async Chat Thread - #1/INFO]: [Not Secure] <ZXxAlanJosuxXZ> blime
-[02:38:38] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[02:38:38] [Server thread/INFO]: [Owner] Xautral joined the game
-[02:38:38] [Server thread/INFO]: Xautral[/127.115.99.248:52905] logged in with entity id 1059 at ([world]-696.2696079059414, -48.0, 33.177550470876554)
-[02:38:40] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trades
-[02:38:41] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> q
-[02:38:41] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 3e21c91a-4fc7-41d6-9595-2b559aa4d3ff, mapped to Bat['Bat'/42, uuid='3e21c91a-4fc7-41d6-9595-2b559aa4d3ff', l='ServerLevel[world]', x=-39.75, y=98.94, z=21.52, cpos=[-3, 1], tl=0, v=true], can't add Bat['Bat'/1217, uuid='3e21c91a-4fc7-41d6-9595-2b559aa4d3ff', l='ServerLevel[world]', x=-77.49, y=110.35, z=5.54, cpos=[-5, 0], tl=0, v=false]
-[02:38:44] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:38:44] [Server thread/INFO]: [Admin] blime2009 fell out of the world
-[02:38:45] [Server thread/INFO]: sisos issued server command: /msg Xautral tp
-[02:38:50] [Async Chat Thread - #1/INFO]: [Not Secure] <ZXxAlanJosuxXZ> xautral
-[02:38:51] [Server thread/INFO]: Xautral issued server command: /tp sisos
-[02:38:51] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] sisos]
-[02:38:51] [Server thread/INFO]: saul23419 lost connection: Timed out
-[02:38:51] [Server thread/INFO]: [Clan Azteca] saul23419 left the game
-[02:38:52] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[02:38:53] [Server thread/WARN]: [net.minecraft.world.level.block.entity.BlockEntity] Serialization errors:
-minecraft:chest // net.minecraft.world.level.block.entity.ChestBlockEntity@BlockPos{x=7381, y=64, z=-1506}:
-  Failed to decode value '{Slot:9b,components:{"minecraft:stored_enchantments":{"superenchants:detonate":3}},count:1,id:"minecraft:enchanted_book"}' from field 'Items' at index 4': Failed to get element superenchants:detonate missed input: {"superenchants:detonate":3} missed input: {"minecraft:stored_enchantments":{"superenchants:detonate":3}}
-  Failed to decode value '{Slot:16b,components:{"minecraft:stored_enchantments":{"superenchants:nightowl":1}},count:1,id:"minecraft:enchanted_book"}' from field 'Items' at index 11': Failed to get element superenchants:nightowl missed input: {"superenchants:nightowl":1} missed input: {"minecraft:stored_enchantments":{"superenchants:nightowl":1}}
-[02:38:53] [Server thread/WARN]: [net.minecraft.world.level.block.entity.BlockEntity] Serialization errors:
-minecraft:chest // net.minecraft.world.level.block.entity.ChestBlockEntity@BlockPos{x=7381, y=64, z=-1505}:
-  Failed to decode value '{Slot:17b,components:{"minecraft:stored_enchantments":{"superenchants:lightweight":2}},count:1,id:"minecraft:enchanted_book"}' from field 'Items' at index 14': Failed to get element superenchants:lightweight missed input: {"superenchants:lightweight":2} missed input: {"minecraft:stored_enchantments":{"superenchants:lightweight":2}}
-  Failed to decode value '{Slot:20b,components:{"minecraft:stored_enchantments":{"superenchants:weaken":2}},count:1,id:"minecraft:enchanted_book"}' from field 'Items' at index 17': Failed to get element superenchants:weaken missed input: {"superenchants:weaken":2} missed input: {"minecraft:stored_enchantments":{"superenchants:weaken":2}}
-[02:38:53] [Server thread/WARN]: [net.minecraft.world.level.block.entity.BlockEntity] Serialization errors:
-minecraft:chest // net.minecraft.world.level.block.entity.ChestBlockEntity@BlockPos{x=7381, y=64, z=-1504}:
-  Failed to decode value '{Slot:0b,components:{"minecraft:stored_enchantments":{"superenchants:dragonhunter":3}},count:1,id:"minecraft:enchanted_book"}' from field 'Items' at index 0': Failed to get element superenchants:dragonhunter missed input: {"superenchants:dragonhunter":3} missed input: {"minecraft:stored_enchantments":{"superenchants:dragonhunter":3}}
-  Failed to decode value '{Slot:6b,components:{"minecraft:container":[{item:{count:64,id:"minecraft:lapis_lazuli"},slot:0},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:1},{item:{components:{"minecraft:stored_enchantments":{"superenchants:nightowl":1}},count:1,id:"minecraft:enchanted_book"},slot:2},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:3},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:4},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:5},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:6},{item:{components:{"minecraft:stored_enchantments":{"superenchants:ascend":1}},count:1,id:"minecraft:enchanted_book"},slot:7},{item:{count:13,id:"minecraft:lapis_lazuli"},slot:8},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:9},{item:{count:64,id:"minecraft:oak_leaves"},slot:10},{item:{count:2,id:"minecraft:wheat_seeds"},slot:11},{item:{count:6,id:"minecraft:book"},slot:12},{item:{count:9,id:"minecraft:sandstone"},slot:13},{item:{count:1,id:"minecraft:stone_pressure_plate"},slot:14},{item:{count:15,id:"minecraft:rail"},slot:15},{item:{count:1,id:"minecraft:white_carpet"},slot:16},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:17},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:18},{item:{count:64,id:"minecraft:chorus_fruit"},slot:19},{item:{count:15,id:"minecraft:stick"},slot:20},{item:{count:2,id:"minecraft:furnace"},slot:21},{item:{count:1,id:"minecraft:dirt"},slot:22},{item:{count:9,id:"minecraft:cut_sandstone"},slot:23},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:26}],"minecraft:custom_name":"KIT ENCHANT"},count:1,id:"minecraft:blue_shulker_box"}' from field 'Items' at index 6': Failed to get element superenchants:ascend missed input: {"superenchants:ascend":1} missed input: {"minecraft:stored_enchantments":{"superenchants:ascend":1}}; Failed to get element superenchants:nightowl missed input: {"superenchants:nightowl":1} missed input: {"minecraft:stored_enchantments":{"superenchants:nightowl":1}} missed input: {"minecraft:container":[{item:{count:64,id:"minecraft:lapis_lazuli"},slot:0},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:1},{item:{components:{"minecraft:stored_enchantments":{"superenchants:nightowl":1}},count:1,id:"minecraft:enchanted_book"},slot:2},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:3},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:4},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:5},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:6},{item:{components:{"minecraft:stored_enchantments":{"superenchants:ascend":1}},count:1,id:"minecraft:enchanted_book"},slot:7},{item:{count:13,id:"minecraft:lapis_lazuli"},slot:8},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:9},{item:{count:64,id:"minecraft:oak_leaves"},slot:10},{item:{count:2,id:"minecraft:wheat_seeds"},slot:11},{item:{count:6,id:"minecraft:book"},slot:12},{item:{count:9,id:"minecraft:sandstone"},slot:13},{item:{count:1,id:"minecraft:stone_pressure_plate"},slot:14},{item:{count:15,id:"minecraft:rail"},slot:15},{item:{count:1,id:"minecraft:white_carpet"},slot:16},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:17},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:18},{item:{count:64,id:"minecraft:chorus_fruit"},slot:19},{item:{count:15,id:"minecraft:stick"},slot:20},{item:{count:2,id:"minecraft:furnace"},slot:21},{item:{count:1,id:"minecraft:dirt"},slot:22},{item:{count:9,id:"minecraft:cut_sandstone"},slot:23},{item:{count:64,id:"minecraft:lapis_lazuli"},slot:26}]}
-[02:38:57] [Server thread/INFO]: sisos issued server command: /msg Xautral esto
-[02:38:59] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
-[02:38:59] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
-[02:39:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> que
-[02:39:05] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ven
-[02:39:07] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tpa
-[02:39:13] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ
-[02:39:13] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Tukulor] ZXxAlanJosuxXZ]
-[02:39:14] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mira
-[02:39:15] [Server thread/INFO]: blime2009 issued server command: /tp ZXxAlanJosuxXZ
-[02:39:15] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Tukulor] ZXxAlanJosuxXZ]
-[02:39:23] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> hubo un error toma
-[02:39:24] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[02:39:24] [Server thread/INFO]: [[Owner] Xautral: Set [Admin] blime2009's game mode to Survival Mode]
-[02:39:24] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
-[02:39:31] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> me dio de mas
-[02:39:36] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> q cosa
-[02:39:37] [Server thread/INFO]: sisos issued server command: /gamemode creative
-[02:39:37] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
-[02:39:38] [Server thread/INFO]: sisos issued server command: /warps
-[02:39:39] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> no entender
-[02:39:44] [Server thread/INFO]: blime2009 issued server command: /inv sisos
-[02:39:46] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> me subio a 16 cuando tenia 4 escombreos
-[02:39:48] [User Authenticator #1/INFO]: UUID of player saul23419 is 72e5a4dc-d032-3065-b7fb-c3e8c4469409
-[02:39:49] [Server thread/INFO]: [Clan Azteca] saul23419 joined the game
-[02:39:49] [Server thread/INFO]: saul23419[/127.85.129.171:35273] logged in with entity id 2110 at ([world_the_end]282.6475735428868, 1.0, 34.460402420360005)
-[02:39:54] [Server thread/INFO]: [Admin] blime2009 was slain by [Owner] Xautral
-[02:39:55] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> por eso devolvi
-[02:39:58] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> xddd
-[02:39:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> haber
-[02:40:01] [Server thread/INFO]: blime2009 issued server command: /inv sisos
-[02:40:08] [Server thread/INFO]: Xautral lost connection: Disconnected
-[02:40:08] [Server thread/INFO]: [Owner] Xautral left the game
-[02:40:08] [Server thread/INFO]: blime2009 issued server command: /inv ZXxAlanJosuxXZ
-[02:40:12] [Server thread/INFO]: sisos issued server command: /msg Xautral a tmb puse el stack de tnt a 32 diamantes
-[02:40:13] [Async Chat Thread - #0/INFO]: [Not Secure] <saul23419> oye alan me desconecto del server
-[02:40:18] [Server thread/INFO]: blime2009 issued server command: /tp sisos
-[02:40:18] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] sisos]
-[02:40:21] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> por?
-[02:40:26] [Async Chat Thread - #0/INFO]: [Not Secure] <saul23419> no se
-[02:40:28] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> quep
-[02:40:35] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[02:40:35] [Server thread/INFO]: [Owner] Xautral joined the game
-[02:40:35] [Server thread/INFO]: Xautral[/127.115.99.248:40375] logged in with entity id 2455 at ([world]7358.753397104231, 67.0, -1510.7247330028204)
-[02:40:36] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> no esta tan OP como pensas
-[02:40:36] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya no vas a jugar?
-[02:40:37] [Async Chat Thread - #0/INFO]: [Not Secure] <saul23419> y me quito la tnt
-[02:40:39] [Server thread/INFO]: sisos issued server command: /msg Xautral a tmb puse el stack de tnt a 32 diamantes
-[02:40:40] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[02:40:40] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
-[02:40:42] [Async Chat Thread - #1/INFO]: [Not Secure] <ZXxAlanJosuxXZ> voy
-[02:40:45] [Async Chat Thread - #1/INFO]: [Not Secure] <saul23419> si voy a jugar
-[02:40:46] [Server thread/INFO]: Xautral issued server command: /ie rename
-[02:40:47] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpa saul23419
-[02:40:51] [Server thread/INFO]: Xautral issued server command: /ie rename [{"text":""},{"text":"S","bold":true,"color":"gray"},{"text":"o","bold":true,"color":"#b1b1b1"},{"text":"u","bold":true,"color":"#a4a4a4"},{"text":"l","bold":true,"color":"#979797"},{"text":"C","bold":true,"color":"#8b8b8b"},{"text":"l","bold":t
-[02:40:52] [Server thread/WARN]: Xautral moved too quickly! 7.351751677732864,-3.3543657057758764,6.447086807899268
-[02:40:56] [Server thread/INFO]: saul23419 issued server command: /tpaccept
-[02:41:02] [Async Chat Thread - #1/INFO]: [Not Secure] <sisos> blime
-[02:41:05] [Async Chat Thread - #1/INFO]: [Not Secure] <sisos> sos mujer?
-[02:41:06] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> te gusta la pinga?
-[02:41:10] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> si
-[02:41:11] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:diamond_sword[minecraft:item_name=[{"text":""},{"text":"S","bold":true,"color":"gray"},{"text":"o","bold":true,"color":"#b1b1b1"},{"text":"u","bold":true,"color":"#a4a4a4"},{"text":"l","bold":true,"color":"#979797"},{"text":"C","bol
-[02:41:15] [Async Chat Thread - #1/INFO]: [Not Secure] <sisos> xd
-[02:41:20] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trade
-[02:41:21] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> k
-[02:41:21] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> xddd
-[02:41:25] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trades
-[02:41:29] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> tu tas pendejo no?
-[02:41:29] [Server thread/INFO]: Xautral issued server command: /msg blime2009 ahorita vas a ver como anda de simp
-[02:41:36] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[02:41:48] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[02:41:48] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Owner] Xautral]
-[02:41:55] [Server thread/INFO]: sisos issued server command: /tp Xautral
-[02:41:55] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Owner] Xautral]
-[02:41:58] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[02:41:58] [Server thread/INFO]: [[Owner] Xautral: Set [Admin] blime2009's game mode to Survival Mode]
-[02:42:03] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> xd
-[02:42:10] [Server thread/INFO]: sisos issued server command: /inv Xautral
-[02:42:13] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> mamahuevo
-[02:42:17] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> digo glu glu glu
-[02:42:18] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> estas todo lag blime
-[02:42:18] [Server thread/WARN]: Xautral moved too quickly! -18.098646408679997,6.108801180926079,20.598098538672275
-[02:42:24] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> ya se
-[02:42:30] [User Authenticator #2/INFO]: UUID of player saseca2610 is be5b0179-53d0-3815-b865-ee4a642e14b5
-[02:42:31] [Server thread/INFO]: [Reino Majaphit] saseca2610 joined the game
-[02:42:31] [Server thread/INFO]: saseca2610[/127.2.237.30:54911] logged in with entity id 3728 at ([world]56.73051726797365, 93.0, -521.9993609546608)
-[02:42:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> a no
-[02:42:32] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> yo voy lag
-[02:42:36] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> a
-[02:42:42] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[02:42:42] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
-[02:42:49] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> deja sisos
-[02:42:52] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> algun admin ayuda
-[02:42:53] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> q
-[02:42:54] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> que te puedo hacer sufrir
-[02:42:56] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> q paso Alan
-[02:43:02] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mmiren
-[02:43:04] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> perdon
-[02:43:06] [Server thread/INFO]: Xautral issued server command: /kill blime2009
-[02:43:06] [Server thread/INFO]: [Admin] blime2009 was killed
-[02:43:06] [Server thread/INFO]: [[Owner] Xautral: Killed [Admin] blime2009]
-[02:43:06] [Server thread/INFO]: Xautral issued server command: /kill blime2009
-[02:43:06] [Server thread/INFO]: [[Owner] Xautral: Killed [Admin] blime2009]
-[02:43:07] [Server thread/INFO]: Xautral issued server command: /kill blime2009
-[02:43:07] [Server thread/INFO]: [Admin] blime2009 was killed
-[02:43:07] [Server thread/INFO]: [[Owner] Xautral: Killed [Admin] blime2009]
-[02:43:08] [Server thread/INFO]: Xautral issued server command: /kill blime2009
-[02:43:08] [Server thread/INFO]: [[Owner] Xautral: Killed [Admin] blime2009]
-[02:43:08] [Server thread/INFO]: Xautral issued server command: /kill blime2009
-[02:43:08] [Server thread/INFO]: [Admin] blime2009 was killed
-[02:43:08] [Server thread/INFO]: [[Owner] Xautral: Killed [Admin] blime2009]
-[02:43:08] [Server thread/INFO]: Xautral issued server command: /kill blime2009
-[02:43:08] [Server thread/INFO]: [[Owner] Xautral: Killed [Admin] blime2009]
-[02:43:08] [Server thread/INFO]: Xautral issued server command: /kill blime2009
-[02:43:08] [Server thread/INFO]: [[Owner] Xautral: Killed [Admin] blime2009]
-[02:43:17] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> toy usando el mause de la laptop p
-[02:43:24] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> me quitaron mis encantamientos de reparacions
-[02:43:31] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> jajja
-[02:43:33] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> Xautral
-[02:43:33] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> mentira :V
-[02:43:37] [Server thread/INFO]: [@: Gave 1 [SoulCleaver] to [Owner] Xautral]
-[02:43:43] [Server thread/INFO]: sisos issued server command: /inv Xautral
-[02:43:47] [Server thread/INFO]: Xautral issued server command: /ie enchant
-[02:43:49] [Server thread/INFO]: Xautral issued server command: /ie enchant wind_burst 3
-[02:43:50] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
-[02:43:50] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
-[02:43:53] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mira xautral
-[02:43:53] [Server thread/INFO]: blime2009 issued server command: /gamemode spectator
-[02:43:53] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Spectator Mode]
-[02:43:53] [Server thread/INFO]: sisos issued server command: /inv Xautral
-[02:43:54] [Server thread/INFO]: Xautral issued server command: /warp trades
-[02:44:05] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> blime
-[02:44:07] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> xd
-[02:44:07] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> den consejor para el warp boss uwu
-[02:44:08] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> todos los admins
-[02:44:08] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> vengan}
-[02:44:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> vengan}
-[02:44:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> vengan}
-[02:44:12] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[02:44:12] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Owner] Xautral]
-[02:44:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> vengan}
-[02:44:13] [Server thread/INFO]: saseca2610 lost connection: Disconnected
-[02:44:13] [Server thread/INFO]: [Reino Majaphit] saseca2610 left the game
-[02:44:16] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[02:44:16] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
-[02:44:17] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> xautral
-[02:44:18] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[02:44:18] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Owner] Xautral]
-[02:44:19] [Server thread/INFO]: sisos issued server command: /tp Xautral
-[02:44:19] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Owner] Xautral]
-[02:44:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> haer
-[02:44:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ZXxAlanJosuxXZ callate tantito
-[02:44:27] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> haber
-[02:44:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> gente
-[02:44:28] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> se bugueo feo el server
-[02:44:35] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> elchiste es queel server sea custom pero con estilo vanilla
-[02:44:37] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> oki
-[02:44:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ejemplo: la espada con wind burst
-[02:44:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> esta madre parece de box pvp
-[02:44:50] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> xd
-[02:44:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> y esto igual
-[02:44:52] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp granjacomunitaria
-[02:45:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> esto no combina con el ambiente del server
-[02:45:02] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> diganme
-[02:45:03] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> xd
-[02:45:10] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> q cosa?
-[02:45:10] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> cual es el ambiente :v?
-[02:45:13] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mira saul
-[02:45:16] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> esp
-[02:45:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> uno custom vanilla
-[02:45:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> que se vea como vanilla
-[02:45:26] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> pero es custom
-[02:45:31] [Async Chat Thread - #2/INFO]: [Not Secure] <saul23419> ala
-[02:45:31] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tengo elitros
-[02:45:31] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> exacto
-[02:45:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> pero no parece vanilla
-[02:45:37] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> osea cambios leves
-[02:45:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> parece un puñetero boxpv
-[02:45:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> parece un puñetero boxpvp
-[02:45:40] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> wey
-[02:45:43] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> es q me fui a la mrd con esta armor
-[02:45:45] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> solo por los trades :v
-[02:45:45] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> acabas de crear una moneda en vez de usar materiale
-[02:45:46] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[02:45:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> sisos hizo esta amdre que esta bien pinche rota
-[02:46:02] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> NO MAMES
-[02:46:03] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> ne
-[02:46:07] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> COMO QUE PROTECCION 100
-[02:46:12] [Server thread/INFO]: Xautral lost connection: Disconnected
-[02:46:12] [Server thread/INFO]: [Owner] Xautral left the game
-[02:46:16] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
-[02:46:22] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> pero con epsada de netherite filo 4 le sacas cora y medios
-[02:46:22] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> blime me ayudas?
-[02:46:24] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mira
-[02:46:25] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> esta bien
-[02:46:27] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home nase
-[02:46:28] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> no
-[02:46:31] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[02:46:35] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> como q no T_T
-[02:46:41] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> esque es imoortante
-[02:46:41] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> viste los kits?
-[02:46:43] [User Authenticator #3/INFO]: UUID of player javimessiu is 40d8cc67-d866-3d98-9f8e-530c4e2cdb8f
-[02:46:44] [Server thread/WARN]: [net.minecraft.world.level.block.entity.BlockEntity] Serialization errors:
-minecraft:chest // net.minecraft.world.level.block.entity.ChestBlockEntity@BlockPos{x=218, y=64, z=-1481}: Failed to decode value '{Slot:7b,components:{"minecraft:container":[{item:{count:63,id:"minecraft:lapis_lazuli"},slot:0},{item:{count:12,id:"minecraft:basalt"},slot:1},{item:{count:2,id:"minecraft:rotten_flesh"},slot:2},{item:{components:{"minecraft:stored_enchantments":{"superenchants:lavawalker":1}},count:1,id:"minecraft:enchanted_book"},slot:3},{item:{count:2,id:"minecraft:gilded_blackstone"},slot:4},{item:{count:1,id:"minecraft:end_rod"},slot:5},{item:{count:13,id:"minecraft:gold_ingot"},slot:6},{item:{count:3,id:"minecraft:end_stone"},slot:7},{item:{count:7,id:"minecraft:cobblestone"},slot:8},{item:{count:23,id:"minecraft:spectral_arrow"},slot:9},{item:{count:31,id:"minecraft:iron_ingot"},slot:10},{item:{count:1,id:"minecraft:dragon_egg"},slot:11},{item:{count:1,id:"minecraft:water_bucket"},slot:12},{item:{count:2,id:"minecraft:glass_bottle"},slot:13},{item:{count:2,id:"minecraft:polished_blackstone_brick_stairs"},slot:14},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_healing"}},count:1,id:"minecraft:potion"},slot:15},{item:{count:6,id:"minecraft:dirt"},slot:16},{item:{count:23,id:"minecraft:cracked_polished_blackstone_bricks"},slot:17},{item:{components:{"minecraft:enchantments":{"minecraft:protection":4,"minecraft:unbreaking":3}},count:1,id:"minecraft:iron_leggings"},slot:18},{item:{components:{"minecraft:enchantments":{"minecraft:bane_of_arthropods":4,"minecraft:knockback":2}},count:1,id:"minecraft:diamond_sword"},slot:19},{item:{count:35,id:"minecraft:polished_blackstone_bricks"},slot:20},{item:{count:5,id:"minecraft:blackstone"},slot:21},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_healing"}},count:1,id:"minecraft:potion"},slot:22},{item:{components:{"minecraft:stored_enchantments":{"superenchants:archer":3}},count:1,id:"minecraft:enchanted_book"},slot:23},{item:{components:{"minecraft:damage":164,"minecraft:enchantments":{"minecraft:power":1}},count:1,id:"minecraft:bow"},slot:24},{item:{components:{"minecraft:damage":28},count:1,id:"minecraft:shield"},slot:25}]},count:1,id:"minecraft:shulker_box"}' from field 'Items' at index 6': Failed to get element superenchants:archer missed input: {"superenchants:archer":3} missed input: {"minecraft:stored_enchantments":{"superenchants:archer":3}}; Failed to get element superenchants:lavawalker missed input: {"superenchants:lavawalker":1} missed input: {"minecraft:stored_enchantments":{"superenchants:lavawalker":1}} missed input: {"minecraft:container":[{item:{count:63,id:"minecraft:lapis_lazuli"},slot:0},{item:{count:12,id:"minecraft:basalt"},slot:1},{item:{count:2,id:"minecraft:rotten_flesh"},slot:2},{item:{components:{"minecraft:stored_enchantments":{"superenchants:lavawalker":1}},count:1,id:"minecraft:enchanted_book"},slot:3},{item:{count:2,id:"minecraft:gilded_blackstone"},slot:4},{item:{count:1,id:"minecraft:end_rod"},slot:5},{item:{count:13,id:"minecraft:gold_ingot"},slot:6},{item:{count:3,id:"minecraft:end_stone"},slot:7},{item:{count:7,id:"minecraft:cobblestone"},slot:8},{item:{count:23,id:"minecraft:spectral_arrow"},slot:9},{item:{count:31,id:"minecraft:iron_ingot"},slot:10},{item:{count:1,id:"minecraft:dragon_egg"},slot:11},{item:{count:1,id:"minecraft:water_bucket"},slot:12},{item:{count:2,id:"minecraft:glass_bottle"},slot:13},{item:{count:2,id:"minecraft:polished_blackstone_brick_stairs"},slot:14},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_healing"}},count:1,id:"minecraft:potion"},slot:15},{item:{count:6,id:"minecraft:dirt"},slot:16},{item:{count:23,id:"minecraft:cracked_polished_blackstone_bricks"},slot:17},{item:{components:{"minecraft:enchantments":{"minecraft:protection":4,"minecraft:unbreaking":3}},count:1,id:"minecraft:iron_leggings"},slot:18},{item:{components:{"minecraft:enchantments":{"minecraft:bane_of_arthropods":4,"minecraft:knockback":2}},count:1,id:"minecraft:diamond_sword"},slot:19},{item:{count:35,id:"minecraft:polished_blackstone_bricks"},slot:20},{item:{count:5,id:"minecraft:blackstone"},slot:21},{item:{components:{"minecraft:potion_contents":{potion:"minecraft:strong_healing"}},count:1,id:"minecraft:potion"},slot:22},{item:{components:{"minecraft:stored_enchantments":{"superenchants:archer":3}},count:1,id:"minecraft:enchanted_book"},slot:23},{item:{components:{"minecraft:damage":164,"minecraft:enchantments":{"minecraft:power":1}},count:1,id:"minecraft:bow"},slot:24},{item:{components:{"minecraft:damage":28},count:1,id:"minecraft:shield"},slot:25}]}
-[02:46:44] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.ChunkEntitySlices] [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.ChunkEntitySlices] Serialization errors:
-chunk@[14, -92].Entities[2]: Failed to decode value '{Recipes:[{buy:{count:2,id:"minecraft:emerald"},demand:-2,maxUses:2,rewardExp:0b,sell:{components:{"minecraft:stored_enchantments":{"superenchants:enlightened":1}},count:1,id:"minecraft:enchanted_book"},xp:0},{buy:{count:9,id:"minecraft:emerald"},demand:-12,maxUses:12,priceMultiplier:0.05f,sell:{count:1,id:"minecraft:bookshelf"}},{buy:{count:9,id:"minecraft:emerald"},demand:-2,maxUses:2,rewardExp:0b,sell:{components:{"minecraft:stored_enchantments":{"superenchants:frostbite":3}},count:1,id:"minecraft:enchanted_book"},xp:0},{buy:{count:24,id:"minecraft:emerald"},buyB:{count:1,id:"minecraft:book"},demand:-10,maxUses:12,priceMultiplier:0.2f,sell:{components:{"minecraft:stored_enchantments":{"minecraft:mending":1}},count:1,id:"minecraft:enchanted_book"}}]}' from field 'Offers': Failed to get element superenchants:frostbite missed input: {"superenchants:frostbite":3} missed input: {"minecraft:stored_enchantments":{"superenchants:frostbite":3}}; Failed to get element superenchants:enlightened missed input: {"superenchants:enlightened":1} missed input: {"minecraft:stored_enchantments":{"superenchants:enlightened":1}}
-[02:46:44] [Server thread/INFO]: [Reino Berserk] javimessiu joined the game
-[02:46:44] [Server thread/INFO]: javimessiu[/127.87.130.205:36695] logged in with entity id 8122 at ([world]217.08971547409928, 65.0, -1480.83629836902)
-[02:46:50] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> hola javi
-[02:46:58] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> hola
-[02:47:00] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> blime2009
-[02:47:01] [Server thread/INFO]: blime2009 lost connection: Timed out
-[02:47:01] [Server thread/INFO]: [Admin] blime2009 left the game
-[02:47:03] [Server thread/INFO]: javimessiu issued server command: /warps
-[02:47:05] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> sisos
-[02:47:07] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> diga
-[02:47:10] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ven
-[02:47:16] [Server thread/INFO]: sisos issued server command: /tp ZXxAlanJosuxXZ
-[02:47:16] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Tukulor] ZXxAlanJosuxXZ]
-[02:47:20] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mira esto
-[02:47:25] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> sisi vi
-[02:47:27] [Server thread/INFO]: javimessiu issued server command: /home 2
-[02:47:34] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> cuantos eran?
-[02:47:36] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> se quita la reparacion y el irompi 3
-[02:47:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 5
-[02:47:49] [Server thread/INFO]: [Admin] sisos has made the advancement [Surge Protector]
-[02:47:49] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [Surge Protector]
-[02:47:51] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> 4 reparacion un iromple 3
-[02:47:54] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> tem
-[02:48:19] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> y los aldeanos?
-[02:48:21] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> q cosas?
-[02:48:22] [Async Chat Thread - #0/INFO]: [Not Secure] <saul23419> hay libro de reparacion en la tienda?
-[02:48:24] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> q te lo tradeam
-[02:48:30] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> me lo regalaron
-[02:48:31] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> no
-[02:48:31] [User Authenticator #4/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
-[02:48:32] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
-[02:48:32] [Server thread/INFO]: _wdegw_[/127.153.189.115:46825] logged in with entity id 9506 at ([world]222.06167933944928, 64.0, -1476.177406282207)
-[02:48:39] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> quien?
-[02:48:42] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> por eso los uidaba
-[02:48:44] [Server thread/INFO]: _wdegw_ issued server command: /warp trades
-[02:48:52] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
-[02:48:54] [Server thread/INFO]: javimessiu issued server command: /warps
-[02:48:56] [User Authenticator #4/INFO]: UUID of player saseca2610 is be5b0179-53d0-3815-b865-ee4a642e14b5
-[02:48:57] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> uno de mi clan pero no se quien le dio
-[02:48:57] [Server thread/INFO]: [Reino Majaphit] saseca2610 joined the game
-[02:48:57] [Server thread/INFO]: saseca2610[/127.2.237.30:41911] logged in with entity id 9858 at ([world]60.30940226056783, 89.0, -527.1034260363097)
-[02:49:04] [User Authenticator #4/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
-[02:49:06] [Server thread/INFO]: [Admin] blime2009 joined the game
-[02:49:06] [Server thread/INFO]: blime2009[/127.20.187.84:59587] logged in with entity id 10281 at ([world]-165.87065140020871, 131.0, 10.669353776838367)
-[02:49:07] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> holas
-[02:49:14] [Server thread/INFO]: saul23419 issued server command: /home hola
-[02:49:14] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> necesito pruebas q eran esos
-[02:49:20] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> no tengo
-[02:49:25] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> oe sisos
-[02:49:28] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> diga
-[02:49:42] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> las armor no tienen que ser tan rotas
-[02:49:45] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> buemo ya q ya lo busco de nuevo
-[02:49:50] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> me di cuanta
-[02:49:56] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> y este aldeano?
-[02:49:56] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> gracias por todo igual sisos
-[02:50:02] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> no se
-[02:50:09] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
-[02:50:09] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
-[02:50:10] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> le gusta el piso
-[02:50:14] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> oa
-[02:50:14] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> hola
-[02:50:15] [Server thread/INFO]: saseca2610 issued server command: /warp granjacomunitaria
-[02:50:15] [Server thread/INFO]: [Reino Majaphit] saseca2610 has made the advancement [The End?]
-[02:50:18] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> blime2009
-[02:50:18] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> hola
-[02:50:19] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> q haces
-[02:50:24] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> e pues replantando banbu
-[02:50:28] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> blime mira este aldeano
-[02:50:28] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> para palos y ems
-[02:50:33] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> por q ya tengo rep
-[02:50:36] [Server thread/INFO]: blime2009 issued server command: /tp ZXxAlanJosuxXZ
-[02:50:36] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Tukulor] ZXxAlanJosuxXZ]
-[02:50:39] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> repa en un aldeano
-[02:50:46] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> y ya?
-[02:50:50] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> eo
-[02:50:50] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> admin una duyda
-[02:50:53] [Server thread/INFO]: saseca2610 lost connection: Disconnected
-[02:50:53] [Server thread/INFO]: [Reino Majaphit] saseca2610 left the game
-[02:50:56] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> para esa mierda me llamas
-[02:50:58] [Server thread/INFO]: blime2009 issued server command: /tp javimessiu
-[02:50:58] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] javimessiu]
-[02:51:01] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> xd
-[02:51:02] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> que paso javimessiu
-[02:51:04] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> el chicle es reparacion
-[02:51:06] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> ???
-[02:51:10] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg sisos me regesas solo el irompi 3?
-[02:51:11] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> no
-[02:51:13] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> deja veo
-[02:51:16] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> a
-[02:51:21] [Server thread/INFO]: javimessiu issued server command: /home 2
-[02:51:22] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> 1 solo te podria dar
-[02:51:27] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> javimessiu ya tenemos repa X
-[02:51:27] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> sip
-[02:51:29] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> es una moneda
-[02:51:30] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> :v
-[02:51:34] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> queeeeee
-[02:51:36] [Server thread/INFO]: _wdegw_ issued server command: /warps
-[02:51:40] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> sep
-[02:51:46] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> yo no la cree
-[02:51:53] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
-[02:51:53] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The End?]
-[02:51:53] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
-[02:51:54] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[02:51:56] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
-[02:51:59] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> tmr
-[02:52:04] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> me cague
-[02:52:04] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> q tal?
-[02:52:07] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> donde esta el aldeano de rpa?
-[02:52:11] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
-[02:52:12] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> quedo ien?
-[02:52:13] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> javimessiu
-[02:52:15] [Async Chat Thread - #2/INFO]: [Not Secure] <saul23419> por que capa sale la netherite?
-[02:52:15] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> mira
-[02:52:16] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> ya lo vi
-[02:52:29] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> pueden vender polvora en warp trade?
-[02:52:31] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> w mira las elitras
-[02:52:35] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> no
-[02:52:37] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> recolecta tierra aplanemos para conswguir
-[02:52:41] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> grax
-[02:52:42] [Async Chat Thread - #2/INFO]: [Not Secure] <saul23419> alan
-[02:52:43] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> sin el permiso de Xautral no
-[02:52:45] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> enserio grax
-[02:52:48] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> me las prestas para buscar?
-[02:52:49] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> oki
-[02:52:54] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> toma
-[02:52:55] [Server thread/INFO]: blime2009 issued server command: /title @a title "den ideas para el warp boss"
-[02:52:55] [Server thread/INFO]: [[Admin] blime2009: Showing new title for 6 players]
-[02:52:59] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> gracias ya vuelvo
-[02:53:00] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> me las devuelves pls
-[02:53:04] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> blime
-[02:53:04] [Async Chat Thread - #2/INFO]: [Not Secure] <saul23419> vamos a hacer una granja de polvora
-[02:53:06] [Server thread/INFO]: _wdegw_ issued server command: /warps
-[02:53:08] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> javi
-[02:53:09] [Server thread/INFO]: sisos issued server command: /warps
-[02:53:09] [Server thread/INFO]: blime2009 issued server command: /title @a title "den ideas para el warp boss"
-[02:53:09] [Server thread/INFO]: [[Admin] blime2009: Showing new title for 6 players]
-[02:53:09] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> si
-[02:53:10] [Server thread/INFO]: javimessiu issued server command: /warps
-[02:53:18] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> den sus ideas uwu
-[02:53:19] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> que alann?
-[02:53:19] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> oye w
-[02:53:22] [Server thread/INFO]: sisos issued server command: /gamemode spectator
-[02:53:22] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Spectator Mode]
-[02:53:24] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> dime
-[02:53:24] [Server thread/INFO]: saul23419 issued server command: /tpa ZXxAlanJosuxXZ
-[02:53:27] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> den sus ideas uwu
-[02:53:28] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> den sus ideas uwu
-[02:53:28] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> den sus ideas uwu
-[02:53:29] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> den sus ideas uwu
-[02:53:29] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> den sus ideas uwu
-[02:53:33] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tienes polvora que me vendas?
-[02:53:34] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> de q
-[02:53:35] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
-[02:53:35] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> onichan
-[02:53:36] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> xd
-[02:53:36] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> e no
-[02:53:38] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> opino que deberian meter el mazo
-[02:53:40] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> me la gaste en coetes
-[02:53:41] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> blime2009
-[02:53:43] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> den sus ideas para el warp bossesuwu
-[02:53:46] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> me vendes pocos?
-[02:53:48] [Server thread/INFO]: sisos issued server command: /gamemode creative
-[02:53:48] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
-[02:53:49] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> que mrd quieres sisos
-[02:53:52] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> cuantos?
-[02:53:53] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> tp
-[02:53:54] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> el warden mas roto
-[02:53:56] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> los que quieras
-[02:53:58] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> mira el koth
-[02:53:58] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> den sus ideas para el warp bossesuwu
-[02:54:03] [Server thread/INFO]: blime2009 issued server command: /tp sisos
-[02:54:03] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] sisos]
-[02:54:03] [Async Chat Thread - #2/INFO]: [Not Secure] <saul23419> alan hacemos granja de polvora?
-[02:54:11] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> te pago con diamonds
-[02:54:12] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> pongan al warden pero mas roto
-[02:54:12] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> pues te doy 27 si quieres q no tengo granja de polvora xd
-[02:54:13] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> lo iso xautral y que paso
-[02:54:17] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> oki
-[02:54:19] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> esta bien
-[02:54:21] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> ok
-[02:54:22] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> q Xautral
-[02:54:25] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> lo hice yo
-[02:54:29] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya la construyo y hago comunitarua
-[02:54:33] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> ok
-[02:54:36] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> que yo me acuerde yo vi a xautral
-[02:54:37] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> grax
-[02:54:40] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> de nada
-[02:54:41] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> pero bueno
-[02:54:45] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> yo no me meto en eso
-[02:54:47] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> preguntale
-[02:54:50] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> lo mio es mas cambio de dificultad
-[02:54:51] [Async Chat Thread - #2/INFO]: [Not Secure] <sisos> xd
-[02:54:51] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> :V
-[02:54:52] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> blime pongan al warden pero mas chetado y que de 64 diamantes
-[02:54:57] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> a xd
-[02:55:12] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> no mames javimessiu
-[02:55:18] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> que?
-[02:55:20] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> xd
-[02:55:25] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> primero
-[02:55:30] [Async Chat Thread - #2/INFO]: [Not Secure] <javimessiu> dijiste den sus ideas
-[02:55:37] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> saul
-[02:55:37] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> matar un warden es re contra dificil sin una tecnica
-[02:55:44] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> y quieres que lo haga dificil???
-[02:55:46] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> usca zona para la granja de polvora
-[02:55:49] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> y pues debe ser dificil no
-[02:55:55] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> w javi
-[02:55:58] [Async Chat Thread - #0/INFO]: [Not Secure] <saul23419> voy
-[02:56:01] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> obvio no quiero un server de gays
-[02:56:02] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> me voy un momento ya vuelvo
-[02:56:06] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> la regla de blime es: no hacer dificil lo que ya es
-[02:56:07] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> ok
-[02:56:07] [Server thread/INFO]: _wdegw_ issued server command: /home end
-[02:56:08] [Server thread/INFO]: saul23419 issued server command: /home hola
-[02:56:08] [Server thread/INFO]: _wdegw_ lost connection: Disconnected
-[02:56:08] [Server thread/INFO]: [Reino Berserk] _wdegw_ left the game
-[02:56:24] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> entonces los pollos explotan
-[02:56:26] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> :D
-[02:56:27] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> que server mas gay todo esta re facil
-[02:56:28] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> xd
-[02:56:34] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> ...
-[02:56:38] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> xd
-[02:56:48] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> deja le pido permiso a xautral para que te pongas a llorar
-[02:56:54] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> pongan dificultD
-[02:57:10] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> dame 10 mins para escribirle a xautral
-[02:57:27] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> porndre a llorar a tu madre de tran duro qyue le doy xdddddd
-[02:57:31] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> chill
-[02:57:34] [Async Chat Thread - #0/INFO]: [Not Secure] <javimessiu> es broma
-[02:58:01] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> a es verdad es que tu nunca enfrentastes a un phantom
-[02:58:04] [Async Chat Thread - #0/INFO]: [Not Secure] <sisos> te re volaste messiu
+[15:22:21] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] MENU MANAGER HAS BEEN SETUP
+[15:22:21] [Server thread/WARN]: Nag author(s): '[Kyren223]' of 'KyrenLifesteal2 vv1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[15:22:21] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] ContainerListener
+[15:22:21] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] InventoryListener
+[15:22:21] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.4
+[15:22:23] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[15:22:23] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[15:22:23] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[15:22:23] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[15:22:23] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[15:22:23] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[15:22:23] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
+[15:22:23] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[15:22:24] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[15:22:24] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[15:22:24] [Server thread/INFO]: [ItemEdit] # Enabled (took 499 ms)
+[15:22:24] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.10
+[15:22:25] [Server thread/INFO]: [Shopkeepers] Loading the data of 5 shopkeepers ...
+[15:22:25] [Server thread/INFO]: [BasicHomes] Enabling BasicHomes v1.9.6-RELEASE-1.21.8
+[15:22:25] [Server thread/INFO]: [BH] Commands loaded !
+[15:22:25] [Server thread/INFO]: [BH] Events loaded !
+[15:22:25] [Server thread/INFO]: [BH] Metrics (bStats) successfully loaded !
+[15:22:25] [Server thread/INFO]: [BH] Checking for updates...
+[15:22:25] [Server thread/INFO]: [BH] An update is available: 1.9.7. Download it at https://www.curseforge.com/minecraft/bukkit-plugins/basichomes/files
+[15:22:25] [Server thread/INFO]: [BH] Plugin successfully loaded !
+[15:22:25] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
+[15:22:25] [Server thread/INFO]: [JustTPA] JustTPA initialized
+[15:22:25] [Server thread/INFO]: [JustTPA] bStats enabled
+[15:22:25] [Server thread/INFO]: [JustTPA] Checking for updates...
+[15:22:26] [Server thread/INFO]: [spark] Starting background profiler...
+[15:22:27] [Server thread/INFO]: Done preparing level "world" (11.842s)
+[15:22:27] [Server thread/INFO]: Running delayed init tasks
+[15:22:27] [Server thread/INFO]: Done (35.765s)! For help, type "help"
+[15:22:28] [Craft Scheduler Thread - 4 - JustTPA/WARN]: [JustTPA] Failed to check for updates
+[15:22:28] [User Authenticator #0/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[15:22:28] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[15:22:31] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo joined the game
+[15:22:31] [Server thread/INFO]: Blah_Blah_Demo[/127.73.236.48:50629] logged in with entity id 32 at ([world]153.9547487777042, 97.0, -61.222000345452344)
+[15:23:01] [Server thread/INFO]: Added thecto to the whitelist
+[15:23:04] [Server thread/INFO]: Added thectos to the whitelist
+[15:23:12] [Server thread/INFO]: Added NicknameDX to the whitelist
+[15:23:18] [Server thread/INFO]: Whitelist is already turned on
+[15:23:39] [Server thread/INFO]: Added eligaspapu to the whitelist
+[15:25:00] [Server thread/INFO]: [Not Secure] [Server] blah, a que se refiere el pendejo de willy con que le preten el server
+[15:25:05] [Async Chat Thread - #1/INFO]: [Not Secure] <Blah_Blah_Demo> idjk
+[15:25:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Blah_Blah_Demo> supongo que el de roblox
+[15:25:18] [Async Chat Thread - #1/INFO]: [Not Secure] <Blah_Blah_Demo> hablaban de un server privado de un juego
+[15:26:02] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo has made the advancement [Not Today, Thank You]
+[15:26:42] [User Authenticator #1/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[15:26:42] [Server thread/INFO]: Disconnecting Slimegolembross (/127.105.139.54:50123): You are not whitelisted on this server!
+[15:26:42] [Server thread/INFO]: Slimegolembross (/127.105.139.54:50123) lost connection: You are not whitelisted on this server!
+[15:27:24] [Server thread/INFO]: Blah_Blah_Demo issued server command: /sethome 1
+[15:27:28] [Server thread/INFO]: Added Slimegolembross to the whitelist
+[15:27:32] [Server thread/INFO]: Blah_Blah_Demo issued server command: /deletehome 1
+[15:27:35] [User Authenticator #1/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[15:27:37] [Server thread/INFO]: Slimegolembross joined the game
+[15:27:37] [Server thread/INFO]: Slimegolembross[/127.105.139.54:50633] logged in with entity id 940 at ([world]0.5, 121.0, 0.5)
+[15:27:39] [Server thread/INFO]: Blah_Blah_Demo issued server command: /sethome 1
+[15:27:51] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> PORFIN
+[15:28:06] [Server thread/INFO]: [Not Secure] [Server] ya sabe, unirte o hacer uno?
+[15:28:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> unirte
+[15:28:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> idk xautral
+[15:28:26] [Server thread/INFO]: [Not Secure] [Server] a cual
+[15:28:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> al de blah_blah_demo
+[15:28:38] [Server thread/INFO]: [Not Secure] [Server] blah_blah lo aceptas?
+[15:28:44] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> si
+[15:28:54] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> que es esto xd
+[15:29:04] [Server thread/INFO]: Unknown team 'teemo'
+[15:29:15] [Server thread/INFO]: Unknown team 'Teemo'
+[15:29:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> slime coge madera y veni
+[15:29:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> aun no me unio
+[15:29:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> toda la madera que puedas y hacete tpa
+[15:29:31] [Server thread/INFO]: Incorrect argument for command
+team lit<--[HERE]
+[15:29:41] [Server thread/INFO]: There are 8 team(s): [Reino Age of Virgins], [admin], [majaphit], [Azteca], [owner], [tukulor], [williyf], [berserk]
+[15:29:53] [Server thread/INFO]: Added [Dominio de Teemo] Slimegolembross to team [Reino Age of Virgins]
+[15:30:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Blah_Blah_Demo> tengo para armors
+[15:30:17] [User Authenticator #2/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[15:30:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> k
+[15:30:26] [Server thread/INFO]: [Admin] blime2009 joined the game
+[15:30:26] [Server thread/INFO]: blime2009[/127.20.187.84:55715] logged in with entity id 1509 at ([world]6791.504227291841, 83.0, -1018.1576627823835)
+[15:30:50] [Server thread/INFO]: blime2009 issued server command: /tp Blah_Blah_Demo
+[15:30:50] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Dominio de Teemo] Blah_Blah_Demo]
+[15:30:57] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> ola vv
+[15:30:59] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> broma :V
+[15:31:04] [Server thread/INFO]: Slimegolembross issued server command: /tpa Blah_Blah_Demo
+[15:31:06] [User Authenticator #2/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
+[15:31:06] [Server thread/INFO]: Disconnecting Javdroker_MC (/127.214.216.25:51187): You are not whitelisted on this server!
+[15:31:06] [Server thread/INFO]: Javdroker_MC (/127.214.216.25:51187) lost connection: You are not whitelisted on this server!
+[15:31:14] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> ignoradas mas epicas del anime
+[15:31:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> acepta tpa
+[15:31:23] [Server thread/INFO]: Added Javdroker_MC to the whitelist
+[15:31:24] [Server thread/INFO]: Blah_Blah_Demo issued server command: /tpaccept
+[15:31:26] [User Authenticator #2/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
+[15:31:27] [Server thread/INFO]: Javdroker_MC joined the game
+[15:31:27] [Server thread/INFO]: Javdroker_MC[/127.214.216.25:46691] logged in with entity id 1944 at ([world]0.5, 121.0, 0.5)
+[15:31:29] [Server thread/INFO]: Blah_Blah_Demo issued server command: /home 1

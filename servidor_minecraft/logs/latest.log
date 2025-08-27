@@ -1312,3 +1312,200 @@ enchant @<--[HERE]
 [17:59:24] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homeS
 [17:59:28] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homes
 [17:59:36] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homes
+[17:59:45] [Server thread/INFO]: Xautral issued server command: /ie attribute add entity_interaction_range 50
+[17:59:49] [Server thread/INFO]: Xautral issued server command: /ie enchant wind_burst 3
+[17:59:50] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homes
+[17:59:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> no me interesas ahora xautral
+[18:00:00] [Server thread/INFO]: Blah_Blah_Demo issued server command: /sethome 2
+[18:00:03] [Server thread/INFO]: blime2009 issued server command: /tp Blah_Blah_Demo
+[18:00:03] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Dominio de Teemo] Blah_Blah_Demo]
+[18:00:05] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home out
+[18:00:08] [Server thread/INFO]: Xautral issued server command: /ie enchant knockback 3
+[18:00:09] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[18:00:13] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[18:00:19] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> blime de mierda
+[18:00:20] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ya hay que dejarlo en paz
+[18:00:20] [Server thread/INFO]: blime2009 issued server command: /inv Xautral
+[18:00:28] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo was slain by [Owner] Xautral
+[18:00:32] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> no te pases d e verga
+[18:00:34] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> si lo mate
+[18:00:36] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> xautral no me ganas en pvp
+[18:00:37] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> superalo
+[18:00:38] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo ~ ~ ~
+[18:00:38] [Server thread/INFO]: [[Owner] Xautral: Teleported [Dominio de Teemo] Blah_Blah_Demo to -46.862962, 96.000000, 75.700000]
+[18:00:38] [Server thread/WARN]: Blah_Blah_Demo moved wrongly!
+[18:00:42] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> cual superalo
+[18:00:46] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> wey estoy probando armas
+[18:00:47] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[18:00:55] [User Authenticator #13/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
+[18:00:55] [Server thread/INFO]: Xautral issued server command: /ie unbreakable true
+[18:00:55] [Server thread/INFO]: KLS: Javdroker_MC Has joined after being revived!
+[18:00:55] [Server thread/INFO]: [Admin] Javdroker_MC joined the game
+[18:00:55] [Server thread/INFO]: Javdroker_MC[/127.214.216.25:55679] logged in with entity id 28099 at ([world]0.3394677621835539, 122.76423400914999, 0.30000001192092896)
+[18:01:00] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> hice esta que te pega hasta larga distancia
+[18:01:01] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[18:01:12] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> xautral
+[18:01:15] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> que
+[18:01:18] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> como tengo mas corazones ;v
+[18:01:20] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:01:22] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> que me paso
+[18:01:22] [Server thread/INFO]: zDreamz__ issued server command: /pv 1
+[18:01:26] [Server thread/INFO]: zDreamz__ issued server command: /ec
+[18:01:28] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC blime2009
+[18:01:28] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Admin] blime2009]
+[18:01:28] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> te eliminamos xdd
+[18:01:28] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[18:01:28] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[18:01:30] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> por accidente
+[18:01:33] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:01:41] [Server thread/INFO]: Xautral issued server command: /ie attribute add attack_damage -10
+[18:01:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> haber
+[18:01:45] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
+[18:01:45] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Dominio de Teemo] Blah_Blah_Demo]
+[18:01:47] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> blah
+[18:01:49] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> mira
+[18:01:53] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:01:54] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> chales
+[18:01:55] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[18:01:55] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[18:01:58] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> pense que t ehiba a curar
+[18:01:58] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC Javdroker_MC
+[18:01:58] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Admin] Javdroker_MC]
+[18:02:03] [Server thread/INFO]: Xautral issued server command: /ie attribute add attack_damage 1
+[18:02:11] [Server thread/INFO]: Xautral issued server command: /tp Javdroker_MC
+[18:02:11] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Javdroker_MC]
+[18:02:14] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:02:15] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:02:18] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:02:19] [Server thread/INFO]: blime2009 issued server command: /createwarp coliseo
+[18:02:20] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> weno
+[18:02:20] [Server thread/INFO]: Xautral issued server command: /ie attribute remove attack_damage
+[18:02:23] [Server thread/INFO]: Xautral issued server command: /ie attribute add attack_damage 1
+[18:02:24] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> que te parece xautral?
+[18:02:28] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> esto
+[18:02:32] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> esta chido
+[18:02:54] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:02:59] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:03:02] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:03:03] [Server thread/INFO]: Xautral lost connection: Disconnected
+[18:03:03] [Server thread/INFO]: [Owner] Xautral left the game
+[18:03:04] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trades
+[18:03:06] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[18:03:06] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[18:03:11] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[18:03:18] [User Authenticator #14/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[18:03:18] [Server thread/INFO]: [Owner] Xautral joined the game
+[18:03:18] [Server thread/INFO]: Xautral[/127.115.99.248:48653] logged in with entity id 30289 at ([world]-9.295383210743688, 106.0, 703.795478469621)
+[18:03:29] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[18:03:29] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[18:03:29] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:03:30] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[18:03:32] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:03:37] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:03:38] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:03:38] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:03:40] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
+[18:03:43] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [The City at the End of the Game]
+[18:03:48] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC Xautral
+[18:03:48] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Owner] Xautral]
+[18:03:49] [Async Chat Thread - #18/INFO]: [Not Secure] <Javdroker_MC> :C
+[18:03:50] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:03:56] [Async Chat Thread - #18/INFO]: [Not Secure] <Javdroker_MC> men calmense D;
+[18:03:56] [Async Chat Thread - #18/INFO]: [Not Secure] <ZXxAlanJosuxXZ> blime
+[18:04:00] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> cual calmense
+[18:04:02] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> estoy chill
+[18:04:04] [Async Chat Thread - #18/INFO]: [Not Secure] <zDreamz__> ploq
+[18:04:06] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo has made the advancement [Hot Stuff]
+[18:04:08] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:04:17] [Server thread/INFO]: blime2009 issued server command: /damage Javdroker_MC 299999 minecraft:player_attack by Blah_Blah_Demo
+[18:04:17] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Dominio de Teemo] Blah_Blah_Demo
+[18:04:17] [Server thread/INFO]: [[Admin] blime2009: Applied 299999.0 damage to [Admin] Javdroker_MC]
+[18:04:18] [Server thread/INFO]: Javdroker_MC issued server command: /attribute Javdroker_MC minecraft:max_health base set 20
+[18:04:24] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC Xautral
+[18:04:24] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Owner] Xautral]
+[18:04:25] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:04:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> primero Blah_Blah_Demo que anda llorando de que me gana en pvp solo por probar armas y ahora tu Javdroker_MC
+[18:04:40] [Async Chat Thread - #18/INFO]: [Not Secure] <Blah_Blah_Demo> yo no empece a llorar ;v
+[18:04:42] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> :v
+[18:04:44] [Async Chat Thread - #18/INFO]: [Not Secure] <Javdroker_MC> q?
+[18:04:47] [Async Chat Thread - #18/INFO]: [Not Secure] <Blah_Blah_Demo> el que empezo fue otro creo
+[18:04:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Blah_Blah_Demo> (xautral)
+[18:04:54] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:04:55] [Server thread/INFO]: blime2009 issued server command: /damage Javdroker_MC 299999 minecraft:player_attack by blime2009 from Xautral
+[18:04:55] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
+[18:04:55] [Server thread/INFO]: [[Admin] blime2009: Applied 299999.0 damage to [Admin] Javdroker_MC]
+[18:05:00] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> ?
+[18:05:02] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> loco
+[18:05:04] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC blime2009
+[18:05:04] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Admin] blime2009]
+[18:05:06] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> haber ajv
+[18:05:08] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> que te parece esta
+[18:05:09] [Server thread/INFO]: Javdroker_MC issued server command: /msg blime2009 es blime man
+[18:05:10] [Async Chat Thread - #19/INFO]: [Not Secure] <_wdegw_> Xautral no te parece un poco caro un kit cristal 64 bloques de diamante?
+[18:05:11] [Async Chat Thread - #19/INFO]: [Not Secure] <_wdegw_> XD
+[18:05:13] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:05:14] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:wind_charge 128
+[18:05:14] [Server thread/INFO]: [[Owner] Xautral: Gave 128 [Wind Charge] to [Owner] Xautral]
+[18:05:16] [Server thread/INFO]: Javdroker_MC issued server command: /attribute Javdroker_MC minecraft:max_health base set 20
+[18:05:18] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:05:22] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> sumoneame un golem javdroker
+[18:05:24] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home chamba
+[18:05:26] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral es blime man
+[18:05:27] [Async Chat Thread - #18/INFO]: [Not Secure] <blime2009> aver
+[18:05:27] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:05:30] [Async Chat Thread - #18/INFO]: [Not Secure] <blime2009> xautral
+[18:05:32] [Server thread/INFO]: Xautral issued server command: /tell Javdroker_MC de que
+[18:05:34] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:iron_golem
+[18:05:34] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Iron Golem]
+[18:05:36] [Async Chat Thread - #19/INFO]: [Not Secure] <blime2009> da ideas
+[18:05:46] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral el que me anda mantando :V
+[18:06:00] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /sethome try
+[18:06:02] [Server thread/INFO]: _wdegw_ issued server command: /warp granjacomunitaria
+[18:06:04] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /delhome chamba
+[18:06:06] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[18:06:20] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home try
+[18:06:30] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> bro que entretenido es ahcer esto
+[18:06:35] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> hay quehacer un minijuego de esto
+[18:06:45] [Async Chat Thread - #18/INFO]: [Not Secure] <Javdroker_MC> xautral
+[18:06:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> que
+[18:06:50] [Server thread/INFO]: blime2009 issued server command: /inv Xautral
+[18:06:54] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral es el panteon de los gladiadores
+[18:07:01] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral es para eventos y bosses
+[18:07:09] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
+[18:07:09] [Server thread/INFO]: [[Admin] blime2009: Removed 969 item(s) from player [Admin] blime2009]
+[18:07:11] [Server thread/INFO]: Xautral issued server command: /tell Javdroker_MC si se
+[18:07:15] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[18:07:15] [Server thread/INFO]: [[Owner] Xautral: Summoned new Iron Golem]
+[18:07:46] [Server thread/INFO]: Blah_Blah_Demo issued server command: /deletehome
+[18:07:48] [Server thread/INFO]: Blah_Blah_Demo issued server command: /deletehome 1
+[18:08:04] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> oigan
+[18:08:05] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> miren esto
+[18:08:08] [Server thread/INFO]: Xautral issued server command: /tp zDreamz__
+[18:08:08] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Majaphit] zDreamz__]
+[18:08:08] [Server thread/INFO]: [Owner] Xautral has made the advancement [The City at the End of the Game]
+[18:08:10] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> mria
+[18:08:15] [Async Chat Thread - #19/INFO]: [Not Secure] <Javdroker_MC> papus
+[18:08:18] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> mira zDreamz__
+[18:08:18] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> que
+[18:08:21] [Async Chat Thread - #19/INFO]: [Not Secure] <zDreamz__> q
+[18:08:28] [Async Chat Thread - #19/INFO]: [Not Secure] <zDreamz__> no me mate ps
+[18:08:37] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral bro puedo decir una mentira para que no rompan el coliseo?
+[18:08:38] [Async Chat Thread - #18/INFO]: [Not Secure] <blime2009> xautral
+[18:08:39] [Server thread/INFO]: _wdegw_ lost connection: Disconnected
+[18:08:39] [Server thread/INFO]: [Reino Berserk] _wdegw_ left the game
+[18:08:41] [Server thread/INFO]: Xautral issued server command: /tell Javdroker_MC cual
+[18:08:51] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [Under Lock and Key]
+[18:08:51] [Async Chat Thread - #19/INFO]: [Not Secure] <blime2009> puedes agregar el world guard?
+[18:08:54] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> no
+[18:08:58] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral que metiste un plugin para saber quien rompe bloques en tales coordenadas
+[18:08:59] [Async Chat Thread - #18/INFO]: [Not Secure] <blime2009> ok
+[18:09:03] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo has made the advancement [Best Friends Forever]
+[18:09:04] [Server thread/INFO]: Xautral issued server command: /tell Javdroker_MC no
+[18:09:04] [Async Chat Thread - #19/INFO]: [Not Secure] <zDreamz__> Xautral
+[18:09:07] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral D;
+[18:09:09] [Async Chat Thread - #18/INFO]: [Not Secure] <zDreamz__> me va a matar?
+[18:09:36] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:mining_fatigue
+[18:09:36] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Mining Fatigue to [Admin] Javdroker_MC]
+[18:09:45] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:mining_fatigue infinite
+[18:09:45] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Mining Fatigue to [Admin] Javdroker_MC]
+[18:09:47] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]

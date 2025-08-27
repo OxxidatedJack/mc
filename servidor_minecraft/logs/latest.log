@@ -831,3 +831,484 @@ enchant @<--[HERE]
 [17:48:42] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 675 -42 114 667 -42 106 656
 [17:48:42] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 81 block(s)]
 [17:49:03] [Server thread/INFO]: zDreamz__ issued server command: /warp spawn
+[17:49:25] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 652
+[17:49:49] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 652 17 121 706 minecraft:light replace air
+[17:50:06] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 652 17 115 706 minecraft:light replace air
+[17:50:21] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 652 17 112 706 minecraft:light replace air
+[17:50:21] [Server thread/INFO]: [[Admin] blime2009: Successfully filled 22057 block(s)]
+[17:50:31] [Server thread/INFO]: Javdroker_MC issued server command: /inv zDreamz__
+[17:50:39] [Server thread/INFO]: blime2009 issued server command: /clone
+[17:50:46] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702
+[17:50:55] [Server thread/INFO]: Javdroker_MC issued server command: /inv zDreamz__
+[17:50:58] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 656
+[17:51:03] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> bro
+[17:51:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> que?
+[17:51:08] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 656 17 106 657
+[17:51:08] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 423 block(s)]
+[17:51:27] [Server thread/INFO]: blime2009 issued server command: /clone 1 106 652
+[17:51:27] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> qn mr me canvia el inventario :v
+[17:51:32] [Server thread/INFO]: blime2009 issued server command: /clone 1 106 652 6 114 652
+[17:51:33] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> miren
+[17:51:37] [Server thread/INFO]: blime2009 issued server command: /clone 1 106 652 6 114 652 12 106 652
+[17:51:37] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 54 block(s)]
+[17:51:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> hijos de sus mamis
+[17:51:38] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
+[17:51:38] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
+[17:51:41] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> miro
+[17:51:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> dejen de hacer el bug
+[17:51:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> de cambio de armadura
+[17:51:48] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> q bug
+[17:51:48] [Server thread/INFO]: blime2009 issued server command: /clone 1 106 652 6 114 652 7 106 652
+[17:51:48] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 54 block(s)]
+[17:52:02] [User Authenticator #10/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[17:52:03] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ joined the game
+[17:52:03] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.95.225.242:37659] logged in with entity id 19997 at ([world]6793.621003479224, 75.0, -1012.3000000119209)
+[17:52:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> pos el de poner armadura en otros partes donde no van :V
+[17:52:17] [Server thread/INFO]: blime2009 issued server command: /clone -41 106 655
+[17:52:19] [User Authenticator #10/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[17:52:20] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[17:52:20] [Server thread/INFO]: NOW_POOL123[/127.71.145.119:60329] logged in with entity id 20382 at ([world]-178.03772329706177, -45.0, -127.67111645835486)
+[17:52:23] [Server thread/INFO]: blime2009 issued server command: /clone -41 106 655 -39 114 653
+[17:52:28] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> a
+[17:52:35] [Server thread/INFO]: blime2009 issued server command: /clone -41 106 655 -39 114 653 16 106 701
+[17:52:35] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 81 block(s)]
+[17:52:37] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> pero no lo ago expresamente
+[17:52:41] [Server thread/INFO]: blime2009 issued server command: /clone -41 106 655 -39 114 653 16 106 701
+[17:52:41] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 81 block(s)]
+[17:52:57] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /sethome out
+[17:53:01] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[17:53:07] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> now tpa
+[17:53:26] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[17:53:35] [Server thread/INFO]: blime2009 issued server command: /effect clear blime2009
+[17:53:35] [Server thread/INFO]: [[Admin] blime2009: Removed every effect from [Admin] blime2009]
+[17:53:41] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> now
+[17:54:05] [Server thread/INFO]: blime2009 issued server command: /give blime2009 minecraft:command_block
+[17:54:05] [Server thread/INFO]: [[Admin] blime2009: Gave 1 [Command Block] to [Admin] blime2009]
+[17:54:19] [Server thread/INFO]: zDreamz__ issued server command: /tpa ZXxAlanJosuxXZ
+[17:54:19] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[17:54:27] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> por?
+[17:54:31] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[17:54:34] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[17:54:38] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[17:54:38] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [The End?]
+[17:54:49] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> a la mierda
+[17:54:49] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> granja de xp
+[17:55:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:08] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> yo no tengo nd
+[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: blime2009 issued server command: /gamerule commandBlockOutput true
+[17:55:16] [Server thread/INFO]: [[Admin] blime2009: Gamerule commandBlockOutput is now set to: true]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> mi espada no hace daño
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
+[17:55:20] [Server thread/INFO]: blime2009 issued server command: /gamerule commandBlockOutput false
+[17:55:20] [Server thread/INFO]: [[Admin] blime2009: Gamerule commandBlockOutput is now set to: false]
+[17:55:21] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> es comunitaria por eso lo hice
+[17:55:26] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> oka
+[17:55:57] [User Authenticator #11/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[17:55:58] [Server thread/INFO]: [Owner] Xautral joined the game
+[17:55:58] [Server thread/INFO]: Xautral[/127.115.99.248:43895] logged in with entity id 23894 at ([world]-48.7461038271045, 161.6062341986687, -15.772187274071305)
+[17:56:16] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[17:56:16] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> xautral
+[17:56:17] [Server thread/INFO]: Xautral issued server command: /tp Javdroker_MC
+[17:56:17] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Javdroker_MC]
+[17:56:19] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> que
+[17:56:20] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> hicieron
+[17:56:22] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> mira
+[17:56:24] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> now
+[17:56:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> la mayoria fue de blime
+[17:56:29] [Server thread/INFO]: Xautral issued server command: /gamemode survival Javdroker_MC
+[17:56:29] [Server thread/INFO]: [[Owner] Xautral: Set [Admin] Javdroker_MC's game mode to Survival Mode]
+[17:56:34] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> que te parece?
+[17:56:39] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 oye
+[17:56:42] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home ase
+[17:56:45] [User Authenticator #11/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[17:56:45] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[17:56:49] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo joined the game
+[17:56:49] [Server thread/INFO]: Blah_Blah_Demo[/127.73.236.48:48321] logged in with entity id 24689 at ([world]4.789454545438652, 104.41396036057075, 42.23543391835432)
+[17:56:49] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Enchanter]
+[17:56:50] [Async Chat Thread - #14/INFO]: [Not Secure] <NOW_POOL123> adios
+[17:56:52] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
+[17:56:52] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
+[17:56:53] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
+[17:57:17] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[17:57:17] [Server thread/INFO]: [[Owner] Xautral: Set [Admin] blime2009's game mode to Survival Mode]
+[17:57:19] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trade
+[17:57:20] [Server thread/INFO]: [Admin] blime2009 was slain by [Owner] Xautral
+[17:57:23] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trades
+[17:57:24] [Server thread/INFO]: Xautral issued server command: /tp blime2009 ~ ~ ~
+[17:57:24] [Server thread/INFO]: [[Owner] Xautral: Teleported [Admin] blime2009 to -14.429392, 106.000000, 678.371896]
+[17:57:28] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[17:57:28] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[17:57:55] [Server thread/INFO]: [Admin] Javdroker_MC was doomed to fall by [Dominio de Teemo] Blah_Blah_Demo
+[17:57:59] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
+[17:57:59] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Dominio de Teemo] Blah_Blah_Demo]
+[17:58:00] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[17:58:00] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[17:58:01] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[17:58:03] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[17:58:06] [Server thread/INFO]: [Admin] Javdroker_MC was doomed to fall by [Owner] Xautral
+[17:58:11] [Server thread/INFO]: [Admin] Javdroker_MC was doomed to fall by [Owner] Xautral
+[17:58:14] [Async Chat Thread - #16/INFO]: [Not Secure] <ZXxAlanJosuxXZ> xautral una pregunta
+[17:58:16] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> XD
+[17:58:17] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
+[17:58:18] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
+[17:58:24] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
+[17:58:27] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
+[17:58:28] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
+[17:58:30] [Server thread/INFO]: Javdroker_MC lost connection: You have lost all your hearts and have been eliminated!
+[17:58:30] [Server thread/INFO]: Javdroker_MC left the game
+[17:58:30] [Server thread/INFO]: KLS: Javdroker_MC Has been eliminated!
+[17:58:30] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
+[17:58:33] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> NO MAMES
+[17:58:35] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> LO ELIMINAMOS
+[17:58:35] [Async Chat Thread - #17/INFO]: [Not Secure] <Blah_Blah_Demo> ahora de que esta llorando xautral?
+[17:58:37] [Async Chat Thread - #17/INFO]: [Not Secure] <blime2009> XDDD
+[17:58:40] [User Authenticator #12/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
+[17:58:40] [Server thread/INFO]: Javdroker_MC lost connection: You have lost all your hearts and have been eliminated!
+[17:58:40] [Server thread/INFO]: Javdroker_MC left the game
+[17:58:50] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> a ti tambien te va a tocar blime2009
+[17:58:52] [Async Chat Thread - #17/INFO]: [Not Secure] <ZXxAlanJosuxXZ> XAUTRAL VANA METER EL ALDEANO QUE DA HUEVOS?
+[17:58:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> Blah_Blah_Demo~
+[17:58:53] [User Authenticator #12/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
+[17:58:54] [Server thread/INFO]: Javdroker_MC lost connection: You have lost all your hearts and have been eliminated!
+[17:58:54] [Server thread/INFO]: Javdroker_MC left the game
+[17:58:56] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> *
+[17:59:04] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> ya esta llorando
+[17:59:05] [Server thread/INFO]: Xautral issued server command: /revive name Javdroker_MC
+[17:59:05] [Server thread/INFO]: KLS: Javdroker_MC Has been revived!
+[17:59:08] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
+[17:59:08] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Dominio de Teemo] Blah_Blah_Demo]
+[17:59:13] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Remote Getaway]
+[17:59:21] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> xdd
+[17:59:24] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homeS
+[17:59:28] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homes
+[17:59:36] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homes

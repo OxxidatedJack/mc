@@ -36,8 +36,20 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "146ee551-f7ea-3e22-9d64-acf25dfc6362",
+    "name": "Xartraul",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ca9a4d06-dddd-395d-87ca-776f889f41ca",
     "name": "blime2009",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a88303ac-cbb7-3ccd-b17e-486ea5fa97e4",
+    "name": "Xaurtraul",
     "level": 4,
     "bypassesPlayerLimit": false
   }

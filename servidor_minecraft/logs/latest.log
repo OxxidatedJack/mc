@@ -352,3 +352,385 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [17:16:54] [User Authenticator #2/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
 [17:16:55] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
 [17:16:55] [Server thread/INFO]: _wdegw_[/127.153.189.115:45737] logged in with entity id 345 at ([world]233.5, 65.5625, -1453.5)
+[17:17:23] [Server thread/INFO]: [Not Secure] [Server] hola
+[17:17:28] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> ola
+[17:17:31] [Server thread/INFO]: Missing selector type
+enchant @<--[HERE]
+[17:20:12] [Server thread/INFO]: _wdegw_ issued server command: /warp granjacomunitaria
+[17:20:57] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[17:21:44] [Server thread/INFO]: _wdegw_ issued server command: /warp granjacomunitaria
+[17:24:24] [User Authenticator #3/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[17:24:27] [Server thread/INFO]: [Reino Majaphit] zDreamz__ joined the game
+[17:24:27] [Server thread/INFO]: zDreamz__[/127.158.175.255:44601] logged in with entity id 2542 at ([world]-166.82348891320999, 131.0, 4.657786597269099)
+[17:25:01] [Async Chat Thread - #2/INFO]: [Not Secure] <zDreamz__> aswd
+[17:25:12] [Async Chat Thread - #2/INFO]: [Not Secure] <zDreamz__> _wdegw_
+[17:25:17] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> dime
+[17:25:25] [Async Chat Thread - #2/INFO]: [Not Secure] <zDreamz__> como voy a el spawn
+[17:25:33] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> ./warp spawn
+[17:25:38] [Async Chat Thread - #2/INFO]: [Not Secure] <zDreamz__> gracias
+[17:25:41] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> de nada
+[17:25:45] [Server thread/INFO]: zDreamz__ issued server command: /warp spawn
+[17:27:30] [User Authenticator #4/INFO]: UUID of player Xartraul is 146ee551-f7ea-3e22-9d64-acf25dfc6362
+[17:27:30] [Server thread/INFO]: Disconnecting Xartraul (/127.115.99.248:39013): You are not whitelisted on this server!
+[17:27:30] [Server thread/INFO]: Xartraul (/127.115.99.248:39013) lost connection: You are not whitelisted on this server!
+[17:27:39] [Server thread/INFO]: Added Xartraul to the whitelist
+[17:29:25] [User Authenticator #5/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[17:29:31] [Server thread/INFO]: [Admin] blime2009 joined the game
+[17:29:31] [Server thread/INFO]: blime2009[/127.20.187.84:48899] logged in with entity id 5658 at ([world_the_end]273.30000001192093, 1.0, 35.21191286084781)
+[17:29:47] [Server thread/INFO]: blime2009 issued server command: /gamemode spectator
+[17:29:47] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Spectator Mode]
+[17:29:49] [Server thread/INFO]: blime2009 issued server command: /tp zDreamz__
+[17:29:49] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Majaphit] zDreamz__]
+[17:29:58] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
+[17:29:58] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
+[17:30:02] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> zDreamz__ tienes saplis de abeto tal vez?
+[17:30:05] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> algn me da comidita opls
+[17:30:09] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> pls*
+[17:30:18] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[17:30:28] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:30:29] [Server thread/INFO]: [Reino Majaphit] zDreamz__ was blown up by Creeper
+[17:30:29] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
+[17:30:29] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
+[17:30:31] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> ptm
+[17:30:37] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> por escrivir
+[17:30:40] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> weno
+[17:30:49] [Server thread/INFO]: blime2009 issued server command: /grave
+[17:30:51] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> recien empece ayer
+[17:30:55] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> a xd
+[17:30:55] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> no tengo nada
+[17:30:55] [Server thread/INFO]: blime2009 issued server command: /axgrave
+[17:30:56] [User Authenticator #6/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
+[17:30:57] [Server thread/INFO]: [Admin] Javdroker_MC joined the game
+[17:30:57] [Server thread/INFO]: Javdroker_MC[/127.214.216.25:41805] logged in with entity id 6300 at ([world]-20.598441596746277, 114.16327278221777, 684.6444216302056)
+[17:31:00] [Server thread/INFO]: blime2009 issued server command: /axgrave list
+[17:31:14] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> algn me da algo :3
+[17:31:16] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> porfa
+[17:31:21] [Server thread/INFO]: blime2009 issued server command: /axgraves tp world -42.500000 99.500000 -231.500000
+[17:31:21] [Server thread/INFO]: blime2009 issued server command: /axgraves tp world -42.500000 99.500000 -231.500000
+[17:31:39] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[17:31:39] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[17:31:43] [Server thread/INFO]: _wdegw_ issued server command: /tpa zDreamz__
+[17:31:50] [Server thread/INFO]: zDreamz__ issued server command: /tpaccept
+[17:31:51] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[17:31:51] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[17:31:56] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Cover Me with Diamonds]
+[17:31:57] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Suit Up]
+[17:31:57] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> oooo
+[17:31:59] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Diamonds!]
+[17:31:59] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Isn't It Iron Pick]
+[17:32:03] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> q ricoooo
+[17:32:05] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> XD
+[17:32:09] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> graciassss
+[17:32:09] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[17:32:12] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> de nada w
+[17:32:39] [Server thread/INFO]: blime2009 issued server command: /ie attribute add attack_speed 0
+[17:32:50] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> q rico dimanate
+[17:32:51] [Server thread/INFO]: blime2009 issued server command: /ie attribute add attack_damage 100000000000000000000
+[17:32:54] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[17:32:54] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[17:32:56] [Server thread/INFO]: Javdroker_MC lost connection: Login timed out!
+[17:32:56] [Server thread/INFO]: Javdroker_MC left the game
+[17:33:05] [Server thread/INFO]: blime2009 issued server command: /tp
+[17:33:08] [Server thread/INFO]: blime2009 issued server command: /tp zDreamz__
+[17:33:08] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Majaphit] zDreamz__]
+[17:33:17] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Monster Hunter]
+[17:33:21] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> o
+[17:33:24] [User Authenticator #7/INFO]: UUID of player Xartraul is 146ee551-f7ea-3e22-9d64-acf25dfc6362
+[17:33:27] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> blime2009
+[17:33:28] [Server thread/INFO]: Xartraul joined the game
+[17:33:28] [Server thread/INFO]: Xartraul[/127.115.99.248:43255] logged in with entity id 7866 at ([world]0.5, 121.0, 0.5)
+[17:33:34] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> parece q me escuchas
+[17:33:34] [Server thread/INFO]: blime2009 issued server command: /advancement revoke blime2009 everything
+[17:33:34] [Server thread/INFO]: [[Admin] blime2009: Revoked 1520 advancements from [Admin] blime2009]
+[17:33:35] [User Authenticator #7/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[17:33:37] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[17:33:37] [Server thread/INFO]: NOW_POOL123[/127.71.145.119:47909] logged in with entity id 7931 at ([world_the_end]274.53790875428217, 1.0, 42.69999998807907)
+[17:33:41] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> ?
+[17:33:52] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> pqe estraba gritando por el creeper
+[17:33:56] [Server thread/INFO]: Made Xaurtraul a server operator
+[17:34:00] [Async Chat Thread - #4/INFO]: [Not Secure] <NOW_POOL123> Hola
+[17:34:04] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> wena
+[17:34:11] [Server thread/INFO]: Made Xartraul a server operator
+[17:34:15] [Server thread/INFO]: [Xartraul: Set own game mode to Creative Mode]
+[17:34:15] [Server thread/INFO]: NOW_POOL123 issued server command: /home reino
+[17:34:22] [Server thread/INFO]: Xartraul issued server command: /team add multi
+[17:34:22] [Server thread/INFO]: [Xartraul: Created team [multi]]
+[17:34:29] [Server thread/INFO]: Xartraul issued server command: /team modify multi prefix ["",{"text":"[Multi]","bold":true,"strikethrough":true,"color":"yellow"},{"text":" ","bold":true,"color":"yellow"}]
+[17:34:36] [Server thread/INFO]: Xartraul issued server command: /team join multi Xartraul
+[17:34:36] [Server thread/INFO]: [Xartraul: Added [Multi] Xartraul to team [multi]]
+[17:34:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> hola
+[17:34:40] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> hola
+[17:34:44] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> hola
+[17:34:45] [User Authenticator #8/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
+[17:34:45] [Server thread/INFO]: [Admin] Javdroker_MC joined the game
+[17:34:45] [Server thread/INFO]: Javdroker_MC[/127.214.216.25:50703] logged in with entity id 8738 at ([world]-20.972703223086587, 114.16327278221777, 684.0680421519063)
+[17:34:54] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[17:34:54] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[17:34:54] [Async Chat Thread - #4/INFO]: [Not Secure] <Javdroker_MC> holas xautral
+[17:34:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> hola
+[17:35:03] [Server thread/INFO]: NOW_POOL123 issued server command: /warp trades
+[17:35:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> e mi multi poreo le puse esto
+[17:35:12] [Async Chat Thread - #4/INFO]: [Not Secure] <Javdroker_MC> xd
+[17:35:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> xd
+[17:35:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> bye
+[17:35:19] [Server thread/INFO]: Xartraul lost connection: Disconnected
+[17:35:19] [Server thread/INFO]: [Multi] Xartraul left the game
+[17:35:28] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> oigan ç
+[17:35:30] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Spooky Scary Skeleton]
+[17:35:47] [Server thread/INFO]: blime2009 issued server command: /advancement grant blime2009 everything
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Who is Cutting Onions?]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [You've Got a Friend in Me]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [With Our Powers Combined!]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Oh Shiny]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Country Lode, Take Me Home]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Good as New]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Suit Up]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Smithing with Style]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Very Very Frightening]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Hot Stuff]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Stay Hydrated!]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Minecraft: Trial(s) Edition]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Whatever Floats Your Goat!]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Free the End]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Surge Protector]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [A Furious Cocktail]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Best Friends Forever]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Careful Restoration]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Glow and Behold!]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Bring Home the Beacon]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Not Today, Thank You]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [When the Squad Hops into Town]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Isn't It Iron Pick]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [The Whole Pack]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Local Brewery]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [The Next Generation]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [It Spreads]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Fishy Business]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Hot Tourist Destinations]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Caves & Cliffs]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Over-Overkill]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Shear Brilliance]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [This Boat Has Legs]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Sniper Duel]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Great View From Up Here]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [How Did We Get Here?]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Bullseye]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Two by Two]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Stone Age]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Two Birds, One Arrow]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [We Need to Go Deeper]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Who's the Pillager Now?]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Getting an Upgrade]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Light as a Rabbit]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Tactical Fishing]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Respecting the Remnants]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Zombie Doctor]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Little Sniffs]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The City at the End of the Game]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Ice Bucket Challenge]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Remote Getaway]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Into Fire]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [War Pigs]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Take Aim]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Total Beelocation]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Lighten Up]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Arbalistic]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Under Lock and Key]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [The End... Again...]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Acquire Hardware]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Not Quite "Nine" Lives]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Revaulting]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Cover Me with Diamonds]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Sky's the Limit]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Bukkit Bukkit]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Wax Off]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Hired Help]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Sneak 100]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Return to Sender]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Sweet Dreams]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [You Need a Mint]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Monsters Hunted]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Heart Transplanter]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Enchanter]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Smells Interesting]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Voluntary Exile]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Eye Spy]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Is It a Bird?]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Serious Dedication]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Postmortal]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Monster Hunter]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Isn't It Scute?]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Planting the Past]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Adventuring Time]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [A Seedy Place]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Those Were the Days]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The Cutest Predator]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Birthday Song]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Is It a Plane?]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Feels Like Home]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Star Trader]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Wax On]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Sound of Music]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Hero of the Village]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Hidden in the Depths]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Beaconator]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Withering Heights]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [A Balanced Diet]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Subspace Bubble]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The Power of Books]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Bee Our Guest]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [What a Deal!]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Is It a Balloon?]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Crafting a New Look]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Uneasy Alliance]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Diamonds!]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The Healing Power of Friendship!]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [A Terrible Fortress]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [A Throwaway Joke]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Crafters Crafting Crafters]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Sticky Situation]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Ol' Betsy]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Cover Me in Debris]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The End?]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The Parrots and the Bats]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Blowback]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [A Complete Catalogue]
+[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Who Needs Rockets?]
+[17:35:47] [Server thread/INFO]: [[Admin] blime2009: Granted 1520 advancements to [Admin] blime2009]
+[17:35:56] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> algn mas me puede cambiar el nick de mi clan
+[17:35:56] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> XD
+[17:35:59] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> eee
+[17:36:05] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> XD
+[17:36:05] [Server thread/INFO]: NOW_POOL123 issued server command: /home h3
+[17:36:12] [Server thread/INFO]: NOW_POOL123 issued server command: /home m
+[17:36:15] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> ese si se activo los chits
+[17:36:17] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Monster Hunter]
+[17:36:27] [Server thread/INFO]: blime2009 issued server command: /advancement grant Javdroker_MC everything
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Who is Cutting Onions?]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [You've Got a Friend in Me]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [With Our Powers Combined!]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Oh Shiny]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Country Lode, Take Me Home]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Good as New]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Suit Up]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Smithing with Style]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Very Very Frightening]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Hot Stuff]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Stay Hydrated!]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Minecraft: Trial(s) Edition]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Whatever Floats Your Goat!]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Free the End]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Surge Protector]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [A Furious Cocktail]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Best Friends Forever]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Careful Restoration]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Glow and Behold!]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Bring Home the Beacon]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Not Today, Thank You]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [When the Squad Hops into Town]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Isn't It Iron Pick]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [The Whole Pack]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Local Brewery]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [The Next Generation]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [It Spreads]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Fishy Business]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Hot Tourist Destinations]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Caves & Cliffs]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Over-Overkill]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Shear Brilliance]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [This Boat Has Legs]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Sniper Duel]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Great View From Up Here]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [How Did We Get Here?]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Bullseye]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Spooky Scary Skeleton]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Two by Two]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Two Birds, One Arrow]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [We Need to Go Deeper]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Who's the Pillager Now?]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Getting an Upgrade]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Light as a Rabbit]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Tactical Fishing]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Respecting the Remnants]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Zombie Doctor]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Little Sniffs]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The City at the End of the Game]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Ice Bucket Challenge]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Remote Getaway]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Into Fire]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [War Pigs]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Take Aim]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Total Beelocation]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Lighten Up]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Arbalistic]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Under Lock and Key]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [The End... Again...]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Acquire Hardware]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Not Quite "Nine" Lives]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Revaulting]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Cover Me with Diamonds]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Sky's the Limit]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Bukkit Bukkit]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Wax Off]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Hired Help]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Sneak 100]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Return to Sender]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Sweet Dreams]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [You Need a Mint]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Monsters Hunted]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Heart Transplanter]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Enchanter]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Smells Interesting]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Voluntary Exile]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Eye Spy]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Is It a Bird?]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Serious Dedication]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Postmortal]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Isn't It Scute?]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Planting the Past]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Adventuring Time]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [A Seedy Place]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Those Were the Days]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The Cutest Predator]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Birthday Song]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Is It a Plane?]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Feels Like Home]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Star Trader]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Wax On]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Sound of Music]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Hero of the Village]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Hidden in the Depths]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Beaconator]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Withering Heights]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [A Balanced Diet]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Subspace Bubble]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The Power of Books]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Bee Our Guest]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [What a Deal!]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Is It a Balloon?]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Crafting a New Look]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Uneasy Alliance]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Diamonds!]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The Healing Power of Friendship!]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [A Terrible Fortress]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [A Throwaway Joke]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Crafters Crafting Crafters]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Sticky Situation]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Ol' Betsy]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Cover Me in Debris]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The Parrots and the Bats]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Blowback]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [A Complete Catalogue]
+[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Who Needs Rockets?]
+[17:36:27] [Server thread/INFO]: [[Admin] blime2009: Granted 1520 advancements to [Admin] Javdroker_MC]
+[17:36:39] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> no ps compratan
+[17:36:44] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> no
+[17:36:48] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> :c
+[17:36:57] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> ando cn miedo
+[17:37:43] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:wind_charge
+[17:37:43] [Server thread/INFO]: [[Admin] blime2009: Summoned new Wind Charge]
+[17:37:56] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:breeze_wind_charge
+[17:37:56] [Server thread/INFO]: [[Admin] blime2009: Summoned new Wind Charge]
+[17:37:58] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> huy
+[17:38:17] [Server thread/INFO]: _wdegw_ issued server command: /sethome totems
+[17:38:29] [Server thread/INFO]: blime2009 issued server command: /attribute f3502c48-963a-4705-a0ce-3ff38524cc9a minecraft:scale base set 10

@@ -581,3 +581,363 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [23:32:01] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> javimessiu
 [23:32:05] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> que?
 [23:32:08] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> te ofreces a probar los phantoms?
+[23:32:11] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Survival Mode]
+[23:32:13] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> si
+[23:32:14] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[23:32:22] [Server thread/INFO]: goku_black_20 issued server command: /home 2
+[23:32:27] [Server thread/INFO]: goku_black_20 issued server command: /sethome 2
+[23:32:46] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Survival Mode]
+[23:32:47] [Server thread/INFO]: blime2009 issued server command: /kill @e[type=minecraft:phantom ]
+[23:32:47] [Server thread/INFO]: [[Admin] blime2009: Killed Phantom]
+[23:32:52] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> :V
+[23:32:53] [Server thread/INFO]: _wdegw_ issued server command: /tpa javimessiu
+[23:32:56] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[23:32:56] [Server thread/INFO]: blime2009 issued server command: /tp goku_black_20
+[23:32:56] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Monarquía Pinkies] goku_black_20]
+[23:32:59] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[23:33:01] [Server thread/INFO]: javimessiu issued server command: /tpaccept
+[23:33:04] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> javimessiu
+[23:33:07] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[23:33:08] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> pongan soleado pls
+[23:33:09] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> no pudo contra lo phatom
+[23:33:10] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> que?
+[23:33:10] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> :v
+[23:33:13] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> w
+[23:33:14] [Server thread/INFO]: Xautral issued server command: /tp javimessiu
+[23:33:14] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Berserk] javimessiu]
+[23:33:15] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[23:33:17] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
+[23:33:17] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
+[23:33:18] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> calla puto :v
+[23:33:20] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> las elitras las tienes?
+[23:33:23] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> _wdegw_
+[23:33:27] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> estaba en el cofre
+[23:33:31] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> te ofreces a probar los phantoms?
+[23:33:31] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> tu deberias tenerlas te las di
+[23:33:33] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> nmms
+[23:33:37] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> no jods
+[23:33:39] [Async Chat Thread - #10/INFO]: [Not Secure] <javimessiu> es enserio
+[23:33:40] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> no mentira
+[23:33:41] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> X
+[23:33:45] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> puto
+[23:34:03] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> ahora tengo 7 coras mas
+[23:34:07] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> a ya no se puede
+[23:34:08] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> _wdegw_
+[23:34:10] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> te ofreces a probar los phantoms?
+[23:34:13] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> se
+[23:34:19] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> pera guardo home
+[23:34:22] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> xd
+[23:34:22] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> por si muero
+[23:34:23] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> xd
+[23:34:23] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> ok
+[23:34:28] [Server thread/INFO]: _wdegw_ issued server command: /sethome nose
+[23:34:33] [Server thread/INFO]: _wdegw_ issued server command: /sethome nose
+[23:34:33] [Server thread/INFO]: goku_black_20 issued server command: /home 1
+[23:34:34] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> xddd
+[23:34:35] [Server thread/INFO]: [Reino Berserk] _wdegw_ was killed by magic
+[23:34:36] [Server thread/INFO]: blime2009 issued server command: /kill @e[type=minecraft:phantom ]
+[23:34:36] [Server thread/INFO]: [[Admin] blime2009: Killed Phantom]
+[23:34:38] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> :V
+[23:34:39] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> sxddddddddd
+[23:34:43] [Server thread/INFO]: _wdegw_ issued server command: /tpa javimessiu
+[23:34:44] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> XD
+[23:34:47] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_ blime2009
+[23:34:47] [Server thread/INFO]: [[Admin] blime2009: Teleported [Reino Berserk] _wdegw_ to [Admin] blime2009]
+[23:34:49] [Server thread/INFO]: javimessiu issued server command: /tpaccept
+[23:34:51] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> ni guardar me dejaron
+[23:35:08] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> w las elitras
+[23:35:08] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> blime
+[23:35:08] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> XD
+[23:35:09] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> otra vez :V?
+[23:35:12] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> pera
+[23:35:17] [Server thread/INFO]: Xautral issued server command: /tp ed
+[23:35:19] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[23:35:19] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to eduardo16]
+[23:35:19] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Spectator Mode]
+[23:35:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> eduardo
+[23:35:24] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> edu
+[23:35:24] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> ya
+[23:35:25] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> edu
+[23:35:25] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> edu
+[23:35:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> edu
+[23:35:26] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> no me darias unos cohetes asi de chill de compas
+[23:35:30] [Server thread/INFO]: Xautral issued server command: /team list
+[23:35:32] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Survival Mode]
+[23:35:55] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> que kagon el phantom
+[23:35:58] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> xd
+[23:36:12] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> baja rica vida e
+[23:36:15] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> si
+[23:36:19] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> y eso q estoy full prote 4
+[23:36:24] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> a y eso que todavia no le pongo fuerza :v
+[23:36:25] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> pantom puto si me atacas
+[23:36:30] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> xd
+[23:36:31] [Server thread/INFO]: eduardo16 lost connection: Disconnected
+[23:36:31] [Server thread/INFO]: eduardo16 left the game
+[23:36:34] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> w javimessiu
+[23:36:38] [Server thread/INFO]: blime2009 issued server command: /tp javimessiu
+[23:36:38] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] javimessiu]
+[23:36:39] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> esperame
+[23:36:44] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> ayudame a conseguir los 9 stack de diamantes para el kit
+[23:36:51] [Server thread/INFO]: blime2009 issued server command: /warp trades
+[23:36:54] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> voy
+[23:37:02] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> minemos para abajo
+[23:37:08] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> asi consigo yo XD
+[23:37:09] [User Authenticator #4/INFO]: UUID of player ELMASPRO220220 is 44b98f29-b1ca-326a-a896-3e93acf6132d
+[23:37:09] [Server thread/INFO]: Disconnecting ELMASPRO220220 (/127.202.1.157:39433): You are not whitelisted on this server!
+[23:37:09] [Server thread/INFO]: ELMASPRO220220 (/127.202.1.157:39433) lost connection: You are not whitelisted on this server!
+[23:37:14] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> agarro comidaq quye ya no tengo xd
+[23:37:14] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> ptmr
+[23:37:19] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> a no anda
+[23:37:19] [User Authenticator #4/INFO]: UUID of player ELMASPRO220220 is 44b98f29-b1ca-326a-a896-3e93acf6132d
+[23:37:19] [Server thread/INFO]: Disconnecting ELMASPRO220220 (/127.202.1.157:58417): You are not whitelisted on this server!
+[23:37:19] [Server thread/INFO]: ELMASPRO220220 (/127.202.1.157:58417) lost connection: You are not whitelisted on this server!
+[23:37:21] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> w
+[23:37:24] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> que
+[23:37:28] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> hay /warp de farmeo o algo asi
+[23:37:33] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> no
+[23:37:36] [Server thread/INFO]: blime2009 issued server command: /tp javimessiu
+[23:37:36] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] javimessiu]
+[23:37:38] [Server thread/INFO]: _wdegw_ issued server command: /warps
+[23:37:41] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> solo mobs
+[23:37:42] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> nyejejjeje
+[23:37:46] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> javimessiu
+[23:37:49] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> granja*
+[23:37:50] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> a dormido :v?
+[23:37:51] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> que hiciste?
+[23:37:53] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> mira ven w
+[23:38:00] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> esperame
+[23:38:03] [Server thread/INFO]: _wdegw_ issued server command: /warp granja
+[23:38:10] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> manda tp
+[23:38:18] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> blime niño onichan que hiciste
+[23:38:22] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> nada
+[23:38:24] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> a
+[23:38:26] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> xd
+[23:38:28] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> lo dije por que i :v
+[23:38:30] [Server thread/INFO]: javimessiu issued server command: /tpa _wdegw_
+[23:38:33] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[23:38:43] [Server thread/INFO]: blime2009 issued server command: /tp goku_black_20
+[23:38:43] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Monarquía Pinkies] goku_black_20]
+[23:38:59] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[23:39:08] [Server thread/INFO]: _wdegw_ issued server command: /home nose
+[23:39:12] [Server thread/INFO]: _wdegw_ issued server command: /home totems
+[23:39:18] [Server thread/INFO]: blime2009 issued server command: /tp javimessiu
+[23:39:18] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] javimessiu]
+[23:39:26] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Spectator Mode]
+[23:39:30] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> hay creepers?
+[23:39:38] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> xd
+[23:39:55] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> :0
+[23:39:58] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[23:40:06] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> y si agrego que los endermites hagan one shot?
+[23:40:08] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> y si agrego que los endermites hagan one shot?
+[23:40:13] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> no
+[23:40:16] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> prq
+[23:40:16] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> XD
+[23:40:18] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> :V
+[23:40:24] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> w me sale siempre uno
+[23:40:30] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> ptm
+[23:40:41] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> uso mucho las enderpels
+[23:40:57] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> pue deja de usarlas uwu
+[23:41:11] [User Authenticator #5/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:41:11] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:38267): You are not whitelisted on this server!
+[23:41:11] [Server thread/INFO]: andres413 (/127.202.1.157:38267) lost connection: You are not whitelisted on this server!
+[23:41:16] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> Xautral el kit de cristal trae pociones y totems?
+[23:41:23] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
+[23:41:23] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
+[23:41:25] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> uwu tu puta madre dejo de usar enderpels pero dame unas putas elytras
+[23:41:26] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> deja veo
+[23:41:29] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> ok gracias
+[23:41:33] [Server thread/INFO]: blime2009 issued server command: /warp trades
+[23:42:08] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> xautral una duda
+[23:42:13] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> i tre 2 totems pero porciones no
+[23:42:19] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> hay creepers en /warp granja?
+[23:42:25] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> no
+[23:42:28] [Server thread/INFO]: [Monarquía Pinkies] goku_black_20 has made the advancement [Hot Stuff]
+[23:42:28] [Server thread/INFO]: blime2009 issued server command: /tp javimessiu
+[23:42:28] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] javimessiu]
+[23:42:42] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> porciones osea puercos? o como xd
+[23:42:44] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:42:44] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:39413): You are not whitelisted on this server!
+[23:42:44] [Server thread/INFO]: andres413 (/127.202.1.157:39413) lost connection: You are not whitelisted on this server!
+[23:42:56] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> zi
+[23:42:58] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> a
+[23:43:00] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:43:00] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:34391): You are not whitelisted on this server!
+[23:43:00] [Server thread/INFO]: andres413 (/127.202.1.157:34391) lost connection: You are not whitelisted on this server!
+[23:43:02] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> oc
+[23:43:10] [Server thread/INFO]: javimessiu issued server command: /tpa _wdegw_
+[23:43:17] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[23:43:47] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> w ya tengo 4 posiones
+[23:43:50] [Server thread/INFO]: [Reino Berserk] javimessiu has made the advancement [Voluntary Exile]
+[23:43:53] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
+[23:43:53] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
+[23:43:54] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:43:54] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:48119): You are not whitelisted on this server!
+[23:43:54] [Server thread/INFO]: andres413 (/127.202.1.157:48119) lost connection: You are not whitelisted on this server!
+[23:44:04] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> nyejejejje
+[23:44:06] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> nyejejejej
+[23:44:08] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> w vamos por los totems?
+[23:44:16] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> si
+[23:44:18] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> ok
+[23:44:19] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> :O
+[23:44:28] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> tengo una idea para los vex
+[23:44:30] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> farmearemos como 20 xd
+[23:44:30] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> y evokers
+[23:44:33] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> XD
+[23:44:33] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:44:33] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:50575): You are not whitelisted on this server!
+[23:44:33] [Server thread/INFO]: andres413 (/127.202.1.157:50575) lost connection: You are not whitelisted on this server!
+[23:44:34] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> }:3
+[23:44:38] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> cual? xd
+[23:44:40] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> vamos rapido antes q lo haga XD
+[23:44:44] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> asi de chil
+[23:44:49] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> los vex hacen one hot uwu
+[23:44:50] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> ok
+[23:44:53] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[23:44:53] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
+[23:44:54] [Server thread/INFO]: Xautral issued server command: /whitelist
+[23:44:55] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> XDDDDDDD
+[23:44:58] [Server thread/INFO]: Xautral issued server command: /whitelist add Andres416
+[23:44:58] [Server thread/INFO]: [[Owner] Xautral: Added Andres416 to the whitelist]
+[23:44:59] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> muy tarde ya lo ise :v
+[23:45:01] [Server thread/INFO]: Xautral issued server command: /whitelist list
+[23:45:06] [Async Chat Thread - #13/INFO]: [Not Secure] <_wdegw_> pero todo quieres q sea one shot
+[23:45:08] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> ijodetuputamadre niño uwu
+[23:45:15] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> literal
+[23:45:24] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:45:24] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:44867): You are not whitelisted on this server!
+[23:45:24] [Server thread/INFO]: andres413 (/127.202.1.157:44867) lost connection: You are not whitelisted on this server!
+[23:45:37] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> bro que no sea 1 shot
+[23:45:42] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> niño uwu
+[23:45:45] [Server thread/INFO]: Xautral issued server command: /whitelist add Andres413
+[23:45:48] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:45:48] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:45463): You are not whitelisted on this server!
+[23:45:48] [Server thread/INFO]: andres413 (/127.202.1.157:45463) lost connection: You are not whitelisted on this server!
+[23:45:53] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> w blime2009
+[23:45:54] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[23:45:54] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[23:46:01] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> si agregan misiones diarias?
+[23:46:05] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Spectator Mode]
+[23:46:06] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> no voy a hacer cambio en los vex
+[23:46:09] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> eso si
+[23:46:09] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[23:46:13] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> antes habia pero las quitaron
+[23:46:17] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> xq
+[23:46:20] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs
+[23:46:20] [Server thread/INFO]: [[Admin] blime2009: Summoned new Evoker Fangs]
+[23:46:22] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Survival Mode]
+[23:46:24] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[23:46:24] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[23:46:26] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> puto el que las quito xddd
+[23:46:30] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:46:30] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:54113): You are not whitelisted on this server!
+[23:46:30] [Server thread/INFO]: andres413 (/127.202.1.157:54113) lost connection: You are not whitelisted on this server!
+[23:46:32] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[23:46:32] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[23:46:34] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs
+[23:46:34] [Server thread/INFO]: [[Admin] blime2009: Summoned new Evoker Fangs]
+[23:46:49] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[23:46:49] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[23:46:50] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:46:50] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:39485): You are not whitelisted on this server!
+[23:46:50] [Server thread/INFO]: andres413 (/127.202.1.157:39485) lost connection: You are not whitelisted on this server!
+[23:46:50] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> w la base la hiciste en una aldea?
+[23:46:54] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> no
+[23:46:58] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> mm
+[23:47:04] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> toca buscar una pa las raids
+[23:47:07] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> bajo tierra
+[23:47:11] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> okok
+[23:47:20] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> la hizo zikzw
+[23:47:24] [Server thread/INFO]: blime2009 issued server command: /tp javimessiu
+[23:47:24] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] javimessiu]
+[23:47:27] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> w q hacemos primero
+[23:47:30] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> cuidao con los evokers
+[23:47:32] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> les estas dando flores los amas o que xddd
+[23:47:33] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> y phantoms
+[23:47:33] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> los diamantes o raids?
+[23:47:34] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:47:34] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:53709): You are not whitelisted on this server!
+[23:47:34] [Server thread/INFO]: andres413 (/127.202.1.157:53709) lost connection: You are not whitelisted on this server!
+[23:47:45] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> xq
+[23:47:48] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> q les cambiaste=
+[23:47:59] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> ya lo descubriran
+[23:47:59] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> niño owo callate el puto hocio t que no den one shot
+[23:48:02] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> XD
+[23:48:04] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> xd
+[23:48:10] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> mentenlos rapido
+[23:48:11] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> q javimessiu
+[23:48:12] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> antes que mueran
+[23:48:17] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> que?
+[23:48:18] [User Authenticator #6/INFO]: UUID of player andres413 is 72677f60-d7b3-358f-b936-9439beebfb15
+[23:48:19] [Server thread/INFO]: Disconnecting andres413 (/127.202.1.157:45177): You are not whitelisted on this server!
+[23:48:19] [Server thread/INFO]: andres413 (/127.202.1.157:45177) lost connection: You are not whitelisted on this server!
+[23:48:23] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> q hacemos primero diamantes o totems?
+[23:48:40] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> esperame wdegw
+[23:48:42] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[23:48:44] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Spectator Mode]
+[23:48:44] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> blime pvp
+[23:48:47] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> ok
+[23:48:56] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[23:48:56] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> XDDDDDDDDD
+[23:49:03] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> q le paso
+[23:49:04] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> blime pvp no seas puto :v
+[23:49:09] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> ño
+[23:49:10] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> ni idea
+[23:49:16] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> bueno voy a minar
+[23:49:26] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> ahorita voy
+[23:49:32] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> lito
+[23:49:35] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
+[23:49:35] [Server thread/INFO]: [[Admin] blime2009: Removed 166 item(s) from player [Admin] blime2009]
+[23:49:45] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> blime es puto no quiso pvp xd
+[23:49:51] [Server thread/INFO]: javimessiu issued server command: /tpa _wdegw_
+[23:49:53] [Async Chat Thread - #13/INFO]: [Not Secure] <blime2009> y la mentira?
+[23:49:56] [Server thread/INFO]: _wdegw_ issued server command: /tpaccept
+[23:49:56] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[23:49:56] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
+[23:49:59] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[23:49:59] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[23:50:02] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:50:02] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:50:03] [Server thread/INFO]: [Admin] blime2009 was killed by magic
+[23:50:04] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Survival Mode]
+[23:50:07] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Spectator Mode]
+[23:50:10] [Async Chat Thread - #13/INFO]: [Not Secure] <javimessiu> xddd
+[23:50:13] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> Xd
+[23:50:15] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Survival Mode]
+[23:50:16] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs
+[23:50:16] [Server thread/INFO]: [[Admin] blime2009: Summoned new Evoker Fangs]
+[23:50:16] [Server thread/INFO]: [Admin] blime2009 was killed by magic
+[23:50:19] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> xddddd
+[23:50:27] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> tmr tan my rotos :v
+[23:50:30] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[23:50:30] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[23:50:31] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> ves
+[23:50:37] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> pero asi tan bien
+[23:50:38] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> no lo hagas
+[23:50:39] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> :3
+[23:50:42] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> noooo
+[23:50:49] [Server thread/INFO]: blime2009 issued server command: /tp javimessiu
+[23:50:49] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] javimessiu]
+[23:51:07] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
+[23:51:07] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
+[23:51:26] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> w tienes fortuna 3 no?
+[23:51:30] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> no xd
+[23:51:41] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> anda a la granja comunitaria y consigue
+[23:51:47] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> gente
+[23:51:47] [Server thread/INFO]: blime2009 issued server command: /tp 0 00 0
+[23:51:47] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
+[23:51:48] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> te doy lapiz si quieres
+[23:51:50] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> q paso
+[23:51:51] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> yo creo que voy a cerrar el server
+[23:51:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> permanentemente
+[23:51:55] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> blime dame un fortuna 3 por poner 1 shot a los mobs
+[23:51:56] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> prq
+[23:51:57] [Async Chat Thread - #12/INFO]: [Not Secure] <_wdegw_> xq
+[23:51:59] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> :c
+[23:52:05] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> porque nadie hace el intento por aumentar de jugadores
+[23:52:08] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> ño :c
+[23:52:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> y ultimamente los planes han fallado
+[23:52:14] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> y?
+[23:52:19] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> yo creo que lo voy a cerrar
+[23:52:22] [Async Chat Thread - #12/INFO]: [Not Secure] <javimessiu> jugamos somos activos
+[23:52:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> prefiero que muera de pronto que lentamente
+[23:52:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> si, pero de los 5 que pasará con el resto

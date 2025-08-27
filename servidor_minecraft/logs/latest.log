@@ -426,3 +426,158 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a va
 [23:20:29] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
 [23:20:41] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
 [23:21:02] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> a estas en svr xd
+[23:22:26] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> w Xautral voy hacer minadas para abajo para conseguir los diamantes si quieres comparto pantalla para q no piensen q tengo x-ray xd
+[23:22:29] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:22:29] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:22:32] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[23:22:32] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[23:22:43] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> mejor graba tu pantalla y luego lo publicas
+[23:22:45] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:22:45] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:22:50] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> voy a abrir una red social especifica para el server
+[23:22:52] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> ok pero te lo mando al priv
+[23:22:56] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> ok
+[23:22:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no si queires mutea tu voz
+[23:23:04] [Server thread/INFO]: [Admin] blime2009 was killed by magic
+[23:23:08] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> no tengo ni micro
+[23:23:09] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> XD
+[23:23:36] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[23:23:36] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[23:23:39] [Server thread/INFO]: blime2009 issued server command: /tp 00 0 0
+[23:23:39] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
+[23:24:13] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:24:13] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:24:37] [Server thread/INFO]: [Owner] Xautral has made the advancement [Enchanter]
+[23:25:03] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:25:03] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:25:06] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[23:25:06] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[23:25:07] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:25:07] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:25:07] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[23:25:13] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:25:13] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:25:16] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[23:25:17] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:25:17] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:25:18] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[23:25:19] [Server thread/INFO]: blime2009 issued server command: /gamemode adventure
+[23:25:19] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Adventure Mode]
+[23:25:21] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[23:25:21] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[23:25:33] [Server thread/INFO]: Xautral issued server command: /kill @e[type=enderman]
+[23:25:33] [Server thread/INFO]: [[Owner] Xautral: Killed 97 entities]
+[23:25:34] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[23:25:35] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[23:25:37] [Server thread/INFO]: Xautral issued server command: /tp _wdegw_
+[23:25:37] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Berserk] _wdegw_]
+[23:25:38] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[23:25:48] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[23:25:48] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Owner] Xautral]
+[23:25:53] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> Xautral
+[23:26:03] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> quieres probar loas phantom?
+[23:26:10] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
+[23:26:10] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
+[23:26:16] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> no tonto
+[23:26:19] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> haber
+[23:26:24] [Async Chat Thread - #9/INFO]: [Not Secure] <blime2009> esta de la verga
+[23:26:26] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[23:26:26] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Owner] Xautral]
+[23:26:30] [Async Chat Thread - #9/INFO]: [Not Secure] <_wdegw_> nose grabar pantalla xddddd
+[23:26:31] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:regeneration infinite 50 true
+[23:26:31] [Server thread/INFO]: [[Owner] Xautral: Applied effect Regeneration to [Owner] Xautral]
+[23:26:35] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> xdd
+[23:26:41] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> haber
+[23:26:44] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> que computadora tienes?
+[23:26:48] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> pue
+[23:26:50] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> nose
+[23:26:51] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> XD
+[23:26:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> haber
+[23:26:57] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> tienes cortana?
+[23:27:02] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> q es eso
+[23:27:10] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> tienes la barra de busqueda hasta la izquierda?
+[23:27:11] [User Authenticator #2/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[23:27:15] [Server thread/INFO]: [Monarquía Pinkies] goku_black_20 joined the game
+[23:27:15] [Server thread/INFO]: goku_black_20[/127.56.91.73:59043] logged in with entity id 9944 at ([world]-1070.4657115639695, 39.93744386917487, -2158.8416913309866)
+[23:27:21] [Server thread/INFO]: blime2009 issued server command: /tp goku_black_20
+[23:27:21] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Monarquía Pinkies] goku_black_20]
+[23:27:25] [Server thread/INFO]: blime2009 issued server command: /tp goku_black_20
+[23:27:25] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Monarquía Pinkies] goku_black_20]
+[23:27:25] [Server thread/INFO]: blime2009 issued server command: /tp goku_black_20
+[23:27:25] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Monarquía Pinkies] goku_black_20]
+[23:27:29] [Server thread/INFO]: blime2009 issued server command: /tp 0 00 0
+[23:27:29] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
+[23:27:32] [Async Chat Thread - #8/INFO]: [Not Secure] <_wdegw_> supongo q si
+[23:27:48] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[23:27:49] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[23:27:50] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
+[23:27:51] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[23:27:53] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[23:28:04] [Server thread/INFO]: Xautral issued server command: /tp goku_black_20
+[23:28:04] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Monarquía Pinkies] goku_black_20]
+[23:29:01] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Survival Mode]
+[23:29:31] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Adventure Mode]
+[23:29:32] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[23:29:35] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[23:29:38] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Spectator Mode]
+[23:29:42] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:29:42] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:29:45] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:29:45] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:29:46] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Survival Mode]
+[23:29:49] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[23:29:52] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[23:29:52] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[23:29:55] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[23:29:55] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[23:30:22] [Server thread/INFO]: _wdegw_ issued server command: /warps
+[23:30:28] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:30:28] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:30:31] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:30:31] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:30:34] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[23:30:34] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[23:30:36] [Server thread/INFO]: [Admin] blime2009 was killed by magic
+[23:30:39] [User Authenticator #3/INFO]: UUID of player javimessiu is 40d8cc67-d866-3d98-9f8e-530c4e2cdb8f
+[23:30:40] [Server thread/INFO]: [Reino Berserk] javimessiu joined the game
+[23:30:40] [Server thread/INFO]: javimessiu[/127.198.251.201:34789] logged in with entity id 11905 at ([world]2.9846903506356877, 104.0, -1018.5778943542011)
+[23:30:40] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[23:30:40] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
+[23:30:45] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[23:30:45] [Server thread/INFO]: [[Admin] blime2009: Summoned new Phantom]
+[23:31:00] [Async Chat Thread - #10/INFO]: [Not Secure] <javimessiu> hola
+[23:31:03] [Async Chat Thread - #10/INFO]: [Not Secure] <_wdegw_> hola w
+[23:31:07] [Server thread/INFO]: [Admin] blime2009 was killed by magic
+[23:31:08] [Async Chat Thread - #10/INFO]: [Not Secure] <javimessiu> hola w
+[23:31:10] [Async Chat Thread - #10/INFO]: [Not Secure] <javimessiu> xd
+[23:31:11] [Async Chat Thread - #10/INFO]: [Not Secure] <blime2009> lito
+[23:31:13] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> W
+[23:31:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> hola w
+[23:31:18] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> ya estan los phantoms
+[23:31:25] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
+[23:31:25] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
+[23:31:28] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> no me digas q quemaron todo sin quitar lo importante
+[23:31:32] [Async Chat Thread - #11/INFO]: [Not Secure] <_wdegw_> a XD
+[23:31:33] [Server thread/INFO]: Xautral issued server command: /tp _wdegw_
+[23:31:33] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Berserk] _wdegw_]
+[23:31:36] [User Authenticator #3/INFO]: UUID of player eduardo16 is 6bf9f88b-eff1-3997-85fc-7194b9abed53
+[23:31:37] [Server thread/INFO]: eduardo16 joined the game
+[23:31:37] [Server thread/INFO]: eduardo16[/127.100.227.145:58603] logged in with entity id 12590 at ([world]104.08447582556337, 95.0, -511.82857150303073)
+[23:31:40] [Server thread/INFO]: goku_black_20 issued server command: /tp _wdegw_
+[23:31:40] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Teleported [Monarquía Pinkies] goku_black_20 to [Reino Berserk] _wdegw_]
+[23:31:42] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Spectator Mode]
+[23:31:44] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> obvio si agarramos l0m importante
+[23:31:45] [Server thread/INFO]: [Admin] blime2009 hit the ground too hard
+[23:31:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> hola eduardo16
+[23:31:47] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> ya sabes
+[23:31:48] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> lo guardamos
+[23:31:51] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[23:31:51] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[23:31:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> hacer tu equipo o unirte a uno
+[23:31:56] [Async Chat Thread - #10/INFO]: [Not Secure] <_wdegw_> ok
+[23:31:58] [Server thread/INFO]: blime2009 issued server command: /tp javimessiu
+[23:31:58] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] javimessiu]
+[23:31:59] [Async Chat Thread - #10/INFO]: [Not Secure] <_wdegw_> q bien
+[23:32:01] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> javimessiu
+[23:32:05] [Async Chat Thread - #11/INFO]: [Not Secure] <javimessiu> que?
+[23:32:08] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> te ofreces a probar los phantoms?

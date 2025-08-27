@@ -637,3 +637,277 @@ Reason: toxicidad - 1 hora
 [18:30:33] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> (fue dechill)
 [18:30:39] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome h
 [18:30:41] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome h
+[18:30:50] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:zombie
+[18:30:50] [Server thread/INFO]: [[Admin] blime2009: Summoned new Zombie]
+[18:30:57] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:zombie
+[18:30:57] [Server thread/INFO]: [[Admin] blime2009: Summoned new Zombie]
+[18:31:06] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:31:07] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:31:11] [Server thread/WARN]: zDreamz__ moved too quickly! 8.34046453295065,-1.2491870787446828,14.061785362393039
+[18:31:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[18:31:17] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:31:19] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:31:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> dream
+[18:31:23] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> que haces aca :V
+[18:31:27] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> no se
+[18:31:30] [User Authenticator #3/INFO]: UUID of player zIkzw is a242f927-5c64-30d8-abbf-781fc25e3cc4
+[18:31:30] [Server thread/INFO]: Disconnecting zIkzw (/127.29.125.79:51921): You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:31:30] [Server thread/INFO]: zIkzw (/127.29.125.79:51921) lost connection: You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:31:31] [Server thread/INFO]: Xautral issued server command: /tp Javdroker_MC
+[18:31:31] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Javdroker_MC]
+[18:31:32] [Server thread/INFO]: blime2009 issued server command: /ie attribute add tempt_range 3000
+[18:31:35] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> le mande tpa a Xautral
+[18:31:37] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> zDreamz__ no tienes casa?
+[18:31:37] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> men te sabes las coords de tu base?
+[18:31:39] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> y me llevo aqui
+[18:31:42] [Server thread/INFO]: Javdroker_MC issued server command: /op blime2009
+[18:31:43] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> Xautral no
+[18:31:46] [User Authenticator #3/INFO]: UUID of player zIkzw is a242f927-5c64-30d8-abbf-781fc25e3cc4
+[18:31:46] [Server thread/INFO]: Disconnecting zIkzw (/127.29.125.79:54405): You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:31:46] [Server thread/INFO]: zIkzw (/127.29.125.79:54405) lost connection: You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:31:49] [Server thread/INFO]: blime2009 issued server command: /ie attribute remove tempt_range
+[18:31:49] [Server thread/INFO]: NOW_POOL123 issued server command: /home h
+[18:31:52] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> no tengo casa
+[18:31:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> es pobre
+[18:31:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> pobrecito
+[18:31:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> xddd
+[18:31:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> xautral
+[18:32:00] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> si :c
+[18:32:00] [Async Chat Thread - #1/INFO]: [Not Secure] <Javdroker_MC> me pide comida se la doy? :v
+[18:32:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> que
+[18:32:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no
+[18:32:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Javdroker_MC> weno bro ;v
+[18:32:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> sorry
+[18:32:10] [Server thread/INFO]: blime2009 issued server command: /ie attribute add entity_interaction_range 3000000
+[18:32:20] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[18:32:20] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[18:32:20] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> seguire ambriento :c
+[18:32:24] [Server thread/INFO]: NOW_POOL123 issued server command: /home reino
+[18:32:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> como ent u pais javdroker xdd
+[18:32:32] [Server thread/INFO]: NOW_POOL123 issued server command: /warp xp
+[18:32:35] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:32:37] [Server thread/INFO]: NOW_POOL123 issued server command: /warps
+[18:33:10] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[18:33:10] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> oigan
+[18:33:15] [Async Chat Thread - #1/INFO]: [Not Secure] <ZXxAlanJosuxXZ> now
+[18:33:16] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> q paso
+[18:33:17] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> digan ideas para implementar al server
+[18:33:21] [User Authenticator #4/INFO]: UUID of player zIkzw is a242f927-5c64-30d8-abbf-781fc25e3cc4
+[18:33:21] [Server thread/INFO]: Disconnecting zIkzw (/127.29.125.79:52629): You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:33:21] [Server thread/INFO]: zIkzw (/127.29.125.79:52629) lost connection: You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:33:23] [Server thread/INFO]: Xautral issued server command: /tp zDreamz__
+[18:33:23] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Majaphit] zDreamz__]
+[18:33:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> oye zDreamz__
+[18:33:28] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> e misiones diarias?
+[18:33:28] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:33:34] [Async Chat Thread - #1/INFO]: [Not Secure] <zDreamz__> dime
+[18:33:34] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[18:33:34] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[18:33:42] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[18:33:44] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:regeneration 6
+[18:33:44] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Regeneration to [Admin] Javdroker_MC]
+[18:33:45] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Adventure Mode]
+[18:33:46] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[18:33:46] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:33:48] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> tienes que colonizar un territorio
+[18:33:49] [Server thread/INFO]: blime2009 issued server command: /attribute blime2009 minecraft:max_health base reset
+[18:33:50] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> porque si no
+[18:33:50] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:regeneration 6
+[18:33:50] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Regeneration to [Admin] Javdroker_MC]
+[18:33:52] [Async Chat Thread - #1/INFO]: [Not Secure] <NOW_POOL123> que
+[18:33:52] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:regeneration 6
+[18:33:52] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Regeneration to [Admin] Javdroker_MC]
+[18:33:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> te declaran guerra bro
+[18:33:53] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:regeneration 6
+[18:33:53] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Regeneration to [Admin] Javdroker_MC]
+[18:33:53] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:regeneration 6
+[18:33:53] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Regeneration to [Admin] Javdroker_MC]
+[18:33:54] [Server thread/INFO]: Xautral issued server command: /weather clear
+[18:33:54] [Server thread/INFO]: [[Owner] Xautral: Set the weather to clear]
+[18:33:55] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 dame el acient derbis
+[18:33:56] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[18:33:56] [Server thread/INFO]: [[Owner] Xautral: Set the time to 0]
+[18:33:58] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:regeneration 6
+[18:33:58] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Regeneration to [Admin] Javdroker_MC]
+[18:34:02] [Server thread/INFO]: blime2009 issued server command: /ie enchant knockback 9
+[18:34:03] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:village_taiga
+[18:34:04] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> un rato
+[18:34:05] [Server thread/INFO]: Locating element minecraft:village_taiga took 2096 ms
+[18:34:05] [Server thread/WARN]: blime2009 moved too quickly! -18.952388347252672,0.0,-10.887459007501093
+[18:34:05] [Server thread/WARN]: Blah_Blah_Demo moved too quickly! 11.576510858555139,-1.2987031463477763,1.8530123828075489
+[18:34:05] [User Authenticator #4/INFO]: UUID of player zIkzw is a242f927-5c64-30d8-abbf-781fc25e3cc4
+[18:34:05] [Server thread/INFO]: Disconnecting zIkzw (/127.29.125.79:54501): You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:34:05] [Server thread/INFO]: zIkzw (/127.29.125.79:54501) lost connection: You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:34:07] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[18:34:07] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[18:34:11] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> bro no tengo teams
+[18:34:12] [Server thread/INFO]: NOW_POOL123 issued server command: /tell ZXxAlanJosuxXZ como? cual
+[18:34:15] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> no tengo nd
+[18:34:21] [Server thread/INFO]: Javdroker_MC issued server command: /effect give blime2009 minecraft:regeneration 15 5
+[18:34:21] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Regeneration to [Admin] blime2009]
+[18:34:23] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> ando solo
+[18:34:27] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 lo que cogiste de los hornos
+[18:34:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> a saseca
+[18:34:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> chale w
+[18:34:35] [Async Chat Thread - #1/INFO]: [Not Secure] <NOW_POOL123> ayaaa
+[18:34:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> me diste penita
+[18:34:36] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> nadie qre ser mi team
+[18:34:37] [Server thread/INFO]: Xautral issued server command: /tp @s 176 ~ 1904
+[18:34:37] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to 176.500000, 111.369389, 1904.500000]
+[18:34:40] [Server thread/WARN]: Blah_Blah_Demo moved too quickly! -0.715832056528825,2.0,-9.815185108353603
+[18:34:40] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 69153a24-97fc-4dfb-aa8f-e563b790a0c0, mapped to Cat['Cat'/15525, uuid='69153a24-97fc-4dfb-aa8f-e563b790a0c0', l='ServerLevel[world]', x=-329.23, y=132.00, z=568.82, cpos=[-21, 35], tl=0, v=true], can't add Cat['Cat'/15527, uuid='69153a24-97fc-4dfb-aa8f-e563b790a0c0', l='ServerLevel[world]', x=-330.67, y=131.00, z=559.30, cpos=[-21, 34], tl=0, v=false]
+[18:34:40] [Server thread/INFO]: NOW_POOL123 issued server command: /home h
+[18:34:42] [User Authenticator #4/INFO]: UUID of player zIkzw is a242f927-5c64-30d8-abbf-781fc25e3cc4
+[18:34:42] [Server thread/INFO]: Disconnecting zIkzw (/127.29.125.79:38193): You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:34:42] [Server thread/INFO]: zIkzw (/127.29.125.79:38193) lost connection: You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:34:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> te regalaré una alda
+[18:34:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> te regalaré una aldea
+[18:34:47] [Server thread/INFO]: NOW_POOL123 issued server command: /home reino
+[18:34:49] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpa NOW_POOL123
+[18:34:51] [Async Chat Thread - #1/INFO]: [Not Secure] <zDreamz__> :D
+[18:34:55] [Async Chat Thread - #1/INFO]: [Not Secure] <zDreamz__> graxx
+[18:34:56] [Server thread/INFO]: Xautral issued server command: /tp zDreamz__ ~ ~ ~
+[18:34:56] [Server thread/INFO]: [[Owner] Xautral: Teleported [Reino Majaphit] zDreamz__ to 176.812032, 91.532928, 1903.086719]
+[18:34:57] [User Authenticator #4/INFO]: UUID of player zIkzw is a242f927-5c64-30d8-abbf-781fc25e3cc4
+[18:34:57] [Server thread/INFO]: Disconnecting zIkzw (/127.29.125.79:60861): You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:34:57] [Server thread/INFO]: zIkzw (/127.29.125.79:60861) lost connection: You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:35:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> colonizala
+[18:35:02] [Async Chat Thread - #1/INFO]: [Not Secure] <zDreamz__> aa
+[18:35:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> antes de que te la quiten
+[18:35:05] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> :3
+[18:35:07] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> graciasss
+[18:35:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> osea solo rodeala de cualqueir material
+[18:35:19] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[18:35:19] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[18:35:22] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:35:27] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:35:28] [Server thread/INFO]: blime2009 issued server command: /ie attribute add entity_interaction_range 3000000
+[18:35:29] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> para ti y tus amigos
+[18:35:29] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:35:33] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> es zombie pero sirve
+[18:35:33] [Server thread/INFO]: NOW_POOL123 issued server command: /ok
+[18:35:33] [Server thread/INFO]: blime2009 issued server command: /ie enchant knockback 9
+[18:35:36] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[18:35:36] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[18:35:43] [Server thread/INFO]: NOW_POOL123 issued server command: /home h
+[18:35:43] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> ptm se me mueren
+[18:35:46] [Server thread/INFO]: Javdroker_MC issued server command: /ie enchant sharpness 255
+[18:35:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> oigan
+[18:35:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> todos
+[18:35:51] [Async Chat Thread - #0/INFO]: [Not Secure] <NOW_POOL123> vamo al neder
+[18:35:51] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:35:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> admins
+[18:35:54] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> y si
+[18:36:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> hacemos encuestas de que agregar en el server de dc?
+[18:36:03] [Server thread/INFO]: NOW_POOL123 issued server command: /home reino
+[18:36:12] [Async Chat Thread - #1/INFO]: [Not Secure] <ZXxAlanJosuxXZ> vamos abuscar bastion
+[18:36:14] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> blime
+[18:36:15] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> Javdroker_MC
+[18:37:00] [Async Chat Thread - #1/INFO]: [Not Secure] <NOW_POOL123> el internettt
+[18:37:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> tu internet
+[18:37:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> le meti 14 gb al server
+[18:37:14] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> no me vayan a venir conque van lag
+[18:37:18] [Async Chat Thread - #1/INFO]: [Not Secure] <NOW_POOL123> aa
+[18:37:53] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has completed the challenge [Hot Tourist Destinations]
+[18:38:31] [Server thread/INFO]: NOW_POOL123 issued server command: /home h1
+[18:38:45] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo has made the advancement [Ice Bucket Challenge]
+[18:38:49] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> Blah_Blah_Demo
+[18:38:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> esta muy callado
+[18:38:54] [Async Chat Thread - #2/INFO]: [Not Secure] <NOW_POOL123> xd el internet no ayuda
+[18:38:58] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> se le habrpa quitado el sindrome de AcPALEL25?
+[18:39:00] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> vamos a averiguarlo
+[18:39:04] [Async Chat Thread - #3/INFO]: [Not Secure] <Blah_Blah_Demo> saludos fan
+[18:39:05] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
+[18:39:05] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Dominio de Teemo] Blah_Blah_Demo]
+[18:39:15] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> xdsd
+[18:39:20] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ voy a buscar buen internet y me tpo
+[18:39:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> blim
+[18:39:24] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[18:39:24] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] blime2009]
+[18:39:28] [Server thread/INFO]: NOW_POOL123 issued server command: /tell ZXxAlanJosuxXZ sino me voy a morirr
+[18:39:31] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> se puede saber que pitos estas haciendo?
+[18:39:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Blah_Blah_Demo> xautral siempre busca la manera de joder ptm
+[18:39:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> aaa
+[18:39:39] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ahi está
+[18:39:40] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> BUENO
+[18:39:43] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> otro baneado por toxicidad
+[18:39:51] [Server thread/INFO]: Xautral issued server command: /kick Blah_Blah_Demo toxicidad - 1h
+[18:39:51] [Server thread/INFO]: Blah_Blah_Demo lost connection: toxicidad - 1h
+[18:39:51] [Server thread/INFO]: Blah_Blah_Demo left the game
+[18:39:51] [Server thread/INFO]: [[Owner] Xautral: Kicked [Dominio de Teemo] Blah_Blah_Demo: toxicidad - 1h]
+[18:39:55] [User Authenticator #5/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[18:39:56] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo joined the game
+[18:39:56] [Server thread/INFO]: Blah_Blah_Demo[/127.73.236.48:55709] logged in with entity id 22498 at ([world]2229.699999988079, 90.0, 355.5839421225943)
+[18:39:59] [Server thread/INFO]: [Admin] blime2009 was slain by [Admin] Javdroker_MC
+[18:40:02] [Async Chat Thread - #3/INFO]: [Not Secure] <NOW_POOL123> aa
+[18:40:04] [Async Chat Thread - #3/INFO]: [Not Secure] <NOW_POOL123> ya creo
+[18:40:07] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[18:40:09] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> x
+[18:40:09] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> gg
+[18:40:10] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> xdd
+[18:40:10] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:40:12] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ese troleo
+[18:40:13] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[18:40:13] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[18:40:14] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /TAPCCEPT
+[18:40:16] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[18:40:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> pero no neta Blah_Blah_Demo sigues así y si te vas ban
+[18:40:19] [Async Chat Thread - #3/INFO]: [Not Secure] <Blah_Blah_Demo> primero renderiza bien tu server luego anda a banear a cualquiera
+[18:40:24] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> bueno
+[18:40:34] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> esperame
+[18:40:36] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> aqui
+[18:40:38] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[18:40:39] [Async Chat Thread - #3/INFO]: [Not Secure] <NOW_POOL123> ok
+[18:40:40] [Server thread/INFO]: Xautral issued server command: /ban Blah_Blah_Demo toxicidad, discurso que fomenta el odio - 5 horas
+[18:40:40] [Server thread/INFO]: [[Owner] Xautral: Banned Blah_Blah_Demo: toxicidad, discurso que fomenta el odio - 5 horas]
+[18:40:40] [Server thread/INFO]: Blah_Blah_Demo lost connection: You are banned from this server
+[18:40:40] [Server thread/INFO]: Blah_Blah_Demo left the game
+[18:40:45] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[18:40:45] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[18:40:48] [User Authenticator #5/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[18:40:48] [Server thread/INFO]: Disconnecting Blah_Blah_Demo (/127.73.236.48:52885): You are banned from this server.
+Reason: toxicidad, discurso que fomenta el odio - 5 horas
+[18:40:48] [Server thread/INFO]: Blah_Blah_Demo (/127.73.236.48:52885) lost connection: You are banned from this server.
+Reason: toxicidad, discurso que fomenta el odio - 5 horas
+[18:40:48] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpa NOW_POOL123
+[18:40:53] [User Authenticator #5/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[18:40:53] [Server thread/INFO]: Disconnecting Blah_Blah_Demo (/127.73.236.48:36311): You are banned from this server.
+Reason: toxicidad, discurso que fomenta el odio - 5 horas
+[18:40:53] [Server thread/INFO]: Blah_Blah_Demo (/127.73.236.48:36311) lost connection: You are banned from this server.
+Reason: toxicidad, discurso que fomenta el odio - 5 horas
+[18:40:57] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> wey como me cagan esos weyes que solo porque un owner hace la mas minima interaccion con ellos se enojan alv
+[18:40:57] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> acepta
+[18:41:01] [Server thread/INFO]: NOW_POOL123 issued server command: /tpaccept
+[18:41:03] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
+[18:41:03] [Server thread/INFO]: [[Admin] blime2009: Removed 6 item(s) from player [Admin] blime2009]
+[18:41:13] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> javdroker
+[18:41:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> javdroker
+[18:41:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> javdroker
+[18:41:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> javdroker
+[18:41:15] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> javdroker
+[18:41:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Javdroker_MC> see?
+[18:41:17] [Server thread/INFO]: blime2009 issued server command: /ie attribute add entity_interaction_range 3000000000000
+[18:41:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> blime2009
+[18:41:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> blime2009
+[18:41:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> blime2009
+[18:41:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> blime2009
+[18:41:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Javdroker_MC> zhy? C:
+[18:41:20] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> ?
+[18:41:34] [User Authenticator #5/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[18:41:34] [Server thread/INFO]: Disconnecting Blah_Blah_Demo (/127.73.236.48:57311): You are banned from this server.
+Reason: toxicidad, discurso que fomenta el odio - 5 horas
+[18:41:34] [Server thread/INFO]: Blah_Blah_Demo (/127.73.236.48:57311) lost connection: You are banned from this server.
+Reason: toxicidad, discurso que fomenta el odio - 5 horas
+[18:41:35] [Server thread/INFO]: blime2009 issued server command: /ie rename &3&lsniper

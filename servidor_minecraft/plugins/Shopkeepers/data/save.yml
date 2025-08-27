@@ -287,6 +287,15 @@ data-version: 4|2|4440
     '2':
       resultItem:
         DataVersion: 4440
+        id: minecraft:tnt
+        count: 64
+      item1:
+        DataVersion: 4440
+        id: minecraft:diamond
+        count: 32
+    '3':
+      resultItem:
+        DataVersion: 4440
         id: minecraft:chain
         count: 1
       item1:

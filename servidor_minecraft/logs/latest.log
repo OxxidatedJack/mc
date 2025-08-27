@@ -917,3 +917,79 @@ lit<--[HERE]
 [01:41:59] [Async Chat Thread - #153/INFO]: [Not Secure] <ZXxAlanJosuxXZ> voy a buscar nametag
 [01:42:17] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
 [01:42:21] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 2
+[01:42:25] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:42:30] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[01:43:26] [Async Chat Thread - #155/INFO]: [Not Secure] <NOW_POOL123> haslo warp ya
+[01:44:04] [Server thread/INFO]: Villager Villager['Villager'/257747, uuid='7e877ff8-fd93-4477-a077-2c709904d714', l='ServerLevel[world]', x=58.31, y=93.00, z=-521.64, cpos=[3, -33], tl=16642, v=true] died, message: 'Villager hit the ground too hard while trying to escape Zombie'
+[01:44:07] [Async Chat Thread - #155/INFO]: [Not Secure] <sisos> lag?
+[01:44:29] [Server thread/WARN]: _wdegw_ moved too quickly! -7.367519319057465,-4.941749572753906,-7.3774415254592896
+[01:44:40] [Async Chat Thread - #155/INFO]: [Not Secure] <NOW_POOL123> no
+[01:44:49] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 fell from a high place
+[01:44:51] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[01:44:59] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[01:45:02] [Async Chat Thread - #155/INFO]: [Not Secure] <NOW_POOL123> puedes ir
+[01:45:12] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> sisos
+[01:45:16] [Async Chat Thread - #155/INFO]: [Not Secure] <sisos> diga
+[01:45:18] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa saul23419
+[01:45:26] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> le puedes poner nametag a un endermite?
+[01:45:29] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[01:45:32] [Async Chat Thread - #155/INFO]: [Not Secure] <sisos> si
+[01:45:35] [Server thread/INFO]: saul23419 issued server command: /tpaccept
+[01:45:40] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tu nos das el nametag?
+[01:46:05] [Server thread/INFO]: sisos issued server command: /tp ZXxAlanJosuxXZ
+[01:46:05] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Tukulor] ZXxAlanJosuxXZ]
+[01:46:18] [Server thread/INFO]: sisos issued server command: /warps
+[01:46:27] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> libro de reparacion vamos
+[01:46:27] [Async Chat Thread - #155/INFO]: [Not Secure] <sisos> y el endermite?
+[01:46:32] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Into Fire]
+[01:46:34] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> espera
+[01:46:40] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> lo vamos a encontrar
+[01:46:42] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 2
+[01:47:03] [Async Chat Thread - #155/INFO]: [Not Secure] <saul23419> oye alan te dejo hacer / home en mi base
+[01:47:11] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> espera
+[01:47:16] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> estoy ocupado
+[01:47:23] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> sisos nos das el endermte?
+[01:47:40] [Server thread/INFO]: sisos issued server command: /tp ZXxAlanJosuxXZ
+[01:47:40] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Tukulor] ZXxAlanJosuxXZ]
+[01:47:41] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[01:47:49] [Async Chat Thread - #155/INFO]: [Not Secure] <NOW_POOL123> yo lo pongo solo pone la bagoneta
+[01:47:51] [Async Chat Thread - #155/INFO]: [Not Secure] <sisos> donde lo vas a poner?
+[01:47:58] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> va esperame
+[01:47:59] [Async Chat Thread - #155/INFO]: [Not Secure] <NOW_POOL123> nada ya xd
+[01:48:01] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[01:48:20] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 2
+[01:48:36] [Async Chat Thread - #155/INFO]: [Not Secure] <NOW_POOL123> no me digas que cogio ese bloque de la granja
+[01:48:48] [Async Chat Thread - #155/INFO]: [Not Secure] <saul23419> estan agarrando bloques los endermans
+[01:48:57] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> quita la bagoneta
+[01:49:23] [Server thread/WARN]: NOW_POOL123 moved too quickly! -7.695633888244629,3.6125831604003906,5.425948143005371
+[01:49:32] [Server thread/INFO]: Named entity Endermite['soy gay'/270519, uuid='fd10c2ae-996d-43cc-bfc5-37afdd5cb93c', l='ServerLevel[world_the_end]', x=279.20, y=47.00, z=36.61, cpos=[17, 2], tl=559, v=true] died: soy gay was slain by [Reino Tukulor] ZXxAlanJosuxXZ
+[01:49:50] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> primero la etiqueta
+[01:50:08] [Async Chat Thread - #155/INFO]: [Not Secure] <ZXxAlanJosuxXZ> espera
+[01:50:19] [Async Chat Thread - #155/INFO]: [Not Secure] <NOW_POOL123> listooooooo
+[01:50:19] [Server thread/WARN]: _wdegw_ moved too quickly! -0.5596070289611816,-8.881414413452148,7.744686126708984
+[01:50:20] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ was slain by Enderman
+[01:50:24] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 2
+[01:50:28] [Async Chat Thread - #155/INFO]: [Not Secure] <sisos> xd
+[01:50:30] [Async Chat Thread - #155/INFO]: [Not Secure] <sisos> listo
+[01:50:42] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[01:50:42] [Async Chat Thread - #155/INFO]: [Not Secure] <NOW_POOL123> 40 de xp
+[01:50:43] [Async Chat Thread - #156/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ta mal
+[01:50:48] [Async Chat Thread - #156/INFO]: [Not Secure] <sisos> xq?
+[01:50:57] [Async Chat Thread - #156/INFO]: [Not Secure] <ZXxAlanJosuxXZ> es con esto en el de madera
+[01:51:01] [Async Chat Thread - #156/INFO]: [Not Secure] <saul23419> sisos
+[01:51:14] [Async Chat Thread - #156/INFO]: [Not Secure] <sisos> lito
+[01:51:17] [Async Chat Thread - #156/INFO]: [Not Secure] <sisos> diga saul
+[01:51:23] [Async Chat Thread - #156/INFO]: [Not Secure] <ZXxAlanJosuxXZ> conno
+[01:51:26] [Async Chat Thread - #156/INFO]: [Not Secure] <sisos> xd
+[01:51:30] [Server thread/INFO]: NOW_POOL123 issued server command: /home
+[01:51:31] [Async Chat Thread - #156/INFO]: [Not Secure] <ZXxAlanJosuxXZ> es el barrote donde esta la hoja
+[01:51:32] [Async Chat Thread - #156/INFO]: [Not Secure] <saul23419> puedes poner un tradeo en el warp que de tnt o polvora?
+[01:51:32] [Server thread/INFO]: NOW_POOL123 issued server command: /home reino
+[01:51:47] [Server thread/INFO]: sisos issued server command: /warps
+[01:51:50] [Async Chat Thread - #156/INFO]: [Not Secure] <saul23419> no es para grifiear
+[01:51:58] [Async Chat Thread - #156/INFO]: [Not Secure] <sisos> pa netherite?
+[01:52:03] [Async Chat Thread - #156/INFO]: [Not Secure] <saul23419> si
+[01:52:08] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa saul23419
+[01:52:18] [Server thread/INFO]: saul23419 issued server command: /tpaccept
+[01:52:41] [Async Chat Thread - #156/INFO]: [Not Secure] <sisos> lito
+[01:52:49] [Server thread/INFO]: saul23419 issued server command: /home

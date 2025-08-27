@@ -5531,3 +5531,5 @@ Reason: toxicidad, discurso que fomenta el odio - 5 horas
 [22:06:54] [Server thread/INFO]: [Admin] blime2009 left the game
 [22:08:02] [Server thread/INFO]: javimessiu lost connection: Disconnected
 [22:08:02] [Server thread/INFO]: [Reino Berserk] javimessiu left the game
+[22:13:07] [Server thread/INFO]: Villager Villager['Villager'/219025, uuid='d84e22e0-7914-406a-96a5-b4b23c54c161', l='ServerLevel[world]', x=-1060.50, y=77.00, z=-2164.52, cpos=[-67, -136], tl=16102, v=true] died, message: 'Villager was slain by [Admin] goku_black_20'
+[22:13:14] [Server thread/INFO]: Villager Villager['Villager'/219027, uuid='5c8c2923-7b92-4684-af75-108eb5c5d565', l='ServerLevel[world]', x=-1066.76, y=76.94, z=-2150.42, cpos=[-67, -135], tl=16246, v=true] died, message: 'Villager was slain by [Admin] goku_black_20'

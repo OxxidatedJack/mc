@@ -5511,3 +5511,23 @@ Reason: toxicidad, discurso que fomenta el odio - 5 horas
 [21:57:29] [Async Chat Thread - #17/INFO]: [Not Secure] <javimessiu> no
 [21:57:54] [Async Chat Thread - #17/INFO]: [Not Secure] <goku_black_20> no me acuerdo como hacer eso jajaja
 [21:58:04] [Async Chat Thread - #17/INFO]: [Not Secure] <javimessiu> xd
+[21:59:33] [Server thread/INFO]: goku_black_20 issued server command: /
+[21:59:42] [Server thread/INFO]: goku_black_20 issued server command: /home 1
+[22:00:19] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[22:00:19] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Owner] Xautral]
+[22:00:30] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[22:00:30] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to 0.500000, 0.000000, 0.500000]
+[22:02:47] [Server thread/INFO]: blime2009 issued server command: /scoreboard objectives add nearPhantom dummy
+[22:03:19] [Async Chat Thread - #19/INFO]: [Not Secure] <javimessiu> goku
+[22:03:22] [Async Chat Thread - #19/INFO]: [Not Secure] <goku_black_20> dime
+[22:03:45] [Async Chat Thread - #19/INFO]: [Not Secure] <javimessiu> hacemos pvp te devuelvo las cosas es que estot aburrido xd
+[22:04:00] [Async Chat Thread - #19/INFO]: [Not Secure] <goku_black_20> no bro me quedan 7 corazones
+[22:04:12] [Async Chat Thread - #19/INFO]: [Not Secure] <javimessiu> bueno ok
+[22:05:42] [Server thread/INFO]: javimessiu issued server command: /warps
+[22:05:51] [Server thread/INFO]: javimessiu issued server command: /homes
+[22:06:05] [Server thread/INFO]: javimessiu issued server command: /home 4
+[22:06:08] [Server thread/INFO]: javimessiu issued server command: /homes
+[22:06:54] [Server thread/INFO]: blime2009 lost connection: Timed out
+[22:06:54] [Server thread/INFO]: [Admin] blime2009 left the game
+[22:08:02] [Server thread/INFO]: javimessiu lost connection: Disconnected
+[22:08:02] [Server thread/INFO]: [Reino Berserk] javimessiu left the game

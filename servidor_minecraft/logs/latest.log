@@ -5681,3 +5681,13 @@ Reason: toxicidad, discurso que fomenta el odio - 5 horas
 [22:49:34] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to 0.300000, 320.000000, 0.700000]
 [22:49:41] [Server thread/INFO]: Xautral issued server command: /setblock ~ ~ ~ minecraft:bedrock
 [22:49:41] [Server thread/INFO]: [[Owner] Xautral: Changed the block at 0, 312, 0]
+[22:51:50] [Server thread/INFO]: Xautral issued server command: /give @p leather_chestplate[dyed_color=11546150]
+[22:51:50] [Server thread/INFO]: [[Owner] Xautral: Gave 1 [Leather Tunic] to [Owner] Xautral]
+[22:52:03] [Server thread/INFO]: goku_black_20 issued server command: /
+[22:52:55] [Server thread/INFO]: Xautral issued server command: /op goku_black_20
+[22:52:55] [Server thread/INFO]: [[Owner] Xautral: Made goku_black_20 a server operator]
+[22:53:48] [Server thread/INFO]: goku_black_20 issued server command: /
+[22:53:57] [Server thread/INFO]: [[Monarquía Pinkies] goku_black_20: Set own game mode to Creative Mode]
+[22:58:05] [Server thread/INFO]: Xautral issued server command: /kill
+[22:58:05] [Server thread/INFO]: [Owner] Xautral was killed
+[22:58:05] [Server thread/INFO]: [[Owner] Xautral: Killed [Owner] Xautral]

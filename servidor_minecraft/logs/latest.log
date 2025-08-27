@@ -734,3 +734,100 @@ enchant @<--[HERE]
 [17:37:58] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> huy
 [17:38:17] [Server thread/INFO]: _wdegw_ issued server command: /sethome totems
 [17:38:29] [Server thread/INFO]: blime2009 issued server command: /attribute f3502c48-963a-4705-a0ce-3ff38524cc9a minecraft:scale base set 10
+[17:39:01] [Server thread/INFO]: blime2009 issued server command: /fill -38 106 706
+[17:39:13] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 -35 114 706
+[17:39:27] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 -35 114 706 -31 106 706
+[17:39:27] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 36 block(s)]
+[17:39:35] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 -35 114 706 -34 106 706
+[17:39:35] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 36 block(s)]
+[17:39:44] [Server thread/INFO]: [Reino Berserk] _wdegw_ has made the advancement [You've Got a Friend in Me]
+[17:39:44] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 -35 114 706 -27 106 706
+[17:39:44] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 36 block(s)]
+[17:39:58] [Server thread/INFO]: blime2009 issued server command: /clone
+[17:40:06] [Server thread/INFO]: blime2009 issued server command: /clone -24 114 706
+[17:40:23] [Server thread/INFO]: blime2009 issued server command: /clone -24 114 706 -24 106 706 -24 106 706
+[17:40:35] [Server thread/INFO]: blime2009 issued server command: /clone
+[17:40:52] [Server thread/INFO]: blime2009 issued server command: /clone -24 106 706
+[17:40:57] [Server thread/INFO]: blime2009 issued server command: /clone -24 106 706 -38 114 706
+[17:41:04] [Server thread/INFO]: blime2009 issued server command: /clone -24 106 706 -38 114 706 -23 106 706
+[17:41:04] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 135 block(s)]
+[17:41:07] [Server thread/INFO]: [Reino Berserk] _wdegw_ has made the advancement [Voluntary Exile]
+[17:41:14] [Server thread/INFO]: blime2009 issued server command: /clone -24 106 706 -38 114 706 -8 106 706
+[17:41:14] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 135 block(s)]
+[17:41:28] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702
+[17:41:33] [Server thread/INFO]: Javdroker_MC issued server command: /tellraw @a {"text":"Herobrine se ha unido al juego","color":"yellow"}
+[17:41:36] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702 -42 114 694
+[17:41:41] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702 -42 114 694 -42 106 693
+[17:41:49] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702 -42 114 694 -42 106 692
+[17:41:55] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702 -42 114 694 -42 106 691
+[17:42:06] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702
+[17:42:11] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 692
+[17:42:19] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 692 -42 106 690
+[17:42:29] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 692 -42 106 690 strict
+[17:42:34] [Async Chat Thread - #8/INFO]: [Not Secure] <zDreamz__> como se compran coras?¿
+[17:42:45] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 692 -42 106 688
+[17:42:56] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702
+[17:43:02] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 687
+[17:43:09] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 687 -42 106 673
+[17:43:15] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 687 -42 106 667
+[17:43:15] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 144 block(s)]
+[17:43:30] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome m
+[17:43:35] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome m
+[17:44:03] [Server thread/INFO]: blime2009 issued server command: /execute at @a as @s run playsound minecraft:entity.lightning_bolt.impact ambient @a ~ ~ ~
+[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Admin] blime2009]
+[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Reino Berserk] _wdegw_]
+[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Reino Majaphit] zDreamz__]
+[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Reino Tukulor] NOW_POOL123]
+[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Admin] Javdroker_MC]
+[17:44:05] [Server thread/INFO]: Javdroker_MC issued server command: /tellraw @a {"text":"Herobrine Left the game","color":"yellow"}
+[17:44:38] [Server thread/INFO]: Javdroker_MC issued server command: /tellraw @a {"text":"Herobrine joined the game","color":"yellow"}
+[17:44:39] [Server thread/INFO]: blime2009 issued server command: /execute at @a as @s run playsound minecraft:entity.lightning_bolt.thunder ambient @a ~ ~ ~
+[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to 2 players]
+[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to [Reino Berserk] _wdegw_]
+[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to [Reino Majaphit] zDreamz__]
+[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to [Reino Tukulor] NOW_POOL123]
+[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to 2 players]
+[17:44:47] [Server thread/INFO]: Javdroker_MC issued server command: /inv NOW_POOL123
+[17:45:01] [Server thread/INFO]: Javdroker_MC issued server command: /inv zDreamz__
+[17:45:13] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706
+[17:45:14] [Server thread/INFO]: Javdroker_MC issued server command: /inv zDreamz__
+[17:45:20] [Server thread/INFO]: Javdroker_MC issued server command: /inv _wdegw_
+[17:45:21] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 6 114 706
+[17:45:31] [Async Chat Thread - #10/INFO]: [Not Secure] <_wdegw_> q wea
+[17:45:54] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 6 114 706 -38 105 652
+[17:45:54] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 405 block(s)]
+[17:46:15] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 706
+[17:46:31] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 706 -38 114 702
+[17:46:37] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Sneak 100]
+[17:46:43] [Server thread/INFO]: Javdroker_MC issued server command: /inv NOW_POOL123
+[17:46:44] [User Authenticator #9/INFO]: Disconnecting NOW_POOL123 (/127.71.145.119:48225): [LoginSecurity] This player is already online!
+[17:46:44] [User Authenticator #9/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[17:46:44] [Server thread/INFO]: NOW_POOL123 (/127.71.145.119:48225) lost connection: [LoginSecurity] This player is already online!
+[17:46:45] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
+[17:46:45] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
+[17:46:52] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 706 -38 114 702 15 106 654
+[17:46:52] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 225 block(s)]
+[17:46:52] [User Authenticator #9/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[17:46:53] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[17:46:53] [Server thread/INFO]: NOW_POOL123[/127.71.145.119:47165] logged in with entity id 17513 at ([world]-209.2808095801263, -49.9375, -209.6795675309748)
+[17:47:19] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 706 -38 114 702 13 106 652
+[17:47:19] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 225 block(s)]
+[17:47:33] [Async Chat Thread - #12/INFO]: [Not Secure] <NOW_POOL123> arreglenme pendejossss
+[17:47:41] [Server thread/INFO]: Javdroker_MC issued server command: /tellraw @a {"text":"Nocht joined de the game","color":"yellow"}
+[17:47:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> que paso?
+[17:47:45] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> ALV
+[17:47:47] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> como que nocht
+[17:48:00] [Async Chat Thread - #12/INFO]: [Not Secure] <NOW_POOL123> manos jugaron con mi inventario y con mi armadura xd
+[17:48:07] [Server thread/INFO]: Javdroker_MC issued server command: /inv NOW_POOL123
+[17:48:09] [Async Chat Thread - #12/INFO]: [Not Secure] <NOW_POOL123> mis votas las tengo en mi cabeza
+[17:48:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> que burger
+[17:48:18] [Server thread/INFO]: zDreamz__ issued server command: /warp spawn
+[17:48:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> weno ya te lo arregle
+[17:48:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> pero deja los bugs
+[17:48:26] [Server thread/INFO]: zDreamz__ issued server command: /warp trades
+[17:48:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> de las armaduras en partes donde no van
+[17:48:31] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 675
+[17:48:36] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 675 -42 114 667
+[17:48:42] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 675 -42 114 667 -42 106 656
+[17:48:42] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 81 block(s)]
+[17:49:03] [Server thread/INFO]: zDreamz__ issued server command: /warp spawn

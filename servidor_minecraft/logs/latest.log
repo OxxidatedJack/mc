@@ -586,3 +586,109 @@
 [01:00:20] [Server thread/INFO]: goku_black_20 issued server command: /tp saul23419
 [01:00:20] [Server thread/INFO]: [[Admin] goku_black_20: Teleported [Admin] goku_black_20 to [Clan Azteca] saul23419]
 [01:00:50] [Server thread/INFO]: [[Admin] goku_black_20: Set own game mode to Survival Mode]
+[01:00:58] [Server thread/INFO]: [[Admin] goku_black_20: Set own game mode to Creative Mode]
+[01:01:10] [Server thread/INFO]: goku_black_20 was kicked due to keepalive timeout!
+[01:01:10] [Server thread/INFO]: goku_black_20 lost connection: Timed out
+[01:01:10] [Server thread/INFO]: goku_black_20 left the game
+[01:01:20] [Async Chat Thread - #143/INFO]: [Not Secure] <saul23419> me tepeo a ti alan?
+[01:01:43] [User Authenticator #46/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[01:01:45] [Server thread/INFO]: [Admin] goku_black_20 joined the game
+[01:01:45] [Server thread/INFO]: goku_black_20[/127.56.91.73:46509] logged in with entity id 240620 at ([world]-685.5843992038393, -31.752830912077222, 33.655323749451526)
+[01:01:58] [Server thread/INFO]: [[Admin] goku_black_20: Set own game mode to Spectator Mode]
+[01:02:28] [Server thread/INFO]: goku_black_20 issued server command: /ver OpenInv
+[01:02:55] [Server thread/INFO]: saul23419 issued server command: /warps
+[01:03:26] [Server thread/INFO]: goku_black_20 issued server command: /locate biome minecraft:mushroom_fields
+[01:03:28] [Server thread/INFO]: Locating element minecraft:mushroom_fields took 1861 ms
+[01:03:32] [Server thread/INFO]: goku_black_20 issued server command: /tp @s -1541 146 -1888
+[01:03:32] [Server thread/INFO]: [[Admin] goku_black_20: Teleported [Admin] goku_black_20 to -1540.500000, 146.000000, -1887.500000]
+[01:03:32] [User Authenticator #47/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[01:03:33] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[01:03:33] [Server thread/INFO]: NOW_POOL123[/127.79.177.66:54905] logged in with entity id 241709 at ([world]7365.688327347211, 66.0, -1503.2293872487962)
+[01:03:55] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> hello
+[01:04:08] [Server thread/INFO]: goku_black_20 issued server command: /
+[01:04:17] [Server thread/INFO]: goku_black_20 issued server command: /tp NOW_POOL123
+[01:04:17] [Server thread/INFO]: [[Admin] goku_black_20: Teleported [Admin] goku_black_20 to [Reino Tukulor] NOW_POOL123]
+[01:04:33] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[01:04:35] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> hola
+[01:04:37] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [Hot Stuff]
+[01:04:44] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> hola que haciendo?
+[01:04:54] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tpa
+[01:04:56] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[01:05:12] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ven tpa
+[01:05:21] [Async Chat Thread - #145/INFO]: [Not Secure] <saul23419> a quien le dices
+[01:05:26] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> a now
+[01:05:35] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[01:05:40] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:05:51] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> ayaaaaaa
+[01:05:58] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ayuda a poner
+[01:06:03] [Server thread/INFO]: goku_black_20 issued server command: /tp sisos
+[01:06:04] [Server thread/INFO]: [[Admin] goku_black_20: Teleported [Admin] goku_black_20 to [Admin] sisos]
+[01:06:14] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[01:06:24] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> asi?
+[01:06:37] [Server thread/INFO]: goku_black_20 was kicked due to keepalive timeout!
+[01:06:37] [Server thread/INFO]: goku_black_20 lost connection: Timed out
+[01:06:37] [Server thread/INFO]: goku_black_20 left the game
+[01:06:49] [Server thread/INFO]: saul23419 issued server command: /home hola
+[01:06:51] [Server thread/WARN]: _wdegw_ moved too quickly! -7.23496550321579,7.765424728393555,4.267536163330078
+[01:07:07] [User Authenticator #48/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[01:07:09] [Server thread/INFO]: [Admin] goku_black_20 joined the game
+[01:07:09] [Server thread/INFO]: goku_black_20[/127.56.91.73:59951] logged in with entity id 243536 at ([world]-1183.1346174140674, 92.0877468685933, -599.3922307774147)
+[01:07:19] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> desde cuando admin bro
+[01:07:29] [Async Chat Thread - #145/INFO]: [Not Secure] <saul23419> hay algun tradeo en warps que te de polvora?
+[01:07:35] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> gokuuu
+[01:07:36] [Async Chat Thread - #145/INFO]: [Not Secure] <saul23419> o tnt
+[01:07:49] [Server thread/INFO]: goku_black_20 issued server command: /locate biome minecraft:mushroom_fields
+[01:07:50] [Server thread/INFO]: Locating element minecraft:mushroom_fields took 686 ms
+[01:07:52] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> Sisosss
+[01:07:53] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> now ven
+[01:07:58] [Server thread/INFO]: goku_black_20 issued server command: /tp @s -1536 92 -1892
+[01:07:58] [Server thread/INFO]: [[Admin] goku_black_20: Teleported [Admin] goku_black_20 to -1535.500000, 92.000000, -1891.500000]
+[01:08:06] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[01:08:12] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:08:25] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> pera voy a dejar cosas
+[01:08:27] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> subamos a capa 44
+[01:08:35] [Server thread/INFO]: NOW_POOL123 issued server command: /home h2
+[01:08:35] [Server thread/INFO]: [[Admin] goku_black_20: Set own game mode to Creative Mode]
+[01:08:38] [Server thread/INFO]: NOW_POOL123 issued server command: /home h1
+[01:08:48] [Server thread/INFO]: NOW_POOL123 issued server command: /home reino
+[01:08:54] [Server thread/INFO]: [Clan Azteca] saul23419 has made the advancement [Sweet Dreams]
+[01:09:08] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[01:09:20] [Async Chat Thread - #145/INFO]: [Not Secure] <saul23419> sisos
+[01:09:24] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[01:09:31] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> trae agua
+[01:09:37] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> ok
+[01:09:44] [Async Chat Thread - #145/INFO]: [Not Secure] <saul23419> hay un trad que de polvora o tnt
+[01:09:45] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> ya ta
+[01:09:49] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:09:50] [Server thread/INFO]: goku_black_20 was kicked due to keepalive timeout!
+[01:09:50] [Server thread/INFO]: goku_black_20 lost connection: Timed out
+[01:09:50] [Server thread/INFO]: goku_black_20 left the game
+[01:09:59] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tpa
+[01:10:02] [User Authenticator #49/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[01:10:03] [Server thread/INFO]: [Admin] goku_black_20 joined the game
+[01:10:03] [Server thread/INFO]: goku_black_20[/127.56.91.73:42099] logged in with entity id 246063 at ([world]-1578.0779970636029, 90.22783536788617, -1893.8421546079055)
+[01:10:04] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[01:10:09] [User Authenticator #49/INFO]: UUID of player saseca2610 is be5b0179-53d0-3815-b865-ee4a642e14b5
+[01:10:10] [Server thread/INFO]: [Reino Majaphit] saseca2610 joined the game
+[01:10:10] [Server thread/INFO]: saseca2610[/127.2.237.30:46537] logged in with entity id 246210 at ([world]62.70693662447359, 103.0, -264.56427775223153)
+[01:10:16] [Async Chat Thread - #145/INFO]: [Not Secure] <NOW_POOL123> acepta
+[01:10:21] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:10:22] [Async Chat Thread - #145/INFO]: [Not Secure] <saul23419> alan
+[01:10:23] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> sube
+[01:10:27] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mande
+[01:10:31] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> dame el agua
+[01:10:31] [Server thread/INFO]: [[Admin] goku_black_20: Set own game mode to Spectator Mode]
+[01:10:34] [Async Chat Thread - #145/INFO]: [Not Secure] <saul23419> tienes polvora
+[01:10:37] [Server thread/INFO]: goku_black_20 issued server command: /tp saseca2610
+[01:10:37] [Server thread/INFO]: [[Admin] goku_black_20: Teleported [Admin] goku_black_20 to [Reino Majaphit] saseca2610]
+[01:10:37] [Async Chat Thread - #145/INFO]: [Not Secure] <ZXxAlanJosuxXZ> no
+[01:10:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+lit<--[HERE]
+[01:10:44] [Server thread/INFO]: There are 7 of a max of 20 players online: [Clan Azteca] saul23419, [Reino Berserk] _wdegw_, [Admin] sisos, [Reino Tukulor] ZXxAlanJosuxXZ, [Reino Tukulor] NOW_POOL123, [Admin] goku_black_20, [Reino Majaphit] saseca2610
+[01:10:45] [Async Chat Thread - #145/INFO]: [Not Secure] <saseca2610> hola
+[01:10:48] [Async Chat Thread - #145/INFO]: [Not Secure] <saseca2610> :)
+[01:10:53] [Async Chat Thread - #145/INFO]: [Not Secure] <saul23419> hola
+[01:11:04] [Async Chat Thread - #146/INFO]: [Not Secure] <ZXxAlanJosuxXZ> subamos
+[01:11:09] [Server thread/INFO]: goku_black_20 was kicked due to keepalive timeout!
+[01:11:09] [Server thread/INFO]: goku_black_20 lost connection: Timed out
+[01:11:09] [Server thread/INFO]: goku_black_20 left the game

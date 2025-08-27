@@ -1475,3 +1475,329 @@ Reason: toxicidad, discurso que fomenta el odio - 5 horas
 [19:12:56] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
 [19:12:56] [Server thread/INFO]: [[Admin] blime2009: Removed 217 item(s) from player [Admin] blime2009]
 [19:12:56] [Async Chat Thread - #9/INFO]: [Not Secure] <ZXxAlanJosuxXZ> di tu
+[19:13:00] [Server thread/INFO]: zDreamz__ issued server command: /msg ZXxAlanJosuxXZ si supero algo
+[19:13:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> oye ZXxAlanJosuxXZ
+[19:13:02] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:fireball
+[19:13:02] [Server thread/INFO]: [[Admin] blime2009: Summoned new Fireball]
+[19:13:05] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:fireball
+[19:13:05] [Server thread/INFO]: [[Admin] blime2009: Summoned new Fireball]
+[19:13:06] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> quien es el lider de tu reino?
+[19:13:12] [Async Chat Thread - #8/INFO]: [Not Secure] <NOW_POOL123> si mientras mas gente mejor
+[19:13:12] [Async Chat Thread - #8/INFO]: [Not Secure] <ZXxAlanJosuxXZ> now y yo
+[19:13:17] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> solo puede habr 1
+[19:13:17] [Server thread/INFO]: blime2009 issued server command: /summon tnt
+[19:13:17] [Server thread/INFO]: [[Admin] blime2009: Summoned new Primed TNT]
+[19:13:28] [Server thread/INFO]: blime2009 issued server command: /fill -9 105 675
+[19:13:31] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 yo soy el lider?
+[19:13:32] [Async Chat Thread - #9/INFO]: [Not Secure] <NOW_POOL123> yo lo mato a la siguiente
+[19:13:42] [Server thread/INFO]: blime2009 issued server command: /fill -9 105 675 -20 102 685 minecraft:sandstone
+[19:13:42] [Server thread/INFO]: [[Admin] blime2009: Successfully filled 350 block(s)]
+[19:13:42] [Server thread/INFO]: NOW_POOL123 issued server command: /tell ZXxAlanJosuxXZ si quieres
+[19:13:46] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[19:13:46] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[19:13:47] [Async Chat Thread - #8/INFO]: [Not Secure] <ZXxAlanJosuxXZ> yo xautral
+[19:13:50] [Server thread/INFO]: zIkzw issued server command: /warp granja
+[19:13:51] [Server thread/INFO]: NOW_POOL123 issued server command: /home h1
+[19:13:51] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> yo
+[19:13:51] [Server thread/INFO]: zDreamz__ issued server command: /msg ZXxAlanJosuxXZ tengo q hacer alguna prueba?
+[19:13:53] [Server thread/INFO]: blime2009 issued server command: /inv Javdroker_MC
+[19:13:57] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ok
+[19:14:08] [Server thread/INFO]: zIkzw issued server command: /warp coliseo
+[19:14:09] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[19:14:11] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg zDreamz__ no tpa
+[19:14:17] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[19:14:18] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[19:14:22] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> q
+[19:14:29] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg zDreamz__ dile a xautral que te cambie de reino
+[19:14:35] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[19:14:35] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[19:14:35] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Reino Berserk] zIkzw
+[19:14:38] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[19:14:40] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[19:14:40] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[19:14:44] [Server thread/INFO]: zIkzw issued server command: /home casa
+[19:14:45] [Server thread/INFO]: Javdroker_MC issued server command: /tp blime2009
+[19:14:45] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Admin] blime2009]
+[19:14:48] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[19:14:48] [Server thread/INFO]: Villager Villager['Villager'/58108, uuid='43597723-c101-4ed6-8681-e40eef2577e9', l='ServerLevel[world]', x=160.49, y=56.00, z=-1439.58, cpos=[10, -90], tl=53, v=true] died, message: 'Villager was slain by Zombie'
+[19:14:48] [Server thread/INFO]: zDreamz__ issued server command: /msg ZXxAlanJosuxXZ graxxx
+[19:14:52] [Async Chat Thread - #8/INFO]: [Not Secure] <zDreamz__> Xautral
+[19:14:53] [Server thread/INFO]: blime2009 issued server command: /inv zIkzw
+[19:14:55] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> xD
+[19:14:55] [Server thread/INFO]: Javdroker_MC issued server command: /inv zDreamz__
+[19:14:56] [Async Chat Thread - #8/INFO]: [Not Secure] <zDreamz__> mira dc
+[19:15:00] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> vengan a mi base
+[19:15:02] [Server thread/INFO]: Javdroker_MC issued server command: /inv zIkzw
+[19:15:06] [Server thread/INFO]: blime2009 issued server command: /inv zIkzw
+[19:15:07] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> cojan los items ilegales estos
+[19:15:11] [Server thread/INFO]: Javdroker_MC issued server command: /inv zIkzw
+[19:15:21] [Server thread/INFO]: blime2009 issued server command: /tp zIkzw
+[19:15:21] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] zIkzw]
+[19:15:22] [Server thread/INFO]: Xautral issued server command: /inv zIkzw
+[19:15:23] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC zIkzw
+[19:15:23] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Reino Berserk] zIkzw]
+[19:15:25] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[19:15:26] [Async Chat Thread - #9/INFO]: [Not Secure] <zIkzw> ya
+[19:15:27] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[19:15:29] [Async Chat Thread - #9/INFO]: [Not Secure] <Javdroker_MC> ziK
+[19:15:35] [Async Chat Thread - #9/INFO]: [Not Secure] <Javdroker_MC> devuelve las cosas
+[19:15:35] [Async Chat Thread - #9/INFO]: [Not Secure] <zIkzw> y soy bueno q os lo he dado
+[19:15:35] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[19:15:40] [Server thread/INFO]: Xautral issued server command: /inv zIk
+[19:15:40] [Server thread/INFO]: blime2009 issued server command: /tp zIkzw
+[19:15:40] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] zIkzw]
+[19:15:41] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 has made the advancement [War Pigs]
+[19:15:43] [Async Chat Thread - #9/INFO]: [Not Secure] <zIkzw> cualquier persona no os lo daria
+[19:15:45] [Server thread/INFO]: blime2009 issued server command: /inv zIkzw
+[19:15:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Javdroker_MC> te intentaste llevar el pico de fortuna 255
+[19:15:53] [Async Chat Thread - #9/INFO]: [Not Secure] <zIkzw> este es mi cofre secreto y no tengo na
+[19:16:03] [Async Chat Thread - #9/INFO]: [Not Secure] <zIkzw> literal agarre un pico de netherite
+[19:16:03] [Server thread/INFO]: zDreamz__ issued server command: /msg ZXxAlanJosuxXZ mando tpa?
+[19:16:05] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> falta el huevo de ghast
+[19:16:06] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> te juro que no vi el enchant
+[19:16:08] [Server thread/INFO]: Xautral issued server command: /tp zIkzw
+[19:16:08] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Berserk] zIkzw]
+[19:16:10] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
+[19:16:10] [Server thread/INFO]: [[Admin] blime2009: Removed 1561 item(s) from player [Admin] blime2009]
+[19:16:10] [Server thread/INFO]: Javdroker_MC issued server command: /inv zIkzw
+[19:16:11] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> porque te lo devolveria ahora?
+[19:16:16] [Server thread/INFO]: Javdroker_MC issued server command: /warp coliseo
+[19:16:21] [Server thread/INFO]: Xautral issued server command: /homesof zIkzw
+[19:16:22] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> por que puedo ver tu inv
+[19:16:24] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> y hacer esto
+[19:16:25] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [War Pigs]
+[19:16:27] [Server thread/INFO]: Javdroker_MC issued server command: /inv zIkzw
+[19:16:27] [Server thread/INFO]: Xautral issued server command: /homesof zIkzw
+[19:16:32] [Server thread/INFO]: blime2009 issued server command: /inv zIkzw
+[19:16:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> mira tu armor
+[19:16:39] [Server thread/INFO]: Xautral issued server command: /tp zIkzw
+[19:16:39] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Berserk] zIkzw]
+[19:16:41] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> q cojones
+[19:16:43] [Server thread/INFO]: Javdroker_MC issued server command: /inv zIkzw
+[19:16:45] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> bro?
+[19:16:45] [Server thread/INFO]: Xautral issued server command: /inv zIkzw
+[19:16:48] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> no me di cuenta
+[19:16:51] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> da el huevo
+[19:16:54] [Server thread/INFO]: zDreamz__ issued server command: /msg ZXxAlanJosuxXZ cn eso eos puedo ayudar
+[19:16:55] [Async Chat Thread - #9/INFO]: [Not Secure] <zIkzw> q huevo?
+[19:16:56] [Server thread/WARN]: Xautral moved too quickly! 9.040729849491669,0.4413259971314005,-15.482525066420749
+[19:16:58] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> este
+[19:17:00] [Async Chat Thread - #9/INFO]: [Not Secure] <blime2009> de ghast
+[19:17:00] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> jajajaj
+[19:17:05] [Server thread/WARN]: Xautral moved too quickly! 30.152120843244347,-1.8697721687210986,4.36380423054311
+[19:17:07] [Server thread/INFO]: Javdroker_MC issued server command: /inv zIkzw
+[19:17:07] [Server thread/INFO]: Xautral issued server command: /warps
+[19:17:15] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg zDreamz__ primero que te cambie de rino
+[19:17:18] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> no lo tengo
+[19:17:19] [Server thread/WARN]: Xautral moved too quickly! -8.90052697007286,-4.052364640080327,2.666367601672164
+[19:17:22] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[19:17:22] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[19:17:25] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> lo tenia en el inv y cuando vi lo q tenia os lo dije
+[19:17:25] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[19:17:27] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> para
+[19:17:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> q cosa
+[19:17:32] [Server thread/INFO]: Xautral issued server command: /fill 3856 60 -1015
+[19:17:35] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> tenia mi inventario ordenado
+[19:17:36] [Async Chat Thread - #8/INFO]: [Not Secure] <zDreamz__> Xautral
+[19:17:41] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> bueno solo tocastes 2 cosas xd
+[19:17:43] [Async Chat Thread - #8/INFO]: [Not Secure] <zDreamz__> canviame de reino
+[19:17:43] [Server thread/INFO]: zIkzw issued server command: /warp coliseo
+[19:17:50] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> se dice porfavor
+[19:17:53] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /sethome 2
+[19:17:56] [Server thread/INFO]: blime2009 issued server command: /give blime2009 minecraft:command_block
+[19:17:56] [Server thread/INFO]: [[Admin] blime2009: Gave 1 [Command Block] to [Admin] blime2009]
+[19:17:56] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[19:17:56] [Async Chat Thread - #8/INFO]: [Not Secure] <zDreamz__> pls :3
+[19:17:58] [Server thread/INFO]: Xautral issued server command: /fill 3856 60 -1015 3839 58 -1017 light destroy
+[19:17:58] [Server thread/INFO]: [[Owner] Xautral: Successfully filled 162 block(s)]
+[19:17:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> a cual
+[19:18:00] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> pongan con el world guard proteccion aca
+[19:18:02] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[19:18:05] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> pa no construir
+[19:18:05] [Async Chat Thread - #8/INFO]: [Not Secure] <NOW_POOL123> me fui
+[19:18:07] [Server thread/INFO]: Xautral issued server command: /fill 3856 60 -1015 3839 58 -1017 air destroy
+[19:18:07] [Server thread/INFO]: [[Owner] Xautral: Successfully filled 162 block(s)]
+[19:18:08] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[19:18:12] [Server thread/INFO]: zDreamz__ issued server command: /msg Xautral tukilor
+[19:18:16] [Server thread/INFO]: Xautral issued server command: /tell zDreamz__ okey
+[19:18:19] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> qn me pega
+[19:18:28] [Async Chat Thread - #8/INFO]: [Not Secure] <ZXxAlanJosuxXZ> pusiste home?
+[19:18:30] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> ALV
+[19:18:31] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> XD
+[19:18:34] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> LUZ VERDE
+[19:18:37] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> YA PUEDES CORRER Y PARAR
+[19:18:41] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 2
+[19:18:43] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> xddddddddddddd
+[19:18:51] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> qn me pega
+[19:19:00] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ no xd
+[19:19:06] [Server thread/INFO]: Xautral issued server command: /team join tukulor zDreamz__
+[19:19:06] [Server thread/INFO]: [[Owner] Xautral: Added [Reino Tukulor] zDreamz__ to team [tukulor]]
+[19:19:07] [Async Chat Thread - #9/INFO]: [Not Secure] <zIkzw> PARAR
+[19:19:10] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[19:19:10] [Server thread/INFO]: zDreamz__ issued server command: /msg Xautral ya?
+[19:19:10] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> tio vais a hacer q muera
+[19:19:18] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> no tengo nada
+[19:19:24] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[19:19:27] [Async Chat Thread - #8/INFO]: [Not Secure] <zDreamz__> dsp me conecto
+[19:19:28] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> tp a tu base :v
+[19:19:29] [Server thread/INFO]: Xautral issued server command: /fill 3839 60 -1018
+[19:19:30] [Server thread/INFO]: zDreamz__ lost connection: Disconnected
+[19:19:30] [Server thread/INFO]: [Reino Tukulor] zDreamz__ left the game
+[19:19:33] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> voy
+[19:19:34] [Server thread/INFO]: zIkzw issued server command: /home casa
+[19:19:38] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> veni
+[19:19:39] [Server thread/INFO]: Xautral issued server command: /fill 3839 60 -1018 3841 58 -1037 air
+[19:19:39] [Server thread/INFO]: [[Owner] Xautral: Successfully filled 142 block(s)]
+[19:19:40] [Server thread/INFO]: NOW_POOL123 issued server command: /home m
+[19:19:41] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> pa q veas q no tengo nada
+[19:19:45] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> me quitaron todo lo q tenia
+[19:19:47] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[19:19:51] [Server thread/INFO]: NOW_POOL123 issued server command: /home h
+[19:19:54] [Server thread/INFO]: Javdroker_MC issued server command: /ie enchant knockback 255
+[19:20:00] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[19:20:05] [Server thread/INFO]: Xautral issued server command: /fill 3841 61 -1037
+[19:20:09] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> quien viene a /warp coliseo
+[19:20:10] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[19:20:10] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[19:20:12] [Server thread/INFO]: Xautral issued server command: /fill 3841 61 -1037 3839 80 -1035 air
+[19:20:12] [Server thread/INFO]: [[Owner] Xautral: Successfully filled 161 block(s)]
+[19:20:12] [Server thread/INFO]: zIkzw issued server command: /warp coliseo
+[19:20:12] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[19:20:19] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[19:20:29] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> BRO
+[19:20:29] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[19:20:31] [Server thread/INFO]: [Admin] blime2009 was slain by [Admin] Javdroker_MC using [sniper]
+[19:20:32] [Async Chat Thread - #8/INFO]: [Not Secure] <NOW_POOL123> voy ero solo a ver
+[19:20:38] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[19:20:38] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[19:20:39] [Server thread/INFO]: Javdroker_MC issued server command: /tp blime2009 Javdroker_MC
+[19:20:39] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[19:20:40] [Server thread/INFO]: NOW_POOL123 issued server command: /warp coliseo
+[19:20:43] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> xd
+[19:20:48] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> esto da miedo xD
+[19:20:51] [Server thread/INFO]: blime2009 issued server command: /attribute blime2009 minecraft:max_health base reset
+[19:21:01] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:01] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:04] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[19:21:04] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[19:21:04] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[19:21:05] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[19:21:06] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:06] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:07] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:07] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:08] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:08] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:08] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:08] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:08] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:08] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:09] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 was slain by [Reino Berserk] zIkzw
+[19:21:09] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:09] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:09] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:09] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:10] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:10] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:10] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:10] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:11] [Server thread/INFO]: Javdroker_MC issued server command: /
+[19:21:12] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:12] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:12] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:12] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:13] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:13] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:13] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:13] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:14] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:14] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:14] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:14] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:15] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:15] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:15] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:15] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:15] [Server thread/INFO]: zIkzw issued server command: /home casa
+[19:21:16] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:16] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:16] [Server thread/INFO]: NOW_POOL123 issued server command: /msg zIkzw solo queria verr
+[19:21:16] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:16] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:17] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:17] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:18] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:18] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:20] [Async Chat Thread - #9/INFO]: [Not Secure] <zIkzw> gracias bro
+[19:21:21] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:21] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:22] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:22] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:22] [Async Chat Thread - #9/INFO]: [Not Secure] <zIkzw> te quite toda la armor
+[19:21:22] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:22] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:23] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [Who is Cutting Onions?]
+[19:21:23] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:23] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:24] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:24] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:25] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:25] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:25] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:25] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:26] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:26] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:26] [Server thread/INFO]: Xautral issued server command: /tp Javdroker_MC
+[19:21:26] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Javdroker_MC]
+[19:21:26] [Server thread/INFO]: NOW_POOL123 issued server command: /tell zIkzw me dasmis cosas
+[19:21:27] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:creaking
+[19:21:27] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Creaking]
+[19:21:29] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> holas
+[19:21:30] [Async Chat Thread - #8/INFO]: [Not Secure] <NOW_POOL123> no pueee
+[19:21:33] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> si pue
+[19:21:34] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:creaking]
+[19:21:34] [Server thread/INFO]: [[Owner] Xautral: Killed 145 entities]
+[19:21:38] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> NOOOO
+[19:21:38] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> la vida es dura
+[19:21:38] [Server thread/INFO]: Xautral issued server command: /warp granja
+[19:21:40] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> ;C
+[19:21:49] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> andamos probando eventos
+[19:22:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> now pool
+[19:22:01] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> si
+[19:22:09] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> LITERALMENTE SPAWNEARON 1000 EN MI CARA
+[19:22:10] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> java
+[19:22:10] [Async Chat Thread - #8/INFO]: [Not Secure] <NOW_POOL123> si?
+[19:22:10] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> ven a /warp coliseo
+[19:22:16] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> que te moriste ahi
+[19:22:16] [Server thread/INFO]: zIkzw issued server command: /warp coliseo
+[19:22:17] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> juguemos luz roja y luz verde
+[19:22:19] [Server thread/INFO]: NOW_POOL123 issued server command: /warp coliseo
+[19:22:19] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[19:22:22] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> yo quiero xd
+[19:22:23] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> dejen en paz a los miembros
+[19:22:26] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> see
+[19:22:29] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> Zi
+[19:22:32] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> no estamos haciendo nada :v
+[19:22:34] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> NO
+[19:22:34] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> a
+[19:22:36] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> q?
+[19:22:42] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 was slain by [Reino Berserk] zIkzw
+[19:22:49] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> bro esto es el coliseo xD
+[19:22:56] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> aun no ta listo
+[19:22:59] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> a vale
+[19:23:00] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> weno yo me retiro xautral
+[19:23:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Javdroker_MC> suerte
+[19:23:02] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> peldon
+[19:23:04] [Server thread/INFO]: Javdroker_MC lost connection: Disconnected
+[19:23:04] [Server thread/INFO]: [Admin] Javdroker_MC left the game
+[19:23:08] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> xautral es el q me pega
+[19:23:09] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> xd
+[19:23:11] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> yo?
+[19:23:13] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> wey
+[19:23:19] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> me estan pegando desde lejos
+[19:23:22] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> estoy trabajando en warp granja
+[19:23:22] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> aaaa
+[19:23:23] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> ?
+[19:23:24] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> es blime
+[19:23:27] [Async Chat Thread - #8/INFO]: [Not Secure] <zIkzw> a
+[19:23:28] [Server thread/INFO]: NOW_POOL123 issued server command: /msg Xautral yo solo queria mis cosas porfaa

@@ -264,6 +264,24 @@ data-version: 4|2|4440
     '3':
       resultItem:
         DataVersion: 4440
+        id: minecraft:wooden_hoe
+        count: 1
+        components:
+          minecraft:attribute_modifiers: '[{amount:10.0d,id:"minecraft:b31348a3-647b-4463-90da-b5ddfd6b7466",operation:"add_value",type:"minecraft:entity_interaction_range"}]'
+          minecraft:enchantments: '{"minecraft:wind_burst":3}'
+          minecraft:custom_name: '{extra:[{bold:0b,color:"gray",italic:0b,obfuscated:0b,strikethrough:0b,text:"Wind
+            Wand",underlined:0b}],text:""}'
+      item1:
+        DataVersion: 4440
+        id: minecraft:iron_ingot
+        count: 64
+      item2:
+        DataVersion: 4440
+        id: minecraft:iron_ingot
+        count: 64
+    '4':
+      resultItem:
+        DataVersion: 4440
         id: minecraft:chain
         count: 1
       item1:

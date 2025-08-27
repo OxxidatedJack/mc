@@ -1,101 +1,100 @@
-[17:07:26] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[17:07:26] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[17:07:26] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:07:29] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
-[17:07:29] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+[18:20:48] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[18:20:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[18:20:48] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:20:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[18:20:49] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
  - AxGraves (1.22.4), BasicHomes (1.9.6-RELEASE-1.21.8), ItemEdit (3.7.4), JustTPA (20250220c), KyrenLifesteal2 (v1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), Shopkeepers (2.23.10), SkinsRestorer (15.7.10)
-[17:07:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:07:37] [ServerMain/INFO]: Loaded 1407 recipes
-[17:07:37] [ServerMain/INFO]: Loaded 1520 advancements
-[17:07:37] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[17:07:38] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 501.0ms
-[17:07:38] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:07:38] [Server thread/INFO]: Loading properties
-[17:07:38] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[17:07:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:07:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:07:38] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:07:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[17:07:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[17:07:39] [Server thread/INFO]: Default game type: SURVIVAL
-[17:07:39] [Server thread/INFO]: Generating keypair
-[17:07:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:07:39] [Server thread/INFO]: Using epoll channel type
-[17:07:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:07:39] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[17:07:40] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
-[17:07:41] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
-[17:07:42] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
-[17:07:42] [Server thread/INFO]: [KyrenLifesteal2] Loading server plugin KyrenLifesteal2 vv1.0
-[17:07:42] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.4
-[17:07:42] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[17:07:42] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
-[17:07:42] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.10
-[17:07:42] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (662 ms).
-[17:07:42] [Server thread/INFO]: [Shopkeepers] Compatibility provider loaded: 1_21_R7_paper
-[17:07:42] [Server thread/INFO]: [Shopkeepers] Loading config.
-[17:07:42] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[17:07:42] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[17:07:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
-[17:07:42] [Server thread/INFO]: [BasicHomes] Loading server plugin BasicHomes v1.9.6-RELEASE-1.21.8
-[17:07:42] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
-[17:07:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:07:42] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
-[17:07:43] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[17:07:44] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:07:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:07:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:07:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:07:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:07:44] [Server thread/INFO]: Preparing level "world"
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:07:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:07:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:07:45] [Server thread/INFO]: Preparing spawn area: 0%
-[17:07:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:07:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:07:46] [Server thread/INFO]: Time elapsed: 1241 ms
-[17:07:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:07:46] [Server thread/INFO]: Preparing spawn area: 0%
-[17:07:46] [Server thread/INFO]: Preparing spawn area: 16%
-[17:07:47] [Server thread/INFO]: Time elapsed: 927 ms
-[17:07:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:07:47] [Server thread/INFO]: Preparing spawn area: 0%
-[17:07:47] [Server thread/INFO]: Time elapsed: 173 ms
-[17:07:47] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
-[17:07:47] [Server thread/INFO]: [KyrenLifesteal2] Enabling KyrenLifesteal2 vv1.0
-[17:07:47] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[18:20:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:20:57] [ServerMain/INFO]: Loaded 1407 recipes
+[18:20:57] [ServerMain/INFO]: Loaded 1520 advancements
+[18:20:57] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[18:20:58] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 374.4ms
+[18:20:58] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[18:20:58] [Server thread/INFO]: Loading properties
+[18:20:58] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[18:20:58] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:20:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:20:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:20:59] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[18:20:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[18:20:59] [Server thread/INFO]: Default game type: SURVIVAL
+[18:20:59] [Server thread/INFO]: Generating keypair
+[18:20:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:20:59] [Server thread/INFO]: Using epoll channel type
+[18:20:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:20:59] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[18:21:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[18:21:01] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
+[18:21:01] [Server thread/INFO]: [KyrenLifesteal2] Loading server plugin KyrenLifesteal2 vv1.0
+[18:21:01] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.4
+[18:21:01] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[18:21:01] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
+[18:21:01] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.10
+[18:21:01] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (715 ms).
+[18:21:01] [Server thread/INFO]: [Shopkeepers] Compatibility provider loaded: 1_21_R7_paper
+[18:21:01] [Server thread/INFO]: [Shopkeepers] Loading config.
+[18:21:01] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[18:21:01] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[18:21:01] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[18:21:01] [Server thread/INFO]: [BasicHomes] Loading server plugin BasicHomes v1.9.6-RELEASE-1.21.8
+[18:21:01] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA v20250220c
+[18:21:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:21:01] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[18:21:02] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[18:21:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:21:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:21:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:21:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:21:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:21:03] [Server thread/INFO]: Preparing level "world"
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:21:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:21:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:21:04] [Server thread/INFO]: Preparing spawn area: 0%
+[18:21:04] [Server thread/INFO]: Preparing spawn area: 2%
+[18:21:05] [Server thread/INFO]: Preparing spawn area: 2%
+[18:21:05] [Server thread/INFO]: Time elapsed: 1405 ms
+[18:21:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:21:05] [Server thread/INFO]: Preparing spawn area: 0%
+[18:21:05] [Server thread/INFO]: Time elapsed: 381 ms
+[18:21:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:21:05] [Server thread/INFO]: Preparing spawn area: 0%
+[18:21:05] [Server thread/INFO]: Time elapsed: 170 ms
+[18:21:05] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
+[18:21:06] [Server thread/INFO]: [KyrenLifesteal2] Enabling KyrenLifesteal2 vv1.0
+[18:21:06] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -146,7 +145,7 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[17:07:47] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[18:21:06] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -197,7 +196,7 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[17:07:47] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[18:21:06] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -248,7 +247,7 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[17:07:47] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
+[18:21:06] [Server thread/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.inventory.meta.ItemMeta org.bukkit.craftbukkit.inventory.SerializableMeta.deserialize(java.util.Map) throws java.lang.Throwable' of class org.bukkit.craftbukkit.inventory.SerializableMeta for deserialization
 java.lang.RuntimeException: Could not deserialize found primitive 
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:89) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at org.bukkit.craftbukkit.util.CraftNBTTagConfigSerializer.internalLegacyDeserialization(CraftNBTTagConfigSerializer.java:48) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
@@ -299,1213 +298,342 @@ java.lang.RuntimeException: Could not deserialize found primitive
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.8.jar:1.21.8-6-782ce95]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Expected a valid unquoted string at position 0: <--[HERE]
-[17:07:47] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] MENU MANAGER HAS BEEN SETUP
-[17:07:47] [Server thread/WARN]: Nag author(s): '[Kyren223]' of 'KyrenLifesteal2 vv1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[17:07:47] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] ContainerListener
-[17:07:47] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] InventoryListener
-[17:07:47] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.4
-[17:07:48] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[17:07:48] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[17:07:48] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[17:07:48] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[17:07:48] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[17:07:48] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[17:07:48] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
-[17:07:49] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
-[17:07:49] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
-[17:07:49] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
-[17:07:49] [Server thread/INFO]: [ItemEdit] # Enabled (took 260 ms)
-[17:07:49] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.10
-[17:07:49] [Server thread/INFO]: [Shopkeepers] Loading the data of 5 shopkeepers ...
-[17:07:49] [Server thread/INFO]: [BasicHomes] Enabling BasicHomes v1.9.6-RELEASE-1.21.8
-[17:07:49] [Server thread/INFO]: [BH] Commands loaded !
-[17:07:49] [Server thread/INFO]: [BH] Events loaded !
-[17:07:49] [Server thread/INFO]: [BH] Metrics (bStats) successfully loaded !
-[17:07:49] [Server thread/INFO]: [BH] Checking for updates...
-[17:07:49] [Server thread/INFO]: [BH] An update is available: 1.9.7. Download it at https://www.curseforge.com/minecraft/bukkit-plugins/basichomes/files
-[17:07:49] [Server thread/INFO]: [BH] Plugin successfully loaded !
-[17:07:49] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
-[17:07:49] [Server thread/INFO]: [JustTPA] JustTPA initialized
-[17:07:49] [Server thread/INFO]: [JustTPA] bStats enabled
-[17:07:49] [Server thread/INFO]: [JustTPA] Checking for updates...
-[17:07:50] [Server thread/INFO]: [spark] Starting background profiler...
-[17:07:50] [Server thread/INFO]: Done preparing level "world" (6.424s)
-[17:07:50] [Server thread/INFO]: Running delayed init tasks
-[17:07:50] [Server thread/INFO]: Done (25.579s)! For help, type "help"
-[17:07:51] [Craft Scheduler Thread - 4 - JustTPA/WARN]: [JustTPA] Failed to check for updates
-[17:10:04] [User Authenticator #0/INFO]: UUID of player Sebasyuotupi is 12e21d4e-3b99-39a4-97da-03c1c85487c9
-[17:10:04] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[17:10:08] [Server thread/INFO]: [Dominio de Teemo] Sebasyuotupi joined the game
-[17:10:08] [Server thread/INFO]: Sebasyuotupi[/127.115.99.248:55861] logged in with entity id 62 at ([world]-40.09392321752488, 151.0, 198.2632416406686)
-[17:10:21] [Server thread/INFO]: Sebasyuotupi lost connection: Disconnected
-[17:10:21] [Server thread/INFO]: [Dominio de Teemo] Sebasyuotupi left the game
-[17:14:18] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[17:14:23] [Server thread/INFO]: [Owner] Xautral joined the game
-[17:14:23] [Server thread/INFO]: Xautral[/127.115.99.248:41613] logged in with entity id 275 at ([world]-35.4883956022908, 169.85056589688142, -33.05225600179449)
-[17:16:18] [Server thread/INFO]: Xautral lost connection: Login timed out!
-[17:16:18] [Server thread/INFO]: Xautral left the game
-[17:16:26] [User Authenticator #2/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[17:16:27] [Server thread/INFO]: [Owner] Xautral joined the game
-[17:16:27] [Server thread/INFO]: Xautral[/127.115.99.248:44801] logged in with entity id 336 at ([world]-35.4883956022908, 169.85056589688142, -33.05225600179449)
-[17:16:44] [Server thread/INFO]: Xautral lost connection: Disconnected
-[17:16:44] [Server thread/INFO]: [Owner] Xautral left the game
-[17:16:54] [User Authenticator #2/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
-[17:16:55] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
-[17:16:55] [Server thread/INFO]: _wdegw_[/127.153.189.115:45737] logged in with entity id 345 at ([world]233.5, 65.5625, -1453.5)
-[17:17:23] [Server thread/INFO]: [Not Secure] [Server] hola
-[17:17:28] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> ola
-[17:17:31] [Server thread/INFO]: Missing selector type
-enchant @<--[HERE]
-[17:20:12] [Server thread/INFO]: _wdegw_ issued server command: /warp granjacomunitaria
-[17:20:57] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
-[17:21:44] [Server thread/INFO]: _wdegw_ issued server command: /warp granjacomunitaria
-[17:24:24] [User Authenticator #3/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
-[17:24:27] [Server thread/INFO]: [Reino Majaphit] zDreamz__ joined the game
-[17:24:27] [Server thread/INFO]: zDreamz__[/127.158.175.255:44601] logged in with entity id 2542 at ([world]-166.82348891320999, 131.0, 4.657786597269099)
-[17:25:01] [Async Chat Thread - #2/INFO]: [Not Secure] <zDreamz__> aswd
-[17:25:12] [Async Chat Thread - #2/INFO]: [Not Secure] <zDreamz__> _wdegw_
-[17:25:17] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> dime
-[17:25:25] [Async Chat Thread - #2/INFO]: [Not Secure] <zDreamz__> como voy a el spawn
-[17:25:33] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> ./warp spawn
-[17:25:38] [Async Chat Thread - #2/INFO]: [Not Secure] <zDreamz__> gracias
-[17:25:41] [Async Chat Thread - #2/INFO]: [Not Secure] <_wdegw_> de nada
-[17:25:45] [Server thread/INFO]: zDreamz__ issued server command: /warp spawn
-[17:27:30] [User Authenticator #4/INFO]: UUID of player Xartraul is 146ee551-f7ea-3e22-9d64-acf25dfc6362
-[17:27:30] [Server thread/INFO]: Disconnecting Xartraul (/127.115.99.248:39013): You are not whitelisted on this server!
-[17:27:30] [Server thread/INFO]: Xartraul (/127.115.99.248:39013) lost connection: You are not whitelisted on this server!
-[17:27:39] [Server thread/INFO]: Added Xartraul to the whitelist
-[17:29:25] [User Authenticator #5/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
-[17:29:31] [Server thread/INFO]: [Admin] blime2009 joined the game
-[17:29:31] [Server thread/INFO]: blime2009[/127.20.187.84:48899] logged in with entity id 5658 at ([world_the_end]273.30000001192093, 1.0, 35.21191286084781)
-[17:29:47] [Server thread/INFO]: blime2009 issued server command: /gamemode spectator
-[17:29:47] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Spectator Mode]
-[17:29:49] [Server thread/INFO]: blime2009 issued server command: /tp zDreamz__
-[17:29:49] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Majaphit] zDreamz__]
-[17:29:58] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
-[17:29:58] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
-[17:30:02] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> zDreamz__ tienes saplis de abeto tal vez?
-[17:30:05] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> algn me da comidita opls
-[17:30:09] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> pls*
-[17:30:18] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
-[17:30:28] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:30:29] [Server thread/INFO]: [Reino Majaphit] zDreamz__ was blown up by Creeper
-[17:30:29] [Server thread/INFO]: blime2009 issued server command: /tp _wdegw_
-[17:30:29] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] _wdegw_]
-[17:30:31] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> ptm
-[17:30:37] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> por escrivir
-[17:30:40] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> weno
-[17:30:49] [Server thread/INFO]: blime2009 issued server command: /grave
-[17:30:51] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> recien empece ayer
-[17:30:55] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> a xd
-[17:30:55] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> no tengo nada
-[17:30:55] [Server thread/INFO]: blime2009 issued server command: /axgrave
-[17:30:56] [User Authenticator #6/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
-[17:30:57] [Server thread/INFO]: [Admin] Javdroker_MC joined the game
-[17:30:57] [Server thread/INFO]: Javdroker_MC[/127.214.216.25:41805] logged in with entity id 6300 at ([world]-20.598441596746277, 114.16327278221777, 684.6444216302056)
-[17:31:00] [Server thread/INFO]: blime2009 issued server command: /axgrave list
-[17:31:14] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> algn me da algo :3
-[17:31:16] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> porfa
-[17:31:21] [Server thread/INFO]: blime2009 issued server command: /axgraves tp world -42.500000 99.500000 -231.500000
-[17:31:21] [Server thread/INFO]: blime2009 issued server command: /axgraves tp world -42.500000 99.500000 -231.500000
-[17:31:39] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
-[17:31:39] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
-[17:31:43] [Server thread/INFO]: _wdegw_ issued server command: /tpa zDreamz__
-[17:31:50] [Server thread/INFO]: zDreamz__ issued server command: /tpaccept
-[17:31:51] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[17:31:51] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
-[17:31:56] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Cover Me with Diamonds]
-[17:31:57] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Suit Up]
-[17:31:57] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> oooo
-[17:31:59] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Diamonds!]
-[17:31:59] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Isn't It Iron Pick]
-[17:32:03] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> q ricoooo
-[17:32:05] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> XD
-[17:32:09] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> graciassss
-[17:32:09] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
-[17:32:12] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> de nada w
-[17:32:39] [Server thread/INFO]: blime2009 issued server command: /ie attribute add attack_speed 0
-[17:32:50] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> q rico dimanate
-[17:32:51] [Server thread/INFO]: blime2009 issued server command: /ie attribute add attack_damage 100000000000000000000
-[17:32:54] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
-[17:32:54] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
-[17:32:56] [Server thread/INFO]: Javdroker_MC lost connection: Login timed out!
-[17:32:56] [Server thread/INFO]: Javdroker_MC left the game
-[17:33:05] [Server thread/INFO]: blime2009 issued server command: /tp
-[17:33:08] [Server thread/INFO]: blime2009 issued server command: /tp zDreamz__
-[17:33:08] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Majaphit] zDreamz__]
-[17:33:17] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Monster Hunter]
-[17:33:21] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> o
-[17:33:24] [User Authenticator #7/INFO]: UUID of player Xartraul is 146ee551-f7ea-3e22-9d64-acf25dfc6362
-[17:33:27] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> blime2009
-[17:33:28] [Server thread/INFO]: Xartraul joined the game
-[17:33:28] [Server thread/INFO]: Xartraul[/127.115.99.248:43255] logged in with entity id 7866 at ([world]0.5, 121.0, 0.5)
-[17:33:34] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> parece q me escuchas
-[17:33:34] [Server thread/INFO]: blime2009 issued server command: /advancement revoke blime2009 everything
-[17:33:34] [Server thread/INFO]: [[Admin] blime2009: Revoked 1520 advancements from [Admin] blime2009]
-[17:33:35] [User Authenticator #7/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
-[17:33:37] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
-[17:33:37] [Server thread/INFO]: NOW_POOL123[/127.71.145.119:47909] logged in with entity id 7931 at ([world_the_end]274.53790875428217, 1.0, 42.69999998807907)
-[17:33:41] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> ?
-[17:33:52] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> pqe estraba gritando por el creeper
-[17:33:56] [Server thread/INFO]: Made Xaurtraul a server operator
-[17:34:00] [Async Chat Thread - #4/INFO]: [Not Secure] <NOW_POOL123> Hola
-[17:34:04] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> wena
-[17:34:11] [Server thread/INFO]: Made Xartraul a server operator
-[17:34:15] [Server thread/INFO]: [Xartraul: Set own game mode to Creative Mode]
-[17:34:15] [Server thread/INFO]: NOW_POOL123 issued server command: /home reino
-[17:34:22] [Server thread/INFO]: Xartraul issued server command: /team add multi
-[17:34:22] [Server thread/INFO]: [Xartraul: Created team [multi]]
-[17:34:29] [Server thread/INFO]: Xartraul issued server command: /team modify multi prefix ["",{"text":"[Multi]","bold":true,"strikethrough":true,"color":"yellow"},{"text":" ","bold":true,"color":"yellow"}]
-[17:34:36] [Server thread/INFO]: Xartraul issued server command: /team join multi Xartraul
-[17:34:36] [Server thread/INFO]: [Xartraul: Added [Multi] Xartraul to team [multi]]
-[17:34:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> hola
-[17:34:40] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> hola
-[17:34:44] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> hola
-[17:34:45] [User Authenticator #8/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
-[17:34:45] [Server thread/INFO]: [Admin] Javdroker_MC joined the game
-[17:34:45] [Server thread/INFO]: Javdroker_MC[/127.214.216.25:50703] logged in with entity id 8738 at ([world]-20.972703223086587, 114.16327278221777, 684.0680421519063)
-[17:34:54] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
-[17:34:54] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
-[17:34:54] [Async Chat Thread - #4/INFO]: [Not Secure] <Javdroker_MC> holas xautral
-[17:34:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> hola
-[17:35:03] [Server thread/INFO]: NOW_POOL123 issued server command: /warp trades
-[17:35:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> e mi multi poreo le puse esto
-[17:35:12] [Async Chat Thread - #4/INFO]: [Not Secure] <Javdroker_MC> xd
-[17:35:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> xd
-[17:35:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Xartraul> bye
-[17:35:19] [Server thread/INFO]: Xartraul lost connection: Disconnected
-[17:35:19] [Server thread/INFO]: [Multi] Xartraul left the game
-[17:35:28] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> oigan ç
-[17:35:30] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Spooky Scary Skeleton]
-[17:35:47] [Server thread/INFO]: blime2009 issued server command: /advancement grant blime2009 everything
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Who is Cutting Onions?]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [You've Got a Friend in Me]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [With Our Powers Combined!]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Oh Shiny]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Country Lode, Take Me Home]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Good as New]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Suit Up]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Smithing with Style]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Very Very Frightening]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Hot Stuff]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Stay Hydrated!]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Minecraft: Trial(s) Edition]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Whatever Floats Your Goat!]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Free the End]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Surge Protector]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [A Furious Cocktail]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Best Friends Forever]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Careful Restoration]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Glow and Behold!]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Bring Home the Beacon]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Not Today, Thank You]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [When the Squad Hops into Town]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Isn't It Iron Pick]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [The Whole Pack]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Local Brewery]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [The Next Generation]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [It Spreads]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Fishy Business]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Hot Tourist Destinations]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Caves & Cliffs]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Over-Overkill]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Shear Brilliance]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [This Boat Has Legs]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Sniper Duel]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Great View From Up Here]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [How Did We Get Here?]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Bullseye]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Two by Two]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Stone Age]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Two Birds, One Arrow]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [We Need to Go Deeper]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Who's the Pillager Now?]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Getting an Upgrade]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Light as a Rabbit]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Tactical Fishing]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Respecting the Remnants]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Zombie Doctor]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Little Sniffs]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The City at the End of the Game]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Ice Bucket Challenge]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Remote Getaway]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Into Fire]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [War Pigs]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Take Aim]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Total Beelocation]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Lighten Up]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Arbalistic]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Under Lock and Key]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [The End... Again...]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Acquire Hardware]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Not Quite "Nine" Lives]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Revaulting]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Cover Me with Diamonds]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Sky's the Limit]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Bukkit Bukkit]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Wax Off]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Hired Help]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Sneak 100]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Return to Sender]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Sweet Dreams]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [You Need a Mint]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Monsters Hunted]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Heart Transplanter]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Enchanter]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Smells Interesting]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Voluntary Exile]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Eye Spy]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Is It a Bird?]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Serious Dedication]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Postmortal]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Monster Hunter]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Isn't It Scute?]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Planting the Past]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Adventuring Time]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [A Seedy Place]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Those Were the Days]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The Cutest Predator]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Birthday Song]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Is It a Plane?]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Feels Like Home]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Star Trader]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Wax On]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Sound of Music]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Hero of the Village]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Hidden in the Depths]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has reached the goal [Beaconator]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Withering Heights]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [A Balanced Diet]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Subspace Bubble]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The Power of Books]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Bee Our Guest]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [What a Deal!]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Is It a Balloon?]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Crafting a New Look]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Uneasy Alliance]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Diamonds!]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The Healing Power of Friendship!]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [A Terrible Fortress]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [A Throwaway Joke]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Crafters Crafting Crafters]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Sticky Situation]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Ol' Betsy]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Cover Me in Debris]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The End?]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [The Parrots and the Bats]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [Blowback]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has completed the challenge [A Complete Catalogue]
-[17:35:47] [Server thread/INFO]: [Admin] blime2009 has made the advancement [Who Needs Rockets?]
-[17:35:47] [Server thread/INFO]: [[Admin] blime2009: Granted 1520 advancements to [Admin] blime2009]
-[17:35:56] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> algn mas me puede cambiar el nick de mi clan
-[17:35:56] [Async Chat Thread - #4/INFO]: [Not Secure] <_wdegw_> XD
-[17:35:59] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> eee
-[17:36:05] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> XD
-[17:36:05] [Server thread/INFO]: NOW_POOL123 issued server command: /home h3
-[17:36:12] [Server thread/INFO]: NOW_POOL123 issued server command: /home m
-[17:36:15] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> ese si se activo los chits
-[17:36:17] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Monster Hunter]
-[17:36:27] [Server thread/INFO]: blime2009 issued server command: /advancement grant Javdroker_MC everything
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Who is Cutting Onions?]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [You've Got a Friend in Me]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [With Our Powers Combined!]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Oh Shiny]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Country Lode, Take Me Home]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Good as New]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Suit Up]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Smithing with Style]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Very Very Frightening]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Hot Stuff]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Stay Hydrated!]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Minecraft: Trial(s) Edition]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Whatever Floats Your Goat!]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Free the End]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Surge Protector]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [A Furious Cocktail]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Best Friends Forever]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Careful Restoration]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Glow and Behold!]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Bring Home the Beacon]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Not Today, Thank You]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [When the Squad Hops into Town]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Isn't It Iron Pick]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [The Whole Pack]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Local Brewery]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [The Next Generation]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [It Spreads]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Fishy Business]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Hot Tourist Destinations]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Caves & Cliffs]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Over-Overkill]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Shear Brilliance]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [This Boat Has Legs]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Sniper Duel]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Great View From Up Here]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [How Did We Get Here?]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Bullseye]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Spooky Scary Skeleton]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Two by Two]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Two Birds, One Arrow]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [We Need to Go Deeper]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Who's the Pillager Now?]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Getting an Upgrade]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Light as a Rabbit]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Tactical Fishing]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Respecting the Remnants]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Zombie Doctor]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Little Sniffs]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The City at the End of the Game]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Ice Bucket Challenge]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Remote Getaway]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Into Fire]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [War Pigs]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Take Aim]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Total Beelocation]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Lighten Up]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Arbalistic]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Under Lock and Key]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [The End... Again...]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Acquire Hardware]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Not Quite "Nine" Lives]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Revaulting]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Cover Me with Diamonds]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Sky's the Limit]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Bukkit Bukkit]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Wax Off]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Hired Help]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Sneak 100]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Return to Sender]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Sweet Dreams]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [You Need a Mint]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Monsters Hunted]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Heart Transplanter]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Enchanter]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Smells Interesting]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Voluntary Exile]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Eye Spy]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Is It a Bird?]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Serious Dedication]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Postmortal]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Isn't It Scute?]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Planting the Past]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Adventuring Time]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [A Seedy Place]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Those Were the Days]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The Cutest Predator]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Birthday Song]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Is It a Plane?]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Feels Like Home]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Star Trader]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Wax On]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Sound of Music]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Hero of the Village]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Hidden in the Depths]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has reached the goal [Beaconator]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Withering Heights]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [A Balanced Diet]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Subspace Bubble]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The Power of Books]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Bee Our Guest]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [What a Deal!]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Is It a Balloon?]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Crafting a New Look]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Uneasy Alliance]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Diamonds!]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The Healing Power of Friendship!]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [A Terrible Fortress]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [A Throwaway Joke]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Crafters Crafting Crafters]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Sticky Situation]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Ol' Betsy]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Cover Me in Debris]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [The Parrots and the Bats]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [Blowback]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has completed the challenge [A Complete Catalogue]
-[17:36:27] [Server thread/INFO]: [Admin] Javdroker_MC has made the advancement [Who Needs Rockets?]
-[17:36:27] [Server thread/INFO]: [[Admin] blime2009: Granted 1520 advancements to [Admin] Javdroker_MC]
-[17:36:39] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> no ps compratan
-[17:36:44] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> no
-[17:36:48] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> :c
-[17:36:57] [Async Chat Thread - #4/INFO]: [Not Secure] <zDreamz__> ando cn miedo
-[17:37:43] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:wind_charge
-[17:37:43] [Server thread/INFO]: [[Admin] blime2009: Summoned new Wind Charge]
-[17:37:56] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:breeze_wind_charge
-[17:37:56] [Server thread/INFO]: [[Admin] blime2009: Summoned new Wind Charge]
-[17:37:58] [Async Chat Thread - #6/INFO]: [Not Secure] <_wdegw_> huy
-[17:38:17] [Server thread/INFO]: _wdegw_ issued server command: /sethome totems
-[17:38:29] [Server thread/INFO]: blime2009 issued server command: /attribute f3502c48-963a-4705-a0ce-3ff38524cc9a minecraft:scale base set 10
-[17:39:01] [Server thread/INFO]: blime2009 issued server command: /fill -38 106 706
-[17:39:13] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 -35 114 706
-[17:39:27] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 -35 114 706 -31 106 706
-[17:39:27] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 36 block(s)]
-[17:39:35] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 -35 114 706 -34 106 706
-[17:39:35] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 36 block(s)]
-[17:39:44] [Server thread/INFO]: [Reino Berserk] _wdegw_ has made the advancement [You've Got a Friend in Me]
-[17:39:44] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 -35 114 706 -27 106 706
-[17:39:44] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 36 block(s)]
-[17:39:58] [Server thread/INFO]: blime2009 issued server command: /clone
-[17:40:06] [Server thread/INFO]: blime2009 issued server command: /clone -24 114 706
-[17:40:23] [Server thread/INFO]: blime2009 issued server command: /clone -24 114 706 -24 106 706 -24 106 706
-[17:40:35] [Server thread/INFO]: blime2009 issued server command: /clone
-[17:40:52] [Server thread/INFO]: blime2009 issued server command: /clone -24 106 706
-[17:40:57] [Server thread/INFO]: blime2009 issued server command: /clone -24 106 706 -38 114 706
-[17:41:04] [Server thread/INFO]: blime2009 issued server command: /clone -24 106 706 -38 114 706 -23 106 706
-[17:41:04] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 135 block(s)]
-[17:41:07] [Server thread/INFO]: [Reino Berserk] _wdegw_ has made the advancement [Voluntary Exile]
-[17:41:14] [Server thread/INFO]: blime2009 issued server command: /clone -24 106 706 -38 114 706 -8 106 706
-[17:41:14] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 135 block(s)]
-[17:41:28] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702
-[17:41:33] [Server thread/INFO]: Javdroker_MC issued server command: /tellraw @a {"text":"Herobrine se ha unido al juego","color":"yellow"}
-[17:41:36] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702 -42 114 694
-[17:41:41] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702 -42 114 694 -42 106 693
-[17:41:49] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702 -42 114 694 -42 106 692
-[17:41:55] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 702 -42 114 694 -42 106 691
-[17:42:06] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702
-[17:42:11] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 692
-[17:42:19] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 692 -42 106 690
-[17:42:29] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 692 -42 106 690 strict
-[17:42:34] [Async Chat Thread - #8/INFO]: [Not Secure] <zDreamz__> como se compran coras?¿
-[17:42:45] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 692 -42 106 688
-[17:42:56] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702
-[17:43:02] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 687
-[17:43:09] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 687 -42 106 673
-[17:43:15] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 687 -42 106 667
-[17:43:15] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 144 block(s)]
-[17:43:30] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome m
-[17:43:35] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome m
-[17:44:03] [Server thread/INFO]: blime2009 issued server command: /execute at @a as @s run playsound minecraft:entity.lightning_bolt.impact ambient @a ~ ~ ~
-[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Admin] blime2009]
-[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Reino Berserk] _wdegw_]
-[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Reino Majaphit] zDreamz__]
-[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Reino Tukulor] NOW_POOL123]
-[17:44:03] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.impact to [Admin] Javdroker_MC]
-[17:44:05] [Server thread/INFO]: Javdroker_MC issued server command: /tellraw @a {"text":"Herobrine Left the game","color":"yellow"}
-[17:44:38] [Server thread/INFO]: Javdroker_MC issued server command: /tellraw @a {"text":"Herobrine joined the game","color":"yellow"}
-[17:44:39] [Server thread/INFO]: blime2009 issued server command: /execute at @a as @s run playsound minecraft:entity.lightning_bolt.thunder ambient @a ~ ~ ~
-[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to 2 players]
-[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to [Reino Berserk] _wdegw_]
-[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to [Reino Majaphit] zDreamz__]
-[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to [Reino Tukulor] NOW_POOL123]
-[17:44:39] [Server thread/INFO]: [[Admin] blime2009: Played sound minecraft:entity.lightning_bolt.thunder to 2 players]
-[17:44:47] [Server thread/INFO]: Javdroker_MC issued server command: /inv NOW_POOL123
-[17:45:01] [Server thread/INFO]: Javdroker_MC issued server command: /inv zDreamz__
-[17:45:13] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706
-[17:45:14] [Server thread/INFO]: Javdroker_MC issued server command: /inv zDreamz__
-[17:45:20] [Server thread/INFO]: Javdroker_MC issued server command: /inv _wdegw_
-[17:45:21] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 6 114 706
-[17:45:31] [Async Chat Thread - #10/INFO]: [Not Secure] <_wdegw_> q wea
-[17:45:54] [Server thread/INFO]: blime2009 issued server command: /clone -38 106 706 6 114 706 -38 105 652
-[17:45:54] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 405 block(s)]
-[17:46:15] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 706
-[17:46:31] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 706 -38 114 702
-[17:46:37] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Sneak 100]
-[17:46:43] [Server thread/INFO]: Javdroker_MC issued server command: /inv NOW_POOL123
-[17:46:44] [User Authenticator #9/INFO]: Disconnecting NOW_POOL123 (/127.71.145.119:48225): [LoginSecurity] This player is already online!
-[17:46:44] [User Authenticator #9/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
-[17:46:44] [Server thread/INFO]: NOW_POOL123 (/127.71.145.119:48225) lost connection: [LoginSecurity] This player is already online!
-[17:46:45] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
-[17:46:45] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
-[17:46:52] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 706 -38 114 702 15 106 654
-[17:46:52] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 225 block(s)]
-[17:46:52] [User Authenticator #9/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
-[17:46:53] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
-[17:46:53] [Server thread/INFO]: NOW_POOL123[/127.71.145.119:47165] logged in with entity id 17513 at ([world]-209.2808095801263, -49.9375, -209.6795675309748)
-[17:47:19] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 706 -38 114 702 13 106 652
-[17:47:19] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 225 block(s)]
-[17:47:33] [Async Chat Thread - #12/INFO]: [Not Secure] <NOW_POOL123> arreglenme pendejossss
-[17:47:41] [Server thread/INFO]: Javdroker_MC issued server command: /tellraw @a {"text":"Nocht joined de the game","color":"yellow"}
-[17:47:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> que paso?
-[17:47:45] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> ALV
-[17:47:47] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> como que nocht
-[17:48:00] [Async Chat Thread - #12/INFO]: [Not Secure] <NOW_POOL123> manos jugaron con mi inventario y con mi armadura xd
-[17:48:07] [Server thread/INFO]: Javdroker_MC issued server command: /inv NOW_POOL123
-[17:48:09] [Async Chat Thread - #12/INFO]: [Not Secure] <NOW_POOL123> mis votas las tengo en mi cabeza
-[17:48:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> que burger
-[17:48:18] [Server thread/INFO]: zDreamz__ issued server command: /warp spawn
-[17:48:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> weno ya te lo arregle
-[17:48:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> pero deja los bugs
-[17:48:26] [Server thread/INFO]: zDreamz__ issued server command: /warp trades
-[17:48:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Javdroker_MC> de las armaduras en partes donde no van
-[17:48:31] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 675
-[17:48:36] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 675 -42 114 667
-[17:48:42] [Server thread/INFO]: blime2009 issued server command: /clone -42 106 675 -42 114 667 -42 106 656
-[17:48:42] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 81 block(s)]
-[17:49:03] [Server thread/INFO]: zDreamz__ issued server command: /warp spawn
-[17:49:25] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 652
-[17:49:49] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 652 17 121 706 minecraft:light replace air
-[17:50:06] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 652 17 115 706 minecraft:light replace air
-[17:50:21] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 652 17 112 706 minecraft:light replace air
-[17:50:21] [Server thread/INFO]: [[Admin] blime2009: Successfully filled 22057 block(s)]
-[17:50:31] [Server thread/INFO]: Javdroker_MC issued server command: /inv zDreamz__
-[17:50:39] [Server thread/INFO]: blime2009 issued server command: /clone
-[17:50:46] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702
-[17:50:55] [Server thread/INFO]: Javdroker_MC issued server command: /inv zDreamz__
-[17:50:58] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 656
-[17:51:03] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> bro
-[17:51:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> que?
-[17:51:08] [Server thread/INFO]: blime2009 issued server command: /clone -42 114 702 -42 106 656 17 106 657
-[17:51:08] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 423 block(s)]
-[17:51:27] [Server thread/INFO]: blime2009 issued server command: /clone 1 106 652
-[17:51:27] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> qn mr me canvia el inventario :v
-[17:51:32] [Server thread/INFO]: blime2009 issued server command: /clone 1 106 652 6 114 652
-[17:51:33] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> miren
-[17:51:37] [Server thread/INFO]: blime2009 issued server command: /clone 1 106 652 6 114 652 12 106 652
-[17:51:37] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 54 block(s)]
-[17:51:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> hijos de sus mamis
-[17:51:38] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
-[17:51:38] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
-[17:51:41] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> miro
-[17:51:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> dejen de hacer el bug
-[17:51:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> de cambio de armadura
-[17:51:48] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> q bug
-[17:51:48] [Server thread/INFO]: blime2009 issued server command: /clone 1 106 652 6 114 652 7 106 652
-[17:51:48] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 54 block(s)]
-[17:52:02] [User Authenticator #10/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
-[17:52:03] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ joined the game
-[17:52:03] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.95.225.242:37659] logged in with entity id 19997 at ([world]6793.621003479224, 75.0, -1012.3000000119209)
-[17:52:03] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> pos el de poner armadura en otros partes donde no van :V
-[17:52:17] [Server thread/INFO]: blime2009 issued server command: /clone -41 106 655
-[17:52:19] [User Authenticator #10/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
-[17:52:20] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
-[17:52:20] [Server thread/INFO]: NOW_POOL123[/127.71.145.119:60329] logged in with entity id 20382 at ([world]-178.03772329706177, -45.0, -127.67111645835486)
-[17:52:23] [Server thread/INFO]: blime2009 issued server command: /clone -41 106 655 -39 114 653
-[17:52:28] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> a
-[17:52:35] [Server thread/INFO]: blime2009 issued server command: /clone -41 106 655 -39 114 653 16 106 701
-[17:52:35] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 81 block(s)]
-[17:52:37] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> pero no lo ago expresamente
-[17:52:41] [Server thread/INFO]: blime2009 issued server command: /clone -41 106 655 -39 114 653 16 106 701
-[17:52:41] [Server thread/INFO]: [[Admin] blime2009: Successfully cloned 81 block(s)]
-[17:52:57] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /sethome out
-[17:53:01] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[17:53:07] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> now tpa
-[17:53:26] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
-[17:53:35] [Server thread/INFO]: blime2009 issued server command: /effect clear blime2009
-[17:53:35] [Server thread/INFO]: [[Admin] blime2009: Removed every effect from [Admin] blime2009]
-[17:53:41] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> now
-[17:54:05] [Server thread/INFO]: blime2009 issued server command: /give blime2009 minecraft:command_block
-[17:54:05] [Server thread/INFO]: [[Admin] blime2009: Gave 1 [Command Block] to [Admin] blime2009]
-[17:54:19] [Server thread/INFO]: zDreamz__ issued server command: /tpa ZXxAlanJosuxXZ
-[17:54:19] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[17:54:27] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> por?
-[17:54:31] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[17:54:34] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
-[17:54:38] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
-[17:54:38] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [The End?]
-[17:54:49] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> a la mierda
-[17:54:49] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> granja de xp
-[17:55:03] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:04] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:05] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:06] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:07] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:08] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> yo no tengo nd
-[17:55:08] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:09] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:10] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:11] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:12] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:13] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:14] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:15] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: blime2009 issued server command: /gamerule commandBlockOutput true
-[17:55:16] [Server thread/INFO]: [[Admin] blime2009: Gamerule commandBlockOutput is now set to: true]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:16] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:17] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> mi espada no hace daño
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:18] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:19] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: [@: Applied effect Mining Fatigue to 2 targets]
-[17:55:20] [Server thread/INFO]: blime2009 issued server command: /gamerule commandBlockOutput false
-[17:55:20] [Server thread/INFO]: [[Admin] blime2009: Gamerule commandBlockOutput is now set to: false]
-[17:55:21] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> es comunitaria por eso lo hice
-[17:55:26] [Async Chat Thread - #14/INFO]: [Not Secure] <zDreamz__> oka
-[17:55:57] [User Authenticator #11/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[17:55:58] [Server thread/INFO]: [Owner] Xautral joined the game
-[17:55:58] [Server thread/INFO]: Xautral[/127.115.99.248:43895] logged in with entity id 23894 at ([world]-48.7461038271045, 161.6062341986687, -15.772187274071305)
-[17:56:16] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
-[17:56:16] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> xautral
-[17:56:17] [Server thread/INFO]: Xautral issued server command: /tp Javdroker_MC
-[17:56:17] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Javdroker_MC]
-[17:56:19] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> que
-[17:56:20] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> hicieron
-[17:56:22] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> mira
-[17:56:24] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> now
-[17:56:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> la mayoria fue de blime
-[17:56:29] [Server thread/INFO]: Xautral issued server command: /gamemode survival Javdroker_MC
-[17:56:29] [Server thread/INFO]: [[Owner] Xautral: Set [Admin] Javdroker_MC's game mode to Survival Mode]
-[17:56:34] [Async Chat Thread - #14/INFO]: [Not Secure] <Javdroker_MC> que te parece?
-[17:56:39] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 oye
-[17:56:42] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home ase
-[17:56:45] [User Authenticator #11/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
-[17:56:45] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[17:56:49] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo joined the game
-[17:56:49] [Server thread/INFO]: Blah_Blah_Demo[/127.73.236.48:48321] logged in with entity id 24689 at ([world]4.789454545438652, 104.41396036057075, 42.23543391835432)
-[17:56:49] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Enchanter]
-[17:56:50] [Async Chat Thread - #14/INFO]: [Not Secure] <NOW_POOL123> adios
-[17:56:52] [Server thread/INFO]: NOW_POOL123 lost connection: Disconnected
-[17:56:52] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 left the game
-[17:56:53] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
-[17:57:17] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[17:57:17] [Server thread/INFO]: [[Owner] Xautral: Set [Admin] blime2009's game mode to Survival Mode]
-[17:57:19] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trade
-[17:57:20] [Server thread/INFO]: [Admin] blime2009 was slain by [Owner] Xautral
-[17:57:23] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trades
-[17:57:24] [Server thread/INFO]: Xautral issued server command: /tp blime2009 ~ ~ ~
-[17:57:24] [Server thread/INFO]: [[Owner] Xautral: Teleported [Admin] blime2009 to -14.429392, 106.000000, 678.371896]
-[17:57:28] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[17:57:28] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
-[17:57:55] [Server thread/INFO]: [Admin] Javdroker_MC was doomed to fall by [Dominio de Teemo] Blah_Blah_Demo
-[17:57:59] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
-[17:57:59] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Dominio de Teemo] Blah_Blah_Demo]
-[17:58:00] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
-[17:58:00] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
-[17:58:01] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
-[17:58:03] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
-[17:58:06] [Server thread/INFO]: [Admin] Javdroker_MC was doomed to fall by [Owner] Xautral
-[17:58:11] [Server thread/INFO]: [Admin] Javdroker_MC was doomed to fall by [Owner] Xautral
-[17:58:14] [Async Chat Thread - #16/INFO]: [Not Secure] <ZXxAlanJosuxXZ> xautral una pregunta
-[17:58:16] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> XD
-[17:58:17] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
-[17:58:18] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
-[17:58:24] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
-[17:58:27] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
-[17:58:28] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
-[17:58:30] [Server thread/INFO]: Javdroker_MC lost connection: You have lost all your hearts and have been eliminated!
-[17:58:30] [Server thread/INFO]: Javdroker_MC left the game
-[17:58:30] [Server thread/INFO]: KLS: Javdroker_MC Has been eliminated!
-[17:58:30] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
-[17:58:33] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> NO MAMES
-[17:58:35] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> LO ELIMINAMOS
-[17:58:35] [Async Chat Thread - #17/INFO]: [Not Secure] <Blah_Blah_Demo> ahora de que esta llorando xautral?
-[17:58:37] [Async Chat Thread - #17/INFO]: [Not Secure] <blime2009> XDDD
-[17:58:40] [User Authenticator #12/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
-[17:58:40] [Server thread/INFO]: Javdroker_MC lost connection: You have lost all your hearts and have been eliminated!
-[17:58:40] [Server thread/INFO]: Javdroker_MC left the game
-[17:58:50] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> a ti tambien te va a tocar blime2009
-[17:58:52] [Async Chat Thread - #17/INFO]: [Not Secure] <ZXxAlanJosuxXZ> XAUTRAL VANA METER EL ALDEANO QUE DA HUEVOS?
-[17:58:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> Blah_Blah_Demo~
-[17:58:53] [User Authenticator #12/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
-[17:58:54] [Server thread/INFO]: Javdroker_MC lost connection: You have lost all your hearts and have been eliminated!
-[17:58:54] [Server thread/INFO]: Javdroker_MC left the game
-[17:58:56] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> *
-[17:59:04] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> ya esta llorando
-[17:59:05] [Server thread/INFO]: Xautral issued server command: /revive name Javdroker_MC
-[17:59:05] [Server thread/INFO]: KLS: Javdroker_MC Has been revived!
-[17:59:08] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
-[17:59:08] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Dominio de Teemo] Blah_Blah_Demo]
-[17:59:13] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [Remote Getaway]
-[17:59:21] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> xdd
-[17:59:24] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homeS
-[17:59:28] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homes
-[17:59:36] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homes
-[17:59:45] [Server thread/INFO]: Xautral issued server command: /ie attribute add entity_interaction_range 50
-[17:59:49] [Server thread/INFO]: Xautral issued server command: /ie enchant wind_burst 3
-[17:59:50] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /homes
-[17:59:53] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> no me interesas ahora xautral
-[18:00:00] [Server thread/INFO]: Blah_Blah_Demo issued server command: /sethome 2
-[18:00:03] [Server thread/INFO]: blime2009 issued server command: /tp Blah_Blah_Demo
-[18:00:03] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Dominio de Teemo] Blah_Blah_Demo]
-[18:00:05] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home out
-[18:00:08] [Server thread/INFO]: Xautral issued server command: /ie enchant knockback 3
-[18:00:09] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
-[18:00:13] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[18:00:19] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> blime de mierda
-[18:00:20] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ya hay que dejarlo en paz
-[18:00:20] [Server thread/INFO]: blime2009 issued server command: /inv Xautral
-[18:00:28] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo was slain by [Owner] Xautral
-[18:00:32] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> no te pases d e verga
-[18:00:34] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> si lo mate
-[18:00:36] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> xautral no me ganas en pvp
-[18:00:37] [Async Chat Thread - #16/INFO]: [Not Secure] <Blah_Blah_Demo> superalo
-[18:00:38] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo ~ ~ ~
-[18:00:38] [Server thread/INFO]: [[Owner] Xautral: Teleported [Dominio de Teemo] Blah_Blah_Demo to -46.862962, 96.000000, 75.700000]
-[18:00:38] [Server thread/WARN]: Blah_Blah_Demo moved wrongly!
-[18:00:42] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> cual superalo
-[18:00:46] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> wey estoy probando armas
-[18:00:47] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
-[18:00:55] [User Authenticator #13/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
-[18:00:55] [Server thread/INFO]: Xautral issued server command: /ie unbreakable true
-[18:00:55] [Server thread/INFO]: KLS: Javdroker_MC Has joined after being revived!
-[18:00:55] [Server thread/INFO]: [Admin] Javdroker_MC joined the game
-[18:00:55] [Server thread/INFO]: Javdroker_MC[/127.214.216.25:55679] logged in with entity id 28099 at ([world]0.3394677621835539, 122.76423400914999, 0.30000001192092896)
-[18:01:00] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> hice esta que te pega hasta larga distancia
-[18:01:01] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Survival Mode]
-[18:01:12] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> xautral
-[18:01:15] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> que
-[18:01:18] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> como tengo mas corazones ;v
-[18:01:20] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
-[18:01:22] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> que me paso
-[18:01:22] [Server thread/INFO]: zDreamz__ issued server command: /pv 1
-[18:01:26] [Server thread/INFO]: zDreamz__ issued server command: /ec
-[18:01:28] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC blime2009
-[18:01:28] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Admin] blime2009]
-[18:01:28] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> te eliminamos xdd
-[18:01:28] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
-[18:01:28] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
-[18:01:30] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> por accidente
-[18:01:33] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
-[18:01:41] [Server thread/INFO]: Xautral issued server command: /ie attribute add attack_damage -10
-[18:01:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> haber
-[18:01:45] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
-[18:01:45] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Dominio de Teemo] Blah_Blah_Demo]
-[18:01:47] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> blah
-[18:01:49] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> mira
-[18:01:53] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
-[18:01:54] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> chales
-[18:01:55] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
-[18:01:55] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
-[18:01:58] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> pense que t ehiba a curar
-[18:01:58] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC Javdroker_MC
-[18:01:58] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Admin] Javdroker_MC]
-[18:02:03] [Server thread/INFO]: Xautral issued server command: /ie attribute add attack_damage 1
-[18:02:11] [Server thread/INFO]: Xautral issued server command: /tp Javdroker_MC
-[18:02:11] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Javdroker_MC]
-[18:02:14] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
-[18:02:15] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
-[18:02:18] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
-[18:02:19] [Server thread/INFO]: blime2009 issued server command: /createwarp coliseo
-[18:02:20] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> weno
-[18:02:20] [Server thread/INFO]: Xautral issued server command: /ie attribute remove attack_damage
-[18:02:23] [Server thread/INFO]: Xautral issued server command: /ie attribute add attack_damage 1
-[18:02:24] [Async Chat Thread - #16/INFO]: [Not Secure] <Javdroker_MC> que te parece xautral?
-[18:02:28] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> esto
-[18:02:32] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> esta chido
-[18:02:54] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
-[18:02:59] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
-[18:03:02] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
-[18:03:03] [Server thread/INFO]: Xautral lost connection: Disconnected
-[18:03:03] [Server thread/INFO]: [Owner] Xautral left the game
-[18:03:04] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /warp trades
-[18:03:06] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
-[18:03:06] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
-[18:03:11] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[18:03:18] [User Authenticator #14/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[18:03:18] [Server thread/INFO]: [Owner] Xautral joined the game
-[18:03:18] [Server thread/INFO]: Xautral[/127.115.99.248:48653] logged in with entity id 30289 at ([world]-9.295383210743688, 106.0, 703.795478469621)
-[18:03:29] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[18:03:29] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
-[18:03:29] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
-[18:03:30] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
-[18:03:32] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
-[18:03:37] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
-[18:03:38] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
-[18:03:38] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
-[18:03:40] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
-[18:03:43] [Server thread/INFO]: [Reino Majaphit] zDreamz__ has made the advancement [The City at the End of the Game]
-[18:03:48] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC Xautral
-[18:03:48] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Owner] Xautral]
-[18:03:49] [Async Chat Thread - #18/INFO]: [Not Secure] <Javdroker_MC> :C
-[18:03:50] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
-[18:03:56] [Async Chat Thread - #18/INFO]: [Not Secure] <Javdroker_MC> men calmense D;
-[18:03:56] [Async Chat Thread - #18/INFO]: [Not Secure] <ZXxAlanJosuxXZ> blime
-[18:04:00] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> cual calmense
-[18:04:02] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> estoy chill
-[18:04:04] [Async Chat Thread - #18/INFO]: [Not Secure] <zDreamz__> ploq
-[18:04:06] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo has made the advancement [Hot Stuff]
-[18:04:08] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
-[18:04:17] [Server thread/INFO]: blime2009 issued server command: /damage Javdroker_MC 299999 minecraft:player_attack by Blah_Blah_Demo
-[18:04:17] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Dominio de Teemo] Blah_Blah_Demo
-[18:04:17] [Server thread/INFO]: [[Admin] blime2009: Applied 299999.0 damage to [Admin] Javdroker_MC]
-[18:04:18] [Server thread/INFO]: Javdroker_MC issued server command: /attribute Javdroker_MC minecraft:max_health base set 20
-[18:04:24] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC Xautral
-[18:04:24] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Owner] Xautral]
-[18:04:25] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
-[18:04:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> primero Blah_Blah_Demo que anda llorando de que me gana en pvp solo por probar armas y ahora tu Javdroker_MC
-[18:04:40] [Async Chat Thread - #18/INFO]: [Not Secure] <Blah_Blah_Demo> yo no empece a llorar ;v
-[18:04:42] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> :v
-[18:04:44] [Async Chat Thread - #18/INFO]: [Not Secure] <Javdroker_MC> q?
-[18:04:47] [Async Chat Thread - #18/INFO]: [Not Secure] <Blah_Blah_Demo> el que empezo fue otro creo
-[18:04:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Blah_Blah_Demo> (xautral)
-[18:04:54] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
-[18:04:55] [Server thread/INFO]: blime2009 issued server command: /damage Javdroker_MC 299999 minecraft:player_attack by blime2009 from Xautral
-[18:04:55] [Server thread/INFO]: [Admin] Javdroker_MC was slain by [Owner] Xautral
-[18:04:55] [Server thread/INFO]: [[Admin] blime2009: Applied 299999.0 damage to [Admin] Javdroker_MC]
-[18:05:00] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> ?
-[18:05:02] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> loco
-[18:05:04] [Server thread/INFO]: Javdroker_MC issued server command: /tp Javdroker_MC blime2009
-[18:05:04] [Server thread/INFO]: [[Admin] Javdroker_MC: Teleported [Admin] Javdroker_MC to [Admin] blime2009]
-[18:05:06] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> haber ajv
-[18:05:08] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> que te parece esta
-[18:05:09] [Server thread/INFO]: Javdroker_MC issued server command: /msg blime2009 es blime man
-[18:05:10] [Async Chat Thread - #19/INFO]: [Not Secure] <_wdegw_> Xautral no te parece un poco caro un kit cristal 64 bloques de diamante?
-[18:05:11] [Async Chat Thread - #19/INFO]: [Not Secure] <_wdegw_> XD
-[18:05:13] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
-[18:05:14] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:wind_charge 128
-[18:05:14] [Server thread/INFO]: [[Owner] Xautral: Gave 128 [Wind Charge] to [Owner] Xautral]
-[18:05:16] [Server thread/INFO]: Javdroker_MC issued server command: /attribute Javdroker_MC minecraft:max_health base set 20
-[18:05:18] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
-[18:05:22] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> sumoneame un golem javdroker
-[18:05:24] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home chamba
-[18:05:26] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral es blime man
-[18:05:27] [Async Chat Thread - #18/INFO]: [Not Secure] <blime2009> aver
-[18:05:27] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
-[18:05:30] [Async Chat Thread - #18/INFO]: [Not Secure] <blime2009> xautral
-[18:05:32] [Server thread/INFO]: Xautral issued server command: /tell Javdroker_MC de que
-[18:05:34] [Server thread/INFO]: Javdroker_MC issued server command: /summon minecraft:iron_golem
-[18:05:34] [Server thread/INFO]: [[Admin] Javdroker_MC: Summoned new Iron Golem]
-[18:05:36] [Async Chat Thread - #19/INFO]: [Not Secure] <blime2009> da ideas
-[18:05:46] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral el que me anda mantando :V
-[18:06:00] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /sethome try
-[18:06:02] [Server thread/INFO]: _wdegw_ issued server command: /warp granjacomunitaria
-[18:06:04] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /delhome chamba
-[18:06:06] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
-[18:06:20] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home try
-[18:06:30] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> bro que entretenido es ahcer esto
-[18:06:35] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> hay quehacer un minijuego de esto
-[18:06:45] [Async Chat Thread - #18/INFO]: [Not Secure] <Javdroker_MC> xautral
-[18:06:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> que
-[18:06:50] [Server thread/INFO]: blime2009 issued server command: /inv Xautral
-[18:06:54] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral es el panteon de los gladiadores
-[18:07:01] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral es para eventos y bosses
-[18:07:09] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
-[18:07:09] [Server thread/INFO]: [[Admin] blime2009: Removed 969 item(s) from player [Admin] blime2009]
-[18:07:11] [Server thread/INFO]: Xautral issued server command: /tell Javdroker_MC si se
-[18:07:15] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
-[18:07:15] [Server thread/INFO]: [[Owner] Xautral: Summoned new Iron Golem]
-[18:07:46] [Server thread/INFO]: Blah_Blah_Demo issued server command: /deletehome
-[18:07:48] [Server thread/INFO]: Blah_Blah_Demo issued server command: /deletehome 1
-[18:08:04] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> oigan
-[18:08:05] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> miren esto
-[18:08:08] [Server thread/INFO]: Xautral issued server command: /tp zDreamz__
-[18:08:08] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Majaphit] zDreamz__]
-[18:08:08] [Server thread/INFO]: [Owner] Xautral has made the advancement [The City at the End of the Game]
-[18:08:10] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> mria
-[18:08:15] [Async Chat Thread - #19/INFO]: [Not Secure] <Javdroker_MC> papus
-[18:08:18] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> mira zDreamz__
-[18:08:18] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> que
-[18:08:21] [Async Chat Thread - #19/INFO]: [Not Secure] <zDreamz__> q
-[18:08:28] [Async Chat Thread - #19/INFO]: [Not Secure] <zDreamz__> no me mate ps
-[18:08:37] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral bro puedo decir una mentira para que no rompan el coliseo?
-[18:08:38] [Async Chat Thread - #18/INFO]: [Not Secure] <blime2009> xautral
-[18:08:39] [Server thread/INFO]: _wdegw_ lost connection: Disconnected
-[18:08:39] [Server thread/INFO]: [Reino Berserk] _wdegw_ left the game
-[18:08:41] [Server thread/INFO]: Xautral issued server command: /tell Javdroker_MC cual
-[18:08:51] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [Under Lock and Key]
-[18:08:51] [Async Chat Thread - #19/INFO]: [Not Secure] <blime2009> puedes agregar el world guard?
-[18:08:54] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> no
-[18:08:58] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral que metiste un plugin para saber quien rompe bloques en tales coordenadas
-[18:08:59] [Async Chat Thread - #18/INFO]: [Not Secure] <blime2009> ok
-[18:09:03] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo has made the advancement [Best Friends Forever]
-[18:09:04] [Server thread/INFO]: Xautral issued server command: /tell Javdroker_MC no
-[18:09:04] [Async Chat Thread - #19/INFO]: [Not Secure] <zDreamz__> Xautral
-[18:09:07] [Server thread/INFO]: Javdroker_MC issued server command: /msg Xautral D;
-[18:09:09] [Async Chat Thread - #18/INFO]: [Not Secure] <zDreamz__> me va a matar?
-[18:09:36] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:mining_fatigue
-[18:09:36] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Mining Fatigue to [Admin] Javdroker_MC]
-[18:09:45] [Server thread/INFO]: Javdroker_MC issued server command: /effect give Javdroker_MC minecraft:mining_fatigue infinite
-[18:09:45] [Server thread/INFO]: [[Admin] Javdroker_MC: Applied effect Mining Fatigue to [Admin] Javdroker_MC]
-[18:09:47] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:21:06] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] MENU MANAGER HAS BEEN SETUP
+[18:21:06] [Server thread/WARN]: Nag author(s): '[Kyren223]' of 'KyrenLifesteal2 vv1.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[18:21:06] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] ContainerListener
+[18:21:06] [Server thread/INFO]: [KyrenLifesteal2] [STDOUT] InventoryListener
+[18:21:06] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.4
+[18:21:07] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[18:21:07] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[18:21:07] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[18:21:07] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[18:21:07] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[18:21:07] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[18:21:07] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
+[18:21:07] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[18:21:07] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[18:21:07] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[18:21:07] [Server thread/INFO]: [ItemEdit] # Enabled (took 232 ms)
+[18:21:07] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.10
+[18:21:08] [Server thread/INFO]: [Shopkeepers] Loading the data of 5 shopkeepers ...
+[18:21:08] [Server thread/INFO]: [BasicHomes] Enabling BasicHomes v1.9.6-RELEASE-1.21.8
+[18:21:08] [Server thread/INFO]: [BH] Commands loaded !
+[18:21:08] [Server thread/INFO]: [BH] Events loaded !
+[18:21:08] [Server thread/INFO]: [BH] Metrics (bStats) successfully loaded !
+[18:21:08] [Server thread/INFO]: [BH] Checking for updates...
+[18:21:08] [Server thread/INFO]: [BH] An update is available: 1.9.7. Download it at https://www.curseforge.com/minecraft/bukkit-plugins/basichomes/files
+[18:21:08] [Server thread/INFO]: [BH] Plugin successfully loaded !
+[18:21:08] [Server thread/INFO]: [JustTPA] Enabling JustTPA v20250220c
+[18:21:08] [Server thread/INFO]: [JustTPA] JustTPA initialized
+[18:21:08] [Server thread/INFO]: [JustTPA] bStats enabled
+[18:21:08] [Server thread/INFO]: [JustTPA] Checking for updates...
+[18:21:08] [Server thread/INFO]: [spark] Starting background profiler...
+[18:21:09] [Server thread/INFO]: Done preparing level "world" (5.774s)
+[18:21:09] [Server thread/INFO]: Running delayed init tasks
+[18:21:09] [Server thread/INFO]: Done (21.344s)! For help, type "help"
+[18:21:09] [Craft Scheduler Thread - 4 - JustTPA/WARN]: [JustTPA] Failed to check for updates
+[18:21:19] [User Authenticator #0/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[18:21:19] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[18:21:20] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
+[18:21:20] [Server thread/INFO]: _wdegw_[/127.153.189.115:50215] logged in with entity id 68 at ([world_the_end]276.6630130102157, 1.0, 35.88546111219388)
+[18:21:29] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[18:21:30] [Server thread/INFO]: [Owner] Xautral joined the game
+[18:21:30] [Server thread/INFO]: Xautral[/127.115.99.248:47271] logged in with entity id 166 at ([world]-166.24009808318075, 131.0, 10.665948353422362)
+[18:21:31] [User Authenticator #0/INFO]: UUID of player zIkzw is a242f927-5c64-30d8-abbf-781fc25e3cc4
+[18:21:32] [Server thread/INFO]: [Reino Berserk] zIkzw joined the game
+[18:21:32] [Server thread/INFO]: zIkzw[/127.29.125.79:50171] logged in with entity id 181 at ([world]217.23495381056856, 65.0, -1481.089716585687)
+[18:21:35] [User Authenticator #0/INFO]: UUID of player NOW_POOL123 is a03636ea-370a-3198-a7d8-1b29c9dfdff6
+[18:21:36] [Server thread/INFO]: [Reino Tukulor] NOW_POOL123 joined the game
+[18:21:36] [Server thread/INFO]: NOW_POOL123[/127.71.145.119:54383] logged in with entity id 356 at ([world]-165.74894614997368, -49.0, -110.35274238905802)
+[18:21:39] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> menos mal no se perdió nada
+[18:21:39] [User Authenticator #0/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[18:21:43] [Server thread/INFO]: [Admin] blime2009 joined the game
+[18:21:43] [Server thread/INFO]: blime2009[/127.20.187.84:51847] logged in with entity id 587 at ([world]-8.603775591788398, 106.0, 672.6155896401353)
+[18:21:52] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> _wdegw_ los diamantes
+[18:21:56] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> w
+[18:22:00] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> se perdio lo q hice
+[18:22:01] [User Authenticator #0/INFO]: UUID of player ZXxAlanJosuxXZ is 9e57b8b0-2b9b-3de3-968d-4fd49ed8d86a
+[18:22:03] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ joined the game
+[18:22:03] [Server thread/INFO]: ZXxAlanJosuxXZ[/127.95.225.242:54029] logged in with entity id 946 at ([world]7386.883263692565, -29.0, -1479.9902476066688)
+[18:22:05] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f1c817b2-83a3-4250-b703-7af2a8976821, mapped to Bat['Bat'/1086, uuid='f1c817b2-83a3-4250-b703-7af2a8976821', l='ServerLevel[world]', x=7427.95, y=-38.11, z=-1360.89, cpos=[464, -86], tl=0, v=true], can't add Bat['Bat'/1112, uuid='f1c817b2-83a3-4250-b703-7af2a8976821', l='ServerLevel[world]', x=7429.59, y=-37.44, z=-1359.50, cpos=[464, -85], tl=0, v=false]
+[18:22:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> no es cirto
+[18:22:09] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> me toca encantar de nuevo
+[18:22:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> volvimso 15 segundos antes
+[18:22:12] [User Authenticator #0/INFO]: UUID of player Javdroker_MC is ec77a8ce-f78e-3d04-a1ed-0d6461ba893d
+[18:22:13] [Server thread/INFO]: [Admin] Javdroker_MC joined the game
+[18:22:13] [Server thread/INFO]: Javdroker_MC[/127.214.216.25:36183] logged in with entity id 1274 at ([world]9.58895830651952, 144.71250414848328, 15.314730364308879)
+[18:22:14] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> bueno
+[18:22:14] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 63026f7d-f471-4194-bf04-e378eb799e7b, mapped to EnderMan['Enderman'/3, uuid='63026f7d-f471-4194-bf04-e378eb799e7b', l='ServerLevel[world]', x=-31.64, y=108.00, z=11.55, cpos=[-2, 0], tl=1310, v=true], can't add EnderMan['Enderman'/1281, uuid='63026f7d-f471-4194-bf04-e378eb799e7b', l='ServerLevel[world]', x=85.69, y=103.00, z=-26.51, cpos=[5, -2], tl=0, v=false]
+[18:22:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> como les decía
+[18:22:19] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [Ol' Betsy]
+[18:22:19] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ has made the advancement [Take Aim]
+[18:22:19] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> esto no son 15 segundos man
+[18:22:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> recibirán una wind wand
+[18:22:21] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> XD
+[18:22:21] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome m
+[18:22:23] [Server thread/INFO]: Javdroker_MC issued server command: /:V
+[18:22:26] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[18:22:26] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome m
+[18:22:29] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> q cojones es una wind wand
+[18:22:29] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ
+[18:22:30] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> ni sin 15 segundos
+[18:22:32] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> los diamantes
+[18:22:32] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> es como 2 mins
+[18:22:34] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ oye
+[18:22:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> cuando when butt un pendejo anda caste y castre pero recuerdas que lo puedes banear
+[18:22:37] [User Authenticator #0/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[18:22:38] [Server thread/INFO]: [Reino Majaphit] zDreamz__ joined the game
+[18:22:38] [Server thread/INFO]: zDreamz__[/127.158.175.255:38123] logged in with entity id 1700 at ([world_the_end]1363.2487759592402, 63.0, -534.453055790206)
+[18:22:39] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[18:22:41] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> toma
+[18:22:42] [User Authenticator #0/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[18:22:43] [Server thread/INFO]: [Dominio de Teemo] Blah_Blah_Demo joined the game
+[18:22:43] [Server thread/INFO]: Blah_Blah_Demo[/127.73.236.48:52313] logged in with entity id 1955 at ([world]-90.2786895356141, 120.0, 484.69999998807907)
+[18:22:43] [Server thread/INFO]: Xautral issued server command: /inv _wdegw_
+[18:22:45] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> porfin
+[18:22:48] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 706
+[18:22:48] [Server thread/INFO]: Xautral issued server command: /inv Blah_Blah_Demo
+[18:22:50] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ oye perdon me sali proque casi muero por un cr¿hiyador xd
+[18:22:56] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:22:57] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> para
+[18:22:59] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> perderas coras
+[18:23:01] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tpa
+[18:23:03] [Server thread/INFO]: Xautral issued server command: /inv ZXxAlanJosuxXZ
+[18:23:03] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> y es ilegal
+[18:23:07] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[18:23:08] [Server thread/INFO]: Xautral issued server command: /inv zDreamz__
+[18:23:10] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> q es esto? xd
+[18:23:12] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 706 17 105 652 minecraft:red_sandstone
+[18:23:12] [Server thread/INFO]: [[Admin] blime2009: Successfully filled 3300 block(s)]
+[18:23:12] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[18:23:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ujna wind wand
+[18:23:20] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> para q es
+[18:23:23] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> para esto
+[18:23:23] [Server thread/INFO]: blime2009 issued server command: /fill -42 105 706 17 105 652 minecraft:sandstone
+[18:23:23] [Server thread/INFO]: [[Admin] blime2009: Successfully filled 3300 block(s)]
+[18:23:25] [Server thread/INFO]: Xautral issued server command: /tp _wdegw_
+[18:23:25] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Reino Berserk] _wdegw_]
+[18:23:28] [Server thread/INFO]: blime2009 issued server command: /kill Javdroker_MC
+[18:23:28] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:23:28] [Server thread/INFO]: [Admin] Javdroker_MC was killed
+[18:23:28] [Server thread/INFO]: [[Admin] blime2009: Killed [Admin] Javdroker_MC]
+[18:23:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> mira _wdegw_
+[18:23:29] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> pegar de lejos?
+[18:23:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no
+[18:23:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> para esto
+[18:23:34] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Survival Mode]
+[18:23:35] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> eh?
+[18:23:35] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
+[18:23:35] [Server thread/INFO]: [[Admin] blime2009: Removed 9 item(s) from player [Admin] blime2009]
+[18:23:35] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:23:38] [Server thread/INFO]: zIkzw issued server command: /warps
+[18:23:38] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> XDD
+[18:23:38] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[18:23:38] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[18:23:41] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> ezzz
+[18:23:42] [Server thread/INFO]: zIkzw issued server command: /warps
+[18:23:44] [Server thread/INFO]: _wdegw_ issued server command: /warp granjacomunitaria
+[18:23:45] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya no hay mas
+[18:23:45] [Server thread/INFO]: Javdroker_MC issued server command: /warp coliseo
+[18:23:47] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Spectator Mode]
+[18:23:50] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[18:23:50] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[18:23:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> y para pvp
+[18:23:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> esto
+[18:23:53] [Server thread/INFO]: zIkzw issued server command: /home casa
+[18:23:57] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ necesitamos oro
+[18:24:03] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> a es una maza?
+[18:24:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> noi
+[18:24:09] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ y un lugar secreto para guardar nuestras cosas
+[18:24:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> es para ptenciar el amzo
+[18:24:14] [Server thread/INFO]: Xautral lost connection: Disconnected
+[18:24:14] [Server thread/INFO]: [Owner] Xautral left the game
+[18:24:17] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> a vale
+[18:24:19] [Server thread/INFO]: blime2009 issued server command: /ie enchant wind_burst
+[18:24:20] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> ni tengo mazo pero vale xdx
+[18:24:32] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 y plantilla de mejora
+[18:24:32] [Server thread/INFO]: zIkzw issued server command: /warp coliseo
+[18:24:35] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[18:24:37] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[18:24:37] [Server thread/INFO]: [Owner] Xautral joined the game
+[18:24:37] [Server thread/INFO]: Xautral[/127.115.99.248:38077] logged in with entity id 3937 at ([world]224.71748290194148, 65.0, -1497.8392088950288)
+[18:24:38] [Async Chat Thread - #1/INFO]: [Not Secure] <NOW_POOL123> si verdaad
+[18:24:39] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[18:24:39] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[18:24:41] [Server thread/INFO]: zDreamz__ issued server command: /tpa Xautral
+[18:24:41] [Server thread/INFO]: [Admin] blime2009 was slain by [Reino Berserk] zIkzw
+[18:24:42] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg vamos a buscar bastion
+[18:24:42] [Server thread/INFO]: Xautral issued server command: /inv NOW_POOL123
+[18:24:46] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[18:24:46] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[18:24:47] [Server thread/INFO]: zIkzw issued server command: /home casa
+[18:24:50] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> tridente gratis
+[18:24:50] [Server thread/INFO]: blime2009 issued server command: /inv zIkzw
+[18:24:51] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> y cora
+[18:24:52] [Async Chat Thread - #1/INFO]: [Not Secure] <ZXxAlanJosuxXZ> vamos por bation
+[18:24:57] [Server thread/INFO]: blime2009 issued server command: /tp zIkzw
+[18:24:57] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Reino Berserk] zIkzw]
+[18:25:00] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> gente
+[18:25:02] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> ...
+[18:25:02] [Server thread/INFO]: zDreamz__ issued server command: /warp trades
+[18:25:02] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> MI TRIDENTE
+[18:25:04] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> te mate justo
+[18:25:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> quien falta de wind wand
+[18:25:07] [Async Chat Thread - #0/INFO]: [Not Secure] <NOW_POOL123> eso no creo que es prodente quitenle el cora
+[18:25:07] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> baneenlo
+[18:25:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> quien falta de wind wand
+[18:25:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> quien falta de wind wand
+[18:25:16] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> uo
+[18:25:18] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> yo
+[18:25:19] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> estaba probando algo
+[18:25:22] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> nadie
+[18:25:22] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> bueno
+[18:25:23] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> y yo
+[18:25:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> tu no quisiste w
+[18:25:28] [Async Chat Thread - #1/INFO]: [Not Secure] <ZXxAlanJosuxXZ> no vale mira
+[18:25:30] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> Xautral la puta q te pario
+[18:25:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> dijiste que no te mostraramos nada mas
+[18:25:39] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ahí que _wdegw_ te la preste
+[18:25:40] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[18:25:41] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[18:25:41] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[18:25:43] [Async Chat Thread - #1/INFO]: [Not Secure] <zIkzw> si no q no me dieseis
+[18:25:43] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> q cosa
+[18:25:50] [Server thread/INFO]: zIkzw issued server command: /warp granjacomunitaria
+[18:25:50] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> pues poreso te di la demostracion
+[18:25:55] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> la wind wand
+[18:25:58] [Server thread/INFO]: Xautral issued server command: /tp Javdroker_MC
+[18:25:58] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Javdroker_MC]
+[18:25:58] [Server thread/INFO]: zIkzw issued server command: /home casa
+[18:26:01] [Async Chat Thread - #0/INFO]: [Not Secure] <_wdegw_> w mira
+[18:26:03] [Server thread/INFO]: NOW_POOL123 issued server command: /msg ZXxAlanJosuxXZ hacemos cofres y los enterramos tengo artas cosas+w
+[18:26:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> anduvo haciendo el idiota y ahora ya se arrepiente
+[18:26:10] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ahi prestasela
+[18:26:13] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> q?
+[18:26:14] [Server thread/INFO]: Xautral issued server command: /tp Javdroker_MC
+[18:26:14] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Javdroker_MC]
+[18:26:16] [Server thread/INFO]: Xautral issued server command: /tp Javdroker_MC
+[18:26:16] [Server thread/INFO]: [[Owner] Xautral: Teleported [Owner] Xautral to [Admin] Javdroker_MC]
+[18:26:17] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Spectator Mode]
+[18:26:20] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> Xautral deja de jdr
+[18:26:21] [Server thread/INFO]: blime2009 issued server command: /ie enchant wind_burst 2
+[18:26:22] [Server thread/INFO]: [[Admin] Javdroker_MC: Set own game mode to Creative Mode]
+[18:26:23] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg NOW_POOL123 primero vamos por bastion
+[18:26:23] [Async Chat Thread - #1/INFO]: [Not Secure] <Javdroker_MC> MEN
+[18:26:25] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> soy to XD
+[18:26:26] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:iron_golem
+[18:26:26] [Server thread/INFO]: [[Admin] blime2009: Summoned new Iron Golem]
+[18:26:26] [Async Chat Thread - #1/INFO]: [Not Secure] <Javdroker_MC> xautral ya D:
+[18:26:27] [Server thread/INFO]: zIkzw issued server command: /warp granjacomunitaria
+[18:26:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ya que
+[18:26:33] [Server thread/INFO]: NOW_POOL123 issued server command: /tell ZXxAlanJosuxXZ esque no tengo espacio
+[18:26:33] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> q dejes de jdr
+[18:26:36] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> w zIkzw
+[18:26:44] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> hacemos la raid para totems?
+[18:26:45] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> sabes que ZXxAlanJosuxXZ una mas y te vas ban por discurso que fomenta el odio
+[18:26:49] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ZXxAlanJosuxXZ
+[18:26:51] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> zIkzw
+[18:26:52] [Server thread/INFO]: NOW_POOL123 issued server command: /tell ZXxAlanJosuxXZ y si los dejo aqui nos van a robarrr
+[18:26:53] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> q
+[18:26:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> puta madre porque todos tienen el mismo nombre
+[18:26:58] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> 1t
+[18:26:58] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> si _wdegw_
+[18:27:01] [Server thread/INFO]: blime2009 issued server command: /ie enchant wind_burst 2
+[18:27:01] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg Xautral pq?
+[18:27:01] [Async Chat Thread - #1/INFO]: [Not Secure] <_wdegw_> ok
+[18:27:03] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:iron_golem
+[18:27:03] [Server thread/INFO]: [[Admin] blime2009: Summoned new Iron Golem]
+[18:27:06] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[18:27:06] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Survival Mode]
+[18:27:08] [Server thread/INFO]: [Admin] blime2009 was slain by Iron Golem
+[18:27:10] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /msg Xautral que dije?
+[18:27:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> sigues molestando zIkzw y te vas ban por toxicidad
+[18:27:13] [Server thread/INFO]: blime2009 issued server command: /tp Javdroker_MC
+[18:27:13] [Server thread/INFO]: [[Admin] blime2009: Teleported [Admin] blime2009 to [Admin] Javdroker_MC]
+[18:27:17] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[18:27:17] [Server thread/INFO]: [[Admin] blime2009: Set own game mode to Creative Mode]
+[18:27:17] [Server thread/INFO]: Xautral issued server command: /tell ZXxAlanJosuxXZ nada, me equivoque de persona
+[18:27:22] [Async Chat Thread - #1/INFO]: [Not Secure] <ZXxAlanJosuxXZ> pero le estoy diciendo a now
+[18:27:26] [Server thread/INFO]: zDreamz__ issued server command: /tpa Xautral
+[18:27:26] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[18:27:27] [Server thread/INFO]: Javdroker_MC issued server command: /inv Javdroker_MC
+[18:27:31] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> si me equivoque de persona, era zIkzw
+[18:27:32] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> okey xautral nto
+[18:27:33] [Server thread/INFO]: Xautral issued server command: /tpaccept
+[18:27:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> meen
+[18:27:45] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> vamos now
+[18:27:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> que
+[18:27:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> DEJEN DE TELETRANSPORTAR COSAS A MI
+[18:27:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> QUE LA VERGA QUE NO TEPEO COSAS A TI
+[18:27:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> y mas respeto
+[18:27:59] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> uwu
+[18:28:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> zDreamz__ no es una cosa
+[18:28:03] [Async Chat Thread - #0/INFO]: [Not Secure] <NOW_POOL123> ve tu primero luego me tpo voy a hacer lo que te dije
+[18:28:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> es una persona
+[18:28:10] [Async Chat Thread - #0/INFO]: [Not Secure] <ZXxAlanJosuxXZ> okey
+[18:28:19] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> me dan comida pls
+[18:28:22] [Server thread/INFO]: blime2009 issued server command: /inv Javdroker_MC
+[18:28:22] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home base
+[18:28:24] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ño
+[18:28:36] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[18:28:36] [Server thread/INFO]: [[Owner] Xautral: Applied effect Invisibility to [Owner] Xautral]
+[18:28:36] [Server thread/INFO]: [[Owner] Xautral: Set own game mode to Creative Mode]
+[18:28:38] [Server thread/INFO]: Javdroker_MC issued server command: /inv blime2009
+[18:28:41] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> vete
+[18:28:45] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> te vi algo en la mano
+[18:28:52] [Server thread/INFO]: blime2009 issued server command: /inv Javdroker_MC
+[18:28:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> javdroker
+[18:28:54] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> blime2009
+[18:28:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> mira el warp trades
+[18:28:58] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> mira lo que hice
+[18:29:00] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> me da comida pls
+[18:29:00] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> una soul cleaver
+[18:29:04] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> no
+[18:29:08] [Async Chat Thread - #1/INFO]: [Not Secure] <zDreamz__> :3
+[18:29:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> oigan
+[18:29:09] [Async Chat Thread - #1/INFO]: [Not Secure] <zDreamz__> f
+[18:29:14] [Async Chat Thread - #1/INFO]: [Not Secure] <zDreamz__> y tu Javdroker_MC
+[18:29:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> siento que zIkzw le esta dando el sindrome de AcPALEL
+[18:29:24] [Async Chat Thread - #1/INFO]: [Not Secure] <Javdroker_MC> que paso?
+[18:29:25] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> Xautral q porque seas el owner no eres dios
+[18:29:28] [Server thread/INFO]: Javdroker_MC issued server command: /inv blime2009
+[18:29:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya vn
+[18:29:31] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> me da comida pls
+[18:29:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> el tipo se enoja por todo, tiene odio a los admins
+[18:29:38] [Async Chat Thread - #1/INFO]: [Not Secure] <Javdroker_MC> eee depende
+[18:29:39] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> literalmente AcPALEL
+[18:29:43] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> si son jodidos los admins si
+[18:29:44] [Async Chat Thread - #0/INFO]: [Not Secure] <zDreamz__> de q
+[18:29:49] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> lit teletransportandose pegandome
+[18:29:49] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> xautral
+[18:29:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya me cansaste zIkzw
+[18:29:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> si el me deja que te de comida todo bien
+[18:29:56] [Server thread/INFO]: _wdegw_ issued server command: /home aldea
+[18:29:58] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> a
+[18:29:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya se como qutiarte ese sindrome
+[18:30:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> lo puedo hacer yo xautral :D?
+[18:30:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> al igual que AcPALEL
+[18:30:08] [Server thread/INFO]: blime2009 issued server command: /ie attribute add tempt_range 100
+[18:30:09] [Async Chat Thread - #0/INFO]: [Not Secure] <zIkzw> quien es palel
+[18:30:10] [Server thread/INFO]: Xautral issued server command: /ban zIkzw toxicidad - 1 hora
+[18:30:10] [Server thread/INFO]: [[Owner] Xautral: Banned zIkzw: toxicidad - 1 hora]
+[18:30:10] [Server thread/INFO]: zIkzw lost connection: You are banned from this server
+[18:30:10] [Server thread/INFO]: zIkzw left the game
+[18:30:15] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> listo
+[18:30:16] [User Authenticator #2/INFO]: UUID of player zIkzw is a242f927-5c64-30d8-abbf-781fc25e3cc4
+[18:30:16] [Server thread/INFO]: Disconnecting zIkzw (/127.29.125.79:48971): You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:30:16] [Server thread/INFO]: zIkzw (/127.29.125.79:48971) lost connection: You are banned from this server.
+Reason: toxicidad - 1 hora
+[18:30:17] [Server thread/INFO]: Javdroker_MC issued server command: /kick blime2009 QUE EASY HABIA MAS LVL EN EL KINDER :V
+[18:30:17] [Server thread/INFO]: blime2009 lost connection: QUE EASY HABIA MAS LVL EN EL KINDER :V
+[18:30:17] [Server thread/INFO]: blime2009 left the game
+[18:30:17] [Server thread/INFO]: [[Admin] Javdroker_MC: Kicked [Admin] blime2009: QUE EASY HABIA MAS LVL EN EL KINDER :V]
+[18:30:19] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome h
+[18:30:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ahorita verán como se arden
+[18:30:30] [User Authenticator #2/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[18:30:31] [Server thread/INFO]: [Admin] blime2009 joined the game
+[18:30:31] [Server thread/INFO]: blime2009[/127.20.187.84:47175] logged in with entity id 11232 at ([world]14.699999988079071, 106.0, 703.9278017192669)
+[18:30:33] [Async Chat Thread - #0/INFO]: [Not Secure] <Javdroker_MC> (fue dechill)
+[18:30:39] [Server thread/INFO]: NOW_POOL123 issued server command: /delhome h
+[18:30:41] [Server thread/INFO]: NOW_POOL123 issued server command: /sethome h

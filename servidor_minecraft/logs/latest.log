@@ -761,3 +761,95 @@ lit<--[HERE]
 [01:21:08] [Server thread/INFO]: _wdegw_ was kicked due to keepalive timeout!
 [01:21:08] [Server thread/INFO]: _wdegw_ lost connection: Timed out
 [01:21:08] [Server thread/INFO]: _wdegw_ left the game
+[01:22:09] [User Authenticator #52/INFO]: UUID of player _wdegw_ is 819a5c01-61c5-32b0-84a5-75032c5cf00a
+[01:22:10] [Server thread/INFO]: [Reino Berserk] _wdegw_ joined the game
+[01:22:10] [Server thread/INFO]: _wdegw_[/127.153.189.115:38129] logged in with entity id 254192 at ([world]241.81623484084432, 64.0, -1455.5737116161902)
+[01:22:16] [Async Chat Thread - #147/INFO]: [Not Secure] <saseca2610> ola buenas
+[01:22:17] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ drowned
+[01:22:34] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpa saul23419
+[01:22:36] [Async Chat Thread - #147/INFO]: [Not Secure] <ZXxAlanJosuxXZ> acepta
+[01:22:43] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpa NOW_POOL123
+[01:22:45] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[01:22:47] [Async Chat Thread - #147/INFO]: [Not Secure] <NOW_POOL123> tpa
+[01:22:52] [Server thread/INFO]: saseca2610 lost connection: Disconnected
+[01:22:52] [Server thread/INFO]: [Reino Majaphit] saseca2610 left the game
+[01:22:52] [Server thread/INFO]: saul23419 issued server command: /tpaccept
+[01:22:56] [Server thread/INFO]: [Reino Tukulor] ZXxAlanJosuxXZ was doomed to fall by Enderman
+[01:23:00] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[01:23:03] [Async Chat Thread - #147/INFO]: [Not Secure] <NOW_POOL123> ami tpa
+[01:24:19] [Async Chat Thread - #149/INFO]: [Not Secure] <sisos> hola volvi
+[01:25:08] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mira sisos tp
+[01:25:22] [Server thread/INFO]: sisos issued server command: /tp ZXxAlanJosuxXZ
+[01:25:22] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Tukulor] ZXxAlanJosuxXZ]
+[01:25:23] [Netty Epoll Server IO #0/INFO]: Disconnecting sisos for sending keepalive response (29001657) out-of-order!
+[01:25:23] [Server thread/INFO]: sisos lost connection: Timed out
+[01:25:23] [Server thread/INFO]: sisos left the game
+[01:25:32] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> q paso?
+[01:25:41] [User Authenticator #53/INFO]: UUID of player sisos is 441a76e4-37ed-3a01-bfef-22aca4010e6e
+[01:25:47] [Server thread/INFO]: [Admin] sisos joined the game
+[01:25:47] [Server thread/INFO]: sisos[/127.5.193.164:53171] logged in with entity id 256044 at ([world_the_end]268.47239197371374, 44.0, 34.44802567346098)
+[01:26:08] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> quieres ayudar tambien?
+[01:26:14] [Async Chat Thread - #149/INFO]: [Not Secure] <sisos> bien
+[01:26:17] [Async Chat Thread - #149/INFO]: [Not Secure] <sisos> oki
+[01:26:24] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> delen bloques
+[01:27:06] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /sethome 2
+[01:27:07] [Async Chat Thread - #149/INFO]: [Not Secure] <NOW_POOL123> me quede sin bloques
+[01:27:08] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[01:27:11] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> x2
+[01:27:24] [Async Chat Thread - #149/INFO]: [Not Secure] <NOW_POOL123> si estas en enneder te envio tp
+[01:27:37] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> oki
+[01:27:51] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[01:27:54] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 2
+[01:27:57] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:28:30] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> todos tpa un rato
+[01:28:31] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[01:28:34] [Server thread/INFO]: NOW_POOL123 issued server command: /home reino
+[01:28:36] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> quiero ver algo
+[01:28:44] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> mande tpa
+[01:28:55] [Server thread/INFO]: NOW_POOL123 issued server command: /tpa ZXxAlanJosuxXZ
+[01:28:58] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> saul y now tpa
+[01:28:58] [Server thread/INFO]: sisos issued server command: /tpa ZXxAlanJosuxXZ
+[01:29:00] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:29:02] [Server thread/INFO]: sisos issued server command: /tp ZXxAlanJosuxXZ
+[01:29:02] [Server thread/INFO]: [[Admin] sisos: Teleported [Admin] sisos to [Reino Tukulor] ZXxAlanJosuxXZ]
+[01:29:06] [Async Chat Thread - #149/INFO]: [Not Secure] <NOW_POOL123> ya te envie
+[01:29:07] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:29:10] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:29:18] [Async Chat Thread - #149/INFO]: [Not Secure] <NOW_POOL123> que paso
+[01:29:24] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> manda saul
+[01:29:24] [Async Chat Thread - #149/INFO]: [Not Secure] <sisos> 2 coras
+[01:29:28] [Async Chat Thread - #149/INFO]: [Not Secure] <NOW_POOL123> perdon
+[01:29:37] [Async Chat Thread - #149/INFO]: [Not Secure] <sisos> matame
+[01:29:41] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 2
+[01:29:41] [Server thread/INFO]: [Admin] sisos was slain by [Reino Tukulor] NOW_POOL123
+[01:29:44] [User Authenticator #54/INFO]: UUID of player goku_black_20 is c616aaae-3201-3a92-9ea9-a9fa94d3118a
+[01:29:45] [Server thread/INFO]: [Admin] goku_black_20 joined the game
+[01:29:45] [Server thread/INFO]: goku_black_20[/127.56.91.73:60349] logged in with entity id 257164 at ([world]67.2958772329126, 106.23933988985307, -266.54645145012)
+[01:29:46] [Async Chat Thread - #149/INFO]: [Not Secure] <sisos> gg
+[01:29:48] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> saul manda tpa
+[01:29:51] [Async Chat Thread - #149/INFO]: [Not Secure] <sisos> gokuuu
+[01:29:59] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> manda tpa
+[01:30:03] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> un rato
+[01:30:06] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 1
+[01:30:09] [User Authenticator #54/INFO]: UUID of player saseca2610 is be5b0179-53d0-3815-b865-ee4a642e14b5
+[01:30:10] [Server thread/INFO]: [Reino Majaphit] saseca2610 joined the game
+[01:30:10] [Server thread/INFO]: saseca2610[/127.2.237.30:35063] logged in with entity id 257712 at ([world]102.03390319051655, 97.0, -449.5053618870424)
+[01:30:15] [Server thread/INFO]: saul23419 issued server command: /tpa ZXxAlanJosuxXZ
+[01:30:18] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /tpaccept
+[01:30:19] [Server thread/INFO]: goku_black_20 was kicked due to keepalive timeout!
+[01:30:19] [Server thread/INFO]: goku_black_20 lost connection: Timed out
+[01:30:19] [Server thread/INFO]: goku_black_20 left the game
+[01:30:20] [Server thread/INFO]: sisos issued server command: /msg goku_black_20 mano
+[01:30:22] [Server thread/INFO]: ZXxAlanJosuxXZ issued server command: /home 2
+[01:30:30] [Server thread/INFO]: sisos issued server command: /gamemode creative
+[01:30:30] [Server thread/INFO]: [[Admin] sisos: Set own game mode to Creative Mode]
+[01:30:32] [Async Chat Thread - #149/INFO]: [Not Secure] <NOW_POOL123> te mate pero no me dio ningun corazon
+[01:30:48] [Async Chat Thread - #149/INFO]: [Not Secure] <NOW_POOL123> aya ya lo vi
+[01:30:54] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> estan a un golpe?
+[01:31:05] [Async Chat Thread - #149/INFO]: [Not Secure] <saul23419> se pasaron de altura
+[01:31:11] [Async Chat Thread - #149/INFO]: [Not Secure] <NOW_POOL123> no mueren
+[01:31:13] [Async Chat Thread - #149/INFO]: [Not Secure] <ZXxAlanJosuxXZ> por?
+[01:31:24] [Async Chat Thread - #149/INFO]: [Not Secure] <saul23419> se mueren al caer
+[01:31:36] [Async Chat Thread - #149/INFO]: [Not Secure] <NOW_POOL123> defrente mueren mucha altura tiene creo
+[01:32:03] [Async Chat Thread - #149/INFO]: [Not Secure] <sisos> -481 71 -4022 hay una aldea con muralla de obsidiana alado
+[01:32:04] [Server thread/INFO]: Villager Villager['Villager'/257492, uuid='d98d43a2-60d7-4f75-a762-4ec4af2327a6', l='ServerLevel[world]', x=63.60, y=95.00, z=-473.56, cpos=[3, -30], tl=2283, v=true] died, message: 'Villager burned to death'

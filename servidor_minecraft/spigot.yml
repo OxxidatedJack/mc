@@ -11,13 +11,13 @@
 # Website: https://papermc.io/
 
 messages:
-  whitelist: \u00a78\u00a7l\u00a7oYou are not whitelisted in this server\u00a7r\n\u00a77\u00a7o
-    Si cree que es un error, vaya al discord del server
-  unknown-command: \u00a7nUnknown Comand
-  server-full: \u00a7l\u00a7k\u00a1\u00a7r\u00a7lThe Server Is Full\u00a7k!
+  whitelist: §8§lYou are not whitelisted in this server\u00a7r\n\u00a77\u00a7o Si
+    cree que es un error, vaya al discord del server
+  unknown-command: §7Unknown Comand
+  server-full: §e§nThe Server Is Full!
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
-  restart: \u00a79\u00a7lThe Server Is Reseting
+  restart: §3§lThe Server Is Restarting
 advancements:
   disable-saving: false
   disabled:

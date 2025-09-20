@@ -50,6 +50,7 @@ anticheat:
     - deepslate
     update-radius: 2
     use-permission: false
+chunk-tick-listener: {}
 chunks:
   auto-save-interval: default
   delay-chunk-unloads-by: 10s
@@ -73,6 +74,7 @@ collisions:
 command-blocks:
   force-follow-perm-level: true
   permissions-level: 2
+disable-player-damage: false
 entities:
   armor-stands:
     do-collision-entity-lookups: true
@@ -285,6 +287,10 @@ max-growth-height:
     min: 11
   cactus: 3
   reeds: 3
+max-tnt-per-tick: 100
+merge-radius:
+  exp: 3.0
+  item: 2.5
 misc:
   alternate-current-update-order: HORIZONTAL_FIRST_OUTWARD
   disable-end-credits: false
@@ -292,13 +298,17 @@ misc:
   disable-sprint-interruption-on-attack: false
   legacy-ender-pearl-behavior: false
   max-leash-distance: default
-  redstone-implementation: VANILLA
+  redstone-implementation: EIGENCRAFT
   shield-blocking-delay: 5
   show-sign-click-command-failure-msgs-to-player: false
   update-pathfinding-on-block-update: true
+mob-spawn-range: 4
+random-light-updates: false
+save-structure-info: true
 scoreboards:
   allow-non-player-entities-on-scoreboards: true
   use-vanilla-world-scoreboard-name-coloring: false
+seed-village: true
 spawn:
   allow-using-signs-inside-spawn-protection: false
 tick-rates:
@@ -316,3 +326,4 @@ tick-rates:
 unsupported-settings:
   disable-world-ticking-when-empty: false
   fix-invulnerable-end-crystal-exploit: true
+view-distance: 10

@@ -4,5 +4,17 @@
     "name": "Xautral",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "eccfda82-36bb-34f6-990b-f38cbf3c2466",
+    "name": "Slimegolembross",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ca9a4d06-dddd-395d-87ca-776f889f41ca",
+    "name": "blime2009",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

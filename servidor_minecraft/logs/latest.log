@@ -170,3 +170,18 @@
 [23:08:53] [Server thread/INFO]: [Xautral [Founder]: Applied enchantment Efficiency V to Xautral [Founder]'s item]
 [23:09:14] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:piercing 4
 [23:09:14] [Server thread/INFO]: [Xautral [Founder]: Applied enchantment Piercing IV to Xautral [Founder]'s item]
+[23:13:01] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:protection 4
+[23:15:36] [User Authenticator #2/INFO]: UUID of player Erquemeni is e6023ca2-07a1-310c-919f-9babc20bc57c
+[23:15:37] [Server thread/INFO]: Erquemeni joined the game
+[23:15:37] [Server thread/INFO]: Erquemeni[/127.115.99.248:60309] logged in with entity id 6052 at ([world]73.5, 70.0, -7.5)
+[23:15:46] [Async Chat Thread - #2/INFO]: [Not Secure] <Erquemeni> hola gente, estoy organizando un survival entre civilizaciones, con guerras, alianzas y etc, tenemos grupo de dc, si alguien le interesa unirse mande msg
+[23:15:55] [Server thread/INFO]: Erquemeni lost connection: Disconnected
+[23:15:55] [Server thread/INFO]: Erquemeni left the game
+[23:15:59] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[23:15:59] [Server thread/INFO]: [Xautral [Founder]: Set the time to 0]
+[23:16:27] [User Authenticator #2/INFO]: UUID of player Erquemeni is e6023ca2-07a1-310c-919f-9babc20bc57c
+[23:16:28] [Server thread/INFO]: Erquemeni joined the game
+[23:16:28] [Server thread/INFO]: Erquemeni[/127.115.99.248:42317] logged in with entity id 6270 at ([world]87.5975190103968, 70.0, 37.49142802815461)
+[23:16:29] [Server thread/INFO]: Xautral issued server command: /inv Erquemeni
+[23:16:37] [Server thread/INFO]: Erquemeni lost connection: Disconnected
+[23:16:37] [Server thread/INFO]: Erquemeni left the game

@@ -3079,3 +3079,98 @@
 [19:06:22] [Server thread/INFO]: blime2009 issued server command: /tp 0 200 0
 [19:06:22] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 200.000000, 0.500000]
 [19:06:24] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 has made the advancement [Hot Stuff]
+[19:07:38] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
+[19:07:38] [Server thread/INFO]: [blime2009 [Scripting]: Removed 64 item(s) from player blime2009 [Scripting]]
+[19:07:41] [Server thread/INFO]: blime2009 issued server command: /kill blime2009
+[19:07:41] [Server thread/INFO]: blime2009 [Scripting] was killed
+[19:07:41] [Server thread/INFO]: [blime2009 [Scripting]: Killed blime2009 [Scripting]]
+[19:07:44] [Server thread/INFO]: blime2009 issued server command: /kill blime2009
+[19:07:44] [Server thread/INFO]: blime2009 [Scripting] was killed
+[19:07:44] [Server thread/INFO]: [blime2009 [Scripting]: Killed blime2009 [Scripting]]
+[19:07:44] [Server thread/INFO]: blime2009 issued server command: /kill blime2009
+[19:07:44] [Server thread/INFO]: blime2009 [Scripting] was killed
+[19:07:44] [Server thread/INFO]: [blime2009 [Scripting]: Killed blime2009 [Scripting]]
+[19:07:46] [Server thread/INFO]: blime2009 issued server command: /kill blime2009
+[19:07:46] [Server thread/INFO]: blime2009 [Scripting] was killed
+[19:07:46] [Server thread/INFO]: [blime2009 [Scripting]: Killed blime2009 [Scripting]]
+[19:07:48] [Server thread/INFO]: blime2009 issued server command: /kill blime2009
+[19:07:48] [Server thread/INFO]: blime2009 [Scripting] was killed
+[19:07:48] [Server thread/INFO]: [blime2009 [Scripting]: Killed blime2009 [Scripting]]
+[19:07:53] [Server thread/INFO]: blime2009 issued server command: /tp 0 00
+[19:07:55] [Server thread/INFO]: blime2009 issued server command: /tp 0 00 0
+[19:07:55] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
+[19:07:57] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[19:07:58] [Server thread/INFO]: blime2009 [Scripting] left the game
+[19:09:12] [User Authenticator #23/INFO]: UUID of player _Raliux is 0deb9a24-9e0d-3c83-b5d0-dad4c8f61edb
+[19:09:14] [Server thread/INFO]: _Raliux joined the game
+[19:09:14] [Server thread/INFO]: _Raliux[/127.49.52.68:38519] logged in with entity id 142891 at ([world]72.5, 70.0, -4.5)
+[19:09:21] [User Authenticator #23/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[19:09:23] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[19:09:23] [Server thread/INFO]: volcon2[/127.217.184.139:42683] logged in with entity id 142929 at ([world_nether]64.55362270566346, 76.0, 79.49995804401283)
+[19:09:27] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[19:09:27] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[19:09:33] [Server thread/INFO]: ChamoMCYT issued server command: /msg _Raliux ola
+[19:09:37] [Server thread/INFO]: _Raliux issued server command: /r ?
+[19:09:41] [Server thread/INFO]: _Raliux issued server command: /msg ChamoMCYT ?
+[19:09:49] [Async Chat Thread - #52/INFO]: [Not Secure] <_Raliux> Xautral
+[19:10:20] [Server thread/INFO]: _Raliux issued server command: /kits
+[19:10:38] [User Authenticator #24/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[19:10:39] [Server thread/INFO]: [Kingdom of Genesis] zDreamz__ joined the game
+[19:10:39] [Server thread/INFO]: zDreamz__[/127.254.236.236:36195] logged in with entity id 143505 at ([world]87.91320020882625, 64.0, 3933.5150745834803)
+[19:10:46] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 me das comida?
+[19:10:48] [Async Chat Thread - #53/INFO]: [Not Secure] <zDreamz__> la ptm
+[19:11:24] [Server thread/INFO]: _Raliux issued server command: /seed
+[19:11:26] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 me das comida bro
+[19:11:32] [Async Chat Thread - #52/INFO]: [Not Secure] <Lio_8282828> xd
+[19:11:52] [Async Chat Thread - #52/INFO]: [Not Secure] <_Raliux> de q se trata ?
+[19:12:17] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 salimos en warped forest
+[19:12:22] [User Authenticator #25/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[19:12:23] [Server thread/INFO]: blime2009 [Scripting] joined the game
+[19:12:23] [Server thread/INFO]: blime2009[/127.20.187.84:38957] logged in with entity id 145194 at ([world]0.5, 0.0, 0.5)
+[19:12:50] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[19:12:50] [Server thread/INFO]: blime2009 [Scripting] left the game
+[19:13:03] [Async Chat Thread - #53/INFO]: [Not Secure] <Lio_8282828> a por oro
+[19:13:10] [Async Chat Thread - #53/INFO]: [Not Secure] <ChamoMCYT> el oro se nos olvido
+[19:13:12] [User Authenticator #25/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[19:13:13] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[19:13:13] [Server thread/INFO]: volcon2[/127.217.184.139:39069] logged in with entity id 146258 at ([world_nether]64.6040669562945, 76.0, 79.90984276607658)
+[19:13:30] [Async Chat Thread - #53/INFO]: [Not Secure] <Lio_8282828> vou por oro
+[19:13:36] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> x fin
+[19:13:36] [Async Chat Thread - #53/INFO]: [Not Secure] <ChamoMCYT> vamos
+[19:13:38] [Async Chat Thread - #53/INFO]: [Not Secure] <Lio_8282828> ahi hay 4
+[19:13:40] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> tenia lag
+[19:14:08] [Async Chat Thread - #53/INFO]: [Not Secure] <zDreamz__> duerman
+[19:14:12] [Async Chat Thread - #53/INFO]: [Not Secure] <zDreamz__> plks
+[19:14:14] [Async Chat Thread - #53/INFO]: [Not Secure] <zDreamz__> pls
+[19:14:16] [User Authenticator #26/INFO]: UUID of player Valeria_09 is 330c6c2b-1fe2-346f-a8fd-6821d50c09a8
+[19:14:17] [Server thread/INFO]: [Kingdom of Genesis] Valeria_09 joined the game
+[19:14:17] [Server thread/INFO]: Valeria_09[/127.119.116.43:52339] logged in with entity id 147528 at ([world]77.59245639560154, 68.0, 3918.5733507807677)
+[19:14:26] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> por que te gusta dormir
+[19:14:32] [Async Chat Thread - #53/INFO]: [Not Secure] <_Raliux> se pajea bro
+[19:14:44] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> jaja
+[19:14:46] [Async Chat Thread - #53/INFO]: [Not Secure] <zDreamz__> pqe me gusta ras ras
+[19:15:00] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> Raliux tienes clan?
+[19:15:07] [Async Chat Thread - #53/INFO]: [Not Secure] <_Raliux> nop
+[19:15:14] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> vas a crear uno o unirte
+[19:15:24] [Server thread/INFO]: _Raliux has made the advancement [Stone Age]
+[19:15:32] [Async Chat Thread - #53/INFO]: [Not Secure] <_Raliux> ns
+[19:15:35] [Async Chat Thread - #52/INFO]: [Not Secure] <volcon2> bueno
+[19:15:38] [Async Chat Thread - #52/INFO]: [Not Secure] <volcon2> sabes pvpear?
+[19:15:39] [Server thread/INFO]: [Kingdom of Genesis] Valeria_09 has made the advancement [Stone Age]
+[19:15:41] [Async Chat Thread - #52/INFO]: [Not Secure] <_Raliux> si
+[19:15:44] [Async Chat Thread - #52/INFO]: [Not Secure] <volcon2> o que sabes hacer tu
+[19:15:45] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 pasa mesa de crafteo
+[19:15:49] [Async Chat Thread - #53/INFO]: [Not Secure] <_Raliux> pvpear
+[19:15:55] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> te quieres unir a mi clan?
+[19:15:59] [Server thread/INFO]: _Raliux has made the advancement [Getting an Upgrade]
+[19:15:59] [Server thread/INFO]: Lio_8282828 issued server command: /tell ChamoMCYT no traje xd
+[19:16:00] [Async Chat Thread - #52/INFO]: [Not Secure] <Lio_8282828> ven
+[19:16:02] [Server thread/INFO]: [Kingdom of Genesis] zDreamz__ has made the advancement [Stone Age]
+[19:16:20] [Async Chat Thread - #52/INFO]: [Not Secure] <ChamoMCYT> estoy a 2 corazones y medio
+[19:16:45] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 dame comida porfavor
+[19:16:46] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> raliux te unes o creeas un clan?
+[19:16:51] [Async Chat Thread - #53/INFO]: [Not Secure] <_Raliux> uno
+[19:16:59] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> va deja luego le digo al
+[19:17:01] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> xau
+[19:17:12] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> por mientras te cheto
+[19:17:15] [Async Chat Thread - #53/INFO]: [Not Secure] <volcon2> pero no se donde estes

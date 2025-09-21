@@ -191,3 +191,348 @@ home/codespace/.python/current/bin/python /workspaces/mc/msx.py<--[HERE]
 [14:29:15] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to volcon2]
 [14:29:15] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
 [14:29:24] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> nombre?
+[14:29:31] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> espera tantito
+[14:29:32] [Server thread/INFO]: Xautral lost connection: Disconnected
+[14:29:32] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> ahora no tengo ideas
+[14:29:32] [Server thread/INFO]: Xautral [Founder] left the game
+[14:29:35] [User Authenticator #5/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[14:29:36] [Server thread/INFO]: Xautral [Founder] joined the game
+[14:29:36] [Server thread/INFO]: Xautral[/127.115.99.248:51229] logged in with entity id 6282 at ([world]450.90825000753637, 67.0, 122.520062514374)
+[14:29:43] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> recuerdas como se llamaba el mio?
+[14:29:44] [User Authenticator #5/INFO]: Disconnecting Xautral (/127.115.99.248:57201): [LoginSecurity] This player is already online!
+[14:29:44] [User Authenticator #5/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[14:29:44] [Server thread/INFO]: Xautral (/127.115.99.248:57201) lost connection: [LoginSecurity] This player is already online!
+[14:29:46] [Server thread/INFO]: Xautral lost connection: Disconnected
+[14:29:46] [Server thread/INFO]: Xautral [Founder] left the game
+[14:29:50] [User Authenticator #5/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[14:29:50] [Server thread/INFO]: Xautral [Founder] joined the game
+[14:29:50] [Server thread/INFO]: Xautral[/127.115.99.248:45695] logged in with entity id 6530 at ([world]450.90825000753637, 67.0, 122.520062514374)
+[14:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[14:29:51] [Server thread/INFO]: [Community Tenochcatl] walterdmc14 has made the advancement [Ol' Betsy]
+[14:29:51] [Server thread/INFO]: [Community Tenochcatl] walterdmc14 has made the advancement [Take Aim]
+[14:29:52] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no
+[14:29:54] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> no me acuerdo
+[14:29:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> xautral
+[14:29:55] [Server thread/INFO]: [Community Tenochcatl] walterdmc14 has made the advancement [Monster Hunter]
+[14:29:59] [Async Chat Thread - #5/INFO]: [Not Secure] <Lio_8282828> me das una mesa?
+[14:30:01] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> xdddd
+[14:30:03] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> no
+[14:30:05] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[14:30:05] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to volcon2]
+[14:30:07] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> volcon a als 1
+[14:30:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> volcon a las 2
+[14:30:14] [Server thread/INFO]: Xautral issued server command: /inv volcon2
+[14:30:20] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[14:30:20] [Server thread/INFO]: [Xautral [Founder]: Set the time to 0]
+[14:30:25] [Server thread/INFO]: Xautral issued server command: /team list tristan
+[14:30:28] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> el kit
+[14:30:29] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> volcon
+[14:30:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> si
+[14:30:31] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> es un kit
+[14:30:35] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> como se llamará?
+[14:30:36] [Server thread/INFO]: volcon2 has made the advancement [Getting an Upgrade]
+[14:30:47] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> algo de volcanes
+[14:30:51] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> aaa
+[14:30:53] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya te recuerdo
+[14:30:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no
+[14:30:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> xautral dame jna mesa de crafteo xd
+[14:30:58] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> de hecho no recuerdo
+[14:31:01] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> JAJA
+[14:31:02] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> Xautral
+[14:31:05] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ponle un nombre Dominio Volcon o algo
+[14:31:07] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> ise una runa rara
+[14:31:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> que blime
+[14:31:09] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[14:31:09] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
+[14:31:12] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> que mamada hiciste w
+[14:31:25] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> lo sacaste de runecraft cierto?
+[14:31:30] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> que es eso
+[14:31:35] [Server thread/INFO]: Xautral issued server command: /give Lio_8282828 minecraft:crafting_table
+[14:31:35] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Crafting Table] to [Clan of South-Warriors] Lio_8282828]
+[14:31:37] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> un plugind e runas
+[14:31:40] [Async Chat Thread - #5/INFO]: [Not Secure] <Lio_8282828> dios me escucho
+[14:31:41] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> que funciona exactamente igual
+[14:31:43] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[14:31:43] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to volcon2]
+[14:31:44] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> a no
+[14:31:49] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> volcan's
+[14:31:57] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> se me ocurrio ayer en la noche cuando apagastes el srvr
+[14:32:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> x2
+[14:32:06] [Server thread/INFO]: Xautral issued server command: /team add volcans
+[14:32:06] [Server thread/INFO]: [Xautral [Founder]: Created team [volcans]]
+[14:32:13] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> afk
+[14:32:18] [Server thread/INFO]: Xautral issued server command: /team modify volcans prefix {"text":"[Volcan's Dominion] ","color":"yellow"}
+[14:32:24] [Async Chat Thread - #4/INFO]: [Not Secure] <walterdmc14> necesito una mesa de crafteo ;(
+[14:32:25] [Server thread/INFO]: Xautral issued server command: /team join volcans volcon2
+[14:32:25] [Server thread/INFO]: [Xautral [Founder]: Added [Volcan's Dominion] volcon2 to team [volcans]]
+[14:32:27] [Server thread/INFO]: Xautral issued server command: /tp walterdmc14
+[14:32:27] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Community Tenochcatl] walterdmc14]
+[14:32:31] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> volcon y walter
+[14:32:33] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> les hago rtp?
+[14:32:33] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> craftea
+[14:32:42] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> miren
+[14:32:44] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> a los 2 nuevos
+[14:32:45] [Async Chat Thread - #6/INFO]: [Not Secure] <walterdmc14> estoy al lado de diamandte
+[14:32:45] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> necesitan colonizar
+[14:32:51] [Server thread/INFO]: Xautral issued server command: /give walterdmc14 minecraft:iron_pickaxe
+[14:32:51] [Server thread/INFO]: [Community Tenochcatl] walterdmc14 has made the advancement [Isn't It Iron Pick]
+[14:32:51] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Iron Pickaxe] to [Community Tenochcatl] walterdmc14]
+[14:32:58] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> rodear una zona de cualquier material
+[14:33:02] [Server thread/INFO]: [Community Tenochcatl] walterdmc14 has made the advancement [Diamonds!]
+[14:33:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> si rodean una aldea ganan 1 minerla
+[14:33:05] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> si hacen 1 tambien
+[14:33:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> por cada colonia ganan 1 mineral
+[14:33:11] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> se me olvido eso
+[14:33:13] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> rodean?
+[14:33:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> si
+[14:33:18] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> eso se llama coloniar
+[14:33:21] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[14:33:21] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[14:33:21] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> mira
+[14:33:21] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> aa
+[14:33:31] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> mira
+[14:33:32] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> pero la aldea esta en el desierto
+[14:33:42] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> listo
+[14:33:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ya la rodie
+[14:33:45] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> esa zona es mia
+[14:33:49] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> aa pero podias varias no?
+[14:33:49] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> y ya
+[14:33:53] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> si
+[14:33:55] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> tambien para eso servia
+[14:33:56] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> cualquier material
+[14:33:57] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> si son bloques
+[14:34:00] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> declarar la guerr
+[14:34:05] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ?
+[14:34:05] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> deja farmeo pues
+[14:34:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> a si
+[14:34:11] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ganas totems por peleas ganada
+[14:34:12] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> y armas
+[14:34:14] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no OP pero armas
+[14:34:18] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> walterdmc14
+[14:34:19] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> rtp
+[14:34:20] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ?
+[14:34:21] [Server thread/INFO]: Xautral issued server command: /tp walterdmc14
+[14:34:21] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Community Tenochcatl] walterdmc14]
+[14:34:26] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> creo que es mejor pelear que minar.3
+[14:34:34] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral minecraft:invisibility
+[14:34:34] [Server thread/INFO]: [Xautral [Founder]: Removed effect Invisibility from Xautral [Founder]]
+[14:34:39] [Async Chat Thread - #5/INFO]: [Not Secure] <Lio_8282828> tio
+[14:34:40] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[14:34:40] [Server thread/INFO]: [Xautral [Founder]: Applied effect Invisibility to Xautral [Founder]]
+[14:34:45] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral minecraft:night_vision
+[14:34:45] [Server thread/INFO]: [Xautral [Founder]: Removed effect Night Vision from Xautral [Founder]]
+[14:34:48] [Async Chat Thread - #5/INFO]: [Not Secure] <Lio_8282828> no tengo ni palos
+[14:34:51] [Async Chat Thread - #6/INFO]: [Not Secure] <Lio_8282828> estky atrapado
+[14:34:51] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:night_vision infinite 25 true
+[14:34:51] [Server thread/INFO]: [Xautral [Founder]: Applied effect Night Vision to Xautral [Founder]]
+[14:34:52] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[14:34:53] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[14:35:02] [Server thread/INFO]: Xautral issued server command: /inv Lio_8282828
+[14:35:08] [Server thread/INFO]: Xautral issued server command: /give Lio_8282828 minecraft:iron_pickaxe
+[14:35:08] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Iron Pickaxe] to [Clan of South-Warriors] Lio_8282828]
+[14:35:09] [Server thread/INFO]: Xautral issued server command: /inv Lio_8282828
+[14:35:14] [Async Chat Thread - #6/INFO]: [Not Secure] <Lio_8282828> ke
+[14:35:17] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> dios te escucha
+[14:35:20] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[14:35:20] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[14:35:20] [Async Chat Thread - #6/INFO]: [Not Secure] <Lio_8282828> zy
+[14:35:30] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> bueno afk
+[14:35:31] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> mete el chat de proximidad
+[14:35:35] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> no volcon2
+[14:35:37] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> existe el discord
+[14:35:38] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> :v
+[14:35:41] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> bueno
+[14:36:11] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[14:36:11] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 0.500000, 0.000000, 0.500000]
+[14:36:18] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> es una prueba eh
+[14:36:19] [Async Chat Thread - #5/INFO]: [Not Secure] <Lio_8282828> what
+[14:36:19] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> aaa
+[14:36:19] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> no se espanten
+[14:36:22] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> me asustaste
+[14:36:25] [Server thread/INFO]: Xautral issued server command: /stopsound @a
+[14:36:25] [Server thread/INFO]: [Xautral [Founder]: Stopped all sounds]
+[14:36:27] [Server thread/INFO]: Xautral issued server command: /stopsound @a
+[14:36:27] [Server thread/INFO]: [Xautral [Founder]: Stopped all sounds]
+[14:36:28] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ya
+[14:36:29] [Async Chat Thread - #6/INFO]: [Not Secure] <Lio_8282828> jajaja
+[14:36:30] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[14:36:30] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[14:36:40] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> gente
+[14:36:43] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> nada
+[14:36:44] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> xd
+[14:36:45] [Server thread/INFO]: blime2009 issued server command: /tp walterdmc14
+[14:36:45] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to [Community Tenochcatl] walterdmc14]
+[14:36:49] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> igual no me tardo en declarar la guerra
+[14:36:53] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> solo me pongo full diamante
+[14:36:57] [Server thread/INFO]: blime2009 issued server command: /tp walterdmc14 blime2009
+[14:36:57] [Server thread/INFO]: [blime2009 [Scripting]: Teleported [Community Tenochcatl] walterdmc14 to blime2009 [Scripting]]
+[14:36:57] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> y rodeo una aldea
+[14:36:58] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> pero primero coloniza puñetas :v
+[14:37:01] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> sisi
+[14:37:04] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> llamalo colonizar
+[14:37:05] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> suena mas formal
+[14:37:07] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> lo tire por accidente
+[14:37:07] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[14:37:07] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[14:37:13] [Server thread/INFO]: blime2009 issued server command: /tp volcon2
+[14:37:13] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to [Volcan's Dominion] volcon2]
+[14:37:16] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> pon musica epica
+[14:37:16] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> blime2009
+[14:37:18] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> te acuerdas
+[14:37:19] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> espectador
+[14:37:20] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> la que ponias
+[14:37:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> si
+[14:37:23] [Server thread/INFO]: blime2009 issued server command: /gamemode spectator
+[14:37:23] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Spectator Mode]
+[14:37:28] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> y el vanish
+[14:37:30] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> uwu?
+[14:37:32] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no esta
+[14:37:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> uwu
+[14:37:34] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> se me olvido
+[14:37:36] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> uwu
+[14:37:38] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> puñetas
+[14:37:43] [Server thread/INFO]: [Community Tenochcatl] walterdmc14 has made the advancement [Not Today, Thank You]
+[14:37:45] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> hay que hacer un canal de recordatorio uwu
+[14:37:47] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[14:37:47] [Server thread/INFO]: blime2009 [Scripting] left the game
+[14:38:05] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:music_disc.wait ui @a 0 0 0 3747234782349 0.7 |1
+[14:38:07] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:music_disc.wait ui @a 0 0 0 3747234782349 0.7 1
+[14:38:07] [Server thread/INFO]: [Xautral [Founder]: Played sound minecraft:music_disc.wait to 5 players]
+[14:38:16] [Async Chat Thread - #6/INFO]: [Not Secure] <Lio_8282828> what
+[14:38:17] [Server thread/INFO]: Xautral issued server command: /tp walterdmc14
+[14:38:17] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Community Tenochcatl] walterdmc14]
+[14:38:25] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> musica de paz
+[14:38:31] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[14:38:31] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[14:38:36] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> y no
+[14:38:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no la pueden mutear :)
+[14:38:47] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[14:38:56] [Async Chat Thread - #6/INFO]: [Not Secure] <walterdmc14> esta lleno de diamantes esto
+[14:39:00] [Server thread/INFO]: Xautral issued server command: /tp walterdmc14
+[14:39:00] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Community Tenochcatl] walterdmc14]
+[14:39:09] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> a numa si cierto
+[14:39:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Lio_8282828> oh yeaaaah
+[14:40:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Plechini44> hola
+[14:40:24] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> hola
+[14:40:35] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[14:40:35] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[14:40:40] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> que interacción mas social
+[14:40:45] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> gente
+[14:40:49] [Async Chat Thread - #6/INFO]: [Not Secure] <Plechini44> xd
+[14:40:52] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> me reventaba si le decia algo
+[14:40:53] [Async Chat Thread - #6/INFO]: [Not Secure] <Lio_8282828> mande
+[14:40:57] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> por alianza ganan una pocion o flecha de cualquier efecto
+[14:40:59] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[14:40:59] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[14:41:04] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[14:41:09] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> ya rodie toda una aldea
+[14:41:18] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> tiene que ser minimo de 3 bloques la muralla
+[14:41:23] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> a la bestia
+[14:41:40] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 has made the advancement [Sweet Dreams]
+[14:41:53] [Async Chat Thread - #7/INFO]: [Not Secure] <Lio_8282828> duerman
+[14:42:03] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> tienen camas todos no mamen
+[14:42:04] [Server thread/INFO]: [Community Tenochcatl] walterdmc14 has made the advancement [Sweet Dreams]
+[14:42:04] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[14:42:06] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[14:42:20] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> Uuuu
+[14:42:23] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> si escuchan ese drum beat?
+[14:42:33] [Async Chat Thread - #7/INFO]: [Not Secure] <Lio_8282828> yeh
+[14:42:33] [Server thread/INFO]: walterdmc14 lost connection: Disconnected
+[14:42:33] [Server thread/INFO]: [Community Tenochcatl] walterdmc14 left the game
+[14:42:46] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Monster Hunter]
+[14:43:25] [Server thread/INFO]: Xautral issued server command: /fill 345 74 304
+[14:43:31] [Server thread/INFO]: Xautral issued server command: /fill 345 74 304 345 67 285
+[14:43:36] [Server thread/INFO]: Xautral issued server command: /fill 345 74 304 345 67 285 minecraft:jungle_planks
+[14:43:36] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 130 block(s)]
+[14:43:54] [Server thread/INFO]: Xautral issued server command: /give @a map
+[14:43:54] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Empty Map] to 4]
+[14:44:38] [Server thread/INFO]: Xautral lost connection: Disconnected
+[14:44:38] [Server thread/INFO]: Xautral [Founder] left the game
+[14:44:39] [User Authenticator #6/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[14:44:39] [Server thread/INFO]: blime2009 [Scripting] joined the game
+[14:44:39] [Server thread/INFO]: blime2009[/127.20.187.84:60039] logged in with entity id 20391 at ([world]317.56517368704044, 67.37203241406033, 392.2401378929457)
+[14:44:40] [User Authenticator #6/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[14:44:41] [Server thread/INFO]: Xautral [Founder] joined the game
+[14:44:41] [Server thread/INFO]: Xautral[/127.115.99.248:40709] logged in with entity id 20495 at ([world]338.7200764655249, 81.57688746834478, 314.50145127866665)
+[14:44:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> when eres permabaneado:
+[14:44:46] [Async Chat Thread - #9/INFO]: [Not Secure] <volcon2> creo que si sigo aqui nunca me voy a chetar
+[14:44:49] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[14:44:49] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
+[14:44:51] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[14:44:51] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
+[14:44:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ni tanto
+[14:44:56] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[14:44:56] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[14:44:59] [Async Chat Thread - #9/INFO]: [Not Secure] <Lio_8282828> AHHH ME PERMA BANEAN
+[14:45:02] [Server thread/INFO]: Lio_8282828 lost connection: Disconnected
+[14:45:02] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 left the game
+[14:45:03] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> Plechini44 nomas se hace pendejo
+[14:45:13] [User Authenticator #6/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[14:45:14] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 joined the game
+[14:45:14] [Server thread/INFO]: Lio_8282828[/127.110.0.38:54769] logged in with entity id 21162 at ([world]-1350.068062848695, 64.0, -1393.3317151310816)
+[14:45:16] [Async Chat Thread - #8/INFO]: [Not Secure] <Plechini44> que?
+[14:45:20] [Async Chat Thread - #8/INFO]: [Not Secure] <Lio_8282828> xddd
+[14:45:21] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> no tiene ni una sola colonia
+[14:45:26] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> esta afk en un puto barco
+[14:45:30] [Async Chat Thread - #9/INFO]: [Not Secure] <Lio_8282828> kien
+[14:45:34] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> el Plechini44
+[14:45:38] [Async Chat Thread - #9/INFO]: [Not Secure] <Lio_8282828> xddd
+[14:45:38] [Async Chat Thread - #8/INFO]: [Not Secure] <Plechini44> afk : watajai
+[14:45:39] [Server thread/INFO]: Xautral issued server command: /inv Plechini44
+[14:45:45] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> que
+[14:45:48] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> Plechini44
+[14:45:52] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> vete mucho a la mierda
+[14:45:54] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> pinche rarito
+[14:45:58] [Async Chat Thread - #9/INFO]: [Not Secure] <Plechini44> reversa wn
+[14:46:01] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> como que watajai
+[14:46:04] [Async Chat Thread - #8/INFO]: [Not Secure] <Plechini44> no ando afk
+[14:46:45] [Server thread/INFO]: Plechini44 lost connection: Disconnected
+[14:46:45] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 left the game
+[14:46:48] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> ya ven
+[14:46:52] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> se fue a la verga
+[14:47:02] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> y mañana seguirá tratando de buscar otra colonia
+[14:47:05] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[14:47:05] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[14:47:06] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> volado
+[14:47:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Lio_8282828> k pasa si me voy a grifear xD
+[14:47:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> que haces
+[14:47:10] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> Lio_8282828
+[14:47:14] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> es ilegal grifear
+[14:47:17] [Async Chat Thread - #8/INFO]: [Not Secure] <Lio_8282828> xd
+[14:47:17] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> y RAIDEAR
+[14:47:21] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> solo en guerras
+[14:47:24] [Async Chat Thread - #8/INFO]: [Not Secure] <Lio_8282828> ya
+[14:47:32] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> si la base es de un equipo que no se ha conectado en un chingo de tiempo
+[14:47:36] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> tonces la puedes raidear
+[14:47:37] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[14:47:37] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[14:47:45] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> el pvp esta permitido
+[14:47:59] [Async Chat Thread - #9/INFO]: [Not Secure] <volcon2> no le des ideas
+[14:48:14] [Async Chat Thread - #9/INFO]: [Not Secure] <Lio_8282828> eso ya lo sabia
+[14:48:25] [Async Chat Thread - #8/INFO]: [Not Secure] <Lio_8282828> xq hay penes
+[14:48:30] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> xd?
+[14:48:36] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> ya deja de drogarte
+[14:48:41] [Server thread/INFO]: Xautral issued server command: /inv volcon2
+[14:48:45] [Async Chat Thread - #9/INFO]: [Not Secure] <Lio_8282828> enserio
+[14:48:45] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Stone Age]
+[14:48:49] [Server thread/INFO]: Xautral issued server command: /inv Lio_8282828
+[14:48:51] [Async Chat Thread - #9/INFO]: [Not Secure] <Lio_8282828> tpeate
+[14:48:51] [User Authenticator #7/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[14:48:52] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 joined the game
+[14:48:52] [Server thread/INFO]: Plechini44[/127.162.71.96:41513] logged in with entity id 24102 at ([world]2278.8567738207703, 95.0, 672.2193070638458)
+[14:48:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> gente
+[14:48:57] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> les di manzanas psiquicas
+[14:48:59] [Async Chat Thread - #9/INFO]: [Not Secure] <Lio_8282828> q es estl
+[14:49:00] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> comanselas
+[14:49:04] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> y les dará efects cortos
+[14:49:05] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> pero buenos
+[14:49:10] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> PENE VENENOSO
+[14:49:17] [Async Chat Thread - #8/INFO]: [Not Secure] <Lio_8282828> JAJAJAJAJ
+[14:49:26] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> ya
+[14:49:28] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> vete a volar
+[14:49:54] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[14:49:54] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[14:49:57] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[14:49:57] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[14:50:01] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[14:50:01] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]

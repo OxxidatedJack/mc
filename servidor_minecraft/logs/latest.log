@@ -914,3 +914,91 @@ Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
 [21:48:42] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [287, 230], pos: BlockPos{x=4605, y=91, z=3689}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
 [21:48:52] [Async Chat Thread - #27/INFO]: [Not Secure] <volcon2> por que la lava quita tanto
 [21:50:46] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> ando perdido xautral
+[21:51:19] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> ni modos
+[21:54:53] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[21:54:53] [Server thread/INFO]: [Xautral [Founder]: Applied effect Invisibility to Xautral [Founder]]
+[21:54:57] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[21:54:57] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[21:55:14] [Server thread/INFO]: Named entity Ghast['Demoniac Ghast'/47361, uuid='f71fd1f4-ab85-47b5-a7db-50a796dc9e6a', l='ServerLevel[world_nether]', x=-169.33, y=71.72, z=-28.02, cpos=[-11, -2], tl=49, v=true] died: Demoniac Ghast was blown up by Demoniac Ghast
+[21:55:17] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
+[21:55:17] [Server thread/INFO]: [Xautral [Founder]: Teleported [Volcan's Dominion] volcon2 to Xautral [Founder]]
+[21:55:20] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> que pedo
+[21:55:23] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> ????
+[21:55:27] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> instale un datapack de mobs custom
+[21:55:28] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> q?
+[21:55:31] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> pero tampoco espere que fuera tanto
+[21:55:43] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> me dio miedo
+[21:55:50] [Server thread/INFO]: Named entity Ghast['Demoniac Ghast'/47942, uuid='3e92634b-9e07-4e02-b69c-55b4e15211bd', l='ServerLevel[world_nether]', x=-168.50, y=68.00, z=-85.50, cpos=[-11, -6], tl=73, v=true] died: Demoniac Ghast was blown up by Demoniac Ghast
+[21:55:50] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> y este wey que
+[21:55:56] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> QUE MIERDA
+[21:55:59] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:totem_of_undying 5
+[21:55:59] [Server thread/INFO]: [Xautral [Founder]: Gave 5 [Totem of Undying] to [Volcan's Dominion] volcon2]
+[21:56:08] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> te doy totems porque si va a ser dificil sobrevivir
+[21:56:13] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> esperame
+[21:56:15] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> no tengo espacio
+[21:56:19] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> dame 1 shulker
+[21:56:26] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> con los totems
+[21:56:28] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> que me vayas a dar
+[21:56:51] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> hizo mierda todo el nether ese ghast
+[21:56:56] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> xautral mira esta aldea lo chila
+[21:56:57] [User Authenticator #13/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[21:56:58] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 joined the game
+[21:56:58] [Server thread/INFO]: Plechini44[/127.162.71.96:53787] logged in with entity id 48506 at ([world]1802.699999988079, 83.0, 2873.699999988079)
+[21:57:04] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[21:57:04] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[21:57:05] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> chula*
+[21:57:12] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> cual si ni hay
+[21:57:20] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[21:57:20] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[21:57:24] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> mira donde estoy mirando
+[21:57:31] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> tengo los chunks hasta abajo
+[21:57:43] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> con razon
+[21:57:45] [Server thread/INFO]: Lio_8282828 issued server command: /seed
+[21:57:51] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> ya?
+[21:57:58] [Server thread/INFO]: Xautral issued server command: /kill 5fd51e6a-1585-4f6c-9349-4efa2d40d77a
+[21:57:58] [Server thread/INFO]: Named entity Ghast['Ender Ghast'/49304, uuid='5fd51e6a-1585-4f6c-9349-4efa2d40d77a', l='ServerLevel[world_nether]', x=-131.99, y=61.00, z=-128.59, cpos=[-9, -9], tl=47, v=true] died: Ender Ghast was killed
+[21:57:58] [Server thread/INFO]: [Xautral [Founder]: Killed Ender Ghast]
+[21:58:07] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[21:58:07] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[21:58:23] [Server thread/INFO]: [Volcan's Dominion] volcon2 was blown up by Ender Ghast
+[21:58:23] [Server thread/INFO]: Named entity Ghast['Ender Ghast'/49643, uuid='8ae291e6-16de-4a80-8553-6cb20924c447', l='ServerLevel[world_nether]', x=-145.50, y=71.00, z=-152.50, cpos=[-10, -10], tl=33, v=true] died: Ender Ghast was blown up by Ender Ghast
+[21:58:24] [Server thread/INFO]: Xautral issued server command: /kill 8ae291e6-16de-4a80-8553-6cb20924c447
+[21:58:28] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> que carajos
+[21:58:28] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> WEY
+[21:58:29] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[21:58:29] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[21:58:31] [Async Chat Thread - #31/INFO]: [Not Secure] <Lio_8282828> ddddd
+[21:58:33] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> me cayo un creeper
+[21:58:35] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> y seguido
+[21:58:35] [Server thread/INFO]: Xautral issued server command: /give volcon2 diamond 128
+[21:58:35] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Diamond] to [Volcan's Dominion] volcon2]
+[21:58:37] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> toma wey
+[21:58:37] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> un ghast
+[21:58:39] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> si me dio penita
+[21:58:43] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:netherite_chestplate
+[21:58:43] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Netherite Chestplate] to [Volcan's Dominion] volcon2]
+[21:58:47] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> 2 stacks de diamante
+[21:58:49] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:totem_of_undying 128
+[21:58:51] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:totem_of_undying 12
+[21:58:51] [Server thread/INFO]: [Xautral [Founder]: Gave 12 [Totem of Undying] to [Volcan's Dominion] volcon2]
+[21:58:56] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> es que si esta complicado el nether
+[21:59:05] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> va a ser un reto estar en el nether
+[21:59:07] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> me hubieras avisado de los mobs aunque sea
+[21:59:19] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> pense que hiba a haber un GUI o algo que me avisara
+[21:59:25] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> literalmente tenia casi 6 lingotes de netherite
+[21:59:29] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> pero lo primero que salio fue que volcon gastó totem
+[21:59:33] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 has made the advancement [A Throwaway Joke]
+[21:59:36] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> oye pero si tienen buen loot
+[21:59:42] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> cheque y te dan como 4 totems
+[21:59:49] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> pues si pero mi tiempo
+[22:00:36] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> que puta flojera recolectar denuevo todo lo que tenia
+[22:00:49] [Server thread/INFO]: Xautral issued server command: /give volcon2 netherite_ingot 3
+[22:00:49] [Server thread/INFO]: [Xautral [Founder]: Gave 3 [Netherite Ingot] to [Volcan's Dominion] volcon2]
+[22:00:56] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> gracias
+[22:00:58] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:netherite_upgrade_smithing_template 3
+[22:00:58] [Server thread/INFO]: [Xautral [Founder]: Gave 3 [Netherite Upgrade] to [Volcan's Dominion] volcon2]
+[22:01:01] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> es que si esta dific
+[22:01:04] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[22:01:04] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[22:01:08] [Server thread/INFO]: Xautral issued server command: /tp 0 00 0
+[22:01:08] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 0.500000, 0.000000, 0.500000]

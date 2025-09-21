@@ -1,8 +1,237 @@
-[15:18:19] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[15:18:19] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[15:18:19] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[15:18:20] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/ItemEditor.jar'...
-[15:18:21] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ItemEditor.jar' in 818ms.
-[15:18:22] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[15:18:22] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[15:41:06] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[15:41:06] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[15:41:06] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:41:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/ItemEditor.jar'...
+[15:41:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ItemEditor.jar' in 514ms.
+[15:41:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[15:41:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - BattleLock (1.3), ItemEditor (2.1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), SkinsRestorer (15.7.10), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT)
+[15:41:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:41:13] [ServerMain/INFO]: Loaded 1407 recipes
+[15:41:13] [ServerMain/INFO]: Loaded 1520 advancements
+[15:41:13] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[15:41:13] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 387.2ms
+[15:41:13] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[15:41:13] [Server thread/INFO]: Loading properties
+[15:41:13] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[15:41:14] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:41:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:41:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:41:15] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[15:41:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[15:41:16] [Server thread/INFO]: Default game type: SURVIVAL
+[15:41:16] [Server thread/INFO]: Generating keypair
+[15:41:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:41:16] [Server thread/INFO]: Using epoll channel type
+[15:41:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:41:16] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[15:41:16] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
+[15:41:16] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[15:41:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:41:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[15:41:18] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[15:41:18] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[15:41:18] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
+[15:41:18] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
+[15:41:18] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
+[15:41:18] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
+[15:41:18] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
+[15:41:18] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[15:41:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[15:41:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:41:18] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[15:41:19] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[15:41:20] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[15:41:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:41:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:41:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:41:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:41:20] [Server thread/INFO]: Preparing level "world"
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[15:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[15:41:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:41:21] [Server thread/INFO]: Preparing spawn area: 0%
+[15:41:21] [Server thread/INFO]: Preparing spawn area: 2%
+[15:41:22] [Server thread/INFO]: Preparing spawn area: 16%
+[15:41:22] [Server thread/INFO]: Time elapsed: 1357 ms
+[15:41:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:41:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:41:22] [Server thread/INFO]: Time elapsed: 304 ms
+[15:41:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:41:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:41:22] [Server thread/INFO]: Time elapsed: 147 ms
+[15:41:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
+[15:41:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[15:41:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
+[15:41:22] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
+[15:41:22] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
+[15:41:22] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
+[15:41:22] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
+[15:41:22] [Server thread/INFO]: [ItemEditor] Reloading items.
+[15:41:22] [Server thread/INFO]: [ItemEditor] Loaded 0 items from storage.
+[15:41:22] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[15:41:22] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[15:41:22] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[15:41:23] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[15:41:23] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[15:41:23] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[15:41:23] [Server thread/INFO]: [spark] Starting background profiler...
+[15:41:23] [Server thread/INFO]: Done preparing level "world" (3.609s)
+[15:41:23] [Server thread/INFO]: Running delayed init tasks
+[15:41:23] [Server thread/INFO]: Done (18.796s)! For help, type "help"
+[15:41:23] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[15:41:23] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[15:41:33] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[15:41:33] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[15:41:35] [Server thread/INFO]: Xautral [Founder] joined the game
+[15:41:35] [Server thread/INFO]: Xautral[/127.115.99.248:52731] logged in with entity id 44 at ([world]268.30000001192093, -9.0, 424.55742632577454)
+[15:41:43] [User Authenticator #0/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[15:41:44] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[15:41:44] [Server thread/INFO]: volcon2[/127.217.184.139:55117] logged in with entity id 262 at ([world]268.30000001192093, -9.0, 424.55742632577454)
+[15:41:45] [Server thread/INFO]: Xautral issued server command: /plugins
+[15:41:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> porfin
+[15:41:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no se que paso
+[15:41:56] [User Authenticator #0/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[15:41:58] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 joined the game
+[15:41:58] [Server thread/INFO]: Plechini44[/127.162.71.96:55743] logged in with entity id 271 at ([world]2014.7740802089536, 116.5823870723789, 1908.6674702211292)
+[15:42:05] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> tengo ceguera
+[15:42:16] [Server thread/INFO]: Xautral issued server command: /effect clear @a
+[15:42:16] [Server thread/INFO]: [Xautral [Founder]: Removed every effect from 3 targets]
+[15:42:17] [Server thread/INFO]: volcon2 was kicked due to keepalive timeout!
+[15:42:17] [Server thread/INFO]: volcon2 lost connection: Timed out
+[15:42:17] [Server thread/INFO]: volcon2 left the game
+[15:42:23] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:night_vision infinite 25 true
+[15:42:23] [Server thread/INFO]: [Xautral [Founder]: Applied effect Night Vision to Xautral [Founder]]
+[15:42:28] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 52 true
+[15:42:28] [Server thread/INFO]: [Xautral [Founder]: Applied effect Invisibility to Xautral [Founder]]
+[15:42:40] [User Authenticator #0/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[15:42:42] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[15:42:42] [Server thread/INFO]: volcon2[/127.217.184.139:50825] logged in with entity id 865 at ([world]268.66282931614927, -9.0, 426.69999998807907)
+[15:42:48] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> gente
+[15:42:49] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> como disculpa
+[15:42:50] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> aa
+[15:42:52] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> tenia lag
+[15:42:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> estaré dando nombres custom a sus items
+[15:42:55] [Server thread/INFO]: Xautral issued server command: /ie
+[15:43:08] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> haber Plechini44
+[15:43:09] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[15:43:09] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[15:43:15] [Server thread/INFO]: volcon2 was kicked due to keepalive timeout!
+[15:43:15] [Server thread/INFO]: volcon2 lost connection: Timed out
+[15:43:15] [Server thread/INFO]: volcon2 left the game
+[15:43:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> tira al aire que item queires renombrar
+[15:43:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Plechini44> pera tantito
+[15:43:22] [User Authenticator #0/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[15:43:23] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[15:43:23] [Server thread/INFO]: volcon2[/127.217.184.139:58899] logged in with entity id 1092 at ([world]273.808450005563, -8.0, 421.03638408765175)
+[15:43:26] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> ???
+[15:43:28] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> me da lag
+[15:43:31] [Server thread/INFO]: Xautral issued server command: /tps
+[15:43:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Plechini44> ese w
+[15:43:36] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> o nse si es el srv
+[15:43:37] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> nombre?
+[15:43:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> eres tu volcon2
+[15:43:45] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> aa
+[15:43:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> va a 20.0 20.0 20.0 ms
+[15:44:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Plechini44> GodSeeker
+[15:44:05] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> color?
+[15:44:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Plechini44> amarrillo o amazul cualquiera de los 2
+[15:44:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> negrita?, italica?, subrayada, rayada?
+[15:44:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Plechini44> italica y rayada
+[15:44:58] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ok
+[15:45:01] [Server thread/INFO]: Xautral issued server command: /ie
+[15:45:02] [Server thread/INFO]: Xautral issued server command: /ie edit
+[15:45:21] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> como que italica
+[15:45:23] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> JAJA
+[15:45:27] [User Authenticator #1/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[15:45:30] [Server thread/INFO]: blime2009 [Scripting] joined the game
+[15:45:30] [Server thread/INFO]: blime2009[/127.20.187.84:56503] logged in with entity id 1692 at ([world]-3.250522975007804, 0.0, 2.3823929184933172)
+[15:45:36] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[15:46:17] [Server thread/INFO]: Xautral issued server command: /inv Plechini44
+[15:46:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si
+[15:46:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> asi se llama
+[15:46:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> tu volcon
+[15:46:26] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[15:46:26] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[15:46:29] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> que pasa
+[15:46:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Plechini44> gracias xau
+[15:46:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ttira al aire un item que queiras darle un nombre custom
+[15:47:05] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> mm
+[15:47:13] [User Authenticator #2/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[15:47:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> como lo renombras
+[15:47:16] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 joined the game
+[15:47:16] [Server thread/INFO]: Lio_8282828[/127.110.0.38:38697] logged in with entity id 2626 at ([world]-763.6360208408379, 55.20895627013691, -1235.2487595497819)
+[15:47:22] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> pozonque infinito
+[15:47:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> pero no es infinito
+[15:47:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> w
+[15:47:32] [Server thread/INFO]: Xautral issued server command: /ie edit
+[15:47:32] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> el pozonque me protegera
+[15:47:45] [Async Chat Thread - #1/INFO]: [Not Secure] <Plechini44> volcon es betito w
+[15:47:48] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> JAJA
+[15:48:01] [Server thread/INFO]: Xautral issued server command: /inv volcon2
+[15:48:01] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> llevo minando como 1h
+[15:48:04] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> o 2h
+[15:48:06] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> y apenas llevo
+[15:48:06] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[15:48:06] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[15:48:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> oye Lio_8282828
+[15:48:09] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> 31 diamantes
+[15:48:11] [Async Chat Thread - #1/INFO]: [Not Secure] <Lio_8282828> mande
+[15:48:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> como disculpa pasame un item que quieras y lo voy a renombrar
+[15:48:16] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> y mi pozonque?
+[15:48:17] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[15:48:17] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[15:48:31] [Async Chat Thread - #1/INFO]: [Not Secure] <Lio_8282828> vly
+[15:48:32] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> hazme caso
+[15:48:33] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> aa ya lo vi
+[15:48:34] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> JAJAJA
+[15:48:52] [Server thread/INFO]: Plechini44 issued server command: /skin edit
+[15:48:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Lio_8282828> a esta ponle casita
+[15:49:01] [Server thread/INFO]: Xautral issued server command: /execute at Lio_8282828 run summon minecraft:breeze_wind_charge ~ ~2 ~ {Motion:[0b,-2b,0b]}
+[15:49:01] [Server thread/INFO]: [Xautral [Founder]: Summoned new Wind Charge]
+[15:49:08] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> color
+[15:49:12] [Server thread/INFO]: Xautral issued server command: /inv Lio_8282828
+[15:49:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Lio_8282828> Azul
+[15:49:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> negrita?, italica?, subrayada, rayada?
+[15:49:28] [Server thread/INFO]: Xautral issued server command: /execute at Lio_8282828 run summon minecraft:breeze_wind_charge ~ ~2 ~ {Motion:[0b,-2b,0b]}
+[15:49:28] [Server thread/INFO]: [Xautral [Founder]: Summoned new Wind Charge]
+[15:49:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Lio_8282828> negra
+[15:49:30] [Server thread/INFO]: Xautral issued server command: /execute at Lio_8282828 run summon minecraft:breeze_wind_charge ~ ~2 ~ {Motion:[0b,-2b,0b]}
+[15:49:30] [Server thread/INFO]: [Xautral [Founder]: Summoned new Wind Charge]
+[15:49:33] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ok
+[15:49:36] [Server thread/INFO]: Xautral issued server command: /ie rename
+[15:49:38] [Server thread/INFO]: Xautral issued server command: /ie edit
+[15:49:47] [Server thread/INFO]: Xautral issued server command: /inv Lio_8282828
+[15:49:49] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya
+[15:49:54] [Server thread/INFO]: Xautral issued server command: /execute at Lio_8282828 run summon minecraft:breeze_wind_charge ~ ~2 ~ {Motion:[0b,-2b,0b]}
+[15:49:54] [Server thread/INFO]: [Xautral [Founder]: Summoned new Wind Charge]
+[15:49:54] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> Xautral
+[15:49:57] [Server thread/INFO]: Xautral issued server command: /execute at Lio_8282828 run summon minecraft:breeze_wind_charge ~ ~ ~ {Motion:[0b,-2b,0b]}
+[15:49:57] [Server thread/INFO]: [Xautral [Founder]: Summoned new Wind Charge]
+[15:49:58] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> ise una nueva runa
+[15:50:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> haber
+[15:50:02] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[15:50:02] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
+[15:50:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Lio_8282828> mi bote w
+[15:50:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> :eyes
+[15:50:10] [Server thread/INFO]: Xautral issued server command: /inv Lio_8282828
+[15:50:25] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> por que no ponen mochilas
+[15:50:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> el bloque del centro que es o que
+[15:50:27] [Server thread/INFO]: blime2009 issued server command: /kill @e[type=minecraft:allay ]
+[15:50:27] [Server thread/INFO]: [blime2009 [Scripting]: Killed 13 entities]
+[15:50:34] [Server thread/INFO]: Xautral issued server command: /inv blime2009
+[15:50:34] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> que bloque
+[15:50:48] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> no hay bloque
+[15:50:59] [Server thread/INFO]: blime2009 issued server command: /kill @e[type=minecraft:allay ]
+[15:50:59] [Server thread/INFO]: [blime2009 [Scripting]: Killed 11 entities]

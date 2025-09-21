@@ -2030,3 +2030,169 @@
 [03:55:16] [Server thread/INFO]: Xautral issued server command: /tp ChamoMCYT
 [03:55:16] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] ChamoMCYT]
 [03:55:57] [Async Chat Thread - #30/INFO]: [Not Secure] <Lio_8282828> no dispares w ayuda
+[03:57:42] [Async Chat Thread - #31/INFO]: [Not Secure] <ChamoMCYT> gg
+[03:58:53] [Async Chat Thread - #33/INFO]: [Not Secure] <Lio_8282828> dnd anda
+[03:58:58] [Async Chat Thread - #33/INFO]: [Not Secure] <ChamoMCYT> aqui
+[03:59:05] [User Authenticator #14/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[03:59:06] [Server thread/INFO]: blime2009 [Scripting] joined the game
+[03:59:06] [Server thread/INFO]: blime2009[/127.20.187.84:39767] logged in with entity id 60926 at ([world]11.381214091492653, 292.7972892065321, 13.010143293240631)
+[03:59:27] [Async Chat Thread - #33/INFO]: [Not Secure] <blime2009> ahora no me acuerdo del cmd ;C
+[03:59:31] [Server thread/INFO]: blime2009 issued server command: /give blime2009 minecraft:command_block
+[03:59:31] [Server thread/INFO]: [blime2009 [Scripting]: Gave 1 [Command Block] to blime2009 [Scripting]]
+[04:00:13] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> execute at @r run tp @e[type=evoker_fangs,distance=..5] ~ ~ ~
+[04:00:23] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> solo que el @r cambialo por un objetivo que señale el coreboard
+[04:00:23] [Async Chat Thread - #33/INFO]: [Not Secure] <Lio_8282828> what
+[04:00:28] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> programación Lio_8282828
+[04:00:33] [Async Chat Thread - #33/INFO]: [Not Secure] <ChamoMCYT> ya lo mate
+[04:00:37] [Async Chat Thread - #33/INFO]: [Not Secure] <blime2009> ty
+[04:00:39] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> para hacer un server necesitas saber programar
+[04:00:40] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[04:00:40] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
+[04:00:46] [Async Chat Thread - #33/INFO]: [Not Secure] <Xautral> se la diferencia
+[04:00:52] [Server thread/INFO]: Xautral issued server command: /tp ChamoMCYT
+[04:00:52] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] ChamoMCYT]
+[04:01:00] [Async Chat Thread - #33/INFO]: [Not Secure] <blime2009> yo no hago srvrs
+[04:01:10] [Server thread/INFO]: Xautral issued server command: /msg blime2009 ahorita vas a ver como los pendejos hacen su propio server en "secreto"
+[04:01:15] [Server thread/INFO]: Lio_8282828 lost connection: Timed out
+[04:01:15] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 left the game
+[04:01:31] [Server thread/INFO]: Xautral issued server command: /msg blime2009 que te dije pendejo
+[04:01:38] [Server thread/INFO]: Xautral issued server command: /msg blime2009 ahora pagame
+[04:01:43] [Server thread/INFO]: Xautral lost connection: Disconnected
+[04:01:43] [Server thread/INFO]: Xautral [Founder] left the game
+[04:01:47] [Async Chat Thread - #34/INFO]: [Not Secure] <perihhh> Xautral esta bien de tamaño la casa creo no
+[04:01:49] [User Authenticator #15/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[04:01:54] [Server thread/INFO]: Xautral [Founder] joined the game
+[04:01:54] [Server thread/INFO]: Xautral[/127.115.99.248:44461] logged in with entity id 61945 at ([world]-1370.2554481183408, 77.12197550897483, -1403.4541036598214)
+[04:02:39] [Async Chat Thread - #34/INFO]: [Not Secure] <Xautral> gtsi perihhh
+[04:02:40] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:02:40] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:02:41] [Server thread/INFO]: Xautral issued server command: /tp perihhh
+[04:02:41] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Community Tenochcatl] perihhh]
+[04:02:47] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:02:47] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:02:48] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:02:48] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:02:48] [Async Chat Thread - #34/INFO]: [Not Secure] <Xautral> esta muy bonita
+[04:02:49] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[04:02:49] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 0.500000, 0.000000, 0.500000]
+[04:02:52] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[04:02:57] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:02:57] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:03:01] [Server thread/INFO]: [@: Showing new title for 4 players]
+[04:03:01] [Server thread/INFO]: [@: Played sound minecraft:entity.wither.death to 4 players]
+[04:03:04] [Async Chat Thread - #34/INFO]: [Not Secure] <Xautral> ya
+[04:03:07] [Async Chat Thread - #34/INFO]: [Not Secure] <Xautral> dejaré eso
+[04:03:07] [Async Chat Thread - #34/INFO]: [Not Secure] <perihhh> a
+[04:03:08] [Async Chat Thread - #34/INFO]: [Not Secure] <perihhh> kajaja
+[04:03:09] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:03:09] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:03:46] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:03:46] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:03:47] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:03:47] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:04:04] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:04:04] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:04] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:05] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:05] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:05] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:05] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.579413, 0.000000, -0.276552]
+[04:04:07] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:04:07] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.219382, 0.000000, -0.325179]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.219382, 0.000000, -0.325179]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.219382, 0.000000, -0.325179]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.219382, 0.000000, -0.325179]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.219382, 0.000000, -0.325179]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.219382, 0.000000, -0.325179]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.219382, 0.000000, -0.325179]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.219382, 0.000000, -0.325179]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.219382, 0.000000, -0.325179]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -1.121664, 0.000000, -0.317754]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.970593, 0.000000, -0.306275]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.970593, 0.000000, -0.306275]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.790390, 0.000000, -0.292583]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.594282, 0.000000, -0.277682]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.422057, 0.000000, -0.193682]
+[04:04:07] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.335447, 0.000000, -0.050101]
+[04:04:08] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.295583, 0.000000, 0.126013]
+[04:04:08] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.281242, 0.000000, 0.319888]
+[04:04:08] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.280837, 0.000000, 0.523462]
+[04:04:08] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.288040, 0.000000, 0.732331]
+[04:04:08] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.299398, 0.000000, 0.944091]
+[04:04:08] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.313024, 0.000000, 1.157429]
+[04:04:08] [Server thread/INFO]: [@: Teleported Evoker Fangs to -0.327889, 0.000000, 1.371630]
+[04:04:22] [Server thread/INFO]: [@: Showing new actionbar title for 4 players]
+[04:04:22] [Server thread/INFO]: [@: Played sound minecraft:entity.parrot.imitate.wither to 4 players]
+[04:04:22] [Server thread/INFO]: [@: Played sound minecraft:entity.parrot.imitate.wither to 4 players]
+[04:04:22] [Server thread/INFO]: [@: Played sound minecraft:entity.parrot.imitate.wither to 4 players]
+[04:04:22] [Server thread/INFO]: [@: Played sound minecraft:entity.parrot.imitate.wither to 4 players]
+[04:04:22] [Server thread/INFO]: [@: Custom bossbar [Atackers - Defensors] now has 4 player(s): [Community Tenochcatl] perihhh, [Clan of South-Warriors] ChamoMCYT, blime2009 [Scripting], Xautral [Founder]]
+[04:04:22] [Server thread/INFO]: [@: Custom bossbar [Atackers - Defensors] is now visible]
+[04:04:38] [Server thread/INFO]: Xautral issued server command: /bossbar set minecraft:war visible false
+[04:04:38] [Server thread/INFO]: [Xautral [Founder]: Custom bossbar [Atackers - Defensors] is now hidden]
+[04:04:41] [Async Chat Thread - #35/INFO]: [Not Secure] <perihhh> eee... que
+[04:04:46] [Async Chat Thread - #35/INFO]: [Not Secure] <Xautral> nada
+[04:04:46] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:04:46] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:46] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:47] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:47] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:47] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:47] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:47] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:47] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:47] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:47] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:47] [Server thread/INFO]: [@: Teleported blime2009 [Scripting] to 2.000000, 0.120000, 0.460000]
+[04:04:50] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:04:50] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:04:50] [Server thread/INFO]: [@: Teleported Xautral [Founder] to 2.000000, 0.120000, 0.460000]
+[04:04:50] [Server thread/INFO]: [@: Teleported Xautral [Founder] to 2.000000, 0.120000, 0.460000]
+[04:04:50] [Server thread/INFO]: [@: Teleported Xautral [Founder] to 2.000000, 0.120000, 0.460000]
+[04:04:50] [Server thread/INFO]: [@: Teleported Xautral [Founder] to 2.000000, 0.120000, 0.460000]
+[04:04:50] [Server thread/INFO]: [@: Teleported Xautral [Founder] to 2.000000, 0.120000, 0.460000]
+[04:04:50] [Server thread/INFO]: [@: Teleported Xautral [Founder] to 2.000000, 0.120000, 0.460000]
+[04:04:50] [Server thread/INFO]: [@: Teleported Xautral [Founder] to 2.000000, 0.120000, 0.460000]
+[04:04:50] [Server thread/INFO]: Xautral issued server command: /gamerule commandBlockOutput false
+[04:04:50] [Server thread/INFO]: [Xautral [Founder]: Gamerule commandBlockOutput is now set to: false]
+[04:05:52] [Async Chat Thread - #37/INFO]: [Not Secure] <perihhh> eu Xautral esta en difiicil??
+[04:06:04] [Async Chat Thread - #37/INFO]: [Not Secure] <perihhh> para saber si hacer la granja de iron
+[04:06:15] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> luego lo pongo en dificil
+[04:06:16] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:06:16] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:06:17] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> está en facil
+[04:06:19] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:evoker_fangs 2.00 0.12 0.46
+[04:06:19] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Evoker Fangs]
+[04:06:41] [Async Chat Thread - #37/INFO]: [Not Secure] <perihhh> esta en normal

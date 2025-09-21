@@ -100,3 +100,36 @@
 [00:48:35] [Server thread/INFO]: Xautral [Founder] joined the game
 [00:48:35] [Server thread/INFO]: Xautral[/127.115.99.248:33439] logged in with entity id 1455 at ([world]-541.8325534870414, 56.737275693130336, -369.48479763398853)
 [00:50:14] [Server thread/INFO]: Xautral issued server command: /plugins
+[00:59:08] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hola gente, estoy organizando un survival entre civilizaciones, con guerras, alianzas y etc, tenemos grupo de dc, si alguien le interesa unirse mande msg
+[01:02:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> tonotos
+[01:02:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> todo
+[01:02:24] [User Authenticator #2/INFO]: UUID of player _rodraxelcapo_ is af400285-85fe-35ce-b11c-f034e4e1cf07
+[01:02:28] [Server thread/INFO]: _rodraxelcapo_ joined the game
+[01:02:28] [Server thread/INFO]: _rodraxelcapo_[/127.212.86.214:58237] logged in with entity id 3500 at ([world]71.5, 69.0, -8.5)
+[01:02:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> hola _rodraxelcapo_
+[01:02:53] [Server thread/INFO]: Xautral issued server command: /tp _rodraxelcapo_
+[01:02:53] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to _rodraxelcapo_]
+[01:02:56] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> com o habrás sabido
+[01:02:58] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> hace mucho iempo
+[01:03:02] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> este es un server
+[01:03:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> de CIVILIZACIONEs
+[01:03:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> quieres hacer?
+[01:03:12] [Async Chat Thread - #1/INFO]: [Not Secure] <_rodraxelcapo_> el q
+[01:03:12] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> porque no hay nadie que haya hecho
+[01:03:12] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> xd
+[01:03:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> una civilizacion
+[01:03:19] [Async Chat Thread - #1/INFO]: [Not Secure] <_rodraxelcapo_> a si
+[01:03:20] [Server thread/INFO]: Xautral issued server command: /inv _rodraxelcapo_
+[01:03:26] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> como se llamará?
+[01:03:27] [Server thread/INFO]: Xautral issued server command: /tp _rodraxelcapo_
+[01:03:27] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to _rodraxelcapo_]
+[01:03:31] [Async Chat Thread - #1/INFO]: [Not Secure] <_rodraxelcapo_> no se
+[01:03:37] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> que inteligente
+[01:03:40] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ni modos
+[01:03:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> te toca generado automaticamente
+[01:03:47] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> _rodraxelcapo_
+[01:03:49] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> estate quieto
+[01:03:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> o no quieres tu kit
+[01:03:57] [Server thread/INFO]: Xautral issued server command: /team join tristan _rodraxelcapo_
+[01:03:57] [Server thread/INFO]: [Xautral [Founder]: Added [United States of Tristan] _rodraxelcapo_ to team [tristan]]
+[01:03:59] [Server thread/INFO]: [United States of Tristan] _rodraxelcapo_ has made the advancement [Getting an Upgrade]

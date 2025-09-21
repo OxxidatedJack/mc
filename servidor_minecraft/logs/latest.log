@@ -133,3 +133,161 @@
 [01:03:57] [Server thread/INFO]: Xautral issued server command: /team join tristan _rodraxelcapo_
 [01:03:57] [Server thread/INFO]: [Xautral [Founder]: Added [United States of Tristan] _rodraxelcapo_ to team [tristan]]
 [01:03:59] [Server thread/INFO]: [United States of Tristan] _rodraxelcapo_ has made the advancement [Getting an Upgrade]
+[01:04:06] [Server thread/INFO]: Xautral issued server command: /inv _rodraxelcapo_
+[01:04:13] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> listo
+[01:04:14] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> tu objetivo
+[01:04:17] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> primero
+[01:04:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> es colonizar
+[01:04:22] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> o hacer
+[01:04:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> una aldea
+[01:04:28] [Async Chat Thread - #1/INFO]: [Not Secure] <_rodraxelcapo_> si
+[01:04:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> digo hacer por ssi no encuentras
+[01:04:36] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> colonizas rodeando una zona de cualquie material
+[01:04:40] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> te hago rtp?
+[01:04:44] [Async Chat Thread - #1/INFO]: [Not Secure] <_rodraxelcapo_> si pls
+[01:04:53] [Server thread/INFO]: Xautral issued server command: /locate biome #minecraft:has_structure/ruined_portal_ocean
+[01:04:53] [Server thread/INFO]: Locating element #minecraft:has_structure/ruined_portal_ocean (minecraft:warm_ocean) took 10 ms
+[01:04:56] [Server thread/INFO]: Xautral issued server command: /tp @s 141 69 254
+[01:04:56] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 141.500000, 69.000000, 254.500000]
+[01:05:11] [Server thread/INFO]: Xautral issued server command: /locate biome minecraft:sunflower_plains
+[01:05:11] [Server thread/INFO]: Locating element minecraft:sunflower_plains took 430 ms
+[01:05:13] [Server thread/INFO]: Xautral issued server command: /tp @s -1060 65 558
+[01:05:13] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to -1059.500000, 65.000000, 558.500000]
+[01:05:17] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[01:05:22] [Server thread/INFO]: Xautral issued server command: /tp _rodraxelcapo_ Xautral
+[01:05:22] [Server thread/INFO]: [Xautral [Founder]: Teleported [United States of Tristan] _rodraxelcapo_ to Xautral [Founder]]
+[01:05:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> si se une mas gente
+[01:05:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> mira
+[01:05:32] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ahora
+[01:05:37] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> hay guerras
+[01:05:40] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> y otra cosas
+[01:05:41] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> alianzas y así
+[01:05:48] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> mientras mas alianzas y guerras mas recompoensas ganas
+[01:05:49] [Async Chat Thread - #1/INFO]: [Not Secure] <_rodraxelcapo_> tipo clanes?
+[01:05:51] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ganas ms haciendo guerras
+[01:05:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> si
+[01:05:56] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> son clanes MUY extendidos
+[01:06:02] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> mecanicas entre básicas y grandes
+[01:06:21] [Server thread/INFO]: Xautral issued server command: /tp _rodraxelcapo_
+[01:06:21] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [United States of Tristan] _rodraxelcapo_]
+[01:07:12] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> mientras mas miembros en tu equipo recibirá pociones o flechas de efectos aleatorios
+[01:07:22] [Async Chat Thread - #3/INFO]: [Not Secure] <_rodraxelcapo_> aaa ok
+[01:07:31] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> tambien si ganas guerras recibirás armas o totems
+[01:07:33] [Async Chat Thread - #3/INFO]: [Not Secure] <_rodraxelcapo_> como hago mas miembro de mi equipo?
+[01:07:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> no puedes
+[01:07:38] [Async Chat Thread - #4/INFO]: [Not Secure] <_rodraxelcapo_> hay algun comando?
+[01:07:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> necessitas un admin
+[01:07:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> pero
+[01:07:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no
+[01:07:47] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> esta modalidad es inovadora
+[01:07:50] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no hay plugin existente todavia
+[01:07:53] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> estoy tratando de hacerlo
+[01:07:54] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> pero bueno
+[01:07:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> haber
+[01:07:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> para eso
+[01:08:00] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> olo avisa a un admin
+[01:08:06] [Async Chat Thread - #4/INFO]: [Not Secure] <_rodraxelcapo_> ok
+[01:08:07] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> invitalos al server de dc
+[01:08:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> tambien
+[01:08:11] [Server thread/INFO]: Xautral issued server command: /tp _rodraxelcapo_
+[01:08:11] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [United States of Tristan] _rodraxelcapo_]
+[01:08:17] [User Authenticator #3/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[01:08:20] [Server thread/INFO]: Plechini44 joined the game
+[01:08:20] [Server thread/INFO]: Plechini44[/127.162.71.96:43007] logged in with entity id 5469 at ([world]70.5, 68.0, -8.5)
+[01:08:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> si eres activo en el server tambien se te recompena
+[01:08:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> hola Plechini44
+[01:08:29] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya asbes
+[01:08:32] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> hacer o unirte?
+[01:08:33] [Async Chat Thread - #4/INFO]: [Not Secure] <_rodraxelcapo_> si
+[01:08:33] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[01:08:33] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to Plechini44]
+[01:08:36] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[01:08:41] [Server thread/INFO]: Xautral issued server command: /inv Plechini44
+[01:08:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Plechini44> avr probare unirme
+[01:08:47] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[01:08:49] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> a cual
+[01:08:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> al de _rodraxelcapo_
+[01:08:52] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ??
+[01:08:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Plechini44> hay mas?
+[01:09:02] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no estan conectados
+[01:09:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> y no
+[01:09:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> 10
+[01:09:24] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> 9
+[01:09:25] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> 8
+[01:09:25] [Async Chat Thread - #3/INFO]: [Not Secure] <Plechini44> bn para ser uno de los primeros reinos tons crear
+[01:09:29] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ok
+[01:09:31] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> nombre?
+[01:09:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> o tdo automatico
+[01:09:39] [Async Chat Thread - #3/INFO]: [Not Secure] <Plechini44> esta vez quiero innovar
+[01:09:47] [Server thread/INFO]: Xautral issued server command: /tp _rodraxelcapo_
+[01:09:47] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [United States of Tristan] _rodraxelcapo_]
+[01:09:55] [Async Chat Thread - #3/INFO]: [Not Secure] <Plechini44> Plechy's en vez de plechy's
+[01:10:01] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ._.
+[01:10:05] [Async Chat Thread - #3/INFO]: [Not Secure] <Plechini44> solo le cambiare la mayuscula :p
+[01:10:05] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> vale
+[01:10:08] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> clan, reino o imperio
+[01:10:12] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> imperio no
+[01:10:14] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> disculpa
+[01:10:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> imperio es un nucleo que ya tenias
+[01:10:19] [Async Chat Thread - #3/INFO]: [Not Secure] <Plechini44> rienooo
+[01:10:20] [Async Chat Thread - #3/INFO]: [Not Secure] <_rodraxelcapo_> aldea
+[01:10:23] [Server thread/INFO]: Xautral issued server command: /tp _rodraxelcapo_
+[01:10:23] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [United States of Tristan] _rodraxelcapo_]
+[01:10:24] [Async Chat Thread - #3/INFO]: [Not Secure] <_rodraxelcapo_> encontre
+[01:10:31] [Server thread/INFO]: Xautral issued server command: /tp _rodraxelcapo_
+[01:10:31] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [United States of Tristan] _rodraxelcapo_]
+[01:10:33] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> colonizala
+[01:10:37] [Server thread/INFO]: Xautral issued server command: /inv _rodraxelcapo_
+[01:10:42] [Server thread/INFO]: Plechini44 has made the advancement [Getting an Upgrade]
+[01:10:45] [Server thread/INFO]: Xautral issued server command: /give _rodraxelcapo_ oak_fence 128
+[01:10:45] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Oak Fence] to [United States of Tristan] _rodraxelcapo_]
+[01:10:50] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> color Plechini44?
+[01:10:58] [Server thread/INFO]: Xautral issued server command: /tp _rodraxelcapo_
+[01:10:58] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [United States of Tristan] _rodraxelcapo_]
+[01:10:59] [Async Chat Thread - #4/INFO]: [Not Secure] <Plechini44> nig digo negro
+[01:11:03] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya hay
+[01:11:10] [Async Chat Thread - #4/INFO]: [Not Secure] <Plechini44> plomo
+[01:11:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> oscuro o claro?
+[01:11:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Plechini44> oscuro
+[01:11:29] [Server thread/INFO]: Xautral issued server command: /give _rodraxelcapo_ minecraft:trident
+[01:11:29] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Trident] to [United States of Tristan] _rodraxelcapo_]
+[01:11:31] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya
+[01:11:32] [Async Chat Thread - #4/INFO]: [Not Secure] <_rodraxelcapo_> luteada
+[01:11:35] [Server thread/INFO]: Xautral issued server command: /team add plechys
+[01:11:35] [Server thread/INFO]: [Xautral [Founder]: Created team [plechys]]
+[01:11:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> u
+[01:11:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ni tanto
+[01:11:43] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> es de otro clan
+[01:11:46] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> pero no esta colonizada
+[01:11:51] [Server thread/INFO]: [United States of Tristan] _rodraxelcapo_ has made the advancement [Ice Bucket Challenge]
+[01:11:51] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> asi que la puedes colonizar
+[01:11:58] [Async Chat Thread - #3/INFO]: [Not Secure] <_rodraxelcapo_> hay un hueco en el piso
+[01:12:01] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si
+[01:12:05] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> es del tipo que vivía ahi
+[01:12:05] [Async Chat Thread - #3/INFO]: [Not Secure] <Plechini44> dale _rodraxelcapo_ colonizala para q los demas tengan q buscar otra
+[01:12:07] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[01:12:11] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[01:12:20] [Server thread/INFO]: Xautral issued server command: /team add plechys
+[01:12:32] [Server thread/INFO]: Xautral issued server command: /team modify plechys prefix {"text":"[Plechy's Kingdom
+[01:12:35] [Async Chat Thread - #3/INFO]: [Not Secure] <_rodraxelcapo_> como se hace?
+[01:12:43] [Server thread/INFO]: Xautral issued server command: /team modify plechys prefix {"text":"[Plechy's Kingdom] ","color":"dark_gray"}
+[01:12:46] [Server thread/INFO]: Xautral issued server command: /team join plechys Plechini44
+[01:12:46] [Server thread/INFO]: [Xautral [Founder]: Added [Plechy's Kingdom] Plechini44 to team [plechys]]
+[01:12:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> rodeando uan zoan
+[01:12:52] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> de cualquier material
+[01:12:53] [Async Chat Thread - #3/INFO]: [Not Secure] <_rodraxelcapo_> a ok
+[01:12:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> en este caso
+[01:12:55] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> te di vaya
+[01:12:56] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> te di vayas
+[01:12:56] [Server thread/INFO]: _rodraxelcapo_ issued server command: /pv 1
+[01:13:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> gente
+[01:13:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> bvueno
+[01:13:39] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> Plechini44
+[01:13:49] [Async Chat Thread - #3/INFO]: [Not Secure] <Plechini44> q
+[01:13:54] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 has made the advancement [Not Today, Thank You]
+[01:13:56] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 has made the advancement [Take Aim]
+[01:13:58] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si sabes que al tener mas miembros en tu equipo, aliados o guerras ganas recompensas?
+[01:14:02] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[01:14:02] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[01:14:03] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> no item op
+[01:14:06] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ya que corrompe el juego

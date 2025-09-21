@@ -418,3 +418,122 @@
 [01:33:31] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> yo
 [01:33:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Plechini44> ES EL MOB MAS PODEROSO
 [01:33:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Plechini44> AHHH
+[01:34:50] [Server thread/INFO]: Xautral lost connection: Kicked by an operator
+[01:34:50] [Server thread/INFO]: Xautral left the game
+[01:34:50] [Server thread/INFO]: Kicked Xautral [Founder]: Kicked by an operator
+[01:34:57] [User Authenticator #5/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[01:34:58] [Server thread/INFO]: Xautral [Founder] joined the game
+[01:34:58] [Server thread/INFO]: Xautral[/127.115.99.248:59759] logged in with entity id 10483 at ([world]-219.59518377656386, -0.5983947516428808, 91.65192206555176)
+[01:35:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> tp Putochini44
+[01:35:19] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[01:35:19] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[01:35:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Plechini44> no hay tpa w
+[01:35:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> no
+[01:35:42] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> porque el server lo lagea
+[01:35:56] [Async Chat Thread - #13/INFO]: [Not Secure] <Plechini44> dvvD?
+[01:36:03] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> si
+[01:36:10] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> el server detecta que se mueven muy rápido sin ser admin
+[01:36:13] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[01:36:13] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[01:36:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Plechini44> ay
+[01:36:42] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> y el server e confunde y hace que lo ticks vayan algo atrasados
+[01:36:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Plechini44> alv
+[01:37:15] [Server thread/INFO]: Xautral issued server command: /tps
+[01:37:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> de hefho
+[01:37:21] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[01:37:21] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[01:37:22] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> pene
+[01:37:26] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> que rico verdad?
+[01:37:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Plechini44> sis
+[01:37:42] [Server thread/INFO]: Xautral issued server command: /whitelist off
+[01:37:56] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> tonotos
+[01:38:04] [User Authenticator #6/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[01:38:07] [Server thread/INFO]: Lio_8282828 joined the game
+[01:38:07] [Server thread/INFO]: Lio_8282828[/127.110.0.38:56231] logged in with entity id 10802 at ([world]74.5, 70.0, -6.5)
+[01:38:11] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> hola Lio_8282828
+[01:38:12] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[01:38:12] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to Lio_8282828]
+[01:38:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> bienvenido al srv
+[01:38:18] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[01:38:18] [Server thread/INFO]: [Xautral [Founder]: Set the time to 0]
+[01:38:24] [Server thread/INFO]: Xautral issued server command: /inv Lio_8282828
+[01:38:33] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk
+[01:38:34] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk]
+[01:38:34] [Server thread/INFO]: [Xautral [Founder]: Killed 4 entities]
+[01:38:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> como habrás vistso
+[01:38:42] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> 3 totems
+[01:38:43] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> hace tiempo
+[01:38:46] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> si Lio_8282828
+[01:38:48] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> e diseñado para pvp
+[01:38:49] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> practico
+[01:38:53] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> ya ps
+[01:39:02] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> quiere hacer tu civilizacion o unirte?
+[01:39:14] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> no broder
+[01:39:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> ambas opcione necesitan el permiso de un admin
+[01:39:16] [User Authenticator #7/INFO]: UUID of player ChamoMCYT is e3bc60ef-3608-3052-b185-8c7305f97a2b
+[01:39:17] [Server thread/INFO]: ChamoMCYT joined the game
+[01:39:17] [Server thread/INFO]: ChamoMCYT[/127.140.223.173:42763] logged in with entity id 11134 at ([world]70.5, 69.0, -0.5)
+[01:39:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> soy solitario
+[01:39:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> me vale verga
+[01:39:23] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> hola ChamoMCYT
+[01:39:27] [Server thread/INFO]: Lio_8282828 has made the advancement [Getting an Upgrade]
+[01:39:32] [Server thread/INFO]: Xautral issued server command: /inv ChamoMCYT
+[01:39:43] [Async Chat Thread - #13/INFO]: [Not Secure] <ChamoMCYT> ola xautral
+[01:39:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> quieres hacer tu civilizacion o unirte a una?
+[01:39:53] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> ambas necesitan la autorizacion de una dmin
+[01:40:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 10
+[01:40:20] [Server thread/INFO]: Xautral issued server command: /team list
+[01:40:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 9
+[01:40:25] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 8
+[01:40:29] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 7
+[01:40:31] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 6
+[01:40:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> boe me quiero unir xd
+[01:40:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> epera tantito Lio_8282828
+[01:40:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> a cual
+[01:40:43] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> solo digo esto
+[01:40:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> estan listos para enfrentar a la paloma?
+[01:40:56] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> fuerza peruana
+[01:41:07] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 5
+[01:41:09] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 4
+[01:41:11] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 3
+[01:41:12] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 2
+[01:41:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 1
+[01:41:14] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> 0
+[01:41:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> ChamoMCYT se acabo tu tiempo
+[01:41:24] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> se te asignará uno automaticamente
+[01:41:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> (para eto uso nationstates name generator)
+[01:41:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> cuantos chunks usan?
+[01:41:57] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> yo el minimo
+[01:41:59] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> mi pc no resiste
+[01:42:05] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> yo uso 10
+[01:42:08] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> en cel w
+[01:42:09] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> es b uena pero tengo varios programas de musica
+[01:42:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> y me va un poco lah
+[01:42:23] [Server thread/INFO]: Lio_8282828 has made the advancement [Stone Age]
+[01:42:56] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> lag?
+[01:42:59] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> no
+[01:43:01] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> esta hosteado en europa del este
+[01:43:02] [Server thread/INFO]: Xautral issued server command: /tps
+[01:43:06] [Async Chat Thread - #13/INFO]: [Not Secure] <Lio_8282828> 180 fps xddd
+[01:43:07] [Server thread/INFO]: Xautral issued server command: /team add noraland
+[01:43:07] [Server thread/INFO]: [Xautral [Founder]: Created team [noraland]]
+[01:43:37] [Server thread/INFO]: Xautral issued server command: /team modify noraland prefix {"text":"[Rogue Nation of Noraland] ","color":"green"}
+[01:43:41] [Server thread/INFO]: Xautral issued server command: /team join noraland ChamoMCYT
+[01:43:41] [Server thread/INFO]: [Xautral [Founder]: Added [Rogue Nation of Noraland] ChamoMCYT to team [noraland]]
+[01:43:45] [Server thread/INFO]: Xautral issued server command: /team join noraland Lio_8282828
+[01:43:45] [Server thread/INFO]: [Xautral [Founder]: Added [Rogue Nation of Noraland] Lio_8282828 to team [noraland]]
+[01:43:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> lito
+[01:43:47] [Async Chat Thread - #13/INFO]: [Not Secure] <ChamoMCYT> xautral volvi
+[01:43:49] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> ChamoMCYT y Lio_8282828 on equipo
+[01:43:53] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> hubiera savisado ChamoMCYT
+[01:43:55] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> ya te asigne equipo
+[01:43:57] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> ambos son ldieres
+[01:44:05] [Async Chat Thread - #13/INFO]: [Not Secure] <Xautral> las decisiones discutanla entre ustede con /teammsg
+[01:44:11] [Async Chat Thread - #14/INFO]: [Not Secure] <ChamoMCYT> cual es mi equipo?
+[01:44:14] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> Noraland
+[01:44:20] [Async Chat Thread - #14/INFO]: [Not Secure] <ChamoMCYT> ta weno
+[01:44:22] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> se te asigno automaticamente por falta de actividad
+[01:44:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pueden cambiarle el nombre, color y rango
+[01:44:31] [Async Chat Thread - #14/INFO]: [Not Secure] <ChamoMCYT> ah ok
+[01:44:36] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> el rango e eso de Natio, Kingdom, Empire
+[01:44:39] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> el rango ams alto e Dinatía

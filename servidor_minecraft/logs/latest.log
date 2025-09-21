@@ -2885,3 +2885,231 @@ Blaze['Blaze Arcaemenids'/116921, uuid='d604a02b-f710-46d9-946c-2ff5d519e574', l
 [23:34:11] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
 [23:34:15] [Server thread/WARN]: [net.minecraft.world.item.component.CustomData] Serialization errors:
 Blaze['Blaze Arcaemenids'/119782, uuid='8f85c1ad-4dd2-4794-b24a-f1a9471d6656', l='ServerLevel[world]', x=365.50, y=78.00, z=355.50, cpos=[22, 22], tl=0, v=false]: Failed to decode value '{body:{count:3},chest:{id:"acacia_boat"},head:{count:5,id:"totem_of_undying"},offhand:{count:5,id:"totem_of_undying"},saddle:{count:1}}' from field 'equipment': No key id in MapLike[{count:1}]; No key id in MapLike[{count:3}] missed input: {body:{count:3},saddle:{count:1}}
+[23:34:42] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/119782, uuid='8f85c1ad-4dd2-4794-b24a-f1a9471d6656', l='ServerLevel[world]', x=320.28, y=61.97, z=436.43, cpos=[20, 27], tl=530, v=true] died: Blaze Arcaemenids was slain by [Volcan's Dominion] volcon2
+[23:34:42] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Into Fire]
+[23:34:49] [Server thread/INFO]: Xautral issued server command: /tp volcon2o
+[23:34:50] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[23:34:50] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[23:35:10] [Async Chat Thread - #44/INFO]: [Not Secure] <Xautral> ya
+[23:35:12] [Async Chat Thread - #44/INFO]: [Not Secure] <Xautral> entren
+[23:35:13] [Async Chat Thread - #44/INFO]: [Not Secure] <volcon2> solo tengo 4
+[23:35:35] [Server thread/INFO]: Plechini44 issued server command: /me el dtapack esta en imposible o q w
+[23:35:35] [Async Chat Thread - #45/INFO]: [Not Secure] * [Plechy's Kingdom] Plechini44 el dtapack esta en imposible o q w
+[23:35:46] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> dame enderpeals
+[23:35:48] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> 5 stacks
+[23:35:55] [Async Chat Thread - #45/INFO]: [Not Secure] <Lio_8282828> necesito notchs y totems
+[23:36:15] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:enchanted_golden_apple 128
+[23:36:15] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Enchanted Golden Apple] to [Volcan's Dominion] volcon2]
+[23:36:20] [Server thread/INFO]: Xautral issued server command: /give Lio_8282828 minecraft:enchanted_golden_apple 128
+[23:36:20] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Enchanted Golden Apple] to [Clan of South-Warriors] Lio_8282828]
+[23:36:23] [Server thread/INFO]: Xautral issued server command: /give Lio_8282828 minecraft:totem_of_undying 100
+[23:36:23] [Server thread/INFO]: [Xautral [Founder]: Gave 100 [Totem of Undying] to [Clan of South-Warriors] Lio_8282828]
+[23:36:27] [Server thread/INFO]: [Not Secure] [Server] §7§lDificulty Change: Now the end has 25% more dificult starter
+[23:36:31] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> QUE PEDO
+[23:36:35] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[23:36:35] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[23:36:49] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> como que 25 porciento mas dificil
+[23:36:54] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> ._.
+[23:36:57] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> se refiere a la spawn rate creo
+[23:36:59] [Async Chat Thread - #45/INFO]: [Not Secure] <Lio_8282828> que pedo
+[23:37:04] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> por eso wey
+[23:37:05] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:fortress
+[23:37:05] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
+[23:37:07] [Server thread/INFO]: Xautral issued server command: /tp @s -160 ~ 448
+[23:37:07] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to -159.500000, 88.539694, 448.500000]
+[23:37:10] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> y es del end
+[23:37:12] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[23:37:18] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> es 25 porciento mas dificil el end
+[23:37:20] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
+[23:37:20] [Server thread/INFO]: [Xautral [Founder]: Teleported [Volcan's Dominion] volcon2 to Xautral [Founder]]
+[23:37:23] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121343, uuid='bab15ace-b6c2-4cdd-bcae-1b0003167456', l='ServerLevel[world_nether]', x=-172.40, y=54.50, z=405.40, cpos=[-11, 25], tl=321, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:23] [Async Chat Thread - #45/INFO]: [Not Secure] <Lio_8282828> vamos a por la dragona
+[23:37:26] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828 volcon2
+[23:37:26] [Server thread/INFO]: [Xautral [Founder]: Teleported [Clan of South-Warriors] Lio_8282828 to [Volcan's Dominion] volcon2]
+[23:37:26] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 has made the advancement [A Terrible Fortress]
+[23:37:27] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[23:37:28] [Async Chat Thread - #45/INFO]: [Not Secure] <eduardo16> bro imagina 25% mas endermans
+[23:37:28] [Server thread/WARN]: [net.minecraft.world.item.component.CustomData] Serialization errors:
+Blaze['Blaze Arcaemenids'/121713, uuid='a29888b7-e857-47f2-9679-5972ba36339b', l='ServerLevel[world_nether]', x=-137.50, y=63.00, z=409.50, cpos=[-9, 25], tl=0, v=false]: Failed to decode value '{body:{count:3},chest:{id:"acacia_boat"},head:{count:5,id:"totem_of_undying"},offhand:{count:5,id:"totem_of_undying"},saddle:{count:1}}' from field 'equipment': No key id in MapLike[{count:1}]; No key id in MapLike[{count:3}] missed input: {body:{count:3},saddle:{count:1}}
+[23:37:28] [Server thread/WARN]: [net.minecraft.world.item.component.CustomData] Serialization errors:
+Blaze['Blaze Arcaemenids'/121715, uuid='c1eac1f5-4926-413c-a849-6264e3467d5b', l='ServerLevel[world_nether]', x=-137.50, y=63.00, z=409.50, cpos=[-9, 25], tl=0, v=false]: Failed to decode value '{body:{count:3},chest:{id:"acacia_boat"},head:{count:5,id:"totem_of_undying"},offhand:{count:5,id:"totem_of_undying"},saddle:{count:1}}' from field 'equipment': No key id in MapLike[{count:1}]; No key id in MapLike[{count:3}] missed input: {body:{count:3},saddle:{count:1}}
+[23:37:36] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121400, uuid='a5417d6f-29c4-4db3-858d-9c8c4d0951cb', l='ServerLevel[world_nether]', x=-188.40, y=52.00, z=406.18, cpos=[-12, 25], tl=564, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:36] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121680, uuid='822fa015-291c-4915-b0e5-a3568a86a171', l='ServerLevel[world_nether]', x=-170.30, y=55.00, z=404.30, cpos=[-11, 25], tl=241, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:39] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121784, uuid='9240a304-e932-4b42-b2cb-87b982db3c84', l='ServerLevel[world_nether]', x=-171.33, y=55.00, z=403.52, cpos=[-11, 25], tl=31, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:39] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121785, uuid='4ef98b25-7d6e-477c-8447-3ce3702c0b74', l='ServerLevel[world_nether]', x=-169.54, y=55.00, z=403.61, cpos=[-11, 25], tl=31, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:39] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121786, uuid='a8bcdbee-2a16-4ed8-a878-e1b64dd0bb29', l='ServerLevel[world_nether]', x=-171.48, y=55.00, z=404.89, cpos=[-11, 25], tl=31, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121805, uuid='e388c27e-4257-41c4-b89c-802ee4110a3b', l='ServerLevel[world_nether]', x=-171.59, y=55.50, z=403.26, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121806, uuid='a535c161-0f23-45a9-94d2-1ee23447548a', l='ServerLevel[world_nether]', x=-171.07, y=55.50, z=403.26, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121807, uuid='2857d3b4-5134-485f-b9e2-515c236e4785', l='ServerLevel[world_nether]', x=-171.59, y=55.50, z=403.78, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121808, uuid='1f2565ce-cdcd-44e2-b1ff-cea264f573c1', l='ServerLevel[world_nether]', x=-171.07, y=55.50, z=403.78, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121809, uuid='4a9a9aaf-bb9c-4774-815a-6bf262506a89', l='ServerLevel[world_nether]', x=-169.80, y=55.50, z=403.35, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121810, uuid='2ddb6040-a2b2-41bd-914f-b714fd128e46', l='ServerLevel[world_nether]', x=-169.28, y=55.50, z=403.35, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121811, uuid='f764c432-a841-4f14-860b-37647f6b6fd2', l='ServerLevel[world_nether]', x=-169.80, y=55.50, z=403.87, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121812, uuid='f82db6df-12a6-42ec-aefd-a5c1eb552a5f', l='ServerLevel[world_nether]', x=-169.28, y=55.50, z=403.87, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121813, uuid='30dbf247-c75c-413f-9086-9f5ae8349b0f', l='ServerLevel[world_nether]', x=-171.74, y=55.50, z=404.63, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121814, uuid='5a583ba7-4f14-4f10-91ec-fec416922328', l='ServerLevel[world_nether]', x=-171.22, y=55.50, z=404.63, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121815, uuid='e72f1d00-e245-4f5e-8bcd-86a738a3bf1d', l='ServerLevel[world_nether]', x=-171.74, y=55.50, z=405.15, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:40] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121816, uuid='6aa33baa-a968-4c2d-880c-29e83459d79b', l='ServerLevel[world_nether]', x=-171.22, y=55.50, z=405.15, cpos=[-11, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:47] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121715, uuid='c1eac1f5-4926-413c-a849-6264e3467d5b', l='ServerLevel[world_nether]', x=-135.30, y=63.00, z=410.70, cpos=[-9, 25], tl=377, v=true] died: Blaze Arcaemenids was slain by [Clan of South-Warriors] Lio_8282828
+[23:37:48] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 has made the advancement [Into Fire]
+[23:37:49] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 250 50 true
+[23:37:49] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to 5 targets]
+[23:37:49] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121780, uuid='80ee9f04-041a-4b90-87eb-a98d914d38a6', l='ServerLevel[world_nether]', x=-189.70, y=52.00, z=404.70, cpos=[-12, 25], tl=247, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:51] [User Authenticator #21/INFO]: Disconnecting Plechini44 (/127.162.71.96:45381): [LoginSecurity] This player is already online!
+[23:37:51] [User Authenticator #21/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[23:37:51] [Server thread/INFO]: Plechini44 (/127.162.71.96:45381) lost connection: [LoginSecurity] This player is already online!
+[23:37:51] [Server thread/INFO]: Plechini44 lost connection: Timed out
+[23:37:51] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 left the game
+[23:37:52] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> na esta ya son mmdas
+[23:37:52] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121885, uuid='9811672d-47d9-4db5-95e1-9d336dbb2cb0', l='ServerLevel[world_nether]', x=-190.48, y=52.00, z=403.59, cpos=[-12, 25], tl=31, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:52] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121886, uuid='64b24ea4-3448-40b0-8baa-17c07f676054', l='ServerLevel[world_nether]', x=-188.65, y=52.00, z=404.32, cpos=[-12, 25], tl=31, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:52] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121887, uuid='4b85cae1-8ba6-40cf-aa37-8ee9200cf1e4', l='ServerLevel[world_nether]', x=-189.86, y=52.00, z=405.48, cpos=[-12, 25], tl=31, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:53] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121911, uuid='a7160aa9-63bd-4b3c-8a53-56c6d1527d3b', l='ServerLevel[world_nether]', x=-190.74, y=52.50, z=403.33, cpos=[-12, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:53] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121912, uuid='7ad5ddf1-5c1c-47f2-ad37-76a8f6be43d5', l='ServerLevel[world_nether]', x=-190.22, y=52.50, z=403.33, cpos=[-12, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:53] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121913, uuid='2f2696e2-c4a5-4784-be0d-21a74ffd6157', l='ServerLevel[world_nether]', x=-190.74, y=52.50, z=403.85, cpos=[-12, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:53] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121914, uuid='e645ba01-0f09-41a0-8e3e-ac4327bb2b6e', l='ServerLevel[world_nether]', x=-188.91, y=52.50, z=404.06, cpos=[-12, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:53] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121915, uuid='81a8e01f-d600-4829-af8f-b68e20e12d9d', l='ServerLevel[world_nether]', x=-188.39, y=52.50, z=404.06, cpos=[-12, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:53] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121916, uuid='8ed1dc86-612b-42df-b0bd-cd9d27e2483e', l='ServerLevel[world_nether]', x=-190.12, y=52.50, z=405.22, cpos=[-12, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:53] [Server thread/INFO]: Named entity MagmaCube['Megalofobic Magma Cubes'/121917, uuid='7dd5bed1-6bc7-4485-93bf-44afe009089b', l='ServerLevel[world_nether]', x=-189.60, y=52.50, z=405.22, cpos=[-12, 25], tl=1, v=true] died: Megalofobic Magma Cubes suffocated in a wall
+[23:37:55] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> ?
+[23:37:56] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[23:37:56] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[23:37:58] [User Authenticator #21/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[23:37:58] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[23:38:00] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 joined the game
+[23:38:00] [Server thread/INFO]: Plechini44[/127.162.71.96:60479] logged in with entity id 121928 at ([world]1802.699999988079, 84.0, 2868.295326115005)
+[23:38:01] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> llego un ghast
+[23:38:01] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121713, uuid='a29888b7-e857-47f2-9679-5972ba36339b', l='ServerLevel[world_nether]', x=-147.43, y=64.20, z=402.61, cpos=[-10, 25], tl=654, v=true] died: Blaze Arcaemenids was slain by [Clan of South-Warriors] Lio_8282828
+[23:38:02] [Server thread/INFO]: Xautral issued server command: /kill @e[type=blaze]
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121375, uuid='5fd25469-9bcc-4992-a3a6-7bd57d5e3a5c', l='ServerLevel[world_nether]', x=-187.70, y=56.64, z=409.44, cpos=[-12, 25], tl=1085, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121374, uuid='18625626-d650-44ff-8cbb-1c9207facb38', l='ServerLevel[world_nether]', x=-184.48, y=50.00, z=407.63, cpos=[-12, 25], tl=1085, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121286, uuid='71073eff-f01b-4c99-bddf-be448daebe50', l='ServerLevel[world_nether]', x=-147.55, y=58.20, z=451.97, cpos=[-10, 28], tl=1100, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121329, uuid='8dd1b5a9-573f-4a2a-a4f0-33cc6d8e6b7d', l='ServerLevel[world_nether]', x=-160.70, y=56.49, z=430.25, cpos=[-11, 26], tl=1098, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121373, uuid='79ff8364-2cde-49e7-b570-1132d8bc97dd', l='ServerLevel[world_nether]', x=-182.70, y=56.80, z=414.70, cpos=[-12, 25], tl=1085, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121366, uuid='c6a00245-eb9c-47aa-a492-764a9f494bfb', l='ServerLevel[world_nether]', x=-175.30, y=58.20, z=409.70, cpos=[-11, 25], tl=1094, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121320, uuid='b11da403-4697-4151-a1fd-ac6ae2979291', l='ServerLevel[world_nether]', x=-157.40, y=56.66, z=427.87, cpos=[-10, 26], tl=1099, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121327, uuid='0c814ffe-490a-471f-bc6c-55ba07669dfd', l='ServerLevel[world_nether]', x=-183.65, y=56.20, z=442.32, cpos=[-12, 27], tl=1098, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121334, uuid='379c3dec-8699-4678-87d1-febbf1104ad7', l='ServerLevel[world_nether]', x=-157.91, y=56.00, z=429.47, cpos=[-10, 26], tl=1098, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121333, uuid='1d09208f-9b6a-4c63-a230-4d346fb4fe77', l='ServerLevel[world_nether]', x=-160.30, y=55.20, z=433.67, cpos=[-11, 27], tl=1098, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121339, uuid='4d4ffdf8-4f5f-43a8-9091-89a97ba8f7a0', l='ServerLevel[world_nether]', x=-172.30, y=56.20, z=405.30, cpos=[-11, 25], tl=1094, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121316, uuid='28630b49-0b4c-407e-b93a-141cc8e084f9', l='ServerLevel[world_nether]', x=-157.30, y=57.00, z=429.90, cpos=[-10, 26], tl=1099, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121317, uuid='9bfa3839-11ff-43d7-8df8-ea41380e34df', l='ServerLevel[world_nether]', x=-157.30, y=58.20, z=431.82, cpos=[-10, 26], tl=1099, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121331, uuid='fba575be-c2a5-43f6-bedc-fa4bf36ea687', l='ServerLevel[world_nether]', x=-157.30, y=58.20, z=429.04, cpos=[-10, 26], tl=1098, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: Named entity Blaze['Blaze Arcaemenids'/121326, uuid='69da245b-0c56-4593-a0ea-599f9c297398', l='ServerLevel[world_nether]', x=-185.22, y=55.20, z=440.30, cpos=[-12, 27], tl=1098, v=true] died: Blaze Arcaemenids was killed
+[23:38:02] [Server thread/INFO]: [Xautral [Founder]: Killed 19 entities]
+[23:38:04] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> cuando todo estaba tapado
+[23:38:06] [Server thread/INFO]: Xautral issued server command: /kill @e[type=ghast]
+[23:38:07] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> y exploto todo
+[23:38:07] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/121303, uuid='46b4c8bc-71f3-48bb-b497-1280dc8f8d4f', l='ServerLevel[world_nether]', x=-166.26, y=56.00, z=435.90, cpos=[-11, 27], tl=1201, v=true] died: Creeper Supernova burned to death
+[23:38:15] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> yo tampoco entiendo
+[23:38:17] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[23:38:20] [Server thread/WARN]: [net.minecraft.world.item.component.CustomData] Serialization errors:
+Blaze['Blaze Arcaemenids'/122162, uuid='f300e780-e9fc-4145-94c7-913b1d401a96', l='ServerLevel[world_nether]', x=-142.50, y=62.00, z=407.50, cpos=[-9, 25], tl=0, v=false]: Failed to decode value '{body:{count:3},chest:{id:"acacia_boat"},head:{count:5,id:"totem_of_undying"},offhand:{count:5,id:"totem_of_undying"},saddle:{count:1}}' from field 'equipment': No key id in MapLike[{count:1}]; No key id in MapLike[{count:3}] missed input: {body:{count:3},saddle:{count:1}}
+[23:38:20] [Server thread/WARN]: [net.minecraft.world.item.component.CustomData] Serialization errors:
+Blaze['Blaze Arcaemenids'/122166, uuid='a89ccc4c-048d-405d-a88b-ffe8e752d98a', l='ServerLevel[world_nether]', x=-141.50, y=63.00, z=407.50, cpos=[-9, 25], tl=0, v=false]: Failed to decode value '{body:{count:3},chest:{id:"acacia_boat"},head:{count:5,id:"totem_of_undying"},offhand:{count:5,id:"totem_of_undying"},saddle:{count:1}}' from field 'equipment': No key id in MapLike[{count:1}]; No key id in MapLike[{count:3}] missed input: {body:{count:3},saddle:{count:1}}
+[23:38:20] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> ya vamonos
+[23:38:20] [Server thread/WARN]: [net.minecraft.world.item.component.CustomData] Serialization errors:
+Blaze['Blaze Arcaemenids'/122168, uuid='854ceaa1-7d89-45ba-a579-b0bfd7018491', l='ServerLevel[world_nether]', x=-141.50, y=63.00, z=407.50, cpos=[-9, 25], tl=0, v=false]: Failed to decode value '{body:{count:3},chest:{id:"acacia_boat"},head:{count:5,id:"totem_of_undying"},offhand:{count:5,id:"totem_of_undying"},saddle:{count:1}}' from field 'equipment': No key id in MapLike[{count:1}]; No key id in MapLike[{count:3}] missed input: {body:{count:3},saddle:{count:1}}
+[23:38:22] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> vamonos
+[23:38:30] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 250 50 true
+[23:38:30] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to 5 targets]
+[23:38:31] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/122228, uuid='568747b0-f2af-4320-a2f9-2423e06610c4', l='ServerLevel[world_nether]', x=-142.46, y=61.00, z=405.24, cpos=[-9, 25], tl=67, v=true] died: Creeper Supernova was blown up by Creeper Supernova
+[23:38:33] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 250 50 true
+[23:38:33] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to 5 targets]
+[23:38:39] [Server thread/WARN]: [net.minecraft.world.item.component.CustomData] Serialization errors:
+Blaze['Blaze Arcaemenids'/122326, uuid='817b4920-3987-4389-a183-aee481097ba0', l='ServerLevel[world_nether]', x=-156.50, y=64.00, z=403.50, cpos=[-10, 25], tl=0, v=false]: Failed to decode value '{body:{count:3},chest:{id:"acacia_boat"},head:{count:5,id:"totem_of_undying"},offhand:{count:5,id:"totem_of_undying"},saddle:{count:1}}' from field 'equipment': No key id in MapLike[{count:1}]; No key id in MapLike[{count:3}] missed input: {body:{count:3},saddle:{count:1}}
+[23:38:39] [Server thread/WARN]: [net.minecraft.world.item.component.CustomData] Serialization errors:
+Blaze['Blaze Arcaemenids'/122327, uuid='f02e3b82-8d88-4f48-a6bf-d72b0e391cf3', l='ServerLevel[world_nether]', x=-156.50, y=64.00, z=403.50, cpos=[-10, 25], tl=0, v=false]: Failed to decode value '{body:{count:3},chest:{id:"acacia_boat"},head:{count:5,id:"totem_of_undying"},offhand:{count:5,id:"totem_of_undying"},saddle:{count:1}}' from field 'equipment': No key id in MapLike[{count:1}]; No key id in MapLike[{count:3}] missed input: {body:{count:3},saddle:{count:1}}
+[23:38:39] [Server thread/WARN]: [net.minecraft.world.item.component.CustomData] Serialization errors:
+Blaze['Blaze Arcaemenids'/122328, uuid='c5cc27c7-ae96-4a36-b785-33822eb228d2', l='ServerLevel[world_nether]', x=-156.50, y=64.00, z=403.50, cpos=[-10, 25], tl=0, v=false]: Failed to decode value '{body:{count:3},chest:{id:"acacia_boat"},head:{count:5,id:"totem_of_undying"},offhand:{count:5,id:"totem_of_undying"},saddle:{count:1}}' from field 'equipment': No key id in MapLike[{count:1}]; No key id in MapLike[{count:3}] missed input: {body:{count:3},saddle:{count:1}}
+[23:38:48] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> hasnos tpa wey
+[23:38:51] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> a donde
+[23:38:52] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/121296, uuid='698dcf98-d478-4395-9b21-36d911ec5ad7', l='ServerLevel[world_nether]', x=-166.74, y=55.00, z=435.04, cpos=[-11, 27], tl=2101, v=true] died: Creeper Supernova went up in flames
+[23:38:54] [Async Chat Thread - #44/INFO]: [Not Secure] <volcon2> al overworld
+[23:38:56] [Server thread/INFO]: Named entity Ghast['Demoniac Ghast'/122409, uuid='f80c7e4c-9e85-44c8-92f8-1817fac1b298', l='ServerLevel[world_nether]', x=-153.50, y=62.00, z=410.00, cpos=[-10, 25], tl=40, v=true] died: Demoniac Ghast was slain by [Clan of South-Warriors] Lio_8282828
+[23:38:56] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> ok
+[23:38:57] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[23:38:57] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[23:39:02] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828 Xautral
+[23:39:02] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 has completed the challenge [Subspace Bubble]
+[23:39:02] [Server thread/INFO]: [Xautral [Founder]: Teleported [Clan of South-Warriors] Lio_8282828 to Xautral [Founder]]
+[23:39:06] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/121308, uuid='c0edbb9f-14b2-4777-a7d0-519428d4983c', l='ServerLevel[world_nether]', x=-166.64, y=55.00, z=436.53, cpos=[-11, 27], tl=2385, v=true] died: Creeper Supernova burned to death
+[23:39:08] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
+[23:39:08] [Server thread/INFO]: [Volcan's Dominion] volcon2 has completed the challenge [Subspace Bubble]
+[23:39:08] [Server thread/INFO]: [Xautral [Founder]: Teleported [Volcan's Dominion] volcon2 to Xautral [Founder]]
+[23:39:09] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> salgan
+[23:39:12] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> es nadamas por la prisa
+[23:39:18] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> ya cabron
+[23:39:21] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> es nadamas por la prisa
+[23:39:23] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
+[23:39:26] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> conste
+[23:39:33] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828 Xautral
+[23:39:33] [Server thread/INFO]: [Xautral [Founder]: Teleported [Clan of South-Warriors] Lio_8282828 to Xautral [Founder]]
+[23:39:36] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
+[23:39:36] [Server thread/INFO]: [Xautral [Founder]: Teleported [Volcan's Dominion] volcon2 to Xautral [Founder]]
+[23:39:37] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> ahora
+[23:39:37] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> ya tengo 16 varas de blazze
+[23:39:47] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> busquen la stronghold
+[23:39:50] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> falta
+[23:39:54] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> las enderpeals
+[23:39:58] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> en mi base ay creo
+[23:39:58] [Server thread/INFO]: Xautral issued server command: /give volcon2 ender_pearl 128
+[23:39:58] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Ender Pearl] to [Volcan's Dominion] volcon2]
+[23:40:00] [Async Chat Thread - #45/INFO]: [Not Secure] <Lio_8282828> we mi casco
+[23:40:00] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> bueno
+[23:40:01] [Async Chat Thread - #45/INFO]: [Not Secure] <Xautral> ya
+[23:40:05] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> lio
+[23:40:05] [Async Chat Thread - #45/INFO]: [Not Secure] <eduardo16> te compro una vara y una perla
+[23:40:05] [Server thread/INFO]: Plechini44 lost connection: Disconnected
+[23:40:05] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 left the game
+[23:40:10] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> pasa las
+[23:40:11] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> varas
+[23:40:13] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> de blazze
+[23:40:13] [Async Chat Thread - #45/INFO]: [Not Secure] <Lio_8282828> denos una armor prote 4 y irro 3
+[23:40:13] [Async Chat Thread - #45/INFO]: [Not Secure] <eduardo16> pa hacerme un ender chest
+[23:40:21] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
+[23:40:21] [Server thread/INFO]: [Xautral [Founder]: Teleported [Volcan's Dominion] volcon2 to Xautral [Founder]]
+[23:40:25] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828 Xautral
+[23:40:25] [Server thread/INFO]: [Xautral [Founder]: Teleported [Clan of South-Warriors] Lio_8282828 to Xautral [Founder]]
+[23:40:27] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> dame
+[23:40:29] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> las baras
+[23:40:32] [Async Chat Thread - #45/INFO]: [Not Secure] <volcon2> 20
+[23:40:39] [Async Chat Thread - #45/INFO]: [Not Secure] <eduardo16> te compro una vara y una perla
+[23:40:41] [Async Chat Thread - #45/INFO]: [Not Secure] <eduardo16> pa hacerme un ender chest
+[23:40:44] [Async Chat Thread - #45/INFO]: [Not Secure] <Lio_8282828> bro tengo huevos
+[23:40:49] [Async Chat Thread - #45/INFO]: [Not Secure] <Lio_8282828> giga pigmans
+[23:41:41] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/123292, uuid='9ce11021-8cb7-4072-8e9a-042dda975f8f', l='ServerLevel[world]', x=6200.89, y=69.00, z=4975.37, cpos=[387, 310], tl=729, v=true] died: Nameless Zombie was slain by [Clan of South-Warriors] Lio_8282828
+[23:41:49] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 250 50 true
+[23:41:49] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to 4 targets]
+[23:41:51] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/123306, uuid='d7b7d32b-d240-409e-9219-cb18d35740eb', l='ServerLevel[world]', x=6203.70, y=69.00, z=4972.10, cpos=[387, 310], tl=890, v=true] died: Nameless Zombie was slain by [Clan of South-Warriors] Lio_8282828
+[23:41:52] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/123308, uuid='a93a3caf-55df-4199-b27a-8901b522ebc2', l='ServerLevel[world]', x=6203.37, y=69.00, z=4971.72, cpos=[387, 310], tl=901, v=true] died: Nameless Zombie was burned to a crisp while fighting [Clan of South-Warriors] Lio_8282828
+[23:41:59] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Lio_8282828
+[23:41:59] [Server thread/INFO]: [Xautral [Founder]: Teleported [Volcan's Dominion] volcon2 to [Clan of South-Warriors] Lio_8282828]
+[23:42:03] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/123304, uuid='aa04f551-82f0-4d5e-bd75-c905ee7fbfe5', l='ServerLevel[world]', x=6204.58, y=69.00, z=4981.41, cpos=[387, 311], tl=1124, v=true] died: Nameless Zombie was slain by [Volcan's Dominion] volcon2
+[23:42:09] [Async Chat Thread - #46/INFO]: [Not Secure] <Lio_8282828> mi casco y botaas
+[23:42:15] [Server thread/INFO]: Xautral issued server command: /inv Lio_8282828
+[23:42:22] [Server thread/INFO]: Xautral issued server command: /inv Lio_8282828
+[23:43:10] [Server thread/INFO]: [Not Secure] [Server] §6§lLAST DIFFICULTY CHANGE: Now the end have phantos and shulkers
+[23:43:17] [Async Chat Thread - #48/INFO]: [Not Secure] <volcon2> o que la
+[23:43:17] [Async Chat Thread - #48/INFO]: [Not Secure] <Xautral> ese no estuvo tan mal
+[23:43:23] [Async Chat Thread - #48/INFO]: [Not Secure] <volcon2> los shulkers
+[23:43:29] [Async Chat Thread - #48/INFO]: [Not Secure] <volcon2> nos van a joder mucho
+[23:43:29] [Async Chat Thread - #48/INFO]: [Not Secure] <Xautral> mira el lado positivo
+[23:43:34] [Async Chat Thread - #48/INFO]: [Not Secure] <Xautral> se van a elevar hacia los crystales
+[23:43:37] [Async Chat Thread - #48/INFO]: [Not Secure] <volcon2> nos das arco y flecha
+[23:43:38] [Async Chat Thread - #48/INFO]: [Not Secure] <volcon2> ?
+[23:43:39] [Async Chat Thread - #48/INFO]: [Not Secure] <Xautral> es el ultimo cambio de dificultad
+[23:43:42] [Server thread/INFO]: Xautral issued server command: /give volcon2 bow
+[23:43:42] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Bow] to [Volcan's Dominion] volcon2]
+[23:43:47] [Server thread/INFO]: Xautral issued server command: /give volcon2 arrow 12
+[23:43:47] [Server thread/INFO]: [Xautral [Founder]: Gave 12 [Arrow] to [Volcan's Dominion] volcon2]
+[23:43:48] [Server thread/INFO]: Xautral issued server command: /give volcon2 arrow 128
+[23:43:48] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Arrow] to [Volcan's Dominion] volcon2]
+[23:43:57] [Async Chat Thread - #48/INFO]: [Not Secure] <volcon2> gracias
+[23:44:17] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:zombified_piglin]
+[23:44:20] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:ghast]
+[23:44:23] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:zombie]
+[23:44:23] [Server thread/INFO]: [Xautral [Founder]: Killed 36 entities]
+[23:44:52] [Server thread/INFO]: Named entity Ghast['Demoniac Ghast'/125910, uuid='774fb2c7-d41f-4c86-9633-cf09b8a51c54', l='ServerLevel[world]', x=6645.35, y=77.18, z=5009.81, cpos=[415, 313], tl=175, v=true] died: Demoniac Ghast was blown up by Demoniac Ghast
+[23:44:58] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 250 50 true
+[23:44:58] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to 4 targets]

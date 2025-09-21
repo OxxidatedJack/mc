@@ -1165,3 +1165,180 @@ Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
 [22:11:46] [Server thread/INFO]: ChamoMCYT[/127.140.223.173:41255] logged in with entity id 60918 at ([world]-1350.699999988079, 59.0, -1400.6364061480485)
 [22:11:46] [Server thread/INFO]: Xautral issued server command: /effect give volcon2 minecraft:resistance 25 2 true
 [22:11:46] [Server thread/INFO]: [Xautral [Founder]: Applied effect Resistance to [Volcan's Dominion] volcon2]
+[22:11:52] [Async Chat Thread - #31/INFO]: [Not Secure] <Lio_8282828> toy ciego
+[22:11:53] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[22:11:53] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to 6 targets]
+[22:11:54] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/60561, uuid='658d59dd-9cc6-4702-8777-64c8d27d3d86', l='ServerLevel[world]', x=340.60, y=63.92, z=526.53, cpos=[21, 32], tl=652, v=true] died: Nameless Zombie was slain by [Volcan's Dominion] volcon2
+[22:11:58] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/60896, uuid='b7106c4c-0d4b-414c-b1a1-de3a3cbb0d32', l='ServerLevel[world]', x=340.43, y=63.54, z=526.38, cpos=[21, 32], tl=341, v=true] died: Nameless Zombie was slain by [Volcan's Dominion] volcon2
+[22:12:05] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> que mierda por que no morian
+[22:12:14] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> quienes
+[22:12:15] [Async Chat Thread - #31/INFO]: [Not Secure] <ChamoMCYT> ola plechini
+[22:12:17] [Server thread/INFO]: Xautral issued server command: /tp ChamoMCYT
+[22:12:17] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] ChamoMCYT]
+[22:12:19] [Async Chat Thread - #31/INFO]: [Not Secure] <Plechini44> olap
+[22:12:22] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> me llegaron 2 zombies
+[22:12:23] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[22:12:25] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> ??
+[22:12:27] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> con casco de diamante
+[22:12:29] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> aparecen de dia'
+[22:12:30] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> ?
+[22:12:31] [Server thread/INFO]: Xautral issued server command: /tp vo
+[22:12:32] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[22:12:32] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[22:12:33] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> no se
+[22:12:35] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> si
+[22:12:35] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[22:12:35] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[22:12:36] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> pero me aparecieron
+[22:12:38] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[22:12:41] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 ola bro
+[22:12:47] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> dame pozonque infinito
+[22:12:47] [Server thread/INFO]: Named entity Ghast['Demoniac Ghast'/62392, uuid='8c48ccfe-64ab-4bac-b351-7ad2decd59b7', l='ServerLevel[world_nether]', x=-148.50, y=83.00, z=-219.50, cpos=[-10, -14], tl=91, v=true] died: Demoniac Ghast suffocated in a wall
+[22:12:51] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> los que me aparecieron fue de dia tambien
+[22:12:51] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> xd?
+[22:13:01] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[22:13:01] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to 6 targets]
+[22:13:02] [Server thread/INFO]: Named entity WitherSkeleton['Wither Shooter'/62498, uuid='5e569411-4ceb-4fca-85b9-ec4e999c11c0', l='ServerLevel[world_nether]', x=-155.65, y=73.00, z=-203.83, cpos=[-10, -13], tl=142, v=true] died: Wither Shooter was slain by [Clan of South-Warriors] Lio_8282828
+[22:13:09] [Server thread/INFO]: ChamoMCYT issued server command: /msg Xautral tpeame a lio porfa
+[22:13:13] [Server thread/INFO]: Xautral issued server command: /tp ChamoMCYT Lio_8282828
+[22:13:13] [Server thread/INFO]: [Xautral [Founder]: Teleported [Clan of South-Warriors] ChamoMCYT to [Clan of South-Warriors] Lio_8282828]
+[22:13:23] [Server thread/INFO]: Xautral issued server command: /give Lio_8282828 minecraft:totem_of_undying 4
+[22:13:23] [Server thread/INFO]: [Xautral [Founder]: Gave 4 [Totem of Undying] to [Clan of South-Warriors] Lio_8282828]
+[22:13:26] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> no tengo ni niveles de xp
+[22:13:30] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[22:13:35] [Async Chat Thread - #30/INFO]: [Not Secure] <ChamoMCYT> graciaas xautral
+[22:13:36] [Server thread/INFO]: Xautral issued server command: /xp add volcon2 200 levels
+[22:13:36] [Server thread/INFO]: [Xautral [Founder]: Gave 200 experience levels to [Volcan's Dominion] volcon2]
+[22:13:40] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[22:13:58] [Async Chat Thread - #30/INFO]: [Not Secure] <Lio_8282828> LOL
+[22:14:02] [Async Chat Thread - #30/INFO]: [Not Secure] <Lio_8282828> LE AGARRARON TODO
+[22:14:10] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> mis cosas?
+[22:14:11] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> o que
+[22:14:14] [Async Chat Thread - #30/INFO]: [Not Secure] <Lio_8282828> si
+[22:14:14] [Server thread/INFO]: eduardo16 lost connection: Disconnected
+[22:14:14] [Server thread/INFO]: [Principality Infernal] eduardo16 left the game
+[22:14:15] [Async Chat Thread - #30/INFO]: [Not Secure] <ChamoMCYT> porq hay tantos pligins full diamond
+[22:14:34] [Async Chat Thread - #30/INFO]: [Not Secure] <Lio_8282828> tengo totems
+[22:14:35] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:zombified_piglin] 1 minecraft:player_attack by Lio_8282828
+[22:14:35] [Server thread/INFO]: [Xautral [Founder]: Applied 1.0 damage to Giga-Pigmans]
+[22:14:53] [Server thread/INFO]: Xautral issued server command: /damage @n[type=minecraft:zombified_piglin] 1 minecraft:player_attack by ChamoMCYT
+[22:14:53] [Server thread/INFO]: [Xautral [Founder]: Applied 1.0 damage to ArquiPigmans]
+[22:14:55] [Server thread/INFO]: Named entity WitherSkeleton['Wither Shooter'/63441, uuid='a3d95659-1cdc-411e-abf7-9fb7f34e5fbe', l='ServerLevel[world_nether]', x=-174.35, y=62.00, z=-179.89, cpos=[-11, -12], tl=1027, v=true] died: Wither Shooter was slain by Piglin
+[22:14:56] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[22:14:56] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to 5 targets]
+[22:15:08] [Server thread/INFO]: Named entity ZombifiedPiglin['Giga-Pigmans'/64021, uuid='a9b625e5-fc81-49e4-bd85-f480ea43a012', l='ServerLevel[world]', x=-1403.67, y=66.00, z=-1385.85, cpos=[-88, -87], tl=306, v=true] died: Giga-Pigmans was slain by [Clan of South-Warriors] Lio_8282828
+[22:15:11] [Async Chat Thread - #30/INFO]: [Not Secure] <Lio_8282828> bro?
+[22:15:12] [Server thread/INFO]: Named entity Ghast['Demoniac Ghast'/64157, uuid='d441b91d-6459-4169-bba3-9bbece075644', l='ServerLevel[world_nether]', x=-188.50, y=66.00, z=-191.50, cpos=[-12, -12], tl=91, v=true] died: Demoniac Ghast suffocated in a wall
+[22:15:17] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[22:15:17] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[22:15:30] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> dame pozonque infinito
+[22:15:33] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> xau
+[22:15:36] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> no
+[22:15:42] [Server thread/INFO]: Named entity ZombifiedPiglin['ArquiPigmans'/64210, uuid='7625ab8e-92b6-4821-88db-def73d4cc8e5', l='ServerLevel[world]', x=-1399.78, y=67.00, z=-1373.14, cpos=[-88, -86], tl=577, v=true] died: ArquiPigmans was slain by [Clan of South-Warriors] ChamoMCYT
+[22:15:48] [Async Chat Thread - #30/INFO]: [Not Secure] <Lio_8282828> mira
+[22:15:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> oigan
+[22:15:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> gente
+[22:15:54] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> de que paises son?
+[22:15:59] [Async Chat Thread - #30/INFO]: [Not Secure] <Lio_8282828> venezuela
+[22:15:59] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> Mexico
+[22:16:02] [Server thread/INFO]: Xautral issued server command: /kill e1e4bf42-ea0c-4c5b-89e7-ce501973e1c3
+[22:16:02] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/64305, uuid='e1e4bf42-ea0c-4c5b-89e7-ce501973e1c3', l='ServerLevel[world]', x=-1402.61, y=66.00, z=-1361.27, cpos=[-88, -86], tl=676, v=true] died: Creeper Supernova was killed
+[22:16:02] [Server thread/INFO]: [Xautral [Founder]: Killed Creeper Supernova]
+[22:16:03] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> ooo
+[22:16:05] [Async Chat Thread - #30/INFO]: [Not Secure] <Xautral> otro chango
+[22:16:05] [Async Chat Thread - #30/INFO]: [Not Secure] <Plechini44> Chile
+[22:16:07] [Async Chat Thread - #30/INFO]: [Not Secure] <ChamoMCYT> venezuela
+[22:16:10] [Server thread/INFO]: [Volcan's Dominion] volcon2 has completed the challenge [Cover Me in Debris]
+[22:16:19] [Async Chat Thread - #30/INFO]: [Not Secure] <Lio_8282828> encanta
+[22:16:24] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> ya
+[22:16:27] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> tienes prote?
+[22:16:27] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 buenisima bro
+[22:16:36] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> por libros digo yo
+[22:16:39] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[22:16:39] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[22:16:42] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[22:16:42] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[22:17:06] [Server thread/INFO]: Xautral issued server command: /kill @e[type=creeper]
+[22:17:06] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/64927, uuid='4500180b-58f7-4a6b-b9a5-ea427f2efacc', l='ServerLevel[world]', x=390.90, y=83.00, z=351.75, cpos=[24, 21], tl=128, v=true] died: Creeper Supernova was killed
+[22:17:06] [Server thread/INFO]: [Xautral [Founder]: Killed 74 entities]
+[22:17:15] [Server thread/INFO]: Villager Villager['Farmer'/49956, uuid='48e9cff0-61c0-43c9-8482-511d789963af', l='ServerLevel[world]', x=344.65, y=69.00, z=307.24, cpos=[21, 19], tl=15360, v=true] died, message: 'Farmer was slain by Husk'
+[22:17:24] [Server thread/INFO]: Villager Villager['Villager'/49957, uuid='87452bf3-350d-4963-9a10-3e7b797b84a8', l='ServerLevel[world]', x=340.37, y=65.42, z=294.70, cpos=[21, 18], tl=15882, v=true] died, message: 'Villager was slain by Husk'
+[22:17:25] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> ??
+[22:17:25] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:regeneration 25 25 true
+[22:17:25] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to 5 targets]
+[22:17:26] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[22:17:26] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[22:17:29] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> por que soporta tanto
+[22:17:29] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/64635, uuid='d784fa4b-346d-49dd-a70c-40c5780877a5', l='ServerLevel[world]', x=-1347.80, y=59.00, z=-1404.54, cpos=[-85, -88], tl=1389, v=true] died: Nameless Zombie was slain by [Clan of South-Warriors] ChamoMCYT
+[22:17:38] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/65168, uuid='d46ceea6-230d-4e58-9f3a-291e0b4dbe25', l='ServerLevel[world]', x=366.71, y=79.00, z=337.31, cpos=[22, 21], tl=435, v=true] died: Nameless Zombie was slain by [Volcan's Dominion] volcon2
+[22:17:56] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/64633, uuid='cdabcadf-14d3-4d7d-9ff1-bab039db2308', l='ServerLevel[world]', x=-1342.78, y=63.75, z=-1394.30, cpos=[-84, -88], tl=1923, v=true] died: Nameless Zombie was slain by [Clan of South-Warriors] Lio_8282828
+[22:17:56] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/64634, uuid='3a09ddb2-6439-40b0-a39f-256664f873e8', l='ServerLevel[world]', x=-1349.65, y=63.00, z=-1398.36, cpos=[-85, -88], tl=1927, v=true] died: Nameless Zombie was slain by [Clan of South-Warriors] ChamoMCYT
+[22:18:01] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> me estoy muriendo de hambre
+[22:18:06] [Async Chat Thread - #31/INFO]: [Not Secure] <Lio_8282828> estaba full diamante
+[22:18:09] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> haz videos de sprunki :v
+[22:18:10] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[22:18:10] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[22:18:15] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:saturation 25 25 true
+[22:18:15] [Server thread/INFO]: [Xautral [Founder]: Applied effect Saturation to 5 targets]
+[22:18:27] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> por que no ay cerdas
+[22:18:34] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> oye xau ocupo otra brujula
+[22:18:39] [Server thread/INFO]: [Clan of South-Warriors] ChamoMCYT has made the advancement [Enchanter]
+[22:18:43] [User Authenticator #16/INFO]: UUID of player eduardo16 is 6bf9f88b-eff1-3997-85fc-7194b9abed53
+[22:18:45] [Server thread/INFO]: [Principality Infernal] eduardo16 joined the game
+[22:18:45] [Server thread/INFO]: eduardo16[/127.255.116.70:41303] logged in with entity id 65772 at ([world]5635.300000011921, 74.0, 4471.372639994381)
+[22:19:03] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[22:19:03] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[22:19:04] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> yo tenia todo lo que ocupaba en mi shulker
+[22:19:06] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[22:19:12] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 has made the advancement [Sweet Dreams]
+[22:19:18] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[22:19:24] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 mas bien al clan deberiamos ponerle latam warriors
+[22:19:27] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/66246, uuid='26eeb5dc-e4ff-4e48-a1a4-679cf56b8376', l='ServerLevel[world]', x=5638.41, y=76.54, z=4470.01, cpos=[352, 279], tl=150, v=true] died: Nameless Zombie was slain by Iron Golem
+[22:19:31] [Server thread/INFO]: Named entity WitherSkeleton['Wither Shooter'/66261, uuid='bdff35ab-fe0f-4b07-bb01-28c441ddd3b9', l='ServerLevel[world]', x=5638.18, y=74.00, z=4474.80, cpos=[352, 279], tl=205, v=true] died: Wither Shooter was slain by Iron Golem
+[22:19:35] [Server thread/INFO]: [Principality Infernal] eduardo16 has made the advancement [Suit Up]
+[22:19:39] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> que mierda
+[22:19:46] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> le pegue a una araña y me hizo saltar
+[22:19:48] [Async Chat Thread - #30/INFO]: [Not Secure] <volcon2> 10 metros
+[22:19:50] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 tenes esmeraldas?
+[22:19:57] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> XAUTRAL
+[22:20:14] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> que
+[22:20:27] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> por que mierda no ay animales
+[22:20:30] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> ocupo cmer
+[22:20:31] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> no se
+[22:20:32] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> :v
+[22:20:34] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> bro recuerdas que te dije de los esquleletos?
+[22:20:41] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:pig_spawn_egg 65
+[22:20:41] [Server thread/INFO]: [Xautral [Founder]: Gave 65 [Pig Spawn Egg] to [Volcan's Dominion] volcon2]
+[22:20:44] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> no
+[22:20:45] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> eduardo16
+[22:20:57] [Server thread/INFO]: Xautral issued server command: /kill @e[type=zombie]
+[22:20:57] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/67182, uuid='d19e894c-68fa-4e9a-a2c1-83bafb461e65', l='ServerLevel[world]', x=5644.50, y=80.00, z=4461.21, cpos=[352, 278], tl=133, v=true] died: Nameless Zombie was killed
+[22:20:57] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/67177, uuid='ac43dabc-e9e9-4834-ae10-46f1c9d344a8', l='ServerLevel[world]', x=5644.50, y=80.00, z=4462.05, cpos=[352, 278], tl=141, v=true] died: Nameless Zombie was killed
+[22:20:57] [Server thread/INFO]: [Xautral [Founder]: Killed 63 entities]
+[22:21:05] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[22:21:05] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[22:21:08] [Server thread/INFO]: Xautral issued server command: /tp ChamoMCYT
+[22:21:08] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] ChamoMCYT]
+[22:21:08] [Server thread/INFO]: Named entity WitherSkeleton['Wither Shooter'/67161, uuid='b6d7070d-c522-426e-a380-a238cbfd8cbc', l='ServerLevel[world]', x=5643.78, y=80.00, z=4461.45, cpos=[352, 278], tl=372, v=true] died: Wither Shooter was slain by Iron Golem
+[22:21:08] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> el ultimo lo mato un iron golem entonces dio el loot normal de un whiter esquleleton
+[22:21:10] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[22:21:10] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[22:21:13] [Server thread/INFO]: Named entity WitherSkeleton['Wither Shooter'/67157, uuid='30350624-cf9a-46b8-9f38-3fdd13e5355a', l='ServerLevel[world]', x=5642.69, y=83.52, z=4462.91, cpos=[352, 278], tl=471, v=true] died: Wither Shooter was slain by [Principality Infernal] eduardo16
+[22:21:22] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> no que iba a ser vanilla xau
+[22:21:26] [Async Chat Thread - #31/INFO]: [Not Secure] <volcon2> por que ay mobs tan cabrones
+[22:21:26] [Async Chat Thread - #31/INFO]: [Not Secure] <Plechini44> afk
+[22:21:28] [Server thread/INFO]: Plechini44 lost connection: Disconnected
+[22:21:28] [Server thread/INFO]: [Plechy's Kingdom] Plechini44 left the game
+[22:21:28] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> pero mate uno y no crees lo que dio
+[22:21:29] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> nunca dije que sería vanilla w
+[22:21:32] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> que eduardo16
+[22:21:34] [Server thread/INFO]: Xautral issued server command: /inv eduardo16
+[22:21:37] [Async Chat Thread - #31/INFO]: [Not Secure] <eduardo16> 4 totems
+[22:21:41] [Async Chat Thread - #31/INFO]: [Not Secure] <Xautral> asuverga
+[22:21:44] [Server thread/INFO]: ChamoMCYT issued server command: /msg Lio_8282828 bro tenes efi V?
+[22:21:48] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> y un full hierro
+[22:21:52] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[22:21:52] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[22:22:00] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> me equivoque xd
+[22:22:03] [Async Chat Thread - #30/INFO]: [Not Secure] <eduardo16> 5 totems
+[22:22:14] [Server thread/INFO]: Named entity Zombie['Nameless Zombie'/67927, uuid='15e44965-998f-4781-a9d2-caa515d11535', l='ServerLevel[world]', x=5635.87, y=75.00, z=4462.52, cpos=[352, 278], tl=263, v=true] died: Nameless Zombie was slain by [Principality Infernal] eduardo16

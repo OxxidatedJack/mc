@@ -1861,3 +1861,107 @@
 [03:35:53] [Async Chat Thread - #26/INFO]: [Not Secure] <perihhh> blime2009tbm juega?
 [03:35:55] [Async Chat Thread - #26/INFO]: [Not Secure] <perihhh> o es mod
 [03:35:56] [Async Chat Thread - #26/INFO]: [Not Secure] <Xautral> no
+[03:36:08] [Async Chat Thread - #26/INFO]: [Not Secure] <Xautral> perihhh es un mod, del equipo scripting (se encarga de hacer los equipos)
+[03:36:14] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> y tambien mas mecanicas
+[03:36:22] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> solo que no se por el momento que asignarle
+[03:36:25] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> y se ha puestso a consturir
+[03:36:27] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> construir*
+[03:36:29] [Async Chat Thread - #25/INFO]: [Not Secure] <perihhh> que agregue las llaves jaja
+[03:36:29] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> blime2009
+[03:36:35] [Async Chat Thread - #25/INFO]: [Not Secure] <blime2009> Xautral
+[03:36:35] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> que buena idea perihhh
+[03:36:38] [Async Chat Thread - #25/INFO]: [Not Secure] <blime2009> tengo una idea
+[03:36:39] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> ._.
+[03:36:44] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[03:36:44] [Server thread/INFO]: [Xautral [Founder]: Summoned new Iron Golem]
+[03:36:45] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[03:36:45] [Server thread/INFO]: [Xautral [Founder]: Summoned new Iron Golem]
+[03:36:45] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[03:36:45] [Server thread/INFO]: [Xautral [Founder]: Summoned new Iron Golem]
+[03:36:45] [Server thread/INFO]: Xautral issued server command: /summon minecraft:iron_golem
+[03:36:45] [Server thread/INFO]: [Xautral [Founder]: Summoned new Iron Golem]
+[03:36:53] [Server thread/INFO]: Xautral issued server command: /summon minecraft:villager
+[03:36:53] [Server thread/INFO]: [Xautral [Founder]: Summoned new Villager]
+[03:36:53] [Async Chat Thread - #25/INFO]: [Not Secure] <Lio_8282828> OH DIOS
+[03:36:54] [Server thread/INFO]: Xautral issued server command: /summon minecraft:villager
+[03:36:54] [Server thread/INFO]: [Xautral [Founder]: Summoned new Villager]
+[03:36:54] [Server thread/INFO]: Xautral issued server command: /summon minecraft:villager
+[03:36:54] [Server thread/INFO]: [Xautral [Founder]: Summoned new Villager]
+[03:36:54] [Server thread/INFO]: Xautral issued server command: /summon minecraft:villager
+[03:36:54] [Server thread/INFO]: [Xautral [Founder]: Summoned new Villager]
+[03:36:54] [Server thread/INFO]: Xautral issued server command: /summon minecraft:villager
+[03:36:54] [Server thread/INFO]: [Xautral [Founder]: Summoned new Villager]
+[03:37:03] [Server thread/INFO]: blime2009 issued server command: /msg Xautral hacer que los pinchos de evoker tengan aimbot
+[03:37:09] [Server thread/INFO]: Xautral issued server command: /tell blime2009 ??
+[03:37:11] [Server thread/INFO]: Xautral issued server command: /tell blime2009 como
+[03:37:24] [Server thread/INFO]: blime2009 issued server command: /msg Xautral que se tepen automaticamente al jugador mas cercano :V
+[03:38:18] [Server thread/INFO]: Xautral issued server command: /tell blime2009 em... mejor haz que si un jugador este cerca de un evoker_fang (de 1..5 bloques de distancia) se tepeen a el
+[03:38:25] [Server thread/INFO]: blime2009 was kicked due to keepalive timeout!
+[03:38:25] [Server thread/INFO]: blime2009 lost connection: Timed out
+[03:38:25] [Server thread/INFO]: blime2009 left the game
+[03:38:34] [Server thread/INFO]: Xautral issued server command: /msg blime2009 osea un mini nerfeo, que solo se tepeen a el si
+[03:38:42] [Async Chat Thread - #26/INFO]: [Not Secure] <ChamoMCYT> donde estan los hdps estos?
+[03:38:53] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:pillager]
+[03:38:57] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:evoker]
+[03:39:06] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:vindicator]
+[03:39:10] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:ravager]
+[03:39:10] [Server thread/INFO]: [Xautral [Founder]: Killed Ravager]
+[03:39:17] [Async Chat Thread - #26/INFO]: [Not Secure] <ChamoMCYT> muerto
+[03:39:26] [Server thread/INFO]: Xautral issued server command: /tp perihhh
+[03:39:26] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Community Tenochcatl] perihhh]
+[03:39:48] [User Authenticator #12/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[03:39:51] [Server thread/INFO]: blime2009 [Scripting] joined the game
+[03:39:51] [Server thread/INFO]: blime2009[/127.20.187.84:35981] logged in with entity id 54763 at ([world]14.88577009330119, 291.67024119694315, 2.8157594327650917)
+[03:40:09] [Server thread/INFO]: Xautral issued server command: /msg blime2009 osea un mini nerfeo, que solo se tepeen a el si estan a 5 bloques de ello
+[03:40:18] [Server thread/INFO]: blime2009 issued server command: /msg Xautral ok
+[03:40:36] [Server thread/INFO]: blime2009 issued server command: /msg Xautral lo voy a probar en un mundo aparte para no probocar daños en el srvr ok?
+[03:40:51] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 has completed the challenge [Hero of the Village]
+[03:40:51] [Server thread/INFO]: [Clan of South-Warriors] ChamoMCYT has completed the challenge [Hero of the Village]
+[03:40:56] [Async Chat Thread - #25/INFO]: [Not Secure] <blime2009> ggs
+[03:40:56] [Async Chat Thread - #25/INFO]: [Not Secure] <ChamoMCYT> jai papa
+[03:40:59] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[03:40:59] [Server thread/INFO]: blime2009 [Scripting] left the game
+[03:41:02] [Server thread/INFO]: Xautral issued server command: /tp ChamoMCYT
+[03:41:02] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] ChamoMCYT]
+[03:41:09] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> perro que ladra no muerde
+[03:41:12] [Async Chat Thread - #25/INFO]: [Not Secure] <ChamoMCYT> q?
+[03:41:15] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> nada
+[03:41:30] [Async Chat Thread - #25/INFO]: [Not Secure] <ChamoMCYT> colonizar aldea parte 2
+[03:42:16] [Async Chat Thread - #25/INFO]: [Not Secure] <ChamoMCYT> mala mia
+[03:42:17] [Server thread/INFO]: Xautral issued server command: /tp perihhh
+[03:42:17] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Community Tenochcatl] perihhh]
+[03:42:26] [Async Chat Thread - #25/INFO]: [Not Secure] <ChamoMCYT> hierro gratis
+[03:42:58] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> gente
+[03:43:00] [Async Chat Thread - #25/INFO]: [Not Secure] <Xautral> nada
+[03:43:07] [Async Chat Thread - #25/INFO]: [Not Secure] <perihhh> que
+[03:43:30] [Server thread/INFO]: You whisper to Xautral [Founder]: Si hacen construccione o avances importantes, reciben cosas random
+[03:43:30] [Server thread/INFO]: You whisper to [Community Tenochcatl] perihhh: Si hacen construccione o avances importantes, reciben cosas random
+[03:43:30] [Server thread/INFO]: You whisper to [Clan of South-Warriors] ChamoMCYT: Si hacen construccione o avances importantes, reciben cosas random
+[03:43:30] [Server thread/INFO]: You whisper to [Clan of South-Warriors] Lio_8282828: Si hacen construccione o avances importantes, reciben cosas random
+[03:43:38] [Async Chat Thread - #25/INFO]: [Not Secure] <ChamoMCYT> ta weno
+[03:44:00] [Async Chat Thread - #25/INFO]: [Not Secure] <perihhh> oe ya hice mi rectangulo
+[03:44:01] [Async Chat Thread - #25/INFO]: [Not Secure] <Lio_8282828> xauteal dame una brujula pls
+[03:44:04] [Async Chat Thread - #25/INFO]: [Not Secure] <perihhh> donde esta mi cosa ramdon
+[03:44:15] [Server thread/INFO]: Xautral issued server command: /give Lio_8282828 compass
+[03:44:15] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Compass] to [Clan of South-Warriors] Lio_8282828]
+[03:44:16] [Server thread/INFO]: ChamoMCYT issued server command: /tell blime2009 oye bro puedes agregar el journey map?
+[03:44:46] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 has made the advancement [Country Lode, Take Me Home]
+[03:45:32] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> ayuda
+[03:45:39] [Async Chat Thread - #27/INFO]: [Not Secure] <ChamoMCYT> q pasa
+[03:45:42] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> mi pc tiene unas 2 ventanas abiertas del windows 11 predetermiandas
+[03:45:44] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> y no se cierran
+[03:45:51] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> we que pedo
+[03:45:53] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> sepa que rpesione
+[03:45:57] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> como putas odio widnows 11
+[03:46:00] [Async Chat Thread - #27/INFO]: [Not Secure] <ChamoMCYT> pon alt f4
+[03:46:04] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> haber
+[03:46:05] [Server thread/INFO]: Xautral lost connection: Disconnected
+[03:46:05] [Server thread/INFO]: Xautral [Founder] left the game
+[03:46:07] [Async Chat Thread - #27/INFO]: [Not Secure] <ChamoMCYT> al mismo tiemoi
+[03:46:07] [User Authenticator #13/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[03:46:08] [Server thread/INFO]: Xautral [Founder] joined the game
+[03:46:08] [Server thread/INFO]: Xautral[/127.115.99.248:34721] logged in with entity id 56703 at ([world]-1638.2085131380682, 74.74456608959665, -3804.4113221370253)
+[03:46:11] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> que dijeron
+[03:46:17] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> este ya la pamó
+[03:46:18] [Async Chat Thread - #27/INFO]: [Not Secure] <ChamoMCYT> q pongas alt f4
+[03:46:19] [Async Chat Thread - #27/INFO]: [Not Secure] <perihhh> te funaron

@@ -1258,3 +1258,152 @@
 [16:52:58] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
 [16:52:58] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
 [16:53:07] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> wey
+[16:53:09] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> q
+[16:53:13] [Async Chat Thread - #17/INFO]: [Not Secure] <Lio_8282828> al kit le falta irrom
+[16:53:18] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> es sarcasmo?
+[16:53:21] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> si
+[16:53:24] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> aca
+[16:53:26] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> es post-guerra
+[16:53:37] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> cuando terminas una guerra
+[16:53:39] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[16:53:39] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[16:53:40] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> eduardo16
+[16:53:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> tienes territorio?
+[16:53:46] [Server thread/INFO]: Xautral issued server command: /tp zDreamz__
+[16:53:46] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Kingdom of Genesis] zDreamz__]
+[16:53:50] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> zDreamz__ te hago rtp?wr
+[16:53:51] [Async Chat Thread - #16/INFO]: [Not Secure] <eduardo16> no
+[16:53:55] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> eduardo
+[16:53:55] [Async Chat Thread - #16/INFO]: [Not Secure] <zDreamz__> si pls
+[16:54:00] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> yo te ayudo
+[16:54:02] [Server thread/INFO]: Xautral issued server command: /locate biome minecraft:sunflower_plains
+[16:54:03] [Server thread/INFO]: Locating element minecraft:sunflower_plains took 391 ms
+[16:54:04] [Server thread/INFO]: Xautral issued server command: /tp @s 1797 72 1358
+[16:54:04] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 1797.500000, 72.000000, 1358.500000]
+[16:54:06] [Server thread/INFO]: zDreamz__ issued server command: /rtp
+[16:54:11] [Async Chat Thread - #16/INFO]: [Not Secure] <zDreamz__> Xautral si pls
+[16:54:17] [Server thread/INFO]: Xautral issued server command: /locate biome minecraft:deep_cold_ocean
+[16:54:17] [Server thread/INFO]: Locating element minecraft:deep_cold_ocean took 114 ms
+[16:54:18] [Server thread/INFO]: Xautral issued server command: /tp @s 2484 77 1996
+[16:54:18] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 2484.500000, 77.000000, 1996.500000]
+[16:54:19] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> si ya voy
+[16:54:20] [Async Chat Thread - #16/INFO]: [Not Secure] <eduardo16> no, yo siempre voy a cords minimo 8mil
+[16:54:26] [Server thread/INFO]: Xautral issued server command: /locate structure minecraft:village_taiga
+[16:54:26] [Server thread/INFO]: Locating element minecraft:village_taiga took 356 ms
+[16:54:28] [Server thread/INFO]: Xautral issued server command: /tp @s 64 ~ 3904
+[16:54:28] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 64.500000, 76.256047, 3904.500000]
+[16:54:32] [Server thread/WARN]: eduardo16 moved too quickly! 13.099130370578223,1.0230881091015505,6.492661558501823
+[16:54:32] [Server thread/WARN]: zDreamz__ moved too quickly! 13.714751935950176,2.916922182193531,-9.322416591257223
+[16:54:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4229ms or 84 ticks behind
+[16:54:33] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> a
+[16:54:36] [Server thread/WARN]: zDreamz__ moved too quickly! 5.958751449715237,1.7420008964847256,-9.013389418393075
+[16:54:38] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> perenme
+[16:54:46] [Async Chat Thread - #16/INFO]: [Not Secure] <eduardo16> asi q estoy en eso
+[16:54:50] [Server thread/INFO]: [Not Secure] [Server] aaa
+[16:54:59] [Server thread/INFO]: Xautral issued server command: /tp zDreamz__ Xautral
+[16:54:59] [Server thread/INFO]: [Xautral [Founder]: Teleported [Kingdom of Genesis] zDreamz__ to Xautral [Founder]]
+[16:55:03] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[16:55:03] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[16:55:05] [Async Chat Thread - #16/INFO]: [Not Secure] <zDreamz__> graciass
+[16:55:07] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[16:55:09] [User Authenticator #11/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[16:55:10] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[16:55:10] [Server thread/INFO]: volcon2[/127.217.184.139:41883] logged in with entity id 56909 at ([world]316.69999998807907, 48.0, 382.6953039706822)
+[16:55:16] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> gente
+[16:55:18] [Server thread/INFO]: volcon2 issued server command: /log abueno
+[16:55:24] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> nada
+[16:55:29] [Server thread/INFO]: Xautral issued server command: /tp zDreamz__
+[16:55:29] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Kingdom of Genesis] zDreamz__]
+[16:55:37] [Async Chat Thread - #16/INFO]: [Not Secure] <eduardo16> de cierta manera soy responsable del lag de los servers siempre genero un chingo de terreno
+[16:55:48] [Server thread/INFO]: volcon2 was kicked due to keepalive timeout!
+[16:55:48] [Server thread/INFO]: volcon2 lost connection: Timed out
+[16:55:48] [Server thread/INFO]: volcon2 left the game
+[16:56:07] [User Authenticator #11/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[16:56:08] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[16:56:08] [Server thread/INFO]: volcon2[/127.217.184.139:36599] logged in with entity id 57929 at ([world]317.4548149720972, 48.0, 381.30000001192093)
+[16:56:13] [Server thread/INFO]: [Kingdom of Genesis] zDreamz__ has made the advancement [Suit Up]
+[16:56:41] [Server thread/INFO]: You whisper to Xautral [Founder]: §2§lTIP: Al colonizar, usa la lodestone/magnetita y dale click derecho  con la brujula, al hacerlo, la brujula apuntará a la lodestone
+[16:56:41] [Server thread/INFO]: You whisper to [Clan of South-Warriors] Lio_8282828: §2§lTIP: Al colonizar, usa la lodestone/magnetita y dale click derecho  con la brujula, al hacerlo, la brujula apuntará a la lodestone
+[16:56:41] [Server thread/INFO]: You whisper to blime2009 [Scripting]: §2§lTIP: Al colonizar, usa la lodestone/magnetita y dale click derecho  con la brujula, al hacerlo, la brujula apuntará a la lodestone
+[16:56:41] [Server thread/INFO]: You whisper to [Principality Infernal] eduardo16: §2§lTIP: Al colonizar, usa la lodestone/magnetita y dale click derecho  con la brujula, al hacerlo, la brujula apuntará a la lodestone
+[16:56:41] [Server thread/INFO]: You whisper to [Kingdom of Genesis] zDreamz__: §2§lTIP: Al colonizar, usa la lodestone/magnetita y dale click derecho  con la brujula, al hacerlo, la brujula apuntará a la lodestone
+[16:56:41] [Server thread/INFO]: You whisper to [Volcan's Dominion] volcon2: §2§lTIP: Al colonizar, usa la lodestone/magnetita y dale click derecho  con la brujula, al hacerlo, la brujula apuntará a la lodestone
+[16:56:53] [Server thread/INFO]: volcon2 issued server command: /magnetica
+[16:57:01] [Server thread/INFO]: zDreamz__ issued server command: /r vle
+[16:57:03] [Server thread/INFO]: Xautral issued server command: /save-all
+[16:57:03] [Server thread/INFO]: [Xautral [Founder]: Saved the game]
+[16:57:29] [Server thread/WARN]: zDreamz__ moved too quickly! 1.3716268825686626,1.252203340253729,11.18738395177661
+[16:57:59] [Server thread/INFO]: Xautral issued server command: /inv zDreamz__
+[16:58:22] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[16:58:22] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
+[16:58:29] [Async Chat Thread - #19/INFO]: [Not Secure] <Xautral> bombardiro crocodrilo
+[16:58:33] [Server thread/INFO]: Xautral issued server command: /tp zDreamz__
+[16:58:33] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Kingdom of Genesis] zDreamz__]
+[16:58:34] [Server thread/INFO]: Xautral issued server command: /tp e
+[16:58:36] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[16:58:36] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[16:59:08] [Server thread/INFO]: eduardo16 lost connection: Disconnected
+[16:59:08] [Server thread/INFO]: [Principality Infernal] eduardo16 left the game
+[16:59:30] [User Authenticator #12/INFO]: UUID of player eduardo16 is 6bf9f88b-eff1-3997-85fc-7194b9abed53
+[16:59:32] [Server thread/INFO]: [Principality Infernal] eduardo16 joined the game
+[16:59:32] [Server thread/INFO]: eduardo16[/127.255.116.70:52161] logged in with entity id 61332 at ([world]2479.026963771263, 68.0, 1821.7710562717652)
+[16:59:52] [Server thread/INFO]: [Kingdom of Genesis] zDreamz__ has made the advancement [Monster Hunter]
+[16:59:54] [Server thread/INFO]: You whisper to Xautral [Founder]: §cTIP: Para no perder tanto progreso, cuando ete en guerra, manda a 1 o mas persona a pelear, no todos, si pierden podran reponer sus cosas.
+[16:59:54] [Server thread/INFO]: You whisper to [Clan of South-Warriors] Lio_8282828: §cTIP: Para no perder tanto progreso, cuando ete en guerra, manda a 1 o mas persona a pelear, no todos, si pierden podran reponer sus cosas.
+[16:59:54] [Server thread/INFO]: You whisper to blime2009 [Scripting]: §cTIP: Para no perder tanto progreso, cuando ete en guerra, manda a 1 o mas persona a pelear, no todos, si pierden podran reponer sus cosas.
+[16:59:54] [Server thread/INFO]: You whisper to [Kingdom of Genesis] zDreamz__: §cTIP: Para no perder tanto progreso, cuando ete en guerra, manda a 1 o mas persona a pelear, no todos, si pierden podran reponer sus cosas.
+[16:59:54] [Server thread/INFO]: You whisper to [Volcan's Dominion] volcon2: §cTIP: Para no perder tanto progreso, cuando ete en guerra, manda a 1 o mas persona a pelear, no todos, si pierden podran reponer sus cosas.
+[16:59:54] [Server thread/INFO]: You whisper to [Principality Infernal] eduardo16: §cTIP: Para no perder tanto progreso, cuando ete en guerra, manda a 1 o mas persona a pelear, no todos, si pierden podran reponer sus cosas.
+[17:00:17] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[17:00:17] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[17:00:38] [Server thread/INFO]: Xautral issued server command: /summon minecraft:blaze
+[17:00:38] [Server thread/INFO]: [Xautral [Founder]: Summoned new Blaze]
+[17:00:46] [User Authenticator #13/INFO]: UUID of player perihhh is 9f5e9786-6c50-319f-9792-b9b8561840a9
+[17:00:46] [Server thread/INFO]: Xautral issued server command: /kill @e[type=blaz
+[17:00:47] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:blaze
+[17:00:47] [Server thread/INFO]: [Community Tenochcatl] perihhh joined the game
+[17:00:47] [Server thread/INFO]: perihhh[/127.143.67.83:54015] logged in with entity id 62408 at ([world]-1623.4943378413911, 71.875, -3806.8026714248526)
+[17:00:49] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:blaze]
+[17:00:49] [Server thread/INFO]: [Xautral [Founder]: Killed Blaze]
+[17:00:52] [Server thread/INFO]: Xautral issued server command: /tp perihhh
+[17:00:52] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Community Tenochcatl] perihhh]
+[17:01:29] [Async Chat Thread - #22/INFO]: [Not Secure] <eduardo16> gg templo oceanico
+[17:01:41] [Async Chat Thread - #22/INFO]: [Not Secure] <eduardo16> xautral
+[17:01:44] [Server thread/INFO]: blime2009 [Scripting] has made the advancement [Monster Hunter]
+[17:01:57] [Async Chat Thread - #22/INFO]: [Not Secure] <perihhh> se puede quitar el trabajo a un aldeano ya habiendo tradeado con ll?
+[17:02:03] [Async Chat Thread - #22/INFO]: [Not Secure] <eduardo16> XAUTRAL
+[17:02:03] [Async Chat Thread - #22/INFO]: [Not Secure] <perihhh> el?*
+[17:02:06] [Server thread/INFO]: You whisper to Xautral [Founder]: §eTIP: Cuando estes en guerra, no te lleves la brujula magnetizada, si mueres, sabrán tu ubicacion y te raidearán
+[17:02:06] [Server thread/INFO]: You whisper to [Clan of South-Warriors] Lio_8282828: §eTIP: Cuando estes en guerra, no te lleves la brujula magnetizada, si mueres, sabrán tu ubicacion y te raidearán
+[17:02:06] [Server thread/INFO]: You whisper to blime2009 [Scripting]: §eTIP: Cuando estes en guerra, no te lleves la brujula magnetizada, si mueres, sabrán tu ubicacion y te raidearán
+[17:02:06] [Server thread/INFO]: You whisper to [Kingdom of Genesis] zDreamz__: §eTIP: Cuando estes en guerra, no te lleves la brujula magnetizada, si mueres, sabrán tu ubicacion y te raidearán
+[17:02:06] [Server thread/INFO]: You whisper to [Volcan's Dominion] volcon2: §eTIP: Cuando estes en guerra, no te lleves la brujula magnetizada, si mueres, sabrán tu ubicacion y te raidearán
+[17:02:06] [Server thread/INFO]: You whisper to [Principality Infernal] eduardo16: §eTIP: Cuando estes en guerra, no te lleves la brujula magnetizada, si mueres, sabrán tu ubicacion y te raidearán
+[17:02:06] [Server thread/INFO]: You whisper to [Community Tenochcatl] perihhh: §eTIP: Cuando estes en guerra, no te lleves la brujula magnetizada, si mueres, sabrán tu ubicacion y te raidearán
+[17:02:07] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> ptm
+[17:02:09] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> que
+[17:02:12] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[17:02:12] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[17:02:20] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> pique un diamante con un pico de piedra
+[17:02:25] [Async Chat Thread - #22/INFO]: [Not Secure] <volcon2> estaba minando y mine de mas
+[17:02:26] [Async Chat Thread - #22/INFO]: [Not Secure] <eduardo16> bro xq no se pueden poner homes?
+[17:02:27] [Async Chat Thread - #22/INFO]: [Not Secure] <perihhh> JAJJA
+[17:02:32] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> porque causa lag
+[17:02:42] [Async Chat Thread - #22/INFO]: [Not Secure] <eduardo16> aa pipipipipi
+[17:02:42] [Async Chat Thread - #22/INFO]: [Not Secure] <perihhh> que alguien duerma
+[17:02:43] [Server thread/INFO]: blime2009 issued server command: /
+[17:02:45] [Async Chat Thread - #22/INFO]: [Not Secure] <Xautral> al tepearse el server detecta que se tepeó muy rapido
+[17:02:49] [Server thread/INFO]: blime2009 issued server command: /give blime2009 minecraft:light
+[17:02:49] [Server thread/INFO]: [blime2009 [Scripting]: Gave 1 [Light] to blime2009 [Scripting]]
+[17:02:52] [Async Chat Thread - #23/INFO]: [Not Secure] <Xautral> y hace que vaya algo atrasado los ticks de ese jugador
+[17:02:53] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[17:02:53] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
+[17:02:57] [Async Chat Thread - #23/INFO]: [Not Secure] <eduardo16> bro pero encontre un templo
+[17:02:58] [Server thread/INFO]: Xautral issued server command: /tp z
+[17:02:59] [Server thread/INFO]: Xautral issued server command: /tp zDreamz__
+[17:02:59] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Kingdom of Genesis] zDreamz__]
+[17:03:04] [Async Chat Thread - #23/INFO]: [Not Secure] <Xautral> magnetita ;)
+[17:03:09] [Async Chat Thread - #23/INFO]: [Not Secure] <perihhh> duermammmmmmmmm
+[17:03:09] [Async Chat Thread - #23/INFO]: [Not Secure] <Xautral> o lodestone
+[17:03:14] [Server thread/INFO]: Xautral issued server command: /tps
+[17:03:27] [Async Chat Thread - #23/INFO]: [Not Secure] <volcon2> ocupo madera

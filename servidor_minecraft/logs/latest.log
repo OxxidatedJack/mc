@@ -361,3 +361,60 @@
 [01:24:16] [User Authenticator #4/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
 [01:24:17] [Server thread/INFO]: blime2009 [Scripting] joined the game
 [01:24:17] [Server thread/INFO]: blime2009[/127.20.187.84:56871] logged in with entity id 9457 at ([world]-2.2667500973894175, 296.0, 0.8552131286634901)
+[01:24:41] [Server thread/INFO]: Xautral lost connection: Kicked by an operator
+[01:24:41] [Server thread/INFO]: Xautral left the game
+[01:24:41] [Server thread/INFO]: Kicked Xautral [Founder]: Kicked by an operator
+[01:24:48] [User Authenticator #4/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[01:24:49] [Server thread/INFO]: Xautral [Founder] joined the game
+[01:24:49] [Server thread/INFO]: Xautral[/127.115.99.248:54841] logged in with entity id 9506 at ([world]-195.40078821266408, 46.38048898780776, 124.96608935604159)
+[01:24:57] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> hola blime2009
+[01:24:59] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[01:24:59] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
+[01:25:01] [Async Chat Thread - #7/INFO]: [Not Secure] <blime2009> hola
+[01:25:06] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> tu personaje cual era
+[01:25:15] [Async Chat Thread - #7/INFO]: [Not Secure] <blime2009> el sniffer
+[01:25:26] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> sniff sniff
+[01:25:28] [Async Chat Thread - #7/INFO]: [Not Secure] <Plechini44> el q se la huele?
+[01:25:38] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> el dios abolutíimo de la comedia
+[01:25:39] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> Plechini44
+[01:25:44] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> soy maiguorld
+[01:25:46] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> soy maiguorl
+[01:25:47] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[01:25:47] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[01:26:02] [Async Chat Thread - #7/INFO]: [Not Secure] <blime2009> bueno me voy
+[01:26:03] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[01:26:03] [Server thread/INFO]: blime2009 [Scripting] left the game
+[01:26:15] [Async Chat Thread - #7/INFO]: [Not Secure] <Plechini44> maigourl el maigo ourl nose
+[01:26:25] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> OYE
+[01:26:27] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> OYE
+[01:26:28] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> YE
+[01:26:29] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> OYE
+[01:26:29] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> OYE
+[01:26:29] [Async Chat Thread - #7/INFO]: [Not Secure] <Plechini44> quep
+[01:26:29] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> OYE
+[01:26:31] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> I
+[01:26:32] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> SI
+[01:26:55] [Async Chat Thread - #7/INFO]: [Not Secure] <Plechini44> SISISISIS
+[01:27:25] [Async Chat Thread - #7/INFO]: [Not Secure] <Plechini44> its raining crepper from out of the sky
+[01:27:36] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> creeper
+[01:27:38] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> fnaf i gay
+[01:27:41] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> fnaf is gay
+[01:27:48] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> just open your mouth
+[01:27:55] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> and close your eyes
+[01:28:08] [Async Chat Thread - #7/INFO]: [Not Secure] <Plechini44> its raining creppers
+[01:28:35] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> YUM YUM
+[01:28:40] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> YUM YUM YAM YI YI YUM
+[01:28:45] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> ITS LIKE A DREEEEEEEAAAAAM
+[01:28:47] [Async Chat Thread - #7/INFO]: [Not Secure] <Xautral> YUM YUM YAM YI YI YUM
+[01:29:58] [Async Chat Thread - #9/INFO]: [Not Secure] <Plechini44> WHIT GOUN POWDERRRR
+[01:30:48] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[01:30:48] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[01:30:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> creeper
+[01:30:56] [Async Chat Thread - #9/INFO]: [Not Secure] <Xautral> awww man
+[01:31:51] [Server thread/INFO]: Xautral issued server command: /inv Plechini44
+[01:32:30] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[01:32:30] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Plechy's Kingdom] Plechini44]
+[01:33:31] [Async Chat Thread - #11/INFO]: [Not Secure] <Plechini44> LA AMATISTA FLOTANTE
+[01:33:31] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> yo
+[01:33:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Plechini44> ES EL MOB MAS PODEROSO
+[01:33:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Plechini44> AHHH

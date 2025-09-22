@@ -251,3 +251,150 @@ Blaze['Blaze Arcaemenids'/136603, uuid='2cd8dbe2-1ba5-4e78-ba69-af69bc9deb43', l
 [00:05:36] [Server thread/INFO]: Xautral issued server command: /kill Lio_8282828
 [00:05:36] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 was killed
 [00:05:36] [Server thread/INFO]: [Xautral [Founder]: Killed [Clan of South-Warriors] Lio_8282828]
+[00:05:38] [Server thread/INFO]: Xautral issued server command: /kill volcon2
+[00:05:38] [Server thread/INFO]: [Volcan's Dominion] volcon2 was killed
+[00:05:38] [Server thread/INFO]: [Xautral [Founder]: Killed [Volcan's Dominion] volcon2]
+[00:05:40] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[00:05:40] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[00:05:42] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[00:05:42] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[00:05:47] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> bueno
+[00:05:48] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> les debo algo
+[00:05:50] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> una armor
+[00:05:54] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> de enderite
+[00:05:56] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> un kit
+[00:06:00] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> creo que es el fin del servidor?
+[00:06:02] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> no
+[00:06:08] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> el fin del servidor es ams como permadeath
+[00:06:09] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> pon musica tranquila de minecraft
+[00:06:18] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> ahora como todo termino quiero tranquilizarme
+[00:06:23] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:music_disc.blocks ambient @a 0 0 0 12390128940893 0.7 1
+[00:06:23] [Server thread/INFO]: [Xautral [Founder]: Played sound minecraft:music_disc.blocks to 4 players]
+[00:06:31] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> ahora
+[00:06:32] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> tomen
+[00:06:36] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> sus armors de enderite
+[00:06:41] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> y sus resto de tools maxeadas
+[00:06:43] [Server thread/INFO]: Xautral issued server command: /ie edit
+[00:06:55] [Async Chat Thread - #59/INFO]: [Not Secure] <eduardo16> que hace de especial la enderite?
+[00:07:12] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> les da -2 corazones
+[00:07:13] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> jaja
+[00:07:16] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> son bien viciados
+[00:07:22] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> les da el doble de proteccion que una de netherite
+[00:07:25] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> ´1 corazon
+[00:07:27] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> por cada pieza
+[00:07:35] [Server thread/INFO]: Xautral issued server command: /ie edit
+[00:07:39] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> que tranquilidad
+[00:07:53] [Async Chat Thread - #59/INFO]: [Not Secure] <eduardo16> que puedo hacer para conseguir una?
+[00:08:01] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> completar miencraft
+[00:08:12] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> en Modo Arcaeménida
+[00:08:18] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> asi se llamaba el datapack
+[00:08:20] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> que casualmente
+[00:08:22] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> ahora ya no está xd
+[00:08:25] [Server thread/INFO]: Xautral issued server command: /datapck
+[00:08:28] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> jaja
+[00:08:28] [Server thread/INFO]: Xautral issued server command: /datapack list
+[00:08:31] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> se autoelimino?
+[00:08:35] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> nosew
+[00:08:36] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> a no
+[00:08:37] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> ya lo vi
+[00:08:39] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> dejen lo quito
+[00:08:41] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> me das mis cosas?
+[00:08:45] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> antes de que salga un ghast nivel 10
+[00:08:49] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> aguanta tantito volcon
+[00:08:52] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> creo que ya no aparecera
+[00:08:59] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> el juego
+[00:09:00] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> no
+[00:09:01] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[00:09:01] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[00:09:02] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> lo quitop
+[00:09:02] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> el kitg
+[00:09:05] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> ya voy
+[00:09:07] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> aguanten
+[00:09:07] [Async Chat Thread - #59/INFO]: [Not Secure] <eduardo16> osea de que no hay forma de que yo consiga enderite?
+[00:09:11] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> si
+[00:09:22] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> esta buena este formato de serie
+[00:09:24] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> solo que tendré que poner el datapack y poner el objetivo focus a 10 a ti
+[00:09:25] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> el.
+[00:09:27] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> cada ves se consiguen cosas mejores
+[00:09:28] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> el kit
+[00:09:46] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> y cada kit tendra una historia detras no?
+[00:09:51] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> como esta historia
+[00:09:53] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> si
+[00:09:59] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> quieren vivir la del kit inicial?
+[00:10:04] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> no gracias
+[00:10:07] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> ya la vivimos
+[00:10:11] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> na tampoco est tan dificil
+[00:10:12] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> tengo guiones
+[00:10:21] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> prefiero disfrutar
+[00:10:23] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> de mia rmadura
+[00:10:24] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> ._.
+[00:10:28] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> despues de esto
+[00:10:36] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> ahora
+[00:10:36] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> la armoorrr w
+[00:10:37] [Async Chat Thread - #58/INFO]: [Not Secure] <Xautral> imaginense
+[00:10:41] [Async Chat Thread - #58/INFO]: [Not Secure] <Xautral> cuando la ultima civilizacion
+[00:10:42] [Async Chat Thread - #58/INFO]: [Not Secure] <Xautral> de todas
+[00:10:44] [Async Chat Thread - #58/INFO]: [Not Secure] <Xautral> quede en pie
+[00:10:50] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> solo quedara 1 clan?
+[00:11:22] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> estoy regresando a donde todo inicio
+[00:11:32] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> s
+[00:11:33] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> si
+[00:11:37] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> el objetivo es que solo quede 1
+[00:11:46] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> y el que quede
+[00:11:47] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> en pie
+[00:11:52] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> será el nuevo owner del serer
+[00:11:53] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> será el nuevo owner del server
+[00:11:59] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> segun la profesía xd
+[00:12:03] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> de donde creen que ascendi yo
+[00:12:04] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> realmente esta haciendo los juegos del camaron
+[00:12:08] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> no
+[00:12:10] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> tampoco
+[00:12:13] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> es un bucle infinito
+[00:12:16] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> jaja
+[00:12:21] [Server thread/WARN]: eduardo16 moved wrongly!
+[00:12:23] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> el kit pa cuando
+[00:12:27] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> de dodne creen que saí yo?w
+[00:12:37] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> miren
+[00:12:39] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> no se lo digan a blime
+[00:12:41] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> ni a javdroker
+[00:12:42] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> aqui entre nos
+[00:12:43] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> pero yo
+[00:12:44] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> antes
+[00:12:50] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> jugaba
+[00:12:51] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> igual
+[00:12:53] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> en un server así
+[00:13:05] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> y que paso
+[00:13:05] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> mi clan era: Dinastía Tenochcat
+[00:13:06] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> mi clan era: Dinastía Tenochcatl
+[00:13:10] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> nada interesante
+[00:13:12] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> lo mismo
+[00:13:14] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> que ahorita
+[00:13:17] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> guerras y así
+[00:13:17] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> :v
+[00:13:26] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> de hecho
+[00:13:27] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> xau
+[00:13:28] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> mi descendiente
+[00:13:29] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> directo
+[00:13:32] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> es perihhh
+[00:13:35] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> de la comunidad tenochcatl
+[00:13:37] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> mete itro
+[00:13:41] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> si patron
+[00:13:44] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> .i.
+[00:13:45] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> datapac
+[00:14:23] [Async Chat Thread - #59/INFO]: [Not Secure] <Lio_8282828> no se escribirr
+[00:14:34] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> jaja
+[00:14:37] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> y que paso
+[00:14:38] [Async Chat Thread - #58/INFO]: [Not Secure] <volcon2> xau
+[00:14:41] [Async Chat Thread - #58/INFO]: [Not Secure] <volcon2> con ese clan
+[00:14:43] [Async Chat Thread - #58/INFO]: [Not Secure] <Lio_8282828> ya y el kit?
+[00:14:45] [Async Chat Thread - #59/INFO]: [Not Secure] <volcon2> cual fue tu historia
+[00:15:08] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> ni tan interesante
+[00:15:16] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> tuve 15 miembros
+[00:15:21] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> la modalidad consiste así:
+[00:15:23] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> si te anexan
+[00:15:27] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> tu y tus miembros
+[00:15:29] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> se vuelven espectadores
+[00:15:34] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> alguien mas puede elegir a 1
+[00:15:39] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> y con una runa elegir a mas
+[00:15:44] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> así te vas haciendo mas poderoso
+[00:15:48] [Async Chat Thread - #59/INFO]: [Not Secure] <Xautral> no con batallas si no prorgesando

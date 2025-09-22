@@ -1680,3 +1680,8 @@ Blaze['Blaze Arcaemenids'/136603, uuid='2cd8dbe2-1ba5-4e78-ba69-af69bc9deb43', l
 [02:51:39] [Server thread/INFO]: [Community Tenochcatl] perihhh left the game
 [02:52:50] [Server thread/INFO]: Lio_8282828 lost connection: Disconnected
 [02:52:50] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 left the game
+[03:06:08] [User Authenticator #34/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[03:06:10] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[03:06:10] [Server thread/INFO]: volcon2[/127.217.184.139:35825] logged in with entity id 205468 at ([world]347.16826978228227, 64.0, 481.95269009606324)
+[03:06:41] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[03:06:41] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game

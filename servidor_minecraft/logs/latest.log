@@ -150,3 +150,14 @@
 [21:37:39] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
 [21:54:32] [Server thread/INFO]: _Raliux (/127.49.52.68:52087) lost connection: Disconnected
 [21:54:32] [User Authenticator #3/INFO]: UUID of player _Raliux is 0deb9a24-9e0d-3c83-b5d0-dad4c8f61edb
+[22:04:19] [User Authenticator #4/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[22:04:20] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 joined the game
+[22:04:20] [Server thread/INFO]: Lio_8282828[/127.110.0.38:60053] logged in with entity id 1695 at ([world]119.5015075870283, 71.0, -1620.1990664337698)
+[22:05:14] [Server thread/WARN]: Lio_8282828 moved too quickly! 2.920883854154539,-0.7684762024129839,10.464492280546665
+[22:07:07] [Server thread/WARN]: Lio_8282828 moved too quickly! 0.0726487709711705,5.166109260938214,8.641176617525161
+[22:07:48] [Server thread/WARN]: Lio_8282828 moved too quickly! -0.6324799384934465,-6.747796659746285,15.94912774096133
+[22:08:21] [Server thread/WARN]: Lio_8282828 moved too quickly! -2.655235563492596,3.580000013113022,19.40032309419564
+[22:09:00] [Server thread/WARN]: Lio_8282828 moved too quickly! 0.5714963903667751,5.580000013113022,9.982302284216644
+[22:10:09] [Server thread/INFO]: Lio_8282828 was kicked due to keepalive timeout!
+[22:10:09] [Server thread/INFO]: Lio_8282828 lost connection: Timed out
+[22:10:09] [Server thread/INFO]: Lio_8282828 left the game

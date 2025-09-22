@@ -132,3 +132,19 @@
 [21:27:10] [Server thread/INFO]: Villager Villager['Leatherworker'/378, uuid='cf8406f4-9d25-4c3a-a16d-8026419069b6', l='ServerLevel[world]', x=-1410.07, y=63.00, z=-2144.07, cpos=[-89, -135], tl=4764, v=true] died, message: 'Leatherworker was slain by Zombie'
 [21:27:18] [Server thread/INFO]: Xautral lost connection: Disconnected
 [21:27:18] [Server thread/INFO]: Xautral [Founder] left the game
+[21:34:35] [User Authenticator #2/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[21:34:36] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[21:34:36] [Server thread/INFO]: volcon2[/127.217.184.139:58375] logged in with entity id 1208 at ([world_nether]60.2299177250501, 64.0, 94.498708892353)
+[21:36:34] [Server thread/WARN]: volcon2 moved too quickly! 6.491596221923828,-31.00070285797119,0.40866947174072266
+[21:36:40] [Server thread/INFO]: [Not Secure] [Server] volcon
+[21:36:43] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> mander
+[21:36:43] [Server thread/INFO]: [Not Secure] [Server] mira el discord
+[21:36:49] [Server thread/INFO]: [Not Secure] [Server] se inaguró el hardcore
+[21:37:10] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> creo que me cambiare al hardcore
+[21:37:13] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> y hasta que me muera
+[21:37:15] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> JAJA
+[21:37:23] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> O 1 DIA
+[21:37:24] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> uno
+[21:37:26] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> y el otro otro
+[21:37:39] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[21:37:39] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game

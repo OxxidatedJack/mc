@@ -126,3 +126,9 @@
 [21:20:49] [Server thread/INFO]: Blah_Blah_Demo was kicked due to keepalive timeout!
 [21:20:49] [Server thread/INFO]: Blah_Blah_Demo lost connection: Timed out
 [21:20:49] [Server thread/INFO]: Blah_Blah_Demo left the game
+[21:23:07] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[21:23:10] [Server thread/INFO]: Xautral [Founder] joined the game
+[21:23:10] [Server thread/INFO]: Xautral[/127.115.99.248:44055] logged in with entity id 352 at ([world]-1376.0463689012458, 74.67538720022809, -2112.5139072509164)
+[21:27:10] [Server thread/INFO]: Villager Villager['Leatherworker'/378, uuid='cf8406f4-9d25-4c3a-a16d-8026419069b6', l='ServerLevel[world]', x=-1410.07, y=63.00, z=-2144.07, cpos=[-89, -135], tl=4764, v=true] died, message: 'Leatherworker was slain by Zombie'
+[21:27:18] [Server thread/INFO]: Xautral lost connection: Disconnected
+[21:27:18] [Server thread/INFO]: Xautral [Founder] left the game

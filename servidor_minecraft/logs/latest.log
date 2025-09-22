@@ -1685,3 +1685,8 @@ Blaze['Blaze Arcaemenids'/136603, uuid='2cd8dbe2-1ba5-4e78-ba69-af69bc9deb43', l
 [03:06:10] [Server thread/INFO]: volcon2[/127.217.184.139:35825] logged in with entity id 205468 at ([world]347.16826978228227, 64.0, 481.95269009606324)
 [03:06:41] [Server thread/INFO]: volcon2 lost connection: Disconnected
 [03:06:41] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game
+[03:19:44] [User Authenticator #35/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[03:19:45] [Server thread/INFO]: [Volcan's Dominion] volcon2 joined the game
+[03:19:45] [Server thread/INFO]: volcon2[/127.217.184.139:58427] logged in with entity id 205721 at ([world]381.8521499389256, 63.0, 529.7353270453286)
+[03:19:59] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[03:19:59] [Server thread/INFO]: [Volcan's Dominion] volcon2 left the game

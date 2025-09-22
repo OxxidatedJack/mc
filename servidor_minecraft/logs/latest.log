@@ -871,3 +871,109 @@ Blaze['Blaze Arcaemenids'/136603, uuid='2cd8dbe2-1ba5-4e78-ba69-af69bc9deb43', l
 [00:57:04] [Server thread/INFO]: eduardo16 issued server command: /msg volcon2 me das una ender pearl?
 [00:57:05] [Server thread/INFO]: [Volcan's Dominion] volcon2 has made the advancement [Local Brewery]
 [00:57:14] [Server thread/INFO]: volcon2 issued server command: /msg eduardo16 no tengo
+[00:57:58] [Server thread/INFO]: [Volcan's Dominion] volcon2 has reached the goal [Sky's the Limit]
+[00:58:28] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> gente
+[00:58:30] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> no protege nd esta armadura
+[00:58:30] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> creo que acabo de crear
+[00:58:31] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> el kit
+[00:58:34] [Server thread/INFO]: Xautral issued server command: /inv volcon2
+[00:58:45] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> inicial
+[00:58:48] [Async Chat Thread - #68/INFO]: [Not Secure] <Xautral> mas parejo del mundo
+[00:59:04] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> ya tengo elitros
+[00:59:25] [Async Chat Thread - #68/INFO]: [Not Secure] <volcon2> me das cohetes pa usarlas
+[00:59:25] [Server thread/INFO]: Xautral issued server command: /tp ~ ~55 ~
+[00:59:25] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.389097, 123.000000, 7.747399]
+[00:59:26] [Server thread/INFO]: Xautral issued server command: /tp ~ ~55 ~
+[00:59:26] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.389097, 180.750421, 7.747399]
+[00:59:26] [Server thread/INFO]: Xautral issued server command: /tp ~ ~55 ~
+[00:59:26] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.389097, 235.867796, 7.747399]
+[00:59:27] [Server thread/INFO]: Xautral issued server command: /tp ~ ~55 ~
+[00:59:27] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.389097, 290.867796, 7.747399]
+[01:00:13] [Server thread/INFO]: Xautral issued server command: /tp ~ ~155 ~
+[01:00:13] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.500000, 223.000000, 7.500000]
+[01:00:16] [Server thread/INFO]: Xautral issued server command: /tp ~ ~155 ~
+[01:00:16] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.500000, 388.782601, 7.500000]
+[01:01:14] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> gente
+[01:01:14] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> afk
+[01:01:16] [Server thread/INFO]: Xautral issued server command: /tp 52.71
+[01:01:19] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[01:01:19] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[01:01:23] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[01:01:23] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[01:01:28] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> eduardo16
+[01:01:28] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> toma
+[01:01:29] [Server thread/INFO]: Xautral issued server command: /kill
+[01:01:29] [Server thread/INFO]: Xautral [Founder] was killed
+[01:01:29] [Server thread/INFO]: [Xautral [Founder]: Killed Xautral [Founder]]
+[01:01:33] [Server thread/INFO]: Xautral issued server command: /tp ~ ~255 ~
+[01:01:33] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.500000, 325.116501, 7.500000]
+[01:01:39] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> dame cohetes
+[01:01:41] [Server thread/INFO]: Xautral issued server command: /inv eduardo16
+[01:01:43] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> toma?
+[01:01:44] [Server thread/INFO]: Xautral issued server command: /tp eduardo16
+[01:01:44] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Principality Infernal] eduardo16]
+[01:01:44] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> o algo para transporstarme
+[01:02:01] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> un kit inicial
+[01:02:06] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> no
+[01:02:12] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> porque no dijiste porfavor
+[01:02:12] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> afk
+[01:02:17] [Server thread/INFO]: Xautral issued server command: /give volcon2 minecraft:firework_rocket 128
+[01:02:17] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Firework Rocket] to [Volcan's Dominion] volcon2]
+[01:02:19] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[01:02:20] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[01:02:21] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[01:02:24] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> esta bien xautral, nivelado
+[01:02:24] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[01:02:24] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Volcan's Dominion] volcon2]
+[01:02:45] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> xq por ejemplo da esa pechera pero con la maldicion
+[01:02:55] [Server thread/INFO]: Xautral issued server command: /kill
+[01:02:55] [Server thread/INFO]: Xautral [Founder] was killed
+[01:02:55] [Server thread/INFO]: [Xautral [Founder]: Killed Xautral [Founder]]
+[01:02:58] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[01:03:02] [Server thread/INFO]: Xautral issued server command: /tp ~ ~200 ~
+[01:03:02] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.500000, 268.100000, 7.500000]
+[01:03:05] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> se trono el pescuezo
+[01:03:34] [Async Chat Thread - #70/INFO]: [Not Secure] <Xautral> afk
+[01:03:36] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Spectator Mode]
+[01:04:04] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> eduardo sabes construir?
+[01:04:08] [Server thread/INFO]: [Not Secure] [Server] §9§mBannHammer
+[01:04:14] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> si, xq?
+[01:04:20] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> te puedo pagar
+[01:04:22] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> con armadura
+[01:04:23] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> o
+[01:04:29] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> minerales
+[01:04:33] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> si me haces una casa
+[01:04:33] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> que quieres construir?
+[01:04:38] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> una casa
+[01:04:41] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> o una base?
+[01:04:47] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> entre mejor la casa mejor te pago
+[01:04:58] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> te puedo llegar hasta pagar una armor de netherite completa
+[01:04:59] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> hay un problema
+[01:05:02] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> cual
+[01:05:10] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> no existe el tp
+[01:05:18] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> pero me hace tpa
+[01:05:19] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> y ya
+[01:05:44] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> y estoy a 10mil bloques del spawn y sin home volver es una mamera
+[01:05:45] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> aceptas¡
+[01:05:47] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> no existe el tp
+[01:05:55] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> que nos haga tpa
+[01:05:59] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> xau
+[01:06:05] [User Authenticator #22/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[01:06:07] [Server thread/INFO]: [Clan of South-Warriors] Lio_8282828 joined the game
+[01:06:07] [Server thread/INFO]: Lio_8282828[/127.110.0.38:33737] logged in with entity id 167903 at ([world]381.78076265675054, 79.0, 333.37795108056025)
+[01:06:20] [Async Chat Thread - #70/INFO]: [Not Secure] <Lio_8282828> ola
+[01:06:24] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> hola
+[01:06:33] [Async Chat Thread - #70/INFO]: [Not Secure] <Lio_8282828> tremendo lore no?
+[01:06:34] [Async Chat Thread - #70/INFO]: [Not Secure] <eduardo16> hola
+[01:06:35] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[01:06:35] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to [Clan of South-Warriors] Lio_8282828]
+[01:06:40] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> jaja
+[01:07:04] [Async Chat Thread - #70/INFO]: [Not Secure] <Lio_8282828> eh
+[01:07:06] [Async Chat Thread - #70/INFO]: [Not Secure] <Lio_8282828> xau
+[01:07:11] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> esta afk
+[01:07:16] [Async Chat Thread - #70/INFO]: [Not Secure] <Lio_8282828> a
+[01:07:20] [Async Chat Thread - #70/INFO]: [Not Secure] <Lio_8282828> perdi mi casa oe
+[01:07:25] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> jaja
+[01:07:28] [Async Chat Thread - #70/INFO]: [Not Secure] <volcon2> usa la brujula
+[01:07:28] [Server thread/WARN]: Lio_8282828 moved too quickly! -10.077923858675604,0.8787031594607981,5.047253751552432
+[01:07:31] [Async Chat Thread - #70/INFO]: [Not Secure] <Lio_8282828> no la traje

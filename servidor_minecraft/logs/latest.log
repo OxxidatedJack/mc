@@ -357,3 +357,40 @@
 [01:57:46] [Server thread/INFO]: [Xautral [Founder]: Killed Silverfish]
 [01:58:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> :O
 [01:58:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> funciona
+[01:59:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> haber
+[01:59:23] [Server thread/INFO]: Xautral issued server command: /place template minecraft:test
+[01:59:23] [Server thread/INFO]: [Xautral [Founder]: Loaded template "minecraft:test" at 177, 64, 87]
+[01:59:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> :ooo
+[01:59:27] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> mira
+[01:59:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> blime
+[01:59:30] [Server thread/INFO]: Xautral issued server command: /place template minecraft:test1
+[01:59:39] [Async Chat Thread - #10/INFO]: [Not Secure] <blime2009> *aplaude epicamente*
+[01:59:45] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> ahora
+[01:59:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> podemos hacer una infinidad de cosas
+[02:00:03] [Async Chat Thread - #10/INFO]: [Not Secure] <blime2009> como runa de estructura?
+[02:00:18] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> haber
+[02:00:24] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> tu programas las runas y yo las estructuras
+[02:00:54] [Async Chat Thread - #10/INFO]: [Not Secure] <blime2009> va
+[02:00:58] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[02:00:58] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
+[02:01:09] [Server thread/INFO]: blime2009 issued server command: /tp 0 300 0
+[02:01:09] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 300.000000, 0.500000]
+[02:01:14] [Server thread/INFO]: blime2009 issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[02:01:14] [Server thread/INFO]: [blime2009 [Scripting]: Changed the block at 0, 303, 0]
+[02:02:17] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[02:02:17] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
+[02:02:55] [User Authenticator #2/INFO]: UUID of player waves_862 is 36165713-84b9-3487-ae27-8bc63142c02a
+[02:02:55] [Server thread/INFO]: Disconnecting waves_862 (/127.4.136.212:34273): You are banned from this server.
+Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
+[02:02:55] [Server thread/INFO]: waves_862 (/127.4.136.212:34273) lost connection: You are banned from this server.
+Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
+[02:04:00] [User Authenticator #3/INFO]: UUID of player waves_862 is 36165713-84b9-3487-ae27-8bc63142c02a
+[02:04:00] [Server thread/INFO]: Disconnecting waves_862 (/127.4.136.212:38989): You are banned from this server.
+Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
+[02:04:00] [Server thread/INFO]: waves_862 (/127.4.136.212:38989) lost connection: You are banned from this server.
+Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
+[02:05:38] [User Authenticator #4/INFO]: UUID of player waves_862 is 36165713-84b9-3487-ae27-8bc63142c02a
+[02:05:38] [Server thread/INFO]: Disconnecting waves_862 (/127.4.136.212:33815): You are banned from this server.
+Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
+[02:05:39] [Server thread/INFO]: waves_862 (/127.4.136.212:33815) lost connection: You are banned from this server.
+Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora

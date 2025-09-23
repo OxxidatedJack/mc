@@ -214,3 +214,108 @@
 [01:37:53] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
 [01:37:57] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> aver
 [01:38:07] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> seria como una runa de aire de defensa
+[01:38:18] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> la runa tiene que ser estricaa, no puede haber mas, y lo que busco es lo contrario: que puedan agregarse mas
+[01:38:25] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[01:38:25] [Server thread/INFO]: [Xautral [Founder]: Set blime2009 [Scripting]'s game mode to Survival Mode]
+[01:38:29] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
+[01:38:35] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[01:38:52] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
+[01:39:01] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
+[01:39:08] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
+[01:39:18] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
+[01:39:21] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[01:39:26] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
+[01:39:29] [Server thread/INFO]: blime2009 issued server command: /gamemode adventure
+[01:39:31] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[01:39:51] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
+[01:39:55] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[01:39:55] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
+[01:39:58] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> yaaa
+[01:40:06] [Server thread/INFO]: Xautral issued server command: /bossbar set minecraft:war players @a
+[01:40:06] [Server thread/INFO]: [Xautral [Founder]: Custom bossbar [Atackers - Defensors] now has 2 player(s): Xautral [Founder], blime2009 [Scripting]]
+[01:40:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> tambien
+[01:40:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hacer estructuras custom
+[01:40:31] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> eso quiero hacer
+[01:40:32] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> osea nerfeadas pero buenas:
+[01:40:38] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> pero juntarlas con als ruans
+[01:40:41] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> que als runas se encuentren ahí
+[01:40:42] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> pero no se como hacer que se generen naturalmente
+[01:40:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> o en las armas de los enemigos
+[01:40:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> naturalmente es imposible
+[01:40:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> pero existe el /place
+[01:41:08] [Server thread/INFO]: blime2009 issued server command: /place structure minecraft:igloo
+[01:41:08] [Server thread/INFO]: [blime2009 [Scripting]: Generated structure "minecraft:igloo" at 177, 72, 129]
+[01:41:12] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> nunca supe usar el jigsaw block
+[01:41:32] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> avel deja veo si yo puedo
+[01:41:50] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> para que es o q
+[01:42:03] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> no c
+[01:42:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> pero els tructure blcok si se algo
+[01:42:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> vi un leve tutorial
+[01:42:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> para bedrock
+[01:42:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> asi que lo probe yo solo
+[01:42:55] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127
+[01:43:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> blime2009
+[01:43:14] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127 174 75 136 minecraft:sandstone replace snow
+[01:43:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> te dejare una pequeña tarea
+[01:43:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> enseñarle a zxalanjosu a ser scripting
+[01:43:31] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> a slime no
+[01:43:35] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127 174 75 136 minecraft:snow replace minecraft:sandstone
+[01:43:35] [Server thread/INFO]: [blime2009 [Scripting]: Successfully filled 12 block(s)]
+[01:43:36] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> es obsoleto para scripting
+[01:43:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> es de moderar
+[01:43:40] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[01:43:40] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
+[01:43:51] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127 174 75 136 minecraft:snow_block replace minecraft:sandstone
+[01:44:01] [Server thread/INFO]: Xautral issued server command: /place jigsaw minecraft:village/desert/terminators
+[01:44:07] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127 174 75 136 minecraft:sandstone replace minecraft:snow_block
+[01:44:07] [Server thread/INFO]: [blime2009 [Scripting]: Successfully filled 91 block(s)]
+[01:44:11] [Server thread/INFO]: Xautral issued server command: /place template minecraft:village/desert/houses/desert_farm_2
+[01:44:11] [Server thread/INFO]: [Xautral [Founder]: Loaded template "minecraft:village/desert/houses/desert_farm_2" at 135, 68, 101]
+[01:44:39] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> y si hacemos como una runa de estructuras
+[01:44:45] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> como
+[01:44:53] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> osea una runa visual que genere una structura?
+[01:45:09] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> no se una runa que genere una casa o cualquier tipo de estructuran o grande con el execute at
+[01:45:19] [Server thread/INFO]: [Not Secure] [Server] 333
+[01:45:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> mmmm
+[01:45:28] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> concuerdo 333
+[01:45:32] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[01:45:32] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
+[01:45:51] [Server thread/INFO]: Xautral issued server command: /execute at blime2009 run place template minecraft:village/plains/houses/plains_cartographer_1
+[01:45:51] [Server thread/INFO]: [Xautral [Founder]: Loaded template "minecraft:village/plains/houses/plains_cartographer_1" at 180, 69, 131]
+[01:46:02] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> tipo asi
+[01:46:07] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> esta algo roto
+[01:46:08] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> no mames
+[01:46:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> literalmente
+[01:46:16] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> digo no porque sea potente
+[01:46:20] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> un spiter jokey
+[01:46:22] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> si no porque que tal si destruye la casa de un jgador
+[01:46:25] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> SPIDER JOCKEY
+[01:46:31] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> ya se :V
+[01:46:49] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> oye pero pa que usas el structure block
+[01:46:50] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> :V
+[01:46:59] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> para ahcer estructuras
+[01:47:00] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> :v
+[01:47:07] [Server thread/INFO]: blime2009 issued server command: /place jigsaw minecraft:village/taiga/zombie/streets 1 1 ~ ~ ~
+[01:47:07] [Server thread/ERROR]: No starting jigsaw minecraft:1 found in start pool minecraft:village/taiga/zombie/streets
+[01:47:15] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> yo había hecho una estructura
+[01:47:18] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> y prq no usas el place
+[01:47:29] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> porque queiro hacermis propias estructuaras
+[01:47:32] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:birch ~ ~ ~
+[01:47:32] [Server thread/INFO]: [blime2009 [Scripting]: Placed "minecraft:birch" at 194, 69, 121]
+[01:47:40] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> mira un arbol
+[01:47:43] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> :o
+[01:47:54] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:fireball
+[01:47:54] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Fireball]
+[01:47:58] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:fireball
+[01:47:58] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Fireball]
+[01:47:59] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:fireball
+[01:47:59] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Fireball]
+[01:48:15] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:azalea_tree ~ ~ ~
+[01:48:15] [Server thread/INFO]: [blime2009 [Scripting]: Placed "minecraft:azalea_tree" at 188, 69, 121]
+[01:48:15] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[01:48:15] [Server thread/INFO]: [Xautral [Founder]: Set blime2009 [Scripting]'s game mode to Survival Mode]
+[01:48:34] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
+[01:48:37] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[01:48:37] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
+[01:48:38] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ez
+[01:48:41] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> na mentira

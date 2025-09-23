@@ -147,3 +147,16 @@
 [19:26:50] [Server thread/INFO]: localhoster0 [Founder] has made the advancement [Diamonds!]
 [19:28:09] [Server thread/INFO]: localhoster0 issued server command: /skin search notch
 [19:28:15] [Server thread/INFO]: localhoster0 issued server command: /skin set notch
+[19:32:57] [Server thread/INFO]: localhoster0 issued server command: /fill 3 64 100 ~ ~ ~ sand
+[19:32:57] [Server thread/INFO]: [localhoster0 [Founder]: Successfully filled 17 block(s)]
+[19:32:58] [Server thread/INFO]: [localhoster0 [Founder]: Set own game mode to Survival Mode]
+[19:32:59] [Server thread/INFO]: [localhoster0 [Founder]: Set own game mode to Creative Mode]
+[19:33:00] [Server thread/INFO]: [localhoster0 [Founder]: Set own game mode to Spectator Mode]
+[19:33:04] [Server thread/INFO]: localhoster0 issued server command: /fill 3 64 100 ~ ~ ~ sand
+[19:33:04] [Server thread/INFO]: [localhoster0 [Founder]: Successfully filled 8815 block(s)]
+[19:33:09] [Server thread/INFO]: localhoster0 issued server command: /fill 3 64 100 ~ ~ ~ sand
+[19:33:09] [Server thread/INFO]: [localhoster0 [Founder]: Successfully filled 1058 block(s)]
+[19:33:11] [Server thread/INFO]: localhoster0 issued server command: /fill 3 64 100 ~ ~ ~ sand
+[19:33:11] [Server thread/INFO]: [localhoster0 [Founder]: Successfully filled 44 block(s)]
+[19:33:11] [Server thread/INFO]: localhoster0 issued server command: /fill 3 64 100 ~ ~ ~ sand
+[19:33:11] [Server thread/INFO]: [localhoster0 [Founder]: Successfully filled 3 block(s)]

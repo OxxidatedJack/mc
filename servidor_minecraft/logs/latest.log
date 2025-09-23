@@ -467,3 +467,72 @@ Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
 [02:19:22] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
 [02:19:23] [Server thread/INFO]: blime2009 issued server command: /fill 207 78 134 200 70 127 air
 [02:19:23] [Server thread/INFO]: [blime2009 [Scripting]: Successfully filled 225 block(s)]
+[02:19:30] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[02:19:37] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11664, uuid='f577695f-c093-46d2-b813-490ba9720080', l='ServerLevel[world]', x=182.90, y=69.00, z=114.19, cpos=[11, 7], tl=749, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:19:37] [Server thread/INFO]: Xautral issued server command: /kill @e[type=zombie]
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11466, uuid='5acb2869-7fb6-4bfb-b362-6ba7a7757ef9', l='ServerLevel[world]', x=184.67, y=69.94, z=118.78, cpos=[11, 7], tl=1098, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11325, uuid='56d9c322-411f-4d45-9cb3-b831b10ec9be', l='ServerLevel[world]', x=192.58, y=68.00, z=107.42, cpos=[12, 6], tl=1784, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11311, uuid='7ae15b44-72a2-4688-912f-dda4e9cf7216', l='ServerLevel[world]', x=190.09, y=68.00, z=112.50, cpos=[11, 7], tl=1829, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11425, uuid='95ee53a9-28e6-4327-9e76-3d9ceeec6d49', l='ServerLevel[world]', x=185.41, y=69.00, z=121.38, cpos=[11, 7], tl=1297, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11427, uuid='b9c1d011-37c2-408c-af42-d41059fa73c0', l='ServerLevel[world]', x=182.34, y=69.00, z=122.83, cpos=[11, 7], tl=1287, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11746, uuid='8a339451-cbce-4405-bd58-0c6d30fa399c', l='ServerLevel[world]', x=196.32, y=69.00, z=120.32, cpos=[12, 7], tl=342, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11479, uuid='3a101097-439a-48ea-8d76-26876a573c77', l='ServerLevel[world]', x=182.87, y=69.00, z=119.85, cpos=[11, 7], tl=1069, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11293, uuid='892c8ed9-c2ce-405e-83cd-9da13d1ae6b2', l='ServerLevel[world]', x=183.40, y=69.00, z=110.52, cpos=[11, 6], tl=1901, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11294, uuid='37fa6589-0504-4824-a978-0814e582490a', l='ServerLevel[world]', x=185.50, y=64.75, z=89.70, cpos=[11, 5], tl=1898, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11345, uuid='bd96c045-1364-4847-bdbe-7c181516203d', l='ServerLevel[world]', x=182.80, y=69.00, z=122.10, cpos=[11, 7], tl=1678, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11494, uuid='82029d8e-52d4-48f3-830a-189f9ad91f84', l='ServerLevel[world]', x=181.86, y=69.00, z=115.39, cpos=[11, 7], tl=1029, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11331, uuid='c68e0b0c-cd7f-4349-ae38-d915f68adce5', l='ServerLevel[world]', x=180.32, y=69.00, z=116.51, cpos=[11, 7], tl=1745, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11837, uuid='468958e8-5f9f-4436-8231-768382ae5af6', l='ServerLevel[world]', x=211.18, y=71.00, z=118.85, cpos=[13, 7], tl=16, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11343, uuid='47cd09d0-04a8-4ccf-867e-b59a3ed51ba1', l='ServerLevel[world]', x=172.76, y=68.00, z=110.19, cpos=[10, 6], tl=1684, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11728, uuid='89f82e39-f86c-41ba-bd15-f4fc98517e90', l='ServerLevel[world]', x=189.42, y=70.00, z=126.72, cpos=[11, 7], tl=453, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11335, uuid='52a6cd8e-9d66-4a72-801b-784b18ae3fa9', l='ServerLevel[world]', x=180.98, y=69.00, z=117.00, cpos=[11, 7], tl=1737, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11432, uuid='62fb7475-21d4-403f-af4c-4153be782e2d', l='ServerLevel[world]', x=180.45, y=69.00, z=114.75, cpos=[11, 7], tl=1267, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11700, uuid='4acd4d02-fc35-4df7-bbd5-0e1178239152', l='ServerLevel[world]', x=197.43, y=69.00, z=121.44, cpos=[12, 7], tl=582, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11455, uuid='aa0e05bb-8c55-445b-8bcc-150dcff73c3e', l='ServerLevel[world]', x=183.92, y=69.00, z=122.50, cpos=[11, 7], tl=1119, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11750, uuid='cab30694-bef4-426e-8396-cddb76570510', l='ServerLevel[world]', x=194.45, y=69.00, z=127.46, cpos=[12, 7], tl=315, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11347, uuid='40d60651-aab4-4340-8c46-2542a47f6c9c', l='ServerLevel[world]', x=190.34, y=69.00, z=119.38, cpos=[11, 7], tl=1657, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11342, uuid='ccd4f2c8-111b-4c63-a208-f4e0ef0425c9', l='ServerLevel[world]', x=182.21, y=69.00, z=119.24, cpos=[11, 7], tl=1686, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11511, uuid='ea209765-9577-421c-bf77-4f8e4751742f', l='ServerLevel[world]', x=181.41, y=69.00, z=120.01, cpos=[11, 7], tl=977, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11568, uuid='8e63cb29-c80d-46df-bd47-dce7f929ca3b', l='ServerLevel[world]', x=182.52, y=69.00, z=117.44, cpos=[11, 7], tl=787, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11448, uuid='1d1820d2-c452-49d3-95ea-7ff6caaee3f7', l='ServerLevel[world]', x=183.68, y=69.00, z=120.72, cpos=[11, 7], tl=1167, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11751, uuid='9fb96c8f-d98b-4893-8d48-4b0f754fed60', l='ServerLevel[world]', x=188.66, y=69.75, z=127.30, cpos=[11, 7], tl=291, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11764, uuid='77c062a8-2164-445f-b2b0-66d930b4a541', l='ServerLevel[world]', x=205.31, y=69.00, z=120.27, cpos=[12, 7], tl=257, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11778, uuid='1215e67e-2fac-479e-8dc6-b4fc44f2aaac', l='ServerLevel[world]', x=198.38, y=69.00, z=118.50, cpos=[12, 7], tl=205, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11326, uuid='43e3b81e-742a-4b53-a964-d56b05e541a9', l='ServerLevel[world]', x=179.64, y=69.00, z=113.42, cpos=[11, 7], tl=1784, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11350, uuid='22307b2b-ac35-4685-a1e0-9102c5bf1c77', l='ServerLevel[world]', x=200.15, y=64.00, z=90.16, cpos=[12, 5], tl=1652, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11382, uuid='c9051684-c33b-4158-a813-b8a520f57cee', l='ServerLevel[world]', x=180.19, y=69.00, z=114.09, cpos=[11, 7], tl=1541, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11441, uuid='3a67bf75-b291-470d-ae19-7d16c7610e52', l='ServerLevel[world]', x=183.64, y=69.00, z=118.46, cpos=[11, 7], tl=1212, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11565, uuid='3d8f2e62-c186-41a7-80d1-e559252f5c4c', l='ServerLevel[world]', x=181.57, y=69.00, z=118.53, cpos=[11, 7], tl=793, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11475, uuid='cc8f569a-5f78-4072-82f7-322ff058ca54', l='ServerLevel[world]', x=180.50, y=69.00, z=110.88, cpos=[11, 6], tl=1080, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11373, uuid='6583fd27-fab6-4bf6-a916-a63756aa8b28', l='ServerLevel[world]', x=182.21, y=69.00, z=120.21, cpos=[11, 7], tl=1577, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11292, uuid='9d1815e5-8073-4158-86e4-a1b2a79de6fa', l='ServerLevel[world]', x=182.55, y=69.00, z=113.36, cpos=[11, 7], tl=1919, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11363, uuid='7c28e4ad-2673-46bf-b4b5-a7dcf13587e5', l='ServerLevel[world]', x=188.23, y=68.00, z=111.50, cpos=[11, 6], tl=1596, v=true] died: Campaign Soldier was killed
+[02:19:37] [Server thread/INFO]: [Xautral [Founder]: Killed 47 entities]
+[02:19:41] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[02:19:41] [Server thread/INFO]: blime2009 [Scripting] left the game
+[02:20:14] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11739, uuid='58e5a27a-3001-4a6f-abef-e13eb9d61e16', l='ServerLevel[world]', x=188.55, y=68.00, z=104.08, cpos=[11, 6], tl=1123, v=true] died: Campaign Soldier was shot by Campaign Soldier using [Desatomizator]
+[02:20:22] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11712, uuid='f3500f0d-ff6b-4a06-84af-a4dec9f5105b', l='ServerLevel[world]', x=182.70, y=73.00, z=116.20, cpos=[11, 7], tl=1436, v=true] died: Campaign Soldier was shot by Campaign Soldier using [Desatomizator]
+[02:20:42] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[02:20:47] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/12000, uuid='c59d564f-3bbd-44fe-aba8-3332ca80cc87', l='ServerLevel[world]', x=183.37, y=69.00, z=112.32, cpos=[11, 7], tl=879, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:20:52] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11650, uuid='75b54f96-2a7c-44e6-b5b6-995f33374891', l='ServerLevel[world]', x=176.04, y=69.00, z=120.70, cpos=[11, 7], tl=2264, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
+[02:20:55] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[02:21:02] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11970, uuid='f16256fa-8d0a-43d2-81f5-35e3a3779eba', l='ServerLevel[world]', x=182.20, y=67.00, z=97.73, cpos=[11, 6], tl=1253, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:21:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11741, uuid='0ecebc63-9d14-45bd-ad66-8efa4299edea', l='ServerLevel[world]', x=182.15, y=65.00, z=93.70, cpos=[11, 5], tl=2277, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
+[02:21:25] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11737, uuid='b6fe3c74-e902-485a-b12b-aac4b1a9c3fb', l='ServerLevel[world]', x=181.41, y=73.00, z=117.01, cpos=[11, 7], tl=2543, v=true] died: Campaign Soldier was shot by Campaign Soldier using [Desatomizator]
+[02:26:29] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[02:27:03] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11919, uuid='f604a2ed-0b40-4037-ac0c-a97bef691e63', l='ServerLevel[world]', x=177.30, y=62.00, z=91.30, cpos=[11, 5], tl=8787, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:27:04] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11690, uuid='36ace1c5-cad5-4720-89dc-d82929540caa', l='ServerLevel[world]', x=178.38, y=61.00, z=92.91, cpos=[11, 5], tl=9610, v=true] died: Campaign Soldier was slain by Xautral [Founder]
+[02:27:29] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/12149, uuid='9341fcc0-2ac0-4c2c-bf3f-2267657b97ff', l='ServerLevel[world]', x=175.65, y=64.00, z=93.51, cpos=[10, 5], tl=8281, v=true] died: Campaign Soldier was slain by Xautral [Founder]
+[02:27:43] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[02:27:59] [Server thread/INFO]: Xautral issued server command: /fill 186 67 109
+[02:28:07] [Server thread/INFO]: Xautral issued server command: /fill 186 67 109 176 77 119 air destroy
+[02:28:07] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 375 block(s)]
+[02:28:41] [Server thread/INFO]: Xautral issued server command: /fill 165 67 105
+[02:28:48] [Server thread/INFO]: Xautral issued server command: /fill 165 67 105 ~ ~ ~ air
+[02:28:48] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 225 block(s)]
+[02:37:20] [Server thread/INFO]: Xautral issued server command: /fill 22 68 140
+[02:37:26] [Server thread/INFO]: Xautral issued server command: /fill 22 68 140 29 68 147 oak_slab
+[02:37:26] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 36 block(s)]
+[02:37:35] [Server thread/INFO]: Xautral issued server command: /fill 28 68 146
+[02:37:41] [Server thread/INFO]: Xautral issued server command: /fill 28 68 146 23 68 141 oak_slab
+[02:37:41] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 2 block(s)]

@@ -394,3 +394,76 @@ Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
 Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
 [02:05:39] [Server thread/INFO]: waves_862 (/127.4.136.212:33815) lost connection: You are banned from this server.
 Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
+[02:09:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> a
+[02:10:30] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[02:10:30] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
+[02:10:39] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> q tipo de estructura es esta
+[02:10:57] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[02:10:57] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
+[02:11:20] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> jaja
+[02:11:28] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> cuando dijiste "no puedo con tus mamadas"
+[02:11:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> que tenías o que
+[02:11:39] [Server thread/INFO]: Xautral issued server command: /fill 178 72 111
+[02:11:45] [Server thread/INFO]: Xautral issued server command: /fill 178 72 111 184 72 117 nether_brick_slab
+[02:11:45] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 30 block(s)]
+[02:11:55] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> es que eran muy ricas
+[02:12:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> ._?
+[02:14:13] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[02:14:13] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
+[02:14:43] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[02:14:43] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
+[02:14:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> el server se siente diferente cuando tienes el texture pack de Programmers Art (el texture pack de las texturas antiguas)
+[02:15:37] [Async Chat Thread - #14/INFO]: [Not Secure] <blime2009> oye
+[02:15:40] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> que
+[02:15:51] [Async Chat Thread - #14/INFO]: [Not Secure] <blime2009> como spawneo una estructura customt
+[02:15:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> con /place
+[02:16:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pon /place template [nombre]
+[02:16:26] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[02:16:26] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
+[02:16:48] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[02:16:48] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
+[02:16:59] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[02:16:59] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
+[02:17:37] [Async Chat Thread - #16/INFO]: [Not Secure] <blime2009> vamooo
+[02:17:39] [Async Chat Thread - #16/INFO]: [Not Secure] <blime2009> ya lo ise
+[02:18:09] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> yo hice un infierno
+[02:18:40] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[02:18:42] [Server thread/INFO]: Xautral [Founder] has made the advancement [Not Today, Thank You]
+[02:18:52] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> cabron son un chingo
+[02:18:52] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[02:18:57] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11406, uuid='87238a13-bc81-40d9-8f86-b2a024ecf460', l='ServerLevel[world]', x=181.29, y=69.00, z=110.22, cpos=[11, 6], tl=635, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11391, uuid='79ae878b-b55f-4e33-9518-a2e312625c80', l='ServerLevel[world]', x=179.82, y=68.00, z=100.91, cpos=[11, 6], tl=681, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:18:58] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:skeleton]
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11332, uuid='d489efb0-42f2-4a3f-bc97-ac27f2cf8e85', l='ServerLevel[world]', x=185.15, y=67.00, z=100.97, cpos=[11, 6], tl=963, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11399, uuid='932bf94b-01d5-41c2-9fb2-87bf56671967', l='ServerLevel[world]', x=181.90, y=67.00, z=99.67, cpos=[11, 6], tl=681, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11468, uuid='c8fd902a-729d-4598-88bd-fb32d30ed266', l='ServerLevel[world]', x=181.11, y=68.00, z=103.22, cpos=[11, 6], tl=319, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11558, uuid='5b50e123-c2f7-475c-bb42-4de1f6835e8b', l='ServerLevel[world]', x=179.19, y=68.00, z=109.61, cpos=[11, 6], tl=56, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11545, uuid='6e76edf0-3cb2-4a78-8c41-b8be11c27a73', l='ServerLevel[world]', x=167.75, y=68.00, z=118.25, cpos=[10, 7], tl=119, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11467, uuid='07f58985-55a0-4bf4-8c38-f5d0f4367b60', l='ServerLevel[world]', x=163.14, y=72.00, z=113.28, cpos=[10, 7], tl=319, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11496, uuid='3fbca621-0fb0-4027-bca6-4db699f71b66', l='ServerLevel[world]', x=175.98, y=68.00, z=109.47, cpos=[10, 6], tl=245, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11544, uuid='574549fd-703e-4c61-8560-7a381f276de8', l='ServerLevel[world]', x=171.76, y=68.00, z=110.72, cpos=[10, 6], tl=119, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11456, uuid='1b481f81-7e00-41f3-9375-1a88fd857011', l='ServerLevel[world]', x=185.89, y=69.00, z=111.01, cpos=[11, 6], tl=330, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11389, uuid='5ea96443-ad76-4690-b191-0d1b523dfed6', l='ServerLevel[world]', x=184.72, y=68.00, z=109.58, cpos=[11, 6], tl=686, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11361, uuid='f19e86a9-54f3-49a3-a57c-cac7fc2990a0', l='ServerLevel[world]', x=180.99, y=68.00, z=108.55, cpos=[11, 6], tl=824, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11398, uuid='212e83b7-5d75-40e4-99e2-b01134ddf00e', l='ServerLevel[world]', x=189.99, y=68.00, z=102.94, cpos=[11, 6], tl=682, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11431, uuid='b5f49fc3-61a5-4992-b56b-4473329e131b', l='ServerLevel[world]', x=211.35, y=75.00, z=114.17, cpos=[13, 7], tl=494, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11401, uuid='51117022-9b13-4cfb-ab7a-b282a3bd68e1', l='ServerLevel[world]', x=192.11, y=68.00, z=109.93, cpos=[12, 6], tl=680, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11400, uuid='245dca4c-1f41-46e4-a544-26dfaeab5ed1', l='ServerLevel[world]', x=191.57, y=68.00, z=106.51, cpos=[11, 6], tl=681, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11385, uuid='71f723ad-b761-4006-89c0-4392a402d103', l='ServerLevel[world]', x=177.78, y=68.00, z=137.75, cpos=[11, 8], tl=729, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11392, uuid='2b3cf642-d9b9-4447-b8d2-01924b81a1b2', l='ServerLevel[world]', x=188.22, y=69.00, z=129.43, cpos=[11, 8], tl=685, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11512, uuid='86f9900a-95d2-4d35-9b28-96eb4e845925', l='ServerLevel[world]', x=175.82, y=69.00, z=116.08, cpos=[10, 7], tl=198, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11560, uuid='64bf8684-a0bf-48a2-b86d-d6d9fa73a547', l='ServerLevel[world]', x=185.68, y=69.00, z=116.95, cpos=[11, 7], tl=39, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11433, uuid='85bee4b3-8594-4f28-b11c-c8ecfef40b85', l='ServerLevel[world]', x=215.79, y=67.00, z=116.21, cpos=[13, 7], tl=488, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11390, uuid='756089e0-7374-4a80-84b6-3c235387b5ca', l='ServerLevel[world]', x=153.48, y=70.00, z=124.27, cpos=[9, 7], tl=685, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11388, uuid='fdebf671-4aba-4b70-9671-e51268b248bb', l='ServerLevel[world]', x=182.74, y=69.00, z=127.24, cpos=[11, 7], tl=687, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11338, uuid='c866c185-fe40-4d63-bc0c-9d4a557c0b26', l='ServerLevel[world]', x=188.53, y=68.00, z=113.62, cpos=[11, 7], tl=950, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11530, uuid='397798f9-690c-4afe-aa88-87f4d6e2536e', l='ServerLevel[world]', x=168.74, y=68.00, z=111.72, cpos=[10, 6], tl=161, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11531, uuid='c34722eb-7e47-467a-9e95-323f964cc006', l='ServerLevel[world]', x=178.92, y=74.50, z=115.58, cpos=[11, 7], tl=161, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11366, uuid='e9d2dbf4-f2de-4834-967f-050e30b7aa7c', l='ServerLevel[world]', x=192.29, y=69.00, z=123.50, cpos=[12, 7], tl=814, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11387, uuid='eefe166c-d051-4b15-8251-557fe536642b', l='ServerLevel[world]', x=179.73, y=74.00, z=112.51, cpos=[11, 7], tl=688, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11384, uuid='8616a80e-1e7e-48f7-b0ae-50c3db94cffd', l='ServerLevel[world]', x=192.02, y=68.00, z=111.13, cpos=[12, 6], tl=737, v=true] died: Campaign Soldier was killed
+[02:18:58] [Server thread/INFO]: [Xautral [Founder]: Killed 52 entities]
+[02:19:17] [Server thread/INFO]: blime2009 issued server command: /fill 207 78 134
+[02:19:22] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[02:19:23] [Server thread/INFO]: blime2009 issued server command: /fill 207 78 134 200 70 127 air
+[02:19:23] [Server thread/INFO]: [blime2009 [Scripting]: Successfully filled 225 block(s)]

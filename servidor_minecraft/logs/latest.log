@@ -160,3 +160,8 @@
 [19:33:11] [Server thread/INFO]: [localhoster0 [Founder]: Successfully filled 44 block(s)]
 [19:33:11] [Server thread/INFO]: localhoster0 issued server command: /fill 3 64 100 ~ ~ ~ sand
 [19:33:11] [Server thread/INFO]: [localhoster0 [Founder]: Successfully filled 3 block(s)]
+[19:54:27] [User Authenticator #3/INFO]: UUID of player goku_8373 is fe95b3c0-17a3-3431-a9e6-d58168ed137a
+[19:54:28] [Server thread/INFO]: goku_8373 joined the game
+[19:54:28] [Server thread/INFO]: goku_8373[/127.101.215.219:43513] logged in with entity id 3273 at ([world]78.41422917890921, 67.0, 17.22167955237812)
+[19:54:35] [Server thread/INFO]: goku_8373 lost connection: Disconnected
+[19:54:35] [Server thread/INFO]: goku_8373 left the game

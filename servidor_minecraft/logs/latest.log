@@ -319,3 +319,41 @@
 [01:48:37] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
 [01:48:38] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ez
 [01:48:41] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> na mentira
+[01:48:56] [Server thread/INFO]: blime2009 issued server command: /place template minecraft:village/snowy/streets/turn_01
+[01:48:56] [Server thread/INFO]: [blime2009 [Scripting]: Loaded template "minecraft:village/snowy/streets/turn_01" at 181, 69, 119]
+[01:49:12] [Server thread/INFO]: blime2009 issued server command: /place template minecraft:village/snowy/houses/snowy_farm_1
+[01:49:12] [Server thread/INFO]: [blime2009 [Scripting]: Loaded template "minecraft:village/snowy/houses/snowy_farm_1" at 176, 69, 121]
+[01:49:31] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> hay que borrar eto
+[01:49:49] [Server thread/INFO]: blime2009 issued server command: /place template minecraft:ancient_city/city/entrance/entrance_connector
+[01:49:49] [Server thread/INFO]: [blime2009 [Scripting]: Loaded template "minecraft:ancient_city/city/entrance/entrance_connector" at 183, 72, 120]
+[01:50:04] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> oe eto silve para hacer dungeons
+[01:50:15] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[01:50:15] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
+[01:50:24] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[01:50:24] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
+[01:50:38] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[01:50:38] [Server thread/INFO]: [Xautral [Founder]: Set blime2009 [Scripting]'s game mode to Survival Mode]
+[01:50:59] [Server thread/INFO]: blime2009 issued server command: /setblock 209 22 181 minecraft:magma_block
+[01:50:59] [Server thread/INFO]: [blime2009 [Scripting]: Changed the block at 209, 22, 181]
+[01:51:02] [Server thread/INFO]: blime2009 [Scripting] was slain by Drowned
+[01:51:06] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[01:51:06] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
+[01:51:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> blime
+[01:51:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> quita esta madre
+[01:52:13] [Server thread/INFO]: blime2009 issued server command: /fill 216 72 117
+[01:52:22] [Server thread/INFO]: blime2009 issued server command: /fill 216 72 117 ~ ~ ~ air
+[01:52:26] [Server thread/INFO]: blime2009 issued server command: /fill 216 72 117 ~ ~ ~ air
+[01:52:26] [Server thread/INFO]: [blime2009 [Scripting]: Successfully filled 2808 block(s)]
+[01:53:36] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:spring_water
+[01:54:35] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:spring_water
+[01:54:38] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:spring_water
+[01:54:45] [Server thread/INFO]: blime2009 issued server command: /place jigsaw minecraft:spring_water
+[01:54:53] [Server thread/INFO]: blime2009 issued server command: /place jigsaw minecraft:spring_water 1 1 147 63 70
+[01:55:37] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:birch
+[01:55:37] [Server thread/INFO]: [blime2009 [Scripting]: Placed "minecraft:birch" at 147, 64, 70]
+[01:56:24] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> q haces una estructura?
+[01:56:31] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> una improvisada
+[01:57:46] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:silverfish]
+[01:57:46] [Server thread/INFO]: [Xautral [Founder]: Killed Silverfish]
+[01:58:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> :O
+[01:58:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> funciona

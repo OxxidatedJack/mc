@@ -624,3 +624,99 @@ Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
 [02:49:34] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15885, uuid='db64203b-578a-405a-a0a0-10126da86ea1', l='ServerLevel[world]', x=15.71, y=61.00, z=140.03, cpos=[0, 8], tl=5924, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
 [02:49:34] [Server thread/INFO]: Xautral [Founder] has completed the challenge [Over-Overkill]
 [02:49:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15803, uuid='8666de9e-e208-4104-bf43-1ee7b0dd0de4', l='ServerLevel[world]', x=11.37, y=61.00, z=137.99, cpos=[0, 8], tl=6453, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:50:04] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15756, uuid='56fecf5f-77a2-4c90-ba71-a2d044e420fc', l='ServerLevel[world]', x=13.32, y=60.00, z=138.40, cpos=[0, 8], tl=7312, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:50:09] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15856, uuid='5461eb1b-b939-4531-80a9-4f8c341ac96e', l='ServerLevel[world]', x=15.64, y=61.00, z=140.70, cpos=[0, 8], tl=6766, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:50:39] [Server thread/INFO]: Xautral lost connection: Disconnected
+[02:50:39] [Server thread/INFO]: Xautral [Founder] left the game
+[02:52:42] [User Authenticator #7/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[02:52:44] [Server thread/INFO]: Xautral [Founder] joined the game
+[02:52:44] [Server thread/INFO]: Xautral[/127.115.99.248:60357] logged in with entity id 17198 at ([world]18.652248412225088, 63.0, 142.30000001192093)
+[02:52:55] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15877, uuid='a81f928f-58d0-4157-a320-265fc817425c', l='ServerLevel[world]', x=13.72, y=61.00, z=139.40, cpos=[0, 8], tl=7674, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:53:07] [Server thread/INFO]: Xautral issued server command: /kill @e[type=zombie,distance=..15]
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15967, uuid='31027a8b-de24-4488-aafd-e67852f49889', l='ServerLevel[world]', x=8.48, y=62.00, z=127.20, cpos=[0, 7], tl=7372, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15759, uuid='4b2b31ef-cd03-487d-9779-e765d142dfa1', l='ServerLevel[world]', x=9.78, y=57.00, z=124.72, cpos=[0, 7], tl=8659, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15804, uuid='65db1383-13a1-4000-996c-da7f79162848', l='ServerLevel[world]', x=5.70, y=60.00, z=136.70, cpos=[0, 8], tl=8345, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15784, uuid='b1e08195-00c7-439d-9ce1-f4aad95d7abb', l='ServerLevel[world]', x=5.70, y=60.00, z=136.30, cpos=[0, 8], tl=8475, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15876, uuid='1d3b72df-7db9-4c18-b89f-f2454f3f9e36', l='ServerLevel[world]', x=5.30, y=60.00, z=136.70, cpos=[0, 8], tl=7925, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/16207, uuid='d42eaa9f-447d-402e-84d3-4d001acc47da', l='ServerLevel[world]', x=6.30, y=60.00, z=134.51, cpos=[0, 8], tl=6216, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/16134, uuid='250f83da-f312-439c-9ae8-36bfd9883096', l='ServerLevel[world]', x=11.46, y=61.00, z=139.26, cpos=[0, 8], tl=6645, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15835, uuid='e4beafe3-bfaa-4022-a3ad-8fb3ff934746', l='ServerLevel[world]', x=5.70, y=60.00, z=136.30, cpos=[0, 8], tl=8130, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15783, uuid='9061f60b-071d-437c-bdb0-04879a2cf267', l='ServerLevel[world]', x=7.96, y=61.00, z=137.09, cpos=[0, 8], tl=8475, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15836, uuid='73d921ae-6cef-400a-a85e-acade6a93553', l='ServerLevel[world]', x=7.30, y=61.00, z=137.21, cpos=[0, 8], tl=8134, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15785, uuid='b21327a7-3792-4510-a233-69a33f9d062a', l='ServerLevel[world]', x=6.30, y=62.00, z=136.72, cpos=[0, 8], tl=8475, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/16126, uuid='0fb8bee4-b99c-4241-a969-1bb55113fc6f', l='ServerLevel[world]', x=8.63, y=61.00, z=136.97, cpos=[0, 8], tl=6678, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15765, uuid='216fed73-1b1d-4ecf-9579-16a76ae91a0e', l='ServerLevel[world]', x=10.56, y=59.00, z=128.20, cpos=[0, 8], tl=8595, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15782, uuid='bcc1a6e4-d5d2-4a7d-b1f5-6a838eb60763', l='ServerLevel[world]', x=10.73, y=64.00, z=135.96, cpos=[0, 8], tl=8479, v=true] died: Campaign Soldier was killed
+[02:53:07] [Server thread/INFO]: [Xautral [Founder]: Killed 14 entities]
+[02:53:12] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:skeleton,distance=..15]
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16268, uuid='16396714-fd8d-4464-a020-399b012c0d32', l='ServerLevel[world]', x=14.51, y=58.00, z=125.90, cpos=[0, 7], tl=6003, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15862, uuid='df76d74c-dd96-4d3a-9a90-e182e0808f02', l='ServerLevel[world]', x=5.30, y=60.00, z=136.30, cpos=[0, 8], tl=8106, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15980, uuid='22f99f3f-0f8f-4ca7-9ea2-0b5bac072814', l='ServerLevel[world]', x=5.70, y=60.00, z=136.30, cpos=[0, 8], tl=7360, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16138, uuid='9780b514-c79d-46ec-82ae-fd0edf4b5764', l='ServerLevel[world]', x=5.70, y=60.00, z=136.70, cpos=[0, 8], tl=6730, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16302, uuid='00c380ea-f0b1-43fa-a058-e0989796e207', l='ServerLevel[world]', x=5.30, y=60.00, z=136.70, cpos=[0, 8], tl=5744, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16275, uuid='76da9d90-a83c-4bfe-b604-a7e142323abd', l='ServerLevel[world]', x=5.30, y=60.00, z=136.30, cpos=[0, 8], tl=5981, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15773, uuid='6ac7ff63-6f21-463d-90ca-5d45088666c2', l='ServerLevel[world]', x=3.70, y=60.75, z=134.67, cpos=[0, 8], tl=8650, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15944, uuid='e225bd23-1bc9-4bd0-acb3-1c1b981435cf', l='ServerLevel[world]', x=8.79, y=61.00, z=137.07, cpos=[0, 8], tl=7592, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16218, uuid='cc79fa3c-abde-4ecc-8402-aaae91866a0e', l='ServerLevel[world]', x=8.33, y=61.00, z=137.70, cpos=[0, 8], tl=6269, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16269, uuid='a77bf501-cac2-46c0-a25c-d12e2dc41897', l='ServerLevel[world]', x=8.03, y=61.00, z=137.19, cpos=[0, 8], tl=6008, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16219, uuid='9e2cef2d-b470-4e36-90c1-3919cd806522', l='ServerLevel[world]', x=7.58, y=61.00, z=137.34, cpos=[0, 8], tl=6269, v=true] died: Campaign Soldier was killed
+[02:53:12] [Server thread/INFO]: [Xautral [Founder]: Killed 11 entities]
+[02:53:26] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16205, uuid='5799cc6e-2ade-4a08-b787-d726f42bb0d2', l='ServerLevel[world]', x=13.21, y=57.00, z=126.55, cpos=[0, 7], tl=6635, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:53:29] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/16141, uuid='25b7d71e-a37e-4300-b614-52e2a4545ac2', l='ServerLevel[world]', x=10.89, y=57.00, z=124.17, cpos=[0, 7], tl=7069, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:53:44] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16133, uuid='3f56ac78-23e7-4625-a761-3e7a63f17635', l='ServerLevel[world]', x=14.85, y=59.00, z=126.53, cpos=[0, 7], tl=7380, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:54:02] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15758, uuid='9065f2dd-382e-4e56-ab03-37e512ca3a93', l='ServerLevel[world]', x=12.66, y=59.00, z=109.95, cpos=[0, 6], tl=9759, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:54:17] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15945, uuid='710775e2-9842-4230-a2d8-e8326ee02053', l='ServerLevel[world]', x=9.49, y=59.00, z=110.29, cpos=[0, 6], tl=8875, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:54:21] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[02:54:30] [Server thread/INFO]: Xautral issued server command: /kill
+[02:54:30] [Server thread/INFO]: Xautral [Founder] was killed
+[02:54:30] [Server thread/INFO]: [Xautral [Founder]: Killed Xautral [Founder]]
+[02:54:45] [Server thread/INFO]: Xautral issued server command: /tp ~ ~255 ~
+[02:54:45] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.452275, 323.000000, 8.689321]
+[02:55:08] [Server thread/INFO]: Xautral issued server command: /stop
+[02:55:08] [Server thread/INFO]: [Xautral [Founder]: Stopping the server]
+[02:55:09] [Server thread/INFO]: Stopping server
+[02:55:09] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[02:55:09] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[02:55:09] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:55:09] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:55:09] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
+[02:55:09] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
+[02:55:09] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
+[02:55:09] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
+[02:55:09] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
+[02:55:09] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
+[02:55:09] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
+[02:55:09] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:55:09] [Server thread/INFO]: Saving players
+[02:55:09] [Server thread/INFO]: Xautral lost connection: Server closed
+[02:55:09] [Server thread/INFO]: Xautral left the game
+[02:55:09] [Server thread/INFO]: Saving worlds
+[02:55:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saved 246 block chunks, 442 entity chunks, 0 poi chunks in world 'world' in 0.40s
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:55:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 27 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:55:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 51 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:55:09] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[02:55:09] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[02:55:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:55:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

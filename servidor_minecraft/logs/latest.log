@@ -536,3 +536,91 @@ Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
 [02:37:35] [Server thread/INFO]: Xautral issued server command: /fill 28 68 146
 [02:37:41] [Server thread/INFO]: Xautral issued server command: /fill 28 68 146 23 68 141 oak_slab
 [02:37:41] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 2 block(s)]
+[02:41:28] [Server thread/INFO]: Xautral issued server command: /place template minecraft:defense_structure
+[02:41:28] [Server thread/INFO]: [Xautral [Founder]: Loaded template "minecraft:defense_structure" at 10, 67, 98]
+[02:41:50] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[02:42:12] [Server thread/INFO]: Named entity ZombieVillager['Zombie Villager Defensor'/15181, uuid='d6dd4dbd-2031-4208-ac25-dd95bdf21bce', l='ServerLevel[world]', x=30.12, y=64.50, z=143.26, cpos=[1, 8], tl=1578, v=true] died: Zombie Villager Defensor was slain by Xautral [Founder]
+[02:43:33] [User Authenticator #5/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[02:43:34] [Server thread/INFO]: blime2009 [Scripting] joined the game
+[02:43:34] [Server thread/INFO]: blime2009[/127.20.187.84:55313] logged in with entity id 15615 at ([world]200.23750001192093, 69.2560830529695, 117.53587255223842)
+[02:43:47] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
+[02:43:47] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
+[02:44:05] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[02:44:11] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[02:44:21] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[02:44:26] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:regeneration infinite 25 true
+[02:44:26] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to Xautral [Founder]]
+[02:44:26] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[02:44:33] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[02:44:33] [Server thread/INFO]: blime2009 [Scripting] left the game
+[02:44:40] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15809, uuid='3cf8ad18-cfd4-4afe-8c34-efdf3bb93d39', l='ServerLevel[world]', x=16.04, y=65.00, z=106.26, cpos=[1, 6], tl=468, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
+[02:44:50] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:iron_pickaxe
+[02:44:50] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Iron Pickaxe] to Xautral [Founder]]
+[02:44:51] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15766, uuid='f4898b93-d857-4027-9516-c6b48a7f4c71', l='ServerLevel[world]', x=15.30, y=64.00, z=108.30, cpos=[0, 6], tl=965, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:44:59] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15797, uuid='5b88ca1a-6494-4115-ac2d-4e36664c61cf', l='ServerLevel[world]', x=35.80, y=64.00, z=133.55, cpos=[2, 8], tl=930, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:45:21] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:45:21] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:45:27] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:45:27] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:45:27] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:45:27] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:45:27] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:45:27] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:45:28] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:iron_pickaxe
+[02:45:28] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Iron Pickaxe] to Xautral [Founder]]
+[02:45:30] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:45:30] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:45:51] [Server thread/INFO]: Xautral issued server command: /give Xautral ender_pearl 128
+[02:45:51] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Ender Pearl] to Xautral [Founder]]
+[02:46:09] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16120, uuid='ab800662-b97d-424d-a6a8-3eda75997edf', l='ServerLevel[world]', x=11.72, y=65.00, z=107.29, cpos=[0, 6], tl=641, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:46:23] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15968, uuid='aef9fb4f-2ca7-43a6-8548-19abcf66d04e', l='ServerLevel[world]', x=22.87, y=64.00, z=124.34, cpos=[1, 7], tl=1595, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
+[02:46:30] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:efficiency 5
+[02:46:30] [Server thread/INFO]: [Xautral [Founder]: Applied enchantment Efficiency V to Xautral [Founder]'s item]
+[02:46:53] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16230, uuid='2e6c9335-7d7c-4594-9fb3-9ba2d5cb782c', l='ServerLevel[world]', x=10.30, y=65.00, z=119.85, cpos=[0, 7], tl=927, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
+[02:47:06] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:wind_charge 128
+[02:47:06] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Wind Charge] to Xautral [Founder]]
+[02:47:45] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:47:45] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:47:45] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:47:45] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:47:47] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:47:47] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:48:01] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16123, uuid='0e4624b3-31ce-4fd5-b506-6a69d747cf1e', l='ServerLevel[world]', x=9.30, y=62.00, z=119.08, cpos=[0, 7], tl=2870, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
+[02:48:12] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[02:48:19] [Server thread/INFO]: Xautral issued server command: /ie edit
+[02:48:35] [User Authenticator #6/INFO]: UUID of player waves_862 is 36165713-84b9-3487-ae27-8bc63142c02a
+[02:48:35] [Server thread/INFO]: Disconnecting waves_862 (/127.4.136.212:60503): You are banned from this server.
+Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
+[02:48:35] [Server thread/INFO]: waves_862 (/127.4.136.212:60503) lost connection: You are banned from this server.
+Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
+[02:48:37] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[02:48:47] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
+[02:48:54] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:resistance infinite 25 true
+[02:48:54] [Server thread/INFO]: [Xautral [Founder]: Applied effect Resistance to Xautral [Founder]]
+[02:48:56] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
+[02:49:00] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:49:00] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:49:01] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:49:01] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:49:01] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:49:01] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:49:02] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:49:02] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:49:02] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:49:02] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:49:04] [Server thread/INFO]: Xautral issued server command: /summon tnt
+[02:49:04] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
+[02:49:06] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15840, uuid='65c82591-eda3-45db-811f-12a5420b62d9', l='ServerLevel[world]', x=10.57, y=63.85, z=126.48, cpos=[0, 7], tl=5580, v=true] died: Campaign Soldier blew up
+[02:49:34] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15885, uuid='db64203b-578a-405a-a0a0-10126da86ea1', l='ServerLevel[world]', x=15.71, y=61.00, z=140.03, cpos=[0, 8], tl=5924, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
+[02:49:34] [Server thread/INFO]: Xautral [Founder] has completed the challenge [Over-Overkill]
+[02:49:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15803, uuid='8666de9e-e208-4104-bf43-1ee7b0dd0de4', l='ServerLevel[world]', x=11.37, y=61.00, z=137.99, cpos=[0, 8], tl=6453, v=true] died: Campaign Soldier was smashed by Xautral [Founder]

@@ -1,722 +1,124 @@
-[01:28:18] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[01:28:18] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[01:28:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:28:19] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
-[01:28:19] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+[19:09:11] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[19:09:11] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[19:09:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:09:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[19:09:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
  - BattleLock (1.3), ItemEdit (3.7.4), ItemEditor (2.1.0), LoginSecurity (3.3.0), OpenInv (5.1.13), SkinsRestorer (15.8.0), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT)
-[01:28:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:28:27] [ServerMain/INFO]: Loaded 1407 recipes
-[01:28:27] [ServerMain/INFO]: Loaded 1520 advancements
-[01:28:27] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[01:28:27] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 451.1ms
-[01:28:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:28:27] [Server thread/INFO]: Loading properties
-[01:28:27] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[01:28:27] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:28:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:28:28] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:28:28] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:28:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:28:29] [Server thread/INFO]: Default game type: SURVIVAL
-[01:28:29] [Server thread/INFO]: Generating keypair
-[01:28:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:28:29] [Server thread/INFO]: Using epoll channel type
-[01:28:29] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:28:29] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
-[01:28:30] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
-[01:28:30] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
-[01:28:30] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[01:28:30] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[01:28:31] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[01:28:31] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[01:28:31] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[01:28:32] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
-[01:28:32] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
-[01:28:32] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
-[01:28:32] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
-[01:28:32] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
-[01:28:32] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
-[01:28:32] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[01:28:32] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[01:28:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:28:32] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[01:28:33] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[01:28:33] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:28:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:28:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:28:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:28:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:28:33] [Server thread/INFO]: Preparing level "world"
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:28:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:28:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:28:34] [Server thread/INFO]: Preparing spawn area: 0%
-[01:28:34] [Server thread/INFO]: Preparing spawn area: 2%
-[01:28:35] [Server thread/INFO]: Preparing spawn area: 75%
-[01:28:35] [Server thread/INFO]: Time elapsed: 1264 ms
-[01:28:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:28:35] [Server thread/INFO]: Preparing spawn area: 0%
-[01:28:35] [Server thread/INFO]: Time elapsed: 413 ms
-[01:28:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:28:35] [Server thread/INFO]: Preparing spawn area: 0%
-[01:28:35] [Server thread/INFO]: Time elapsed: 144 ms
-[01:28:35] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
-[01:28:36] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[01:28:36] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
-[01:28:36] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
-[01:28:36] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
-[01:28:36] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
-[01:28:36] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
-[01:28:36] [Server thread/INFO]: [ItemEditor] Reloading items.
-[01:28:36] [Server thread/INFO]: [ItemEditor] Loaded 1 items from storage.
-[01:28:36] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
-[01:28:36] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
-[01:28:36] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
-[01:28:36] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
-[01:28:36] [Server thread/INFO]: [ItemEdit] # Enabled (took 235 ms)
-[01:28:36] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[01:28:36] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[01:28:36] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[01:28:36] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[01:28:36] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[01:28:36] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[01:28:36] [Server thread/INFO]: [spark] Starting background profiler...
-[01:28:37] [Server thread/INFO]: Done preparing level "world" (3.668s)
-[01:28:37] [Server thread/INFO]: Running delayed init tasks
-[01:28:37] [Server thread/INFO]: Done (19.764s)! For help, type "help"
-[01:28:37] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[01:28:37] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[01:29:27] [User Authenticator #0/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
-[01:29:27] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[01:29:29] [Server thread/INFO]: blime2009 [Scripting] joined the game
-[01:29:29] [Server thread/INFO]: blime2009[/127.20.187.84:59337] logged in with entity id 86 at ([world]-0.23320112398000514, 1.0, 2.699999988079071)
-[01:30:01] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[01:30:22] [Server thread/INFO]: blime2009 issued server command: /plugins
-[01:30:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@7df52795[id=86f4fd4a-173d-3e06-a1bf-669194d778d7,name=Xautral,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1ODQ2OTI5MzkwNSwKICAicHJvZmlsZUlkIiA6ICI2Yzg4ODdlZTk0N2I0MTQ3YjNlMGQ4N2JmODQ2NzUxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYYXV0cmFsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4OWM1MzEzZDVlMTE5ODFhNTgzYzU5OTA1YTBlMjI0ZmQ5ZGE5MjhmY2Y2MDhlY2YyZmI4ZmI3NmNlODg3YTQiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4ZGU0YTgxNjg4YWQxOGI0OWU3MzVhMjczZTA4NmMxOGYxZTM5NjY5NTYxMjNjY2I1NzQwMzRjMDZmNWQzMzYiCiAgICB9CiAgfQp9, signature=UF2XUSjA1S5PDRJ9c7682AfZotKGvDOl5A/RXJSb8sSqw6Bh7eGCChSGOxUJGOdsD5yRvY3in7SdLgRTiF1rnkq47CgxJTtnlU4RoEFrm60PzLPaWXmrH6EiZI1iIjjX17XH6MFB6tMlqR9meVwx5j56++oOux8JabCs1p+0DW6op2vwO6VNLV6KqeKReLp5bEEjUn6TPenh12mQItpyo1F8U1xHCbkqexBl91YI/PIPsLZ42npCutMVLy6IWOvP1BobeL5shjhKhIOn5I7rT3QW95q/x1L7TtL9hEwqwoH+EGOfMkCL4VdhkpYbU9Z53mHjppouHf9og03Ki21jZl8K+co4hk0pHpDCq2iItEuO3RClG8YgkYFdxlTBySqQYnVgDiiJfmosnJHcPO2Ey43QPSYqjRK1yi/tsX9oXAfPW2W+2VvhNqHZPEKyRpMtYMfFMdqAGWneL3gunnoilrb6WM1WkPbFy70Pj1x1socG4iSAreAXoInNtfrR2evErmQqHpLM8D8pWbYIBuMpF+YyL5C6Hbw1aswiKEGfi6MiUS8eeY0WrYU30kcxwpU2Ir2QaJTcJ1QuBCfsf37lXXui8QdjULZoL3JeGCIt8LvC+smfX/AazDJ2j6JGGZGOkoxR++y3z7tBvgABk0JvJYzsYK2zDppNgc+YGkOaouQ=]]}] lost connection: Timed out
-[01:30:36] [Server thread/INFO]: blime2009 issued server command: /
-[01:30:38] [Server thread/INFO]: blime2009 lost connection: Disconnected
-[01:30:38] [Server thread/INFO]: blime2009 [Scripting] left the game
-[01:30:39] [User Authenticator #0/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
-[01:30:40] [Server thread/INFO]: blime2009 [Scripting] joined the game
-[01:30:40] [Server thread/INFO]: blime2009[/127.20.187.84:39567] logged in with entity id 699 at ([world_the_end]-37.69999998807907, 67.92286460660002, 2.5340352737861815)
-[01:30:49] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[01:30:50] [Server thread/INFO]: Xautral [Founder] joined the game
-[01:30:50] [Server thread/INFO]: Xautral[/127.115.99.248:35783] logged in with entity id 708 at ([world]6031.699999988079, 68.20000004768372, 4699.418717576782)
-[01:30:51] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a4744f7a-9b6b-454d-a11a-a72b950b038c, mapped to Bat['Bat'/770, uuid='a4744f7a-9b6b-454d-a11a-a72b950b038c', l='ServerLevel[world]', x=6028.33, y=10.27, z=4751.75, cpos=[376, 296], tl=0, v=true], can't add Bat['Bat'/778, uuid='a4744f7a-9b6b-454d-a11a-a72b950b038c', l='ServerLevel[world]', x=6026.91, y=10.07, z=4752.69, cpos=[376, 297], tl=0, v=false]
-[01:30:51] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 1125d12b-75f4-479c-81c7-af46b401ffaa, mapped to Bat['Bat'/769, uuid='1125d12b-75f4-479c-81c7-af46b401ffaa', l='ServerLevel[world]', x=6032.96, y=51.05, z=4656.05, cpos=[377, 291], tl=0, v=true], can't add Bat['Bat'/789, uuid='1125d12b-75f4-479c-81c7-af46b401ffaa', l='ServerLevel[world]', x=6034.15, y=51.19, z=4655.17, cpos=[377, 290], tl=0, v=false]
-[01:30:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b1c5fed8-4b01-4516-a7f8-5f6527b5278d, mapped to Rabbit['Rabbit'/907, uuid='b1c5fed8-4b01-4516-a7f8-5f6527b5278d', l='ServerLevel[world]', x=5912.55, y=69.00, z=4783.68, cpos=[369, 298], tl=0, v=true], can't add Rabbit['Rabbit'/914, uuid='b1c5fed8-4b01-4516-a7f8-5f6527b5278d', l='ServerLevel[world]', x=5913.81, y=70.00, z=4787.61, cpos=[369, 299], tl=0, v=false]
-[01:30:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e5eb3e46-d2ad-42c4-a879-796c199ba232, mapped to Rabbit['Rabbit'/897, uuid='e5eb3e46-d2ad-42c4-a879-796c199ba232', l='ServerLevel[world]', x=6042.78, y=66.00, z=4861.77, cpos=[377, 303], tl=0, v=true], can't add Rabbit['Rabbit'/924, uuid='e5eb3e46-d2ad-42c4-a879-796c199ba232', l='ServerLevel[world]', x=6050.50, y=63.00, z=4868.50, cpos=[378, 304], tl=0, v=false]
-[01:30:57] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[01:30:57] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
-[01:31:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> quieres jugar como jugador?
-[01:31:12] [Server thread/INFO]: Xautral issued server command: /inv blime2009
-[01:31:25] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> no
-[01:31:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> que haces
-[01:31:40] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> buscando ideas
-[01:31:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> para que
-[01:31:51] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> para sugerir cosas
-[01:31:54] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ??
-[01:31:55] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> que
-[01:32:03] [Server thread/INFO]: Xautral issued server command: /ie enchant
-[01:32:05] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> para sugerir cosas que podria añadir
-[01:32:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> tengo varias
-[01:32:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> el problema es que no soy experto programand
-[01:32:19] [Server thread/INFO]: Xautral issued server command: /ie edit
-[01:32:22] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> aver pasa
-[01:32:32] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> runas
-[01:32:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> runas de encantamientos
-[01:32:39] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> he hecho algo parecido
-[01:33:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> con el execute if Entity item weapon.mainhand minecraft:objeto{NBT}
-[01:33:31] [Async Chat Thread - #1/INFO]: [Not Secure] <blime2009> osea runas que obtorgen encantamientos al objeto de tu mano?
-[01:33:51] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> no
-[01:33:55] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> runas que hagna habilidades
-[01:33:58] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> que sean como encantamiento
-[01:33:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> que sean como encantamiento
-[01:34:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> que sean como encantamientos
-[01:34:31] [Server thread/INFO]: Xautral lost connection: Timed out
-[01:34:31] [Server thread/INFO]: Xautral [Founder] left the game
-[01:34:35] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[01:34:36] [Server thread/INFO]: Xautral [Founder] joined the game
-[01:34:36] [Server thread/INFO]: Xautral[/127.115.99.248:38515] logged in with entity id 1503 at ([world]96.20371929920995, 69.89273753831566, 66.81394621085343)
-[01:34:43] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> runas que te obtorgen habilidades
-[01:35:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> sip
-[01:35:02] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[01:35:02] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
-[01:35:10] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[01:35:10] [Server thread/INFO]: [Xautral [Founder]: Set blime2009 [Scripting]'s game mode to Survival Mode]
-[01:35:17] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:35:24] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> pero como obtorgarian
-[01:35:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hice uno
-[01:35:41] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:35:41] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
-[01:36:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> que basicamente hacia que si un escudo tenía de lore en bold "Windtack" invocara una carga de viento en ^ ^ ^ cuando su scoreboard de daño de escudo absorbido fuera mayor
-[01:36:18] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> que basicamente hacia que si un escudo tenía de lore en bold "Windtack" invocara una carga de viento en ^ ^ ^ cuando su scoreboard de daño de escudo absorbido fuera mayor a 1
-[01:36:22] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[01:36:22] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
-[01:36:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> pero solo lo hacia exclusivo a 1 lore
-[01:36:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> osea el lore tenia que ser especificamente ese
-[01:36:39] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no otro
-[01:36:43] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[01:36:43] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
-[01:36:46] [Server thread/INFO]: Xautral issued server command: /ie
-[01:36:48] [Server thread/INFO]: Xautral issued server command: /ie edit
-[01:37:04] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[01:37:04] [Server thread/INFO]: [Xautral [Founder]: Set blime2009 [Scripting]'s game mode to Survival Mode]
-[01:37:05] [Server thread/INFO]: blime2009 [Scripting] fell from a high place
-[01:37:07] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[01:37:09] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[01:37:09] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
-[01:37:10] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:37:10] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
-[01:37:16] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[01:37:16] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
-[01:37:18] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[01:37:18] [Server thread/INFO]: [Xautral [Founder]: Set blime2009 [Scripting]'s game mode to Survival Mode]
-[01:37:23] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> es buena
-[01:37:34] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> pero como hacemos la runa
-[01:37:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> eh...
-[01:37:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no lo pensé
-[01:37:46] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> pero no estam pulido
-[01:37:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> porque cerees que no lo agregué
-[01:37:53] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:37:53] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
-[01:37:57] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> aver
-[01:38:07] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> seria como una runa de aire de defensa
-[01:38:18] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> la runa tiene que ser estricaa, no puede haber mas, y lo que busco es lo contrario: que puedan agregarse mas
-[01:38:25] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[01:38:25] [Server thread/INFO]: [Xautral [Founder]: Set blime2009 [Scripting]'s game mode to Survival Mode]
-[01:38:29] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
-[01:38:35] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:38:52] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
-[01:39:01] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
-[01:39:08] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
-[01:39:18] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
-[01:39:21] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:39:26] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
-[01:39:29] [Server thread/INFO]: blime2009 issued server command: /gamemode adventure
-[01:39:31] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:39:51] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
-[01:39:55] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:39:55] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
-[01:39:58] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> yaaa
-[01:40:06] [Server thread/INFO]: Xautral issued server command: /bossbar set minecraft:war players @a
-[01:40:06] [Server thread/INFO]: [Xautral [Founder]: Custom bossbar [Atackers - Defensors] now has 2 player(s): Xautral [Founder], blime2009 [Scripting]]
-[01:40:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> tambien
-[01:40:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hacer estructuras custom
-[01:40:31] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> eso quiero hacer
-[01:40:32] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> osea nerfeadas pero buenas:
-[01:40:38] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> pero juntarlas con als ruans
-[01:40:41] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> que als runas se encuentren ahí
-[01:40:42] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> pero no se como hacer que se generen naturalmente
-[01:40:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> o en las armas de los enemigos
-[01:40:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> naturalmente es imposible
-[01:40:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> pero existe el /place
-[01:41:08] [Server thread/INFO]: blime2009 issued server command: /place structure minecraft:igloo
-[01:41:08] [Server thread/INFO]: [blime2009 [Scripting]: Generated structure "minecraft:igloo" at 177, 72, 129]
-[01:41:12] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> nunca supe usar el jigsaw block
-[01:41:32] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> avel deja veo si yo puedo
-[01:41:50] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> para que es o q
-[01:42:03] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> no c
-[01:42:07] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> pero els tructure blcok si se algo
-[01:42:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> vi un leve tutorial
-[01:42:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> para bedrock
-[01:42:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> asi que lo probe yo solo
-[01:42:55] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127
-[01:43:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> blime2009
-[01:43:14] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127 174 75 136 minecraft:sandstone replace snow
-[01:43:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> te dejare una pequeña tarea
-[01:43:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> enseñarle a zxalanjosu a ser scripting
-[01:43:31] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> a slime no
-[01:43:35] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127 174 75 136 minecraft:snow replace minecraft:sandstone
-[01:43:35] [Server thread/INFO]: [blime2009 [Scripting]: Successfully filled 12 block(s)]
-[01:43:36] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> es obsoleto para scripting
-[01:43:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> es de moderar
-[01:43:40] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[01:43:40] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
-[01:43:51] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127 174 75 136 minecraft:snow_block replace minecraft:sandstone
-[01:44:01] [Server thread/INFO]: Xautral issued server command: /place jigsaw minecraft:village/desert/terminators
-[01:44:07] [Server thread/INFO]: blime2009 issued server command: /fill 186 68 127 174 75 136 minecraft:sandstone replace minecraft:snow_block
-[01:44:07] [Server thread/INFO]: [blime2009 [Scripting]: Successfully filled 91 block(s)]
-[01:44:11] [Server thread/INFO]: Xautral issued server command: /place template minecraft:village/desert/houses/desert_farm_2
-[01:44:11] [Server thread/INFO]: [Xautral [Founder]: Loaded template "minecraft:village/desert/houses/desert_farm_2" at 135, 68, 101]
-[01:44:39] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> y si hacemos como una runa de estructuras
-[01:44:45] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> como
-[01:44:53] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> osea una runa visual que genere una structura?
-[01:45:09] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> no se una runa que genere una casa o cualquier tipo de estructuran o grande con el execute at
-[01:45:19] [Server thread/INFO]: [Not Secure] [Server] 333
-[01:45:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> mmmm
-[01:45:28] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> concuerdo 333
-[01:45:32] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[01:45:32] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
-[01:45:51] [Server thread/INFO]: Xautral issued server command: /execute at blime2009 run place template minecraft:village/plains/houses/plains_cartographer_1
-[01:45:51] [Server thread/INFO]: [Xautral [Founder]: Loaded template "minecraft:village/plains/houses/plains_cartographer_1" at 180, 69, 131]
-[01:46:02] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> tipo asi
-[01:46:07] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> esta algo roto
-[01:46:08] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> no mames
-[01:46:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> literalmente
-[01:46:16] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> digo no porque sea potente
-[01:46:20] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> un spiter jokey
-[01:46:22] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> si no porque que tal si destruye la casa de un jgador
-[01:46:25] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> SPIDER JOCKEY
-[01:46:31] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> ya se :V
-[01:46:49] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> oye pero pa que usas el structure block
-[01:46:50] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> :V
-[01:46:59] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> para ahcer estructuras
-[01:47:00] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> :v
-[01:47:07] [Server thread/INFO]: blime2009 issued server command: /place jigsaw minecraft:village/taiga/zombie/streets 1 1 ~ ~ ~
-[01:47:07] [Server thread/ERROR]: No starting jigsaw minecraft:1 found in start pool minecraft:village/taiga/zombie/streets
-[01:47:15] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> yo había hecho una estructura
-[01:47:18] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> y prq no usas el place
-[01:47:29] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> porque queiro hacermis propias estructuaras
-[01:47:32] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:birch ~ ~ ~
-[01:47:32] [Server thread/INFO]: [blime2009 [Scripting]: Placed "minecraft:birch" at 194, 69, 121]
-[01:47:40] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> mira un arbol
-[01:47:43] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> :o
-[01:47:54] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:fireball
-[01:47:54] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Fireball]
-[01:47:58] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:fireball
-[01:47:58] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Fireball]
-[01:47:59] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:fireball
-[01:47:59] [Server thread/INFO]: [blime2009 [Scripting]: Summoned new Fireball]
-[01:48:15] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:azalea_tree ~ ~ ~
-[01:48:15] [Server thread/INFO]: [blime2009 [Scripting]: Placed "minecraft:azalea_tree" at 188, 69, 121]
-[01:48:15] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[01:48:15] [Server thread/INFO]: [Xautral [Founder]: Set blime2009 [Scripting]'s game mode to Survival Mode]
-[01:48:34] [Server thread/INFO]: blime2009 [Scripting] was slain by Xautral [Founder]
-[01:48:37] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:48:37] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
-[01:48:38] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> ez
-[01:48:41] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> na mentira
-[01:48:56] [Server thread/INFO]: blime2009 issued server command: /place template minecraft:village/snowy/streets/turn_01
-[01:48:56] [Server thread/INFO]: [blime2009 [Scripting]: Loaded template "minecraft:village/snowy/streets/turn_01" at 181, 69, 119]
-[01:49:12] [Server thread/INFO]: blime2009 issued server command: /place template minecraft:village/snowy/houses/snowy_farm_1
-[01:49:12] [Server thread/INFO]: [blime2009 [Scripting]: Loaded template "minecraft:village/snowy/houses/snowy_farm_1" at 176, 69, 121]
-[01:49:31] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> hay que borrar eto
-[01:49:49] [Server thread/INFO]: blime2009 issued server command: /place template minecraft:ancient_city/city/entrance/entrance_connector
-[01:49:49] [Server thread/INFO]: [blime2009 [Scripting]: Loaded template "minecraft:ancient_city/city/entrance/entrance_connector" at 183, 72, 120]
-[01:50:04] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> oe eto silve para hacer dungeons
-[01:50:15] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[01:50:15] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
-[01:50:24] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[01:50:24] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to blime2009 [Scripting]]
-[01:50:38] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
-[01:50:38] [Server thread/INFO]: [Xautral [Founder]: Set blime2009 [Scripting]'s game mode to Survival Mode]
-[01:50:59] [Server thread/INFO]: blime2009 issued server command: /setblock 209 22 181 minecraft:magma_block
-[01:50:59] [Server thread/INFO]: [blime2009 [Scripting]: Changed the block at 209, 22, 181]
-[01:51:02] [Server thread/INFO]: blime2009 [Scripting] was slain by Drowned
-[01:51:06] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[01:51:06] [Server thread/INFO]: [blime2009 [Scripting]: Set own game mode to Creative Mode]
-[01:51:33] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> blime
-[01:51:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> quita esta madre
-[01:52:13] [Server thread/INFO]: blime2009 issued server command: /fill 216 72 117
-[01:52:22] [Server thread/INFO]: blime2009 issued server command: /fill 216 72 117 ~ ~ ~ air
-[01:52:26] [Server thread/INFO]: blime2009 issued server command: /fill 216 72 117 ~ ~ ~ air
-[01:52:26] [Server thread/INFO]: [blime2009 [Scripting]: Successfully filled 2808 block(s)]
-[01:53:36] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:spring_water
-[01:54:35] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:spring_water
-[01:54:38] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:spring_water
-[01:54:45] [Server thread/INFO]: blime2009 issued server command: /place jigsaw minecraft:spring_water
-[01:54:53] [Server thread/INFO]: blime2009 issued server command: /place jigsaw minecraft:spring_water 1 1 147 63 70
-[01:55:37] [Server thread/INFO]: blime2009 issued server command: /place feature minecraft:birch
-[01:55:37] [Server thread/INFO]: [blime2009 [Scripting]: Placed "minecraft:birch" at 147, 64, 70]
-[01:56:24] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> q haces una estructura?
-[01:56:31] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> una improvisada
-[01:57:46] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:silverfish]
-[01:57:46] [Server thread/INFO]: [Xautral [Founder]: Killed Silverfish]
-[01:58:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> :O
-[01:58:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> funciona
-[01:59:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> haber
-[01:59:23] [Server thread/INFO]: Xautral issued server command: /place template minecraft:test
-[01:59:23] [Server thread/INFO]: [Xautral [Founder]: Loaded template "minecraft:test" at 177, 64, 87]
-[01:59:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> :ooo
-[01:59:27] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> mira
-[01:59:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> blime
-[01:59:30] [Server thread/INFO]: Xautral issued server command: /place template minecraft:test1
-[01:59:39] [Async Chat Thread - #10/INFO]: [Not Secure] <blime2009> *aplaude epicamente*
-[01:59:45] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> ahora
-[01:59:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> podemos hacer una infinidad de cosas
-[02:00:03] [Async Chat Thread - #10/INFO]: [Not Secure] <blime2009> como runa de estructura?
-[02:00:18] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> haber
-[02:00:24] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> tu programas las runas y yo las estructuras
-[02:00:54] [Async Chat Thread - #10/INFO]: [Not Secure] <blime2009> va
-[02:00:58] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
-[02:00:58] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
-[02:01:09] [Server thread/INFO]: blime2009 issued server command: /tp 0 300 0
-[02:01:09] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 300.000000, 0.500000]
-[02:01:14] [Server thread/INFO]: blime2009 issued server command: /setblock ~ ~ ~ minecraft:bedrock
-[02:01:14] [Server thread/INFO]: [blime2009 [Scripting]: Changed the block at 0, 303, 0]
-[02:02:17] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
-[02:02:17] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
-[02:02:55] [User Authenticator #2/INFO]: UUID of player waves_862 is 36165713-84b9-3487-ae27-8bc63142c02a
-[02:02:55] [Server thread/INFO]: Disconnecting waves_862 (/127.4.136.212:34273): You are banned from this server.
-Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
-[02:02:55] [Server thread/INFO]: waves_862 (/127.4.136.212:34273) lost connection: You are banned from this server.
-Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
-[02:04:00] [User Authenticator #3/INFO]: UUID of player waves_862 is 36165713-84b9-3487-ae27-8bc63142c02a
-[02:04:00] [Server thread/INFO]: Disconnecting waves_862 (/127.4.136.212:38989): You are banned from this server.
-Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
-[02:04:00] [Server thread/INFO]: waves_862 (/127.4.136.212:38989) lost connection: You are banned from this server.
-Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
-[02:05:38] [User Authenticator #4/INFO]: UUID of player waves_862 is 36165713-84b9-3487-ae27-8bc63142c02a
-[02:05:38] [Server thread/INFO]: Disconnecting waves_862 (/127.4.136.212:33815): You are banned from this server.
-Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
-[02:05:39] [Server thread/INFO]: waves_862 (/127.4.136.212:33815) lost connection: You are banned from this server.
-Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
-[02:09:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> a
-[02:10:30] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[02:10:30] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
-[02:10:39] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> q tipo de estructura es esta
-[02:10:57] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
-[02:10:57] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
-[02:11:20] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> jaja
-[02:11:28] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> cuando dijiste "no puedo con tus mamadas"
-[02:11:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> que tenías o que
-[02:11:39] [Server thread/INFO]: Xautral issued server command: /fill 178 72 111
-[02:11:45] [Server thread/INFO]: Xautral issued server command: /fill 178 72 111 184 72 117 nether_brick_slab
-[02:11:45] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 30 block(s)]
-[02:11:55] [Async Chat Thread - #12/INFO]: [Not Secure] <blime2009> es que eran muy ricas
-[02:12:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Xautral> ._?
-[02:14:13] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[02:14:13] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
-[02:14:43] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
-[02:14:43] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
-[02:14:47] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> el server se siente diferente cuando tienes el texture pack de Programmers Art (el texture pack de las texturas antiguas)
-[02:15:37] [Async Chat Thread - #14/INFO]: [Not Secure] <blime2009> oye
-[02:15:40] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> que
-[02:15:51] [Async Chat Thread - #14/INFO]: [Not Secure] <blime2009> como spawneo una estructura customt
-[02:15:55] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> con /place
-[02:16:06] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> pon /place template [nombre]
-[02:16:26] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[02:16:26] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
-[02:16:48] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
-[02:16:48] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to 0.500000, 0.000000, 0.500000]
-[02:16:59] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[02:16:59] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
-[02:17:37] [Async Chat Thread - #16/INFO]: [Not Secure] <blime2009> vamooo
-[02:17:39] [Async Chat Thread - #16/INFO]: [Not Secure] <blime2009> ya lo ise
-[02:18:09] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> yo hice un infierno
-[02:18:40] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
-[02:18:42] [Server thread/INFO]: Xautral [Founder] has made the advancement [Not Today, Thank You]
-[02:18:52] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> cabron son un chingo
-[02:18:52] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
-[02:18:57] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11406, uuid='87238a13-bc81-40d9-8f86-b2a024ecf460', l='ServerLevel[world]', x=181.29, y=69.00, z=110.22, cpos=[11, 6], tl=635, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11391, uuid='79ae878b-b55f-4e33-9518-a2e312625c80', l='ServerLevel[world]', x=179.82, y=68.00, z=100.91, cpos=[11, 6], tl=681, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:18:58] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:skeleton]
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11332, uuid='d489efb0-42f2-4a3f-bc97-ac27f2cf8e85', l='ServerLevel[world]', x=185.15, y=67.00, z=100.97, cpos=[11, 6], tl=963, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11399, uuid='932bf94b-01d5-41c2-9fb2-87bf56671967', l='ServerLevel[world]', x=181.90, y=67.00, z=99.67, cpos=[11, 6], tl=681, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11468, uuid='c8fd902a-729d-4598-88bd-fb32d30ed266', l='ServerLevel[world]', x=181.11, y=68.00, z=103.22, cpos=[11, 6], tl=319, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11558, uuid='5b50e123-c2f7-475c-bb42-4de1f6835e8b', l='ServerLevel[world]', x=179.19, y=68.00, z=109.61, cpos=[11, 6], tl=56, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11545, uuid='6e76edf0-3cb2-4a78-8c41-b8be11c27a73', l='ServerLevel[world]', x=167.75, y=68.00, z=118.25, cpos=[10, 7], tl=119, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11467, uuid='07f58985-55a0-4bf4-8c38-f5d0f4367b60', l='ServerLevel[world]', x=163.14, y=72.00, z=113.28, cpos=[10, 7], tl=319, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11496, uuid='3fbca621-0fb0-4027-bca6-4db699f71b66', l='ServerLevel[world]', x=175.98, y=68.00, z=109.47, cpos=[10, 6], tl=245, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11544, uuid='574549fd-703e-4c61-8560-7a381f276de8', l='ServerLevel[world]', x=171.76, y=68.00, z=110.72, cpos=[10, 6], tl=119, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11456, uuid='1b481f81-7e00-41f3-9375-1a88fd857011', l='ServerLevel[world]', x=185.89, y=69.00, z=111.01, cpos=[11, 6], tl=330, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11389, uuid='5ea96443-ad76-4690-b191-0d1b523dfed6', l='ServerLevel[world]', x=184.72, y=68.00, z=109.58, cpos=[11, 6], tl=686, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11361, uuid='f19e86a9-54f3-49a3-a57c-cac7fc2990a0', l='ServerLevel[world]', x=180.99, y=68.00, z=108.55, cpos=[11, 6], tl=824, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11398, uuid='212e83b7-5d75-40e4-99e2-b01134ddf00e', l='ServerLevel[world]', x=189.99, y=68.00, z=102.94, cpos=[11, 6], tl=682, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11431, uuid='b5f49fc3-61a5-4992-b56b-4473329e131b', l='ServerLevel[world]', x=211.35, y=75.00, z=114.17, cpos=[13, 7], tl=494, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11401, uuid='51117022-9b13-4cfb-ab7a-b282a3bd68e1', l='ServerLevel[world]', x=192.11, y=68.00, z=109.93, cpos=[12, 6], tl=680, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11400, uuid='245dca4c-1f41-46e4-a544-26dfaeab5ed1', l='ServerLevel[world]', x=191.57, y=68.00, z=106.51, cpos=[11, 6], tl=681, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11385, uuid='71f723ad-b761-4006-89c0-4392a402d103', l='ServerLevel[world]', x=177.78, y=68.00, z=137.75, cpos=[11, 8], tl=729, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11392, uuid='2b3cf642-d9b9-4447-b8d2-01924b81a1b2', l='ServerLevel[world]', x=188.22, y=69.00, z=129.43, cpos=[11, 8], tl=685, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11512, uuid='86f9900a-95d2-4d35-9b28-96eb4e845925', l='ServerLevel[world]', x=175.82, y=69.00, z=116.08, cpos=[10, 7], tl=198, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11560, uuid='64bf8684-a0bf-48a2-b86d-d6d9fa73a547', l='ServerLevel[world]', x=185.68, y=69.00, z=116.95, cpos=[11, 7], tl=39, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11433, uuid='85bee4b3-8594-4f28-b11c-c8ecfef40b85', l='ServerLevel[world]', x=215.79, y=67.00, z=116.21, cpos=[13, 7], tl=488, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11390, uuid='756089e0-7374-4a80-84b6-3c235387b5ca', l='ServerLevel[world]', x=153.48, y=70.00, z=124.27, cpos=[9, 7], tl=685, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11388, uuid='fdebf671-4aba-4b70-9671-e51268b248bb', l='ServerLevel[world]', x=182.74, y=69.00, z=127.24, cpos=[11, 7], tl=687, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11338, uuid='c866c185-fe40-4d63-bc0c-9d4a557c0b26', l='ServerLevel[world]', x=188.53, y=68.00, z=113.62, cpos=[11, 7], tl=950, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11530, uuid='397798f9-690c-4afe-aa88-87f4d6e2536e', l='ServerLevel[world]', x=168.74, y=68.00, z=111.72, cpos=[10, 6], tl=161, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11531, uuid='c34722eb-7e47-467a-9e95-323f964cc006', l='ServerLevel[world]', x=178.92, y=74.50, z=115.58, cpos=[11, 7], tl=161, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11366, uuid='e9d2dbf4-f2de-4834-967f-050e30b7aa7c', l='ServerLevel[world]', x=192.29, y=69.00, z=123.50, cpos=[12, 7], tl=814, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11387, uuid='eefe166c-d051-4b15-8251-557fe536642b', l='ServerLevel[world]', x=179.73, y=74.00, z=112.51, cpos=[11, 7], tl=688, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11384, uuid='8616a80e-1e7e-48f7-b0ae-50c3db94cffd', l='ServerLevel[world]', x=192.02, y=68.00, z=111.13, cpos=[12, 6], tl=737, v=true] died: Campaign Soldier was killed
-[02:18:58] [Server thread/INFO]: [Xautral [Founder]: Killed 52 entities]
-[02:19:17] [Server thread/INFO]: blime2009 issued server command: /fill 207 78 134
-[02:19:22] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
-[02:19:23] [Server thread/INFO]: blime2009 issued server command: /fill 207 78 134 200 70 127 air
-[02:19:23] [Server thread/INFO]: [blime2009 [Scripting]: Successfully filled 225 block(s)]
-[02:19:30] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
-[02:19:37] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11664, uuid='f577695f-c093-46d2-b813-490ba9720080', l='ServerLevel[world]', x=182.90, y=69.00, z=114.19, cpos=[11, 7], tl=749, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:19:37] [Server thread/INFO]: Xautral issued server command: /kill @e[type=zombie]
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11466, uuid='5acb2869-7fb6-4bfb-b362-6ba7a7757ef9', l='ServerLevel[world]', x=184.67, y=69.94, z=118.78, cpos=[11, 7], tl=1098, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11325, uuid='56d9c322-411f-4d45-9cb3-b831b10ec9be', l='ServerLevel[world]', x=192.58, y=68.00, z=107.42, cpos=[12, 6], tl=1784, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11311, uuid='7ae15b44-72a2-4688-912f-dda4e9cf7216', l='ServerLevel[world]', x=190.09, y=68.00, z=112.50, cpos=[11, 7], tl=1829, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11425, uuid='95ee53a9-28e6-4327-9e76-3d9ceeec6d49', l='ServerLevel[world]', x=185.41, y=69.00, z=121.38, cpos=[11, 7], tl=1297, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11427, uuid='b9c1d011-37c2-408c-af42-d41059fa73c0', l='ServerLevel[world]', x=182.34, y=69.00, z=122.83, cpos=[11, 7], tl=1287, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11746, uuid='8a339451-cbce-4405-bd58-0c6d30fa399c', l='ServerLevel[world]', x=196.32, y=69.00, z=120.32, cpos=[12, 7], tl=342, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11479, uuid='3a101097-439a-48ea-8d76-26876a573c77', l='ServerLevel[world]', x=182.87, y=69.00, z=119.85, cpos=[11, 7], tl=1069, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11293, uuid='892c8ed9-c2ce-405e-83cd-9da13d1ae6b2', l='ServerLevel[world]', x=183.40, y=69.00, z=110.52, cpos=[11, 6], tl=1901, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11294, uuid='37fa6589-0504-4824-a978-0814e582490a', l='ServerLevel[world]', x=185.50, y=64.75, z=89.70, cpos=[11, 5], tl=1898, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11345, uuid='bd96c045-1364-4847-bdbe-7c181516203d', l='ServerLevel[world]', x=182.80, y=69.00, z=122.10, cpos=[11, 7], tl=1678, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11494, uuid='82029d8e-52d4-48f3-830a-189f9ad91f84', l='ServerLevel[world]', x=181.86, y=69.00, z=115.39, cpos=[11, 7], tl=1029, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11331, uuid='c68e0b0c-cd7f-4349-ae38-d915f68adce5', l='ServerLevel[world]', x=180.32, y=69.00, z=116.51, cpos=[11, 7], tl=1745, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11837, uuid='468958e8-5f9f-4436-8231-768382ae5af6', l='ServerLevel[world]', x=211.18, y=71.00, z=118.85, cpos=[13, 7], tl=16, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11343, uuid='47cd09d0-04a8-4ccf-867e-b59a3ed51ba1', l='ServerLevel[world]', x=172.76, y=68.00, z=110.19, cpos=[10, 6], tl=1684, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11728, uuid='89f82e39-f86c-41ba-bd15-f4fc98517e90', l='ServerLevel[world]', x=189.42, y=70.00, z=126.72, cpos=[11, 7], tl=453, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11335, uuid='52a6cd8e-9d66-4a72-801b-784b18ae3fa9', l='ServerLevel[world]', x=180.98, y=69.00, z=117.00, cpos=[11, 7], tl=1737, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11432, uuid='62fb7475-21d4-403f-af4c-4153be782e2d', l='ServerLevel[world]', x=180.45, y=69.00, z=114.75, cpos=[11, 7], tl=1267, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11700, uuid='4acd4d02-fc35-4df7-bbd5-0e1178239152', l='ServerLevel[world]', x=197.43, y=69.00, z=121.44, cpos=[12, 7], tl=582, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11455, uuid='aa0e05bb-8c55-445b-8bcc-150dcff73c3e', l='ServerLevel[world]', x=183.92, y=69.00, z=122.50, cpos=[11, 7], tl=1119, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11750, uuid='cab30694-bef4-426e-8396-cddb76570510', l='ServerLevel[world]', x=194.45, y=69.00, z=127.46, cpos=[12, 7], tl=315, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11347, uuid='40d60651-aab4-4340-8c46-2542a47f6c9c', l='ServerLevel[world]', x=190.34, y=69.00, z=119.38, cpos=[11, 7], tl=1657, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11342, uuid='ccd4f2c8-111b-4c63-a208-f4e0ef0425c9', l='ServerLevel[world]', x=182.21, y=69.00, z=119.24, cpos=[11, 7], tl=1686, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11511, uuid='ea209765-9577-421c-bf77-4f8e4751742f', l='ServerLevel[world]', x=181.41, y=69.00, z=120.01, cpos=[11, 7], tl=977, v=true] died: Campaign Soldier was killed while fighting Campaign Soldier
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11568, uuid='8e63cb29-c80d-46df-bd47-dce7f929ca3b', l='ServerLevel[world]', x=182.52, y=69.00, z=117.44, cpos=[11, 7], tl=787, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11448, uuid='1d1820d2-c452-49d3-95ea-7ff6caaee3f7', l='ServerLevel[world]', x=183.68, y=69.00, z=120.72, cpos=[11, 7], tl=1167, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11751, uuid='9fb96c8f-d98b-4893-8d48-4b0f754fed60', l='ServerLevel[world]', x=188.66, y=69.75, z=127.30, cpos=[11, 7], tl=291, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11764, uuid='77c062a8-2164-445f-b2b0-66d930b4a541', l='ServerLevel[world]', x=205.31, y=69.00, z=120.27, cpos=[12, 7], tl=257, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11778, uuid='1215e67e-2fac-479e-8dc6-b4fc44f2aaac', l='ServerLevel[world]', x=198.38, y=69.00, z=118.50, cpos=[12, 7], tl=205, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11326, uuid='43e3b81e-742a-4b53-a964-d56b05e541a9', l='ServerLevel[world]', x=179.64, y=69.00, z=113.42, cpos=[11, 7], tl=1784, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11350, uuid='22307b2b-ac35-4685-a1e0-9102c5bf1c77', l='ServerLevel[world]', x=200.15, y=64.00, z=90.16, cpos=[12, 5], tl=1652, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11382, uuid='c9051684-c33b-4158-a813-b8a520f57cee', l='ServerLevel[world]', x=180.19, y=69.00, z=114.09, cpos=[11, 7], tl=1541, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11441, uuid='3a67bf75-b291-470d-ae19-7d16c7610e52', l='ServerLevel[world]', x=183.64, y=69.00, z=118.46, cpos=[11, 7], tl=1212, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11565, uuid='3d8f2e62-c186-41a7-80d1-e559252f5c4c', l='ServerLevel[world]', x=181.57, y=69.00, z=118.53, cpos=[11, 7], tl=793, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11475, uuid='cc8f569a-5f78-4072-82f7-322ff058ca54', l='ServerLevel[world]', x=180.50, y=69.00, z=110.88, cpos=[11, 6], tl=1080, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11373, uuid='6583fd27-fab6-4bf6-a916-a63756aa8b28', l='ServerLevel[world]', x=182.21, y=69.00, z=120.21, cpos=[11, 7], tl=1577, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11292, uuid='9d1815e5-8073-4158-86e4-a1b2a79de6fa', l='ServerLevel[world]', x=182.55, y=69.00, z=113.36, cpos=[11, 7], tl=1919, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/11363, uuid='7c28e4ad-2673-46bf-b4b5-a7dcf13587e5', l='ServerLevel[world]', x=188.23, y=68.00, z=111.50, cpos=[11, 6], tl=1596, v=true] died: Campaign Soldier was killed
-[02:19:37] [Server thread/INFO]: [Xautral [Founder]: Killed 47 entities]
-[02:19:41] [Server thread/INFO]: blime2009 lost connection: Disconnected
-[02:19:41] [Server thread/INFO]: blime2009 [Scripting] left the game
-[02:20:14] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11739, uuid='58e5a27a-3001-4a6f-abef-e13eb9d61e16', l='ServerLevel[world]', x=188.55, y=68.00, z=104.08, cpos=[11, 6], tl=1123, v=true] died: Campaign Soldier was shot by Campaign Soldier using [Desatomizator]
-[02:20:22] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11712, uuid='f3500f0d-ff6b-4a06-84af-a4dec9f5105b', l='ServerLevel[world]', x=182.70, y=73.00, z=116.20, cpos=[11, 7], tl=1436, v=true] died: Campaign Soldier was shot by Campaign Soldier using [Desatomizator]
-[02:20:42] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
-[02:20:47] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/12000, uuid='c59d564f-3bbd-44fe-aba8-3332ca80cc87', l='ServerLevel[world]', x=183.37, y=69.00, z=112.32, cpos=[11, 7], tl=879, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:20:52] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11650, uuid='75b54f96-2a7c-44e6-b5b6-995f33374891', l='ServerLevel[world]', x=176.04, y=69.00, z=120.70, cpos=[11, 7], tl=2264, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
-[02:20:55] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
-[02:21:02] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11970, uuid='f16256fa-8d0a-43d2-81f5-35e3a3779eba', l='ServerLevel[world]', x=182.20, y=67.00, z=97.73, cpos=[11, 6], tl=1253, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:21:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11741, uuid='0ecebc63-9d14-45bd-ad66-8efa4299edea', l='ServerLevel[world]', x=182.15, y=65.00, z=93.70, cpos=[11, 5], tl=2277, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
-[02:21:25] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11737, uuid='b6fe3c74-e902-485a-b12b-aac4b1a9c3fb', l='ServerLevel[world]', x=181.41, y=73.00, z=117.01, cpos=[11, 7], tl=2543, v=true] died: Campaign Soldier was shot by Campaign Soldier using [Desatomizator]
-[02:26:29] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
-[02:27:03] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11919, uuid='f604a2ed-0b40-4037-ac0c-a97bef691e63', l='ServerLevel[world]', x=177.30, y=62.00, z=91.30, cpos=[11, 5], tl=8787, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:27:04] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/11690, uuid='36ace1c5-cad5-4720-89dc-d82929540caa', l='ServerLevel[world]', x=178.38, y=61.00, z=92.91, cpos=[11, 5], tl=9610, v=true] died: Campaign Soldier was slain by Xautral [Founder]
-[02:27:29] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/12149, uuid='9341fcc0-2ac0-4c2c-bf3f-2267657b97ff', l='ServerLevel[world]', x=175.65, y=64.00, z=93.51, cpos=[10, 5], tl=8281, v=true] died: Campaign Soldier was slain by Xautral [Founder]
-[02:27:43] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
-[02:27:59] [Server thread/INFO]: Xautral issued server command: /fill 186 67 109
-[02:28:07] [Server thread/INFO]: Xautral issued server command: /fill 186 67 109 176 77 119 air destroy
-[02:28:07] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 375 block(s)]
-[02:28:41] [Server thread/INFO]: Xautral issued server command: /fill 165 67 105
-[02:28:48] [Server thread/INFO]: Xautral issued server command: /fill 165 67 105 ~ ~ ~ air
-[02:28:48] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 225 block(s)]
-[02:37:20] [Server thread/INFO]: Xautral issued server command: /fill 22 68 140
-[02:37:26] [Server thread/INFO]: Xautral issued server command: /fill 22 68 140 29 68 147 oak_slab
-[02:37:26] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 36 block(s)]
-[02:37:35] [Server thread/INFO]: Xautral issued server command: /fill 28 68 146
-[02:37:41] [Server thread/INFO]: Xautral issued server command: /fill 28 68 146 23 68 141 oak_slab
-[02:37:41] [Server thread/INFO]: [Xautral [Founder]: Successfully filled 2 block(s)]
-[02:41:28] [Server thread/INFO]: Xautral issued server command: /place template minecraft:defense_structure
-[02:41:28] [Server thread/INFO]: [Xautral [Founder]: Loaded template "minecraft:defense_structure" at 10, 67, 98]
-[02:41:50] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
-[02:42:12] [Server thread/INFO]: Named entity ZombieVillager['Zombie Villager Defensor'/15181, uuid='d6dd4dbd-2031-4208-ac25-dd95bdf21bce', l='ServerLevel[world]', x=30.12, y=64.50, z=143.26, cpos=[1, 8], tl=1578, v=true] died: Zombie Villager Defensor was slain by Xautral [Founder]
-[02:43:33] [User Authenticator #5/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
-[02:43:34] [Server thread/INFO]: blime2009 [Scripting] joined the game
-[02:43:34] [Server thread/INFO]: blime2009[/127.20.187.84:55313] logged in with entity id 15615 at ([world]200.23750001192093, 69.2560830529695, 117.53587255223842)
-[02:43:47] [Server thread/INFO]: blime2009 issued server command: /tp Xautral
-[02:43:47] [Server thread/INFO]: [blime2009 [Scripting]: Teleported blime2009 [Scripting] to Xautral [Founder]]
-[02:44:05] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
-[02:44:11] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
-[02:44:21] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
-[02:44:26] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:regeneration infinite 25 true
-[02:44:26] [Server thread/INFO]: [Xautral [Founder]: Applied effect Regeneration to Xautral [Founder]]
-[02:44:26] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
-[02:44:33] [Server thread/INFO]: blime2009 lost connection: Disconnected
-[02:44:33] [Server thread/INFO]: blime2009 [Scripting] left the game
-[02:44:40] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15809, uuid='3cf8ad18-cfd4-4afe-8c34-efdf3bb93d39', l='ServerLevel[world]', x=16.04, y=65.00, z=106.26, cpos=[1, 6], tl=468, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
-[02:44:50] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:iron_pickaxe
-[02:44:50] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Iron Pickaxe] to Xautral [Founder]]
-[02:44:51] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15766, uuid='f4898b93-d857-4027-9516-c6b48a7f4c71', l='ServerLevel[world]', x=15.30, y=64.00, z=108.30, cpos=[0, 6], tl=965, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:44:59] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15797, uuid='5b88ca1a-6494-4115-ac2d-4e36664c61cf', l='ServerLevel[world]', x=35.80, y=64.00, z=133.55, cpos=[2, 8], tl=930, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:45:21] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:45:21] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:45:27] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:45:27] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:45:27] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:45:27] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:45:27] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:45:27] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:45:28] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:iron_pickaxe
-[02:45:28] [Server thread/INFO]: [Xautral [Founder]: Gave 1 [Iron Pickaxe] to Xautral [Founder]]
-[02:45:30] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:45:30] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:45:51] [Server thread/INFO]: Xautral issued server command: /give Xautral ender_pearl 128
-[02:45:51] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Ender Pearl] to Xautral [Founder]]
-[02:46:09] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16120, uuid='ab800662-b97d-424d-a6a8-3eda75997edf', l='ServerLevel[world]', x=11.72, y=65.00, z=107.29, cpos=[0, 6], tl=641, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:46:23] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15968, uuid='aef9fb4f-2ca7-43a6-8548-19abcf66d04e', l='ServerLevel[world]', x=22.87, y=64.00, z=124.34, cpos=[1, 7], tl=1595, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
-[02:46:30] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:efficiency 5
-[02:46:30] [Server thread/INFO]: [Xautral [Founder]: Applied enchantment Efficiency V to Xautral [Founder]'s item]
-[02:46:53] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16230, uuid='2e6c9335-7d7c-4594-9fb3-9ba2d5cb782c', l='ServerLevel[world]', x=10.30, y=65.00, z=119.85, cpos=[0, 7], tl=927, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Axe]
-[02:47:06] [Server thread/INFO]: Xautral issued server command: /give Xautral minecraft:wind_charge 128
-[02:47:06] [Server thread/INFO]: [Xautral [Founder]: Gave 128 [Wind Charge] to Xautral [Founder]]
-[02:47:45] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:47:45] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:47:45] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:47:45] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:47:46] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:47:46] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:47:47] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:47:47] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:48:01] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16123, uuid='0e4624b3-31ce-4fd5-b506-6a69d747cf1e', l='ServerLevel[world]', x=9.30, y=62.00, z=119.08, cpos=[0, 7], tl=2870, v=true] died: Campaign Soldier was slain by Campaign Soldier using [Midas Sword]
-[02:48:12] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
-[02:48:19] [Server thread/INFO]: Xautral issued server command: /ie edit
-[02:48:35] [User Authenticator #6/INFO]: UUID of player waves_862 is 36165713-84b9-3487-ae27-8bc63142c02a
-[02:48:35] [Server thread/INFO]: Disconnecting waves_862 (/127.4.136.212:60503): You are banned from this server.
-Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
-[02:48:35] [Server thread/INFO]: waves_862 (/127.4.136.212:60503) lost connection: You are banned from this server.
-Reason: §cCuenta Comprometda, Discurso que fomenta al odio - §c§l1 Hora
-[02:48:37] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
-[02:48:47] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
-[02:48:54] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:resistance infinite 25 true
-[02:48:54] [Server thread/INFO]: [Xautral [Founder]: Applied effect Resistance to Xautral [Founder]]
-[02:48:56] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Survival Mode]
-[02:49:00] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:49:00] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:49:01] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:49:01] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:49:01] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:49:01] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:49:02] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:49:02] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:49:02] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:49:02] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:49:04] [Server thread/INFO]: Xautral issued server command: /summon tnt
-[02:49:04] [Server thread/INFO]: [Xautral [Founder]: Summoned new Primed TNT]
-[02:49:06] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15840, uuid='65c82591-eda3-45db-811f-12a5420b62d9', l='ServerLevel[world]', x=10.57, y=63.85, z=126.48, cpos=[0, 7], tl=5580, v=true] died: Campaign Soldier blew up
-[02:49:34] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15885, uuid='db64203b-578a-405a-a0a0-10126da86ea1', l='ServerLevel[world]', x=15.71, y=61.00, z=140.03, cpos=[0, 8], tl=5924, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:49:34] [Server thread/INFO]: Xautral [Founder] has completed the challenge [Over-Overkill]
-[02:49:37] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15803, uuid='8666de9e-e208-4104-bf43-1ee7b0dd0de4', l='ServerLevel[world]', x=11.37, y=61.00, z=137.99, cpos=[0, 8], tl=6453, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:50:04] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15756, uuid='56fecf5f-77a2-4c90-ba71-a2d044e420fc', l='ServerLevel[world]', x=13.32, y=60.00, z=138.40, cpos=[0, 8], tl=7312, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:50:09] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15856, uuid='5461eb1b-b939-4531-80a9-4f8c341ac96e', l='ServerLevel[world]', x=15.64, y=61.00, z=140.70, cpos=[0, 8], tl=6766, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:50:39] [Server thread/INFO]: Xautral lost connection: Disconnected
-[02:50:39] [Server thread/INFO]: Xautral [Founder] left the game
-[02:52:42] [User Authenticator #7/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[02:52:44] [Server thread/INFO]: Xautral [Founder] joined the game
-[02:52:44] [Server thread/INFO]: Xautral[/127.115.99.248:60357] logged in with entity id 17198 at ([world]18.652248412225088, 63.0, 142.30000001192093)
-[02:52:55] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15877, uuid='a81f928f-58d0-4157-a320-265fc817425c', l='ServerLevel[world]', x=13.72, y=61.00, z=139.40, cpos=[0, 8], tl=7674, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:53:07] [Server thread/INFO]: Xautral issued server command: /kill @e[type=zombie,distance=..15]
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15967, uuid='31027a8b-de24-4488-aafd-e67852f49889', l='ServerLevel[world]', x=8.48, y=62.00, z=127.20, cpos=[0, 7], tl=7372, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15759, uuid='4b2b31ef-cd03-487d-9779-e765d142dfa1', l='ServerLevel[world]', x=9.78, y=57.00, z=124.72, cpos=[0, 7], tl=8659, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15804, uuid='65db1383-13a1-4000-996c-da7f79162848', l='ServerLevel[world]', x=5.70, y=60.00, z=136.70, cpos=[0, 8], tl=8345, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15784, uuid='b1e08195-00c7-439d-9ce1-f4aad95d7abb', l='ServerLevel[world]', x=5.70, y=60.00, z=136.30, cpos=[0, 8], tl=8475, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15876, uuid='1d3b72df-7db9-4c18-b89f-f2454f3f9e36', l='ServerLevel[world]', x=5.30, y=60.00, z=136.70, cpos=[0, 8], tl=7925, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/16207, uuid='d42eaa9f-447d-402e-84d3-4d001acc47da', l='ServerLevel[world]', x=6.30, y=60.00, z=134.51, cpos=[0, 8], tl=6216, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/16134, uuid='250f83da-f312-439c-9ae8-36bfd9883096', l='ServerLevel[world]', x=11.46, y=61.00, z=139.26, cpos=[0, 8], tl=6645, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15835, uuid='e4beafe3-bfaa-4022-a3ad-8fb3ff934746', l='ServerLevel[world]', x=5.70, y=60.00, z=136.30, cpos=[0, 8], tl=8130, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15783, uuid='9061f60b-071d-437c-bdb0-04879a2cf267', l='ServerLevel[world]', x=7.96, y=61.00, z=137.09, cpos=[0, 8], tl=8475, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15836, uuid='73d921ae-6cef-400a-a85e-acade6a93553', l='ServerLevel[world]', x=7.30, y=61.00, z=137.21, cpos=[0, 8], tl=8134, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15785, uuid='b21327a7-3792-4510-a233-69a33f9d062a', l='ServerLevel[world]', x=6.30, y=62.00, z=136.72, cpos=[0, 8], tl=8475, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/16126, uuid='0fb8bee4-b99c-4241-a969-1bb55113fc6f', l='ServerLevel[world]', x=8.63, y=61.00, z=136.97, cpos=[0, 8], tl=6678, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15765, uuid='216fed73-1b1d-4ecf-9579-16a76ae91a0e', l='ServerLevel[world]', x=10.56, y=59.00, z=128.20, cpos=[0, 8], tl=8595, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/15782, uuid='bcc1a6e4-d5d2-4a7d-b1f5-6a838eb60763', l='ServerLevel[world]', x=10.73, y=64.00, z=135.96, cpos=[0, 8], tl=8479, v=true] died: Campaign Soldier was killed
-[02:53:07] [Server thread/INFO]: [Xautral [Founder]: Killed 14 entities]
-[02:53:12] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:skeleton,distance=..15]
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16268, uuid='16396714-fd8d-4464-a020-399b012c0d32', l='ServerLevel[world]', x=14.51, y=58.00, z=125.90, cpos=[0, 7], tl=6003, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15862, uuid='df76d74c-dd96-4d3a-9a90-e182e0808f02', l='ServerLevel[world]', x=5.30, y=60.00, z=136.30, cpos=[0, 8], tl=8106, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15980, uuid='22f99f3f-0f8f-4ca7-9ea2-0b5bac072814', l='ServerLevel[world]', x=5.70, y=60.00, z=136.30, cpos=[0, 8], tl=7360, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16138, uuid='9780b514-c79d-46ec-82ae-fd0edf4b5764', l='ServerLevel[world]', x=5.70, y=60.00, z=136.70, cpos=[0, 8], tl=6730, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16302, uuid='00c380ea-f0b1-43fa-a058-e0989796e207', l='ServerLevel[world]', x=5.30, y=60.00, z=136.70, cpos=[0, 8], tl=5744, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16275, uuid='76da9d90-a83c-4bfe-b604-a7e142323abd', l='ServerLevel[world]', x=5.30, y=60.00, z=136.30, cpos=[0, 8], tl=5981, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15773, uuid='6ac7ff63-6f21-463d-90ca-5d45088666c2', l='ServerLevel[world]', x=3.70, y=60.75, z=134.67, cpos=[0, 8], tl=8650, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15944, uuid='e225bd23-1bc9-4bd0-acb3-1c1b981435cf', l='ServerLevel[world]', x=8.79, y=61.00, z=137.07, cpos=[0, 8], tl=7592, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16218, uuid='cc79fa3c-abde-4ecc-8402-aaae91866a0e', l='ServerLevel[world]', x=8.33, y=61.00, z=137.70, cpos=[0, 8], tl=6269, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16269, uuid='a77bf501-cac2-46c0-a25c-d12e2dc41897', l='ServerLevel[world]', x=8.03, y=61.00, z=137.19, cpos=[0, 8], tl=6008, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16219, uuid='9e2cef2d-b470-4e36-90c1-3919cd806522', l='ServerLevel[world]', x=7.58, y=61.00, z=137.34, cpos=[0, 8], tl=6269, v=true] died: Campaign Soldier was killed
-[02:53:12] [Server thread/INFO]: [Xautral [Founder]: Killed 11 entities]
-[02:53:26] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16205, uuid='5799cc6e-2ade-4a08-b787-d726f42bb0d2', l='ServerLevel[world]', x=13.21, y=57.00, z=126.55, cpos=[0, 7], tl=6635, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:53:29] [Server thread/INFO]: Named entity Zombie['Campaign Soldier'/16141, uuid='25b7d71e-a37e-4300-b614-52e2a4545ac2', l='ServerLevel[world]', x=10.89, y=57.00, z=124.17, cpos=[0, 7], tl=7069, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:53:44] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/16133, uuid='3f56ac78-23e7-4625-a761-3e7a63f17635', l='ServerLevel[world]', x=14.85, y=59.00, z=126.53, cpos=[0, 7], tl=7380, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:54:02] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15758, uuid='9065f2dd-382e-4e56-ab03-37e512ca3a93', l='ServerLevel[world]', x=12.66, y=59.00, z=109.95, cpos=[0, 6], tl=9759, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:54:17] [Server thread/INFO]: Named entity Skeleton['Campaign Soldier'/15945, uuid='710775e2-9842-4230-a2d8-e8326ee02053', l='ServerLevel[world]', x=9.49, y=59.00, z=110.29, cpos=[0, 6], tl=8875, v=true] died: Campaign Soldier was smashed by Xautral [Founder]
-[02:54:21] [Server thread/INFO]: [Xautral [Founder]: Set own game mode to Creative Mode]
-[02:54:30] [Server thread/INFO]: Xautral issued server command: /kill
-[02:54:30] [Server thread/INFO]: Xautral [Founder] was killed
-[02:54:30] [Server thread/INFO]: [Xautral [Founder]: Killed Xautral [Founder]]
-[02:54:45] [Server thread/INFO]: Xautral issued server command: /tp ~ ~255 ~
-[02:54:45] [Server thread/INFO]: [Xautral [Founder]: Teleported Xautral [Founder] to 72.452275, 323.000000, 8.689321]
-[02:55:08] [Server thread/INFO]: Xautral issued server command: /stop
-[02:55:08] [Server thread/INFO]: [Xautral [Founder]: Stopping the server]
-[02:55:09] [Server thread/INFO]: Stopping server
-[02:55:09] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
-[02:55:09] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[02:55:09] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[02:55:09] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[02:55:09] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.4
-[02:55:09] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v2.1.0
-[02:55:09] [Server thread/INFO]: [BattleLock] Disabling BattleLock v1.3
-[02:55:09] [Server thread/INFO]: [BattleLock] BattleLock has been disabled.
-[02:55:09] [Server thread/INFO]: [OpenInv] Disabling OpenInv v5.1.13
-[02:55:09] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
-[02:55:09] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
-[02:55:09] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[02:55:09] [Server thread/INFO]: Saving players
-[02:55:09] [Server thread/INFO]: Xautral lost connection: Server closed
-[02:55:09] [Server thread/INFO]: Xautral left the game
-[02:55:09] [Server thread/INFO]: Saving worlds
-[02:55:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saved 246 block chunks, 442 entity chunks, 0 poi chunks in world 'world' in 0.40s
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[02:55:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 27 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[02:55:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 51 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[02:55:09] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[02:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:55:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:55:09] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[02:55:09] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[02:55:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[02:55:09] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[19:09:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:09:18] [ServerMain/INFO]: Loaded 1407 recipes
+[19:09:18] [ServerMain/INFO]: Loaded 1520 advancements
+[19:09:18] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[19:09:18] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 362.1ms
+[19:09:18] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:09:18] [Server thread/INFO]: Loading properties
+[19:09:18] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[19:09:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:09:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:09:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:09:19] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:09:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[19:09:21] [Server thread/INFO]: Default game type: SURVIVAL
+[19:09:21] [Server thread/INFO]: Generating keypair
+[19:09:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:09:21] [Server thread/INFO]: Using epoll channel type
+[19:09:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:09:21] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[19:09:22] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/mc/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[19:09:22] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
+[19:09:22] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[19:09:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:09:23] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:09:23] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:09:23] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:09:24] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
+[19:09:24] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v5.1.13
+[19:09:24] [Server thread/INFO]: [BattleLock] Loading server plugin BattleLock v1.3
+[19:09:24] [Server thread/INFO]: [ItemEditor] Loading server plugin ItemEditor v2.1.0
+[19:09:24] [Server thread/INFO]: [ItemEditor] Detected Minecraft version 1.21.8
+[19:09:24] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.4
+[19:09:24] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[19:09:24] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[19:09:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:09:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[19:09:24] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[19:09:25] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:09:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:09:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:09:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:09:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:09:25] [Server thread/INFO]: Preparing level "world"
+[19:09:25] [Folia Async Scheduler Thread #2/WARN]: [SkinsRestorer] Failed to get release info from api.github.com. 
+ If this message is repeated a lot, please see https://skinsrestorer.net/firewall
+[19:09:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:09:26] [Server thread/INFO]: Preparing spawn area: 0%
+[19:09:26] [Server thread/INFO]: Preparing spawn area: 2%
+[19:09:27] [Server thread/INFO]: Preparing spawn area: 2%
+[19:09:27] [Server thread/INFO]: Time elapsed: 1386 ms
+[19:09:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:09:27] [Server thread/INFO]: Preparing spawn area: 0%
+[19:09:28] [Server thread/INFO]: Time elapsed: 463 ms
+[19:09:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:09:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:09:28] [Server thread/INFO]: Time elapsed: 148 ms
+[19:09:28] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
+[19:09:28] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[19:09:28] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
+[19:09:28] [Server thread/INFO]: [OpenInv] Enabling OpenInv v5.1.13
+[19:09:28] [Server thread/INFO]: [BattleLock] Enabling BattleLock v1.3
+[19:09:28] [Server thread/INFO]: [BattleLock] BattleLock has been enabled! Combat logging protection is now active.
+[19:09:28] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.1.0
+[19:09:28] [Server thread/INFO]: [ItemEditor] Reloading items.
+[19:09:28] [Server thread/INFO]: [ItemEditor] Loaded 1 items from storage.
+[19:09:28] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.4
+[19:09:28] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[19:09:28] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[19:09:28] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[19:09:28] [Server thread/INFO]: [ItemEdit] # Enabled (took 228 ms)
+[19:09:28] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[19:09:28] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[19:09:28] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[19:09:28] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[19:09:28] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[19:09:28] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[19:09:29] [Server thread/INFO]: [spark] Starting background profiler...
+[19:09:29] [Server thread/INFO]: Done preparing level "world" (3.840s)
+[19:09:29] [Server thread/INFO]: Running delayed init tasks
+[19:09:29] [Server thread/INFO]: Done (18.722s)! For help, type "help"
+[19:09:29] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:09:29] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[19:13:08] [User Authenticator #0/INFO]: UUID of player goku_8373 is fe95b3c0-17a3-3431-a9e6-d58168ed137a
+[19:13:08] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[19:13:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@4058a79e[id=fe95b3c0-17a3-3431-a9e6-d58168ed137a,name=goku_8373,properties={}] lost connection: Disconnected
+[19:13:11] [User Authenticator #0/INFO]: UUID of player goku_8373 is fe95b3c0-17a3-3431-a9e6-d58168ed137a
+[19:13:13] [Server thread/INFO]: goku_8373 joined the game
+[19:13:13] [Server thread/INFO]: goku_8373[/127.101.215.219:53905] logged in with entity id 140 at ([world]64.5, 300.0, 0.5)
+[19:13:27] [Server thread/INFO]: goku_8373 has made the advancement [Getting an Upgrade]
+[19:13:27] [Server thread/INFO]: goku_8373 has made the advancement [Ice Bucket Challenge]
+[19:13:27] [Server thread/INFO]: goku_8373 has made the advancement [Cover Me with Diamonds]
+[19:13:27] [Server thread/INFO]: goku_8373 has made the advancement [Isn't It Iron Pick]
+[19:13:27] [Server thread/INFO]: goku_8373 has made the advancement [Diamonds!]
+[19:13:27] [Server thread/INFO]: goku_8373 has made the advancement [Acquire Hardware]
+[19:15:07] [Server thread/INFO]: goku_8373 was slain by Campaign Soldier using [Midas Sword]
+[19:15:11] [Server thread/INFO]: goku_8373 lost connection: Disconnected
+[19:15:11] [Server thread/INFO]: goku_8373 left the game

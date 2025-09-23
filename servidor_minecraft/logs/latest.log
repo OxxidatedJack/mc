@@ -165,3 +165,8 @@
 [19:54:28] [Server thread/INFO]: goku_8373[/127.101.215.219:43513] logged in with entity id 3273 at ([world]78.41422917890921, 67.0, 17.22167955237812)
 [19:54:35] [Server thread/INFO]: goku_8373 lost connection: Disconnected
 [19:54:35] [Server thread/INFO]: goku_8373 left the game
+[20:04:16] [Server thread/INFO]: localhoster0 lost connection: Timed out
+[20:04:16] [Server thread/INFO]: localhoster0 [Founder] left the game
+[20:09:02] [User Authenticator #4/INFO]: UUID of player eduardo16 is 6bf9f88b-eff1-3997-85fc-7194b9abed53
+[20:09:05] [Server thread/INFO]: [Principality Infernal] eduardo16 joined the game
+[20:09:05] [Server thread/INFO]: eduardo16[/127.255.116.70:34683] logged in with entity id 3356 at ([world]6043.423739253536, 101.0, 4691.058674636555)

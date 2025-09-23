@@ -122,3 +122,28 @@
 [19:15:07] [Server thread/INFO]: goku_8373 was slain by Campaign Soldier using [Midas Sword]
 [19:15:11] [Server thread/INFO]: goku_8373 lost connection: Disconnected
 [19:15:11] [Server thread/INFO]: goku_8373 left the game
+[19:21:52] [Server thread/INFO]: Made localhoster0 a server operator
+[19:22:46] [User Authenticator #1/INFO]: UUID of player zDreamz__ is eccc8e56-bf55-316c-bf4f-f58c0c7c74b9
+[19:22:47] [Server thread/INFO]: [Kingdom of Genesis] zDreamz__ joined the game
+[19:22:47] [Server thread/INFO]: zDreamz__[/127.229.114.13:44609] logged in with entity id 1006 at ([world]73.10892607308992, 64.5625, 3912.789046524009)
+[19:24:00] [Server thread/INFO]: zDreamz__ lost connection: Disconnected
+[19:24:00] [Server thread/INFO]: [Kingdom of Genesis] zDreamz__ left the game
+[19:25:11] [User Authenticator #2/INFO]: UUID of player localhoster0 is e61d8aa2-2aeb-3508-8960-31be7edb1faa
+[19:25:12] [Server thread/INFO]: localhoster0 joined the game
+[19:25:12] [Server thread/INFO]: localhoster0[/127.115.99.248:59423] logged in with entity id 1322 at ([world]64.5, 300.0, 0.5)
+[19:25:16] [Server thread/INFO]: localhoster0 has made the advancement [Cover Me with Diamonds]
+[19:25:16] [Server thread/INFO]: localhoster0 has made the advancement [Acquire Hardware]
+[19:25:16] [Server thread/INFO]: localhoster0 has made the advancement [Isn't It Iron Pick]
+[19:25:16] [Server thread/INFO]: localhoster0 has made the advancement [Getting an Upgrade]
+[19:25:30] [Server thread/INFO]: localhoster0 issued server command: /cler
+[19:25:32] [Server thread/INFO]: localhoster0 issued server command: /clear
+[19:25:32] [Server thread/INFO]: [localhoster0: Removed 105 item(s) from player localhoster0]
+[19:25:32] [Server thread/INFO]: [localhoster0: Set own game mode to Creative Mode]
+[19:25:41] [Server thread/INFO]: localhoster0 issued server command: /team join op-a localhoster0
+[19:25:41] [Server thread/INFO]: [localhoster0: Added localhoster0 [Admin] to team [op-a]]
+[19:25:46] [Server thread/INFO]: localhoster0 issued server command: /team join op-f localhoster0
+[19:25:46] [Server thread/INFO]: [localhoster0 [Admin]: Added localhoster0 [Founder] to team [op-f]]
+[19:26:46] [Server thread/INFO]: localhoster0 [Founder] has made the advancement [Ice Bucket Challenge]
+[19:26:50] [Server thread/INFO]: localhoster0 [Founder] has made the advancement [Diamonds!]
+[19:28:09] [Server thread/INFO]: localhoster0 issued server command: /skin search notch
+[19:28:15] [Server thread/INFO]: localhoster0 issued server command: /skin set notch
